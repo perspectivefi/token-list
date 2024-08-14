@@ -578,7 +578,8 @@
         "logoURI": "/images/tokens/farm-apw-eth.svg",
         "extensions": {
             "underlying": "0x093254005743b7af89e24f645730ba2dd8441333",
-            "protocol": "Harvest (Balancer)"
+            "protocol": "Harvest (Balancer)",
+            "externalLink": "https://app.harvest.finance/ethereum/0x33D7E5827eB62628c093D88aC2531ddaC6f6E396"
         }
     },
     {

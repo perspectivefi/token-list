@@ -15,7 +15,7 @@
         "name": "Karak XP"
       },
       {
-        "amount": 3,
+        "amount": 2,
         "name": "Ether.fi Points"
       },
       {
@@ -129,6 +129,14 @@
       {
         "amount": 1,
         "name": "Symbiotic Points"
+      },
+      {
+        "amount": 1,
+        "name": "Zircuit L2 Points"
+      },
+      {
+        "amount": 1,
+        "name": "Swell L2 Points"
       }
     ]
   },
@@ -155,9 +163,9 @@
     "protocolName": "Kernel",
     "bgUrl": "/images/textures/kernelBackground.svg",
     "token": {
-      "symbol": "ksETH",
-      "logoURI": "/images/tokens/ksETH.png",
-      "underlying": "ksETH"
+      "symbol": "krETH",
+      "logoURI": "/images/tokens/krETH.png",
+      "underlying": "krETH"
     },
     "multipliers": [
       {

@@ -548,5 +548,45 @@
         "symbol": "OGN",
         "decimals": 18,
         "logoURI": "/images/tokens/ogn.svg"
+    },
+    {
+        "chainId": 1,
+        "address": "0xe1b4d34e8754600962cd944b535180bd758e6c2e",
+        "name": "Kelp Gain",
+        "symbol": "agETH",
+        "decimals": 18,
+        "logoURI": "/images/tokens/agETH.svg",
+        "extensions": {
+            "underlying": "0xa1290d69c65a6fe4df752f95823fae25cb99e5a7",
+            "protocol": "KelpDAO (Airdrop Gains)"
+        }
+    },
+    {
+        "chainId": 1,
+        "address": "0xa1290d69c65a6fe4df752f95823fae25cb99e5a7",
+        "name": "rsETH",
+        "symbol": "rsETH",
+        "decimals": 18,
+        "logoURI": "/images/tokens/rsETH.svg"
+    },
+    {
+        "chainId": 1,
+        "address": "0x33d7e5827eb62628c093d88ac2531ddac6f6e396",
+        "name": "FARM-APW/ETH",
+        "symbol": "FARM-APW/ETH",
+        "decimals": 18,
+        "logoURI": "/images/tokens/farm-apw-eth.svg",
+        "extensions": {
+            "underlying": "0x093254005743b7af89e24f645730ba2dd8441333",
+            "protocol": "Harvest (Balancer)"
+        }
+    },
+    {
+        "chainId": 1,
+        "address": "0x093254005743b7af89e24f645730ba2dd8441333",
+        "name": "APW/ETH",
+        "symbol": "APW/ETH",
+        "decimals": 18,
+        "logoURI": "/images/tokens/apw-eth.svg"
     }
 ]

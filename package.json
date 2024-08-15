@@ -3,11 +3,13 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {
-    "gen:4626-token-list": "SCRIPT=true npx bun run ./src/scripts/compileERC4626TokenList/index.ts",
-    "gen:purge-token-list": "SCRIPT=true npx bun run ./src/scripts/purgeTokenList/index.ts"
-  },
-  "keywords": [],
+  "keywords": [
+    "spectral",
+    "token",
+    "list",
+    "schema",
+    "protocol"
+  ],
   "author": "",
   "license": "ISC",
   "dependencies": {

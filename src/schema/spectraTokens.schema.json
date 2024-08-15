@@ -30,6 +30,9 @@
         "type": "integer",
         "minimum": 1,
         "maximum": 18
+      },
+      "logoURI": {
+        "type": "string"
       }
     }
   }

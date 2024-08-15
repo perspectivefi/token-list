@@ -48,23 +48,26 @@
         }
       },
       "multipliers": {
-        "type": "object",
-        "minimum": 1,
-        "maximum": 1000
+        "type": "array",
+        "items": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "amount",
+            "name"
+          ],
+          "properties": {
+            "amount": {
+              "type": "number",
+              "minimum": 1,
+              "maximum": 1000
+            },
+            "name": {
+              "type": "string"
+            }
+          }
+        }
       }
-    },
-    "multipliers": [
-      {
-        "amount": 1.5,
-        "name": "Karak XP"
-      },
-      {
-        "amount": 2,
-        "name": "Ether.fi Points"
-      },
-      {
-        "amount": 1,
-        "name": "EigenLayer Points"
-      }
-    ]
+    }
   }
+}

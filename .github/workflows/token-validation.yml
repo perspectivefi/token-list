@@ -9,8 +9,9 @@ jobs:
         uses: actions/checkout@v2
         with:
           ref: ${{ github.head_ref }}
+
       - name: Validate Spectra Tokens
         uses: docker://orrosenblatt/validate-json-action:latest
         env:
-          INPUT_SCHEMA: ./src/schema/spectra-tokens.schema.json
-          INPUT_JSONS: ./src/tokens/spectra-tokens.json, ./src/tokens/erc4626Wrappers.json
+          INPUT_SCHEMA: schema/spectra-tokens.schema.json
+          INPUT_JSONS: tokens/spectra-tokens.json, src/tokens/erc4626Wrappers.json

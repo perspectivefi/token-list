@@ -1,593 +1,595 @@
 [
-    {
-        "chainId": 1,
-        "address": "0x4104b135dbc9609fc1a9490e61369036497660c8",
-        "name": "Spectra",
-        "symbol": "APW",
-        "decimals": 18,
-        "logoURI": "/images/tokens/apw.svg"
-    },
-    {
-        "chainId": 1,
-        "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
-        "name": "USDC",
-        "symbol": "USDC",
-        "decimals": 6,
-        "logoURI": "/images/tokens/usdc.png"
-    },
-    {
-        "chainId": 1,
-        "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
-        "name": "Ether",
-        "symbol": "ETH",
-        "decimals": 18,
-        "logoURI": "/images/tokens/eth.svg"
-    },
-    {
-        "chainId": 11155111,
-        "address": "0x6C5235a3FdF46A07EabC0CDDf0234D67D189CD87",
-        "name": "DAI",
-        "symbol": "DAI",
-        "decimals": 18,
-        "logoURI": "/images/tokens/dai.svg",
-        "extensions": {
-            "faucetAddress": "0x400455dd14e0B52b280A5178cA1329a267FaC5C6"
-        }
-    },
-    {
-        "chainId": 11155111,
-        "address": "0x5bae48a51253630173e0c53C0643737Cca49c2D5",
-        "name": "Spectra DAI",
-        "symbol": "sDAI",
-        "decimals": 18,
-        "logoURI": "/images/tokens/sDAI.svg",
-        "extensions": {
-            "aprEndpoint": "https://mock.endpoint.com/ibt-apr",
-            "faucetAddress": "0x400455dd14e0B52b280A5178cA1329a267FaC5C6",
-            "underlying": "0x6C5235a3FdF46A07EabC0CDDf0234D67D189CD87"
-        }
-    },
-    {
-        "chainId": 11155111,
-        "address": "0x0372cE7418865080D82d0B6677a692a2c045e4D3",
-        "name": "USDT",
-        "symbol": "USDT",
-        "decimals": 18,
-        "logoURI": "/images/tokens/tether.svg",
-        "extensions": {
-            "faucetAddress": "0xBCCa8F90f220857Bd9f973f6DF3e0dBd667C8E19"
-        }
-    },
-    {
-        "chainId": 11155111,
-        "address": "0xD7fd5213B94Cb3B2BBFdeDf5fB5Ac7b5644552b1",
-        "name": "Spectra USDT",
-        "symbol": "sUSDT",
-        "decimals": 18,
-        "logoURI": "/images/tokens/tether.svg",
-        "extensions": {
-            "faucetAddress": "0xBCCa8F90f220857Bd9f973f6DF3e0dBd667C8E19",
-            "underlying": "0x0372cE7418865080D82d0B6677a692a2c045e4D3"
-        }
-    },
-    {
-        "chainId": 11155111,
-        "address": "0xA7e2FCc6E2e9eA6e24D8e5f62586Cc6466244e2F",
-        "name": "BTC",
-        "symbol": "BTC",
-        "decimals": 18,
-        "logoURI": "/images/tokens/btc.png",
-        "extensions": {
-            "faucetAddress": "0xA62BA1b39bD9d95c29E3D30548Da425195dc2aa9"
-        }
-    },
-    {
-        "chainId": 11155111,
-        "address": "0x4711BE390EcE629254192393fEE52595A4d733C9",
-        "name": "Spectra BTC",
-        "symbol": "sBTC",
-        "decimals": 18,
-        "logoURI": "/images/tokens/btc.png",
-        "extensions": {
-            "faucetAddress": "0xA62BA1b39bD9d95c29E3D30548Da425195dc2aa9",
-            "underlying": "0xA7e2FCc6E2e9eA6e24D8e5f62586Cc6466244e2F"
-        }
-    },
-    {
-        "chainId": 11155111,
-        "address": "0x7F1ca0535F6f44Dc443a1C67001920338e50DBeE",
-        "name": "ETH",
-        "symbol": "ETH",
-        "decimals": 18,
-        "logoURI": "/images/tokens/eth.svg",
-        "extensions": {
-            "faucetAddress": "0xCc88435299eb800b5C34E3C68b309D3ed8FA820C"
-        }
-    },
-    {
-        "chainId": 11155111,
-        "address": "0x4Ef8941Ed563b1CA5D126b02fD4C0f103F7cd46c",
-        "name": "Spectra ETH",
-        "symbol": "sETH",
-        "decimals": 18,
-        "logoURI": "/images/tokens/eth.svg",
-        "extensions": {
-            "faucetAddress": "0xCc88435299eb800b5C34E3C68b309D3ed8FA820C",
-            "underlying": "0x7F1ca0535F6f44Dc443a1C67001920338e50DBeE"
-        }
-    },
-    {
-        "chainId": 11155111,
-        "address": "0x14Ed4B6D2FCcE4301D19f52171Db9dA20FB04308",
-        "name": "eUSDC",
-        "symbol": "eUSDC",
-        "decimals": 6,
-        "logoURI": "/images/tokens/usdc.png",
-        "extensions": {
-            "faucetAddress": "0x7Dc0CAB183F58c8885312a7ffdA418c57148802D"
-        }
-    },
-    {
-        "chainId": 11155111,
-        "address": "0x494AbFf3Da6af489F8F18048c161b380d88BB5f5",
-        "name": "Spectra eUSDC",
-        "symbol": "seUSDC",
-        "decimals": 6,
-        "logoURI": "/images/tokens/usdc.png",
-        "extensions": {
-            "faucetAddress": "0x7Dc0CAB183F58c8885312a7ffdA418c57148802D",
-            "underlying": "0x14Ed4B6D2FCcE4301D19f52171Db9dA20FB04308"
-        }
-    },
-    {
-        "chainId": 11155111,
-        "address": "0x1798A5257AD9984C6728431102995b5B9d6a14F5",
-        "name": "eUSDT",
-        "symbol": "eUSDT",
-        "decimals": 6,
-        "logoURI": "/images/tokens/tether.svg",
-        "extensions": {
-            "faucetAddress": "0x0A1C396a157AB6B3EDCf5BC4216784BAa4Ba2dd7"
-        }
-    },
-    {
-        "chainId": 11155111,
-        "address": "0x1e23089A9122cA256C1f6bdA52279eF35A9e5994",
-        "name": "Spectra seUSDT",
-        "symbol": "seUSDT",
-        "decimals": 18,
-        "logoURI": "/images/tokens/tether.svg",
-        "extensions": {
-            "faucetAddress": "0x0A1C396a157AB6B3EDCf5BC4216784BAa4Ba2dd7",
-            "underlying": "0x1798A5257AD9984C6728431102995b5B9d6a14F5"
-        }
-    },
-    {
-        "address": "0x2dabcea55a12d73191aece59f508b191fb68adac",
-        "chainId": 1,
-        "name": "Karak - Wrapped eETH",
-        "symbol": "KweETH",
-        "decimals": 18,
-        "logoURI": "/images/tokens/weETH.svg",
-        "extensions": {
-            "underlying": "0xcd5fe23c85820f7b72d0926fc9b05b43e359b7ee",
-            "ibtRoutes": {
-                "deposit": false,
-                "mint": false,
-                "withdraw": false,
-                "redeem": false
-            },
-            "protocol": "Karak"
-        }
-    },
-    {
-        "chainId": 1,
-        "address": "0x0022228a2cc5e7ef0274a7baa600d44da5ab5776",
-        "name": "Angle Staked USDA",
-        "symbol": "stUSD",
-        "decimals": 18,
-        "logoURI": "/images/tokens/stUSD.svg",
-        "extensions": {
-            "protocol": "Angle"
-        }
-    },
-    {
-        "chainId": 42161,
-        "address": "0x0000206329b97db379d5e1bf586bbdb969c63274",
-        "name": "USDA",
-        "symbol": "USDA",
-        "decimals": 18,
-        "logoURI": "/images/tokens/USDA.svg"
-    },
-    {
-        "chainId": 42161,
-        "address": "0x0022228a2cc5e7ef0274a7baa600d44da5ab5776",
-        "name": "Angle Staked USDA",
-        "symbol": "stUSD",
-        "decimals": 18,
-        "logoURI": "/images/tokens/stUSD.svg",
-        "extensions": {
-            "underlying": "0x0000206329b97db379d5e1bf586bbdb969c63274",
-            "protocol": "Angle"
-        }
-    },
-    {
-        "chainId": 1,
-        "address": "0x0000206329b97db379d5e1bf586bbdb969c63274",
-        "name": "USDA",
-        "symbol": "USDA",
-        "decimals": 18,
-        "logoURI": "/images/tokens/USDA.svg"
-    },
-    {
-        "chainId": 1,
-        "address": "0x40d16fc0246ad3160ccc09b8d0d3a2cd28ae6c2f",
-        "name": "GHO",
-        "symbol": "GHO",
-        "decimals": 18,
-        "logoURI": "/images/tokens/gho.svg"
-    },
-    {
-        "chainId": 1,
-        "address": "0xa8258deE2a677874a48F5320670A869D74f0cbC1",
-        "name": "Warlord Token",
-        "symbol": "WAR",
-        "decimals": 18,
-        "logoURI": "/images/tokens/war.svg",
-        "extensions": {
-            "underlying": "0x2fc1E74BC8A6D15fE768c10C2EDe7D6d95ec27e9",
-            "protocol": "Paladin"
-        }
-    },
-    {
-        "chainId": 1,
-        "address": "0x2fc1e74bc8a6d15fe768c10c2ede7d6d95ec27e9",
-        "name": "Tholgar Warlord Vault",
-        "symbol": "thWAR",
-        "decimals": 18,
-        "logoURI": "/images/tokens/thwar.png",
-        "extensions": {
-            "underlying": "0xa8258deE2a677874a48F5320670A869D74f0cbC1",
-            "protocol": "Tholgar"
-        }
-    },
-    {
-        "chainId": 42161,
-        "address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
-        "name": "Dai Stablecoin",
-        "symbol": "DAI",
-        "decimals": 18,
-        "logoURI": "/images/tokens/dai.svg"
-    },
-    {
-        "chainId": 42161,
-        "address": "0xd85e038593d7a098614721eae955ec2022b9b91b",
-        "name": "Gains Network DAI",
-        "symbol": "gDAI",
-        "decimals": 18,
-        "logoURI": "/images/tokens/gdai.webp",
-        "extensions": {
-            "underlying": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
-            "protocol": "Gains",
-            "ibtRoutes": {
-                "withdraw": false,
-                "redeem": false
-            }
-        }
-    },
-    {
-        "chainId": 1,
-        "address": "0x43e54c2e7b3e294de3a155785f52ab49d87b9922",
-        "name": "Aladdin sdCRV",
-        "symbol": "asdCRV",
-        "decimals": 18,
-        "logoURI": "/images/tokens/asdcrv.png",
-        "extensions": {
-            "underlying": "0xD1b5651E55D4CeeD36251c61c50C889B36F6abB5",
-            "protocol": "Aladdin"
-        }
-    },
-    {
-        "chainId": 1,
-        "address": "0x856c4Efb76C1D1AE02e20CEB03A2A6a08b0b8dC3",
-        "name": "Origin Ether",
-        "symbol": "OETH",
-        "decimals": 18,
-        "logoURI": "/images/tokens/oeth.png"
-    },
-    {
-        "chainId": 1,
-        "address": "0xdcee70654261af21c44c093c300ed3bb97b78192",
-        "name": "Wrapped OETH",
-        "symbol": "WOETH",
-        "decimals": 18,
-        "logoURI": "/images/tokens/woeth.png",
-        "extensions": {
-            "underlying": "0x856c4Efb76C1D1AE02e20CEB03A2A6a08b0b8dC3",
-            "protocol": "Origin"
-        }
-    },
-    {
-        "chainId": 1,
-        "address": "0x07D1718fF05a8C53C8F05aDAEd57C0d672945f9a",
-        "name": "Aladdin rUSD",
-        "symbol": "arUSD",
-        "decimals": 18,
-        "logoURI": "/images/tokens/arUSD.svg",
-        "extensions": {
-            "underlying": "0x65d72aa8da931f047169112fcf34f52dbaae7d18",
-            "protocol": "f(x) protocol"
-        }
-    },
-    {
-        "chainId": 1,
-        "address": "0x5fD13359Ba15A84B76f7F87568309040176167cd",
-        "name": "Amphor Restaked ETH",
-        "symbol": "amphrETH",
-        "decimals": 18,
-        "logoURI": "/images/tokens/amphrETH.svg"
-    },
-    {
-        "chainId": 1,
-        "address": "0x06824C27C8a0DbDe5F72f770eC82e3c0FD4DcEc3",
-        "name": "Amphor Symbiotic LRT (WSTETH)",
-        "symbol": "amphrLRT",
-        "decimals": 18,
-        "logoURI": "/images/tokens/amphrLRT.png",
-        "extensions": {
-            "underlying": "0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0",
-            "ibtRoutes": {
-                "withdraw": false,
-                "redeem": false
-            }
-        }
-    },
-    {
-        "chainId": 42161,
-        "address": "0x24174022D382CD155C33A847404cDA5Bc7978802",
-        "name": "Farm WBTC",
-        "symbol": "fWBTC",
-        "decimals": 8,
-        "logoURI": "/images/tokens/fWBTC.svg",
-        "extensions": {
-            "negativeYield": true,
-            "underlying": "0x2f2a2543b76a4166549f7aab2e75bef0aefc5b0f",
-            "protocol": "Harvest"
-        }
-    },
-    {
-        "chainId": 1,
-        "address": "0x65d72aa8da931f047169112fcf34f52dbaae7d18",
-        "name": "f(x) rUSD",
-        "symbol": "rUSD",
-        "decimals": 18,
-        "logoURI": "/images/tokens/rUSD.svg"
-    },
-    {
-        "chainId": 42161,
-        "address": "0xdfd2214236b60fc0485288c959cb07da4f6a15f7",
-        "name": "FARM_DAI",
-        "symbol": "fDAI",
-        "decimals": 18,
-        "logoURI": "/images/tokens/fDAI.svg",
-        "extensions": {
-            "underlying": "0xda10009cbd5d07dd0cecc66161fc93d7c9000da1",
-            "protocol": "Harvest"
-        }
-    },
-    {
-        "chainId": 42161,
-        "address": "0xaf88d065e77c8cc2239327c5edb3a432268e5831",
-        "name": "USD Coin",
-        "symbol": "USDC",
-        "decimals": 6,
-        "logoURI": "/images/tokens/usdc.svg"
-    },
-    {
-        "chainId": 42161,
-        "address": "0x6faf8b7ffee3306efcfc2ba9fec912b4d49834c1",
-        "name": "USDC-A yVault",
-        "symbol": "yvUSDC-A",
-        "decimals": 6,
-        "logoURI": "/images/tokens/usdc.svg",
-        "extensions": {
-            "underlying": "0xaf88d065e77c8cc2239327c5edb3a432268e5831",
-            "protocol": "Yearn"
-        }
-    },
-    {
-        "chainId": 42161,
-        "address": "0x2f2a2543b76a4166549f7aab2e75bef0aefc5b0f",
-        "name": "Wrapped BTC",
-        "symbol": "WBTC",
-        "decimals": 8,
-        "logoURI": "/images/tokens/wbtc.svg"
-    },
-    {
-        "chainId": 42161,
-        "address": "0x7dff72693f6a4149b17e7c6314655f6a9f7c8b33",
-        "name": "Gho Token",
-        "symbol": "GHO",
-        "decimals": 18,
-        "logoURI": "/images/tokens/gho.svg"
-    },
-    {
-        "chainId": 42161,
-        "address": "0x85050bedc80ea28e53db5f80f165d87f29d2a1bc",
-        "decimals": 18,
-        "name": "FARM_GHO",
-        "symbol": "fGHO",
-        "logoURI": "/images/tokens/fGHO.svg",
-        "extensions": {
-            "underlying": "0x7dff72693f6a4149b17e7c6314655f6a9f7c8b33",
-            "protocol": "Harvest"
-        }
-    },
-    {
-        "chainId": 1,
-        "address": "0x8668a15b7b023dc77b372a740fcb8939e15257cf",
-        "decimals": 18,
-        "name": "Asymmetry Finance afCVX",
-        "symbol": "afCVX",
-        "logoURI": "/images/tokens/AFCVX.svg",
-        "extensions": {
-            "underlying": "0x4e3fbd56cd56c3e72c1403e103b45db9da5b9d2b",
-            "protocol": "Asymmetry"
-        }
-    },
-    {
-        "chainId": 42161,
-        "address": "0x02Ab76B19944BdEc4d4c612468bB6aF3AC76B15D",
-        "decimals": 18,
-        "name": "FARM_LP-WETH",
-        "symbol": "fLP-WETH",
-        "extensions": {
-            "underlying": "0xe62880cc6872c9e9fb1ddd73f400850fdabe798d",
-            "protocol": "Harvest"
-        }
-    },
-    {
-        "chainId": 42161,
-        "address": "0xe62880cc6872c9e9fb1ddd73f400850fdabe798d",
-        "decimals": 18,
-        "name": "Wombat Wrapped Ether Asset",
-        "symbol": "LP-WETH"
-    },
-    {
-        "chainId": 42161,
-        "address": "0x7C11F78Ce78768518D743E81Fdfa2F860C6b9A77",
-        "name": "GMX Market gmBTC",
-        "symbol": "gmBTC",
-        "decimals": 18,
-        "logoURI": "/images/tokens/gmBTC.svg"
-    },
-    {
-        "chainId": 10,
-        "address": "0x64831f82e3543006413897c03f59518cecae02b4",
-        "name": "Reward Cow Velo Op ezETH-wstETH",
-        "symbol": "ezETH-wstETH [CLM Pool]",
-        "decimals": 18,
-        "logoURI": "/images/tokens/beefy.svg"
-    },
-    {
-        "chainId": 8453,
-        "address": "0x0b0193fad49de45f5e2b0a9f5d6bc3bb7d281688",
-        "name": "FARM_WETH",
-        "symbol": "fWETH",
-        "decimals": 18,
-        "logoURI": "/images/tokens/fweth.svg",
-        "extensions": {
-            "underlying": "0x4200000000000000000000000000000000000006",
-            "protocol": "Harvest (Moonwell)"
-        }
-    },
-    {
-        "chainId": 8453,
-        "address": "0x4200000000000000000000000000000000000006",
-        "name": "Wrapped Ether",
-        "symbol": "wETH",
-        "decimals": 18,
-        "logoURI": "/images/tokens/weth.svg"
-    },
-    {
-        "chainId": 42161,
-        "address": "0x710a1ab6cb8412de9613ad6c7195453ce8b5ca71",
-        "name": "FARM_LODE",
-        "symbol": "fLODE",
-        "decimals": 18,
-        "logoURI": "/images/tokens/flode.svg",
-        "extensions": {
-            "underlying": "0xf19547f9ed24aa66b03c3a552d181ae334fbb8db",
-            "protocol": "Harvest (Lodestar)"
-        }
-    },
-    {
-        "chainId": 42161,
-        "address": "0xf19547f9ed24aa66b03c3a552d181ae334fbb8db",
-        "name": "Lodestar",
-        "symbol": "LODE",
-        "decimals": 18,
-        "logoURI": "/images/tokens/lode.svg"
-    },
-    {
-        "chainId": 8453,
-        "address": "0x04C0599Ae5A44757c0af6F9eC3b93da8976c150A",
-        "name": "Wrapped eETH",
-        "symbol": "weETH",
-        "decimals": 18,
-        "logoURI": "/images/tokens/weETH.svg"
-    },
-    {
-        "chainId": 1,
-        "address": "0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
-        "name": "Aave",
-        "symbol": "AAVE",
-        "decimals": 18,
-        "logoURI": "/images/tokens/aave.webp"
-    },
-    {
-        "chainId": 1,
-        "address": "0xb50721bcf8d664c30412cfbc6cf7a15145234ad1",
-        "name": "Arbitrum",
-        "symbol": "ARB",
-        "decimals": 18,
-        "logoURI": "/images/tokens/arbitrum.png"
-    },
-    {
-        "chainId": 1,
-        "address": "0xa0246c9032bc3a600820415ae600c6388619a14d",
-        "name": "Harvest Finance",
-        "symbol": "FARM",
-        "decimals": 18,
-        "logoURI": "/images/tokens/farm.webp"
-    },
-    {
-        "chainId": 1,
-        "address": "0x8207c1ffc5b6804f6024322ccf34f29c3541ae26",
-        "name": "Origin Protocol",
-        "symbol": "OGN",
-        "decimals": 18,
-        "logoURI": "/images/tokens/ogn.svg"
-    },
-    {
-        "chainId": 1,
-        "address": "0xe1b4d34e8754600962cd944b535180bd758e6c2e",
-        "name": "Kelp Gain",
-        "symbol": "agETH",
-        "decimals": 18,
-        "logoURI": "/images/tokens/agETH.svg",
-        "extensions": {
-            "underlying": "0xa1290d69c65a6fe4df752f95823fae25cb99e5a7",
-            "protocol": "KelpDAO (Airdrop Gains)"
-        }
-    },
-    {
-        "chainId": 1,
-        "address": "0xa1290d69c65a6fe4df752f95823fae25cb99e5a7",
-        "name": "rsETH",
-        "symbol": "rsETH",
-        "decimals": 18,
-        "logoURI": "/images/tokens/rsETH.svg"
-    },
-    {
-        "chainId": 1,
-        "address": "0x33d7e5827eb62628c093d88ac2531ddac6f6e396",
-        "name": "FARM-APW/ETH",
-        "symbol": "FARM-APW/ETH",
-        "decimals": 18,
-        "logoURI": "/images/tokens/farm-apw-eth.svg",
-        "extensions": {
-            "underlying": "0x093254005743b7af89e24f645730ba2dd8441333",
-            "protocol": "Harvest (Balancer)",
-            "externalLink": "https://app.harvest.finance/ethereum/0x33D7E5827eB62628c093D88aC2531ddaC6f6E396"
-        }
-    },
-    {
-        "chainId": 1,
-        "address": "0x093254005743b7af89e24f645730ba2dd8441333",
-        "name": "APW/ETH",
-        "symbol": "APW/ETH",
-        "decimals": 18,
-        "logoURI": "/images/tokens/apw-eth.svg"
+  {
+    "chainId": 1,
+    "address": "0x4104b135dbc9609fc1a9490e61369036497660c8",
+    "name": "Spectra",
+    "symbol": "APW",
+    "decimals": 18,
+    "logoURI": "/images/tokens/apw.svg"
+  },
+  {
+    "chainId": 1,
+    "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+    "name": "USDC",
+    "symbol": "USDC",
+    "decimals": 6,
+    "logoURI": "/images/tokens/usdc.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18,
+    "logoURI": "/images/tokens/eth.svg"
+  },
+  {
+    "chainId": 11155111,
+    "address": "0x6C5235a3FdF46A07EabC0CDDf0234D67D189CD87",
+    "name": "DAI",
+    "symbol": "DAI",
+    "decimals": 18,
+    "logoURI": "/images/tokens/dai.svg",
+    "extensions": {
+      "faucetAddress": "0x400455dd14e0B52b280A5178cA1329a267FaC5C6"
     }
+  },
+  {
+    "chainId": 11155111,
+    "address": "0x5bae48a51253630173e0c53C0643737Cca49c2D5",
+    "name": "Spectra DAI",
+    "symbol": "sDAI",
+    "decimals": 18,
+    "logoURI": "/images/tokens/sDAI.svg",
+    "extensions": {
+      "aprEndpoint": "https://mock.endpoint.com/ibt-apr",
+      "faucetAddress": "0x400455dd14e0B52b280A5178cA1329a267FaC5C6",
+      "underlying": "0x6C5235a3FdF46A07EabC0CDDf0234D67D189CD87"
+    }
+  },
+  {
+    "chainId": 11155111,
+    "address": "0x0372cE7418865080D82d0B6677a692a2c045e4D3",
+    "name": "USDT",
+    "symbol": "USDT",
+    "decimals": 18,
+    "logoURI": "/images/tokens/tether.svg",
+    "extensions": {
+      "faucetAddress": "0xBCCa8F90f220857Bd9f973f6DF3e0dBd667C8E19"
+    }
+  },
+  {
+    "chainId": 11155111,
+    "address": "0xD7fd5213B94Cb3B2BBFdeDf5fB5Ac7b5644552b1",
+    "name": "Spectra USDT",
+    "symbol": "sUSDT",
+    "decimals": 18,
+    "logoURI": "/images/tokens/tether.svg",
+    "extensions": {
+      "faucetAddress": "0xBCCa8F90f220857Bd9f973f6DF3e0dBd667C8E19",
+      "underlying": "0x0372cE7418865080D82d0B6677a692a2c045e4D3"
+    }
+  },
+  {
+    "chainId": 11155111,
+    "address": "0xA7e2FCc6E2e9eA6e24D8e5f62586Cc6466244e2F",
+    "name": "BTC",
+    "symbol": "BTC",
+    "decimals": 18,
+    "logoURI": "/images/tokens/btc.png",
+    "extensions": {
+      "faucetAddress": "0xA62BA1b39bD9d95c29E3D30548Da425195dc2aa9"
+    }
+  },
+  {
+    "chainId": 11155111,
+    "address": "0x4711BE390EcE629254192393fEE52595A4d733C9",
+    "name": "Spectra BTC",
+    "symbol": "sBTC",
+    "decimals": 18,
+    "logoURI": "/images/tokens/btc.png",
+    "extensions": {
+      "faucetAddress": "0xA62BA1b39bD9d95c29E3D30548Da425195dc2aa9",
+      "underlying": "0xA7e2FCc6E2e9eA6e24D8e5f62586Cc6466244e2F"
+    }
+  },
+  {
+    "chainId": 11155111,
+    "address": "0x7F1ca0535F6f44Dc443a1C67001920338e50DBeE",
+    "name": "ETH",
+    "symbol": "ETH",
+    "decimals": 18,
+    "logoURI": "/images/tokens/eth.svg",
+    "extensions": {
+      "faucetAddress": "0xCc88435299eb800b5C34E3C68b309D3ed8FA820C"
+    }
+  },
+  {
+    "chainId": 11155111,
+    "address": "0x4Ef8941Ed563b1CA5D126b02fD4C0f103F7cd46c",
+    "name": "Spectra ETH",
+    "symbol": "sETH",
+    "decimals": 18,
+    "logoURI": "/images/tokens/eth.svg",
+    "extensions": {
+      "faucetAddress": "0xCc88435299eb800b5C34E3C68b309D3ed8FA820C",
+      "underlying": "0x7F1ca0535F6f44Dc443a1C67001920338e50DBeE"
+    }
+  },
+  {
+    "chainId": 11155111,
+    "address": "0x14Ed4B6D2FCcE4301D19f52171Db9dA20FB04308",
+    "name": "eUSDC",
+    "symbol": "eUSDC",
+    "decimals": 6,
+    "logoURI": "/images/tokens/usdc.png",
+    "extensions": {
+      "faucetAddress": "0x7Dc0CAB183F58c8885312a7ffdA418c57148802D"
+    }
+  },
+  {
+    "chainId": 11155111,
+    "address": "0x494AbFf3Da6af489F8F18048c161b380d88BB5f5",
+    "name": "Spectra eUSDC",
+    "symbol": "seUSDC",
+    "decimals": 6,
+    "logoURI": "/images/tokens/usdc.png",
+    "extensions": {
+      "faucetAddress": "0x7Dc0CAB183F58c8885312a7ffdA418c57148802D",
+      "underlying": "0x14Ed4B6D2FCcE4301D19f52171Db9dA20FB04308"
+    }
+  },
+  {
+    "chainId": 11155111,
+    "address": "0x1798A5257AD9984C6728431102995b5B9d6a14F5",
+    "name": "eUSDT",
+    "symbol": "eUSDT",
+    "decimals": 6,
+    "logoURI": "/images/tokens/tether.svg",
+    "extensions": {
+      "faucetAddress": "0x0A1C396a157AB6B3EDCf5BC4216784BAa4Ba2dd7"
+    }
+  },
+  {
+    "chainId": 11155111,
+    "address": "0x1e23089A9122cA256C1f6bdA52279eF35A9e5994",
+    "name": "Spectra seUSDT",
+    "symbol": "seUSDT",
+    "decimals": 18,
+    "logoURI": "/images/tokens/tether.svg",
+    "extensions": {
+      "faucetAddress": "0x0A1C396a157AB6B3EDCf5BC4216784BAa4Ba2dd7",
+      "underlying": "0x1798A5257AD9984C6728431102995b5B9d6a14F5"
+    }
+  },
+  {
+    "address": "0x2dabcea55a12d73191aece59f508b191fb68adac",
+    "chainId": 1,
+    "name": "Karak - Wrapped eETH",
+    "symbol": "KweETH",
+    "decimals": 18,
+    "logoURI": "/images/tokens/weETH.svg",
+    "extensions": {
+      "underlying": "0xcd5fe23c85820f7b72d0926fc9b05b43e359b7ee",
+      "ibtRoutes": {
+        "deposit": false,
+        "mint": false,
+        "withdraw": false,
+        "redeem": false
+      },
+      "protocol": "Karak"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0x0022228a2cc5e7ef0274a7baa600d44da5ab5776",
+    "name": "Angle Staked USDA",
+    "symbol": "stUSD",
+    "decimals": 18,
+    "logoURI": "/images/tokens/stUSD.svg",
+    "extensions": {
+      "protocol": "Angle"
+    }
+  },
+  {
+    "chainId": 42161,
+    "address": "0x0000206329b97db379d5e1bf586bbdb969c63274",
+    "name": "USDA",
+    "symbol": "USDA",
+    "decimals": 18,
+    "logoURI": "/images/tokens/USDA.svg"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x0022228a2cc5e7ef0274a7baa600d44da5ab5776",
+    "name": "Angle Staked USDA",
+    "symbol": "stUSD",
+    "decimals": 18,
+    "logoURI": "/images/tokens/stUSD.svg",
+    "extensions": {
+      "underlying": "0x0000206329b97db379d5e1bf586bbdb969c63274",
+      "protocol": "Angle"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0x0000206329b97db379d5e1bf586bbdb969c63274",
+    "name": "USDA",
+    "symbol": "USDA",
+    "decimals": 18,
+    "logoURI": "/images/tokens/USDA.svg"
+  },
+  {
+    "chainId": 1,
+    "address": "0x40d16fc0246ad3160ccc09b8d0d3a2cd28ae6c2f",
+    "name": "GHO",
+    "symbol": "GHO",
+    "decimals": 18,
+    "logoURI": "/images/tokens/gho.svg"
+  },
+  {
+    "chainId": 1,
+    "address": "0xa8258deE2a677874a48F5320670A869D74f0cbC1",
+    "name": "Warlord Token",
+    "symbol": "WAR",
+    "decimals": 18,
+    "logoURI": "/images/tokens/war.svg",
+    "extensions": {
+      "underlying": "0x2fc1E74BC8A6D15fE768c10C2EDe7D6d95ec27e9",
+      "protocol": "Paladin"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0x2fc1e74bc8a6d15fe768c10c2ede7d6d95ec27e9",
+    "name": "Tholgar Warlord Vault",
+    "symbol": "thWAR",
+    "decimals": 18,
+    "logoURI": "/images/tokens/thwar.png",
+    "extensions": {
+      "underlying": "0xa8258deE2a677874a48F5320670A869D74f0cbC1",
+      "protocol": "Tholgar"
+    }
+  },
+  {
+    "chainId": 42161,
+    "address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
+    "name": "Dai Stablecoin",
+    "symbol": "DAI",
+    "decimals": 18,
+    "logoURI": "/images/tokens/dai.svg"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xd85e038593d7a098614721eae955ec2022b9b91b",
+    "name": "Gains Network DAI",
+    "symbol": "gDAI",
+    "decimals": 18,
+    "logoURI": "/images/tokens/gdai.webp",
+    "extensions": {
+      "underlying": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
+      "protocol": "Gains",
+      "ibtRoutes": {
+        "withdraw": false,
+        "redeem": false
+      }
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0x43e54c2e7b3e294de3a155785f52ab49d87b9922",
+    "name": "Aladdin sdCRV",
+    "symbol": "asdCRV",
+    "decimals": 18,
+    "logoURI": "/images/tokens/asdcrv.png",
+    "extensions": {
+      "underlying": "0xD1b5651E55D4CeeD36251c61c50C889B36F6abB5",
+      "protocol": "Aladdin"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0x856c4Efb76C1D1AE02e20CEB03A2A6a08b0b8dC3",
+    "name": "Origin Ether",
+    "symbol": "OETH",
+    "decimals": 18,
+    "logoURI": "/images/tokens/oeth.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xdcee70654261af21c44c093c300ed3bb97b78192",
+    "name": "Wrapped OETH",
+    "symbol": "WOETH",
+    "decimals": 18,
+    "logoURI": "/images/tokens/woeth.png",
+    "extensions": {
+      "underlying": "0x856c4Efb76C1D1AE02e20CEB03A2A6a08b0b8dC3",
+      "protocol": "Origin"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0x07D1718fF05a8C53C8F05aDAEd57C0d672945f9a",
+    "name": "Aladdin rUSD",
+    "symbol": "arUSD",
+    "decimals": 18,
+    "logoURI": "/images/tokens/arUSD.svg",
+    "extensions": {
+      "underlying": "0x65d72aa8da931f047169112fcf34f52dbaae7d18",
+      "protocol": "f(x) protocol"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0x5fD13359Ba15A84B76f7F87568309040176167cd",
+    "name": "Amphor Restaked ETH",
+    "symbol": "amphrETH",
+    "decimals": 18,
+    "logoURI": "/images/tokens/amphrETH.svg"
+  },
+  {
+    "chainId": 1,
+    "address": "0x06824C27C8a0DbDe5F72f770eC82e3c0FD4DcEc3",
+    "name": "Amphor Symbiotic LRT (WSTETH)",
+    "symbol": "amphrLRT",
+    "decimals": 18,
+    "logoURI": "/images/tokens/amphrLRT.png",
+    "extensions": {
+      "underlying": "0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0",
+      "ibtRoutes": {
+        "withdraw": false,
+        "redeem": false
+      }
+    }
+  },
+  {
+    "chainId": 42161,
+    "address": "0x24174022D382CD155C33A847404cDA5Bc7978802",
+    "name": "Farm WBTC",
+    "symbol": "fWBTC",
+    "decimals": 8,
+    "logoURI": "/images/tokens/fWBTC.svg",
+    "extensions": {
+      "negativeYield": true,
+      "underlying": "0x2f2a2543b76a4166549f7aab2e75bef0aefc5b0f",
+      "protocol": "Harvest"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0x65d72aa8da931f047169112fcf34f52dbaae7d18",
+    "name": "f(x) rUSD",
+    "symbol": "rUSD",
+    "decimals": 18,
+    "logoURI": "/images/tokens/rUSD.svg"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xdfd2214236b60fc0485288c959cb07da4f6a15f7",
+    "name": "FARM_DAI",
+    "symbol": "fDAI",
+    "decimals": 18,
+    "logoURI": "/images/tokens/fDAI.svg",
+    "extensions": {
+      "underlying": "0xda10009cbd5d07dd0cecc66161fc93d7c9000da1",
+      "protocol": "Harvest"
+    }
+  },
+  {
+    "chainId": 42161,
+    "address": "0xaf88d065e77c8cc2239327c5edb3a432268e5831",
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "decimals": 6,
+    "logoURI": "/images/tokens/usdc.svg"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x6faf8b7ffee3306efcfc2ba9fec912b4d49834c1",
+    "name": "USDC-A yVault",
+    "symbol": "yvUSDC-A",
+    "decimals": 6,
+    "logoURI": "/images/tokens/usdc.svg",
+    "extensions": {
+      "underlying": "0xaf88d065e77c8cc2239327c5edb3a432268e5831",
+      "protocol": "Yearn"
+    }
+  },
+  {
+    "chainId": 42161,
+    "address": "0x2f2a2543b76a4166549f7aab2e75bef0aefc5b0f",
+    "name": "Wrapped BTC",
+    "symbol": "WBTC",
+    "decimals": 8,
+    "logoURI": "/images/tokens/wbtc.svg"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x7dff72693f6a4149b17e7c6314655f6a9f7c8b33",
+    "name": "Gho Token",
+    "symbol": "GHO",
+    "decimals": 18,
+    "logoURI": "/images/tokens/gho.svg"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x85050bedc80ea28e53db5f80f165d87f29d2a1bc",
+    "decimals": 18,
+    "name": "FARM_GHO",
+    "symbol": "fGHO",
+    "logoURI": "/images/tokens/fGHO.svg",
+    "extensions": {
+      "underlying": "0x7dff72693f6a4149b17e7c6314655f6a9f7c8b33",
+      "protocol": "Harvest"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0x8668a15b7b023dc77b372a740fcb8939e15257cf",
+    "decimals": 18,
+    "name": "Asymmetry Finance afCVX",
+    "symbol": "afCVX",
+    "logoURI": "/images/tokens/AFCVX.svg",
+    "extensions": {
+      "underlying": "0x4e3fbd56cd56c3e72c1403e103b45db9da5b9d2b",
+      "protocol": "Asymmetry"
+    }
+  },
+  {
+    "chainId": 42161,
+    "address": "0x02Ab76B19944BdEc4d4c612468bB6aF3AC76B15D",
+    "decimals": 18,
+    "name": "FARM_LP-WETH",
+    "symbol": "fLP-WETH",
+    "logoURI": "/images/tokens/weth.svg",
+    "extensions": {
+      "underlying": "0xe62880cc6872c9e9fb1ddd73f400850fdabe798d",
+      "protocol": "Harvest"
+    }
+  },
+  {
+    "chainId": 42161,
+    "address": "0xe62880cc6872c9e9fb1ddd73f400850fdabe798d",
+    "decimals": 18,
+    "name": "Wombat Wrapped Ether Asset",
+    "symbol": "LP-WETH",
+    "logoURI": "/images/tokens/weth.svg"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x7C11F78Ce78768518D743E81Fdfa2F860C6b9A77",
+    "name": "GMX Market gmBTC",
+    "symbol": "gmBTC",
+    "decimals": 18,
+    "logoURI": "/images/tokens/gmBTC.svg"
+  },
+  {
+    "chainId": 10,
+    "address": "0x64831f82e3543006413897c03f59518cecae02b4",
+    "name": "Reward Cow Velo Op ezETH-wstETH",
+    "symbol": "ezETH-wstETH [CLM Pool]",
+    "decimals": 18,
+    "logoURI": "/images/tokens/beefy.svg"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x0b0193fad49de45f5e2b0a9f5d6bc3bb7d281688",
+    "name": "FARM_WETH",
+    "symbol": "fWETH",
+    "decimals": 18,
+    "logoURI": "/images/tokens/fweth.svg",
+    "extensions": {
+      "underlying": "0x4200000000000000000000000000000000000006",
+      "protocol": "Harvest (Moonwell)"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0x4200000000000000000000000000000000000006",
+    "name": "Wrapped Ether",
+    "symbol": "wETH",
+    "decimals": 18,
+    "logoURI": "/images/tokens/weth.svg"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x710a1ab6cb8412de9613ad6c7195453ce8b5ca71",
+    "name": "FARM_LODE",
+    "symbol": "fLODE",
+    "decimals": 18,
+    "logoURI": "/images/tokens/flode.svg",
+    "extensions": {
+      "underlying": "0xf19547f9ed24aa66b03c3a552d181ae334fbb8db",
+      "protocol": "Harvest (Lodestar)"
+    }
+  },
+  {
+    "chainId": 42161,
+    "address": "0xf19547f9ed24aa66b03c3a552d181ae334fbb8db",
+    "name": "Lodestar",
+    "symbol": "LODE",
+    "decimals": 18,
+    "logoURI": "/images/tokens/lode.svg"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x04C0599Ae5A44757c0af6F9eC3b93da8976c150A",
+    "name": "Wrapped eETH",
+    "symbol": "weETH",
+    "decimals": 18,
+    "logoURI": "/images/tokens/weETH.svg"
+  },
+  {
+    "chainId": 1,
+    "address": "0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+    "name": "Aave",
+    "symbol": "AAVE",
+    "decimals": 18,
+    "logoURI": "/images/tokens/aave.webp"
+  },
+  {
+    "chainId": 1,
+    "address": "0xb50721bcf8d664c30412cfbc6cf7a15145234ad1",
+    "name": "Arbitrum",
+    "symbol": "ARB",
+    "decimals": 18,
+    "logoURI": "/images/tokens/arbitrum.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xa0246c9032bc3a600820415ae600c6388619a14d",
+    "name": "Harvest Finance",
+    "symbol": "FARM",
+    "decimals": 18,
+    "logoURI": "/images/tokens/farm.webp"
+  },
+  {
+    "chainId": 1,
+    "address": "0x8207c1ffc5b6804f6024322ccf34f29c3541ae26",
+    "name": "Origin Protocol",
+    "symbol": "OGN",
+    "decimals": 18,
+    "logoURI": "/images/tokens/ogn.svg"
+  },
+  {
+    "chainId": 1,
+    "address": "0xe1b4d34e8754600962cd944b535180bd758e6c2e",
+    "name": "Kelp Gain",
+    "symbol": "agETH",
+    "decimals": 18,
+    "logoURI": "/images/tokens/agETH.svg",
+    "extensions": {
+      "underlying": "0xa1290d69c65a6fe4df752f95823fae25cb99e5a7",
+      "protocol": "KelpDAO (Airdrop Gains)"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0xa1290d69c65a6fe4df752f95823fae25cb99e5a7",
+    "name": "rsETH",
+    "symbol": "rsETH",
+    "decimals": 18,
+    "logoURI": "/images/tokens/rsETH.svg"
+  },
+  {
+    "chainId": 1,
+    "address": "0x33d7e5827eb62628c093d88ac2531ddac6f6e396",
+    "name": "FARM-APW/ETH",
+    "symbol": "FARM-APW/ETH",
+    "decimals": 18,
+    "logoURI": "/images/tokens/farm-apw-eth.svg",
+    "extensions": {
+      "underlying": "0x093254005743b7af89e24f645730ba2dd8441333",
+      "protocol": "Harvest (Balancer)",
+      "externalLink": "https://app.harvest.finance/ethereum/0x33D7E5827eB62628c093D88aC2531ddaC6f6E396"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0x093254005743b7af89e24f645730ba2dd8441333",
+    "name": "APW/ETH",
+    "symbol": "APW/ETH",
+    "decimals": 18,
+    "logoURI": "/images/tokens/apw-eth.svg"
+  }
 ]

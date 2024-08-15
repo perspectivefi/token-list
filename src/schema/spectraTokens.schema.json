@@ -52,6 +52,16 @@
             "type": "string",
             "pattern": "^0x[a-fA-F0-9]{40}$"
           },
+          "aprEndpoint": {
+            "type": "string"
+          },
+          "negativeYield": {
+            "type": "boolean"
+          },
+          "tokenOut": {
+            "type": "string",
+            "pattern": "^0x[a-fA-F0-9]{40}$"
+          },
           "ibtRoutes": {
             "type": "object",
             "additionalProperties": false,
@@ -66,6 +76,12 @@
                 "type": "boolean"
               },
               "redeem": {
+                "type": "boolean"
+              },
+              "createPool": {
+                "type": "boolean"
+              },
+              "unwrap": {
                 "type": "boolean"
               }
             }

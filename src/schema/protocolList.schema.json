@@ -8,7 +8,6 @@
       "ptAddress",
       "chainId",
       "protocolName",
-      "bgUrl",
       "token",
       "multipliers"
     ],

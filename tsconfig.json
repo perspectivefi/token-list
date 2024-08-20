@@ -21,7 +21,7 @@
     "allowSyntheticDefaultImports": true,
     "noFallthroughCasesInSwitch": true,
     "isolatedModules": true,
-    "incremental": true
+    "declaration": true,
   },
   "include": [
     "src"

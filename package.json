@@ -1,28 +1,24 @@
 {
-  "name": "token-list",
+  "name": "@spectra/token-list",
   "version": "1.0.0",
   "description": "",
   "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "files": [
+    "dist",
+    "src/images"
+  ],
   "keywords": [
-    "spectral",
+    "spectra",
     "token",
     "list",
     "schema",
     "protocol"
   ],
-  "author": "",
+  "author": "matstyler",
   "license": "ISC",
-  "exports": {
-    ".": {
-      "protocolList": "./protocols/protocolList.json",
-      "protocolCustomContent": "./protocols/protocolCustomContent.tsx",
-      "spectraTokens": "./tokens/spectraTokens.json",
-      "erc4626Wrappers": "./tokens/erc4626Wrappers.json",
-      "*": "./images/*"
-    }
-  },
   "scripts": {
-    "build": "tsup src/index.ts"
+    "build": "tsup"
   },
   "dependencies": {
     "react": "^18.3.1",

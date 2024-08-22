@@ -46,7 +46,8 @@
             "type": "string"
           },
           "externalLink": {
-            "type": "string"
+            "type": "string",
+            "pattern": "(http|https)\\:\\/\\/[a-zA-Z0-9\\-\\.]+\\.[a-zA-Z]{2,3}(\\/\\S*)?"
           },
           "faucetAddress": {
             "type": "string",

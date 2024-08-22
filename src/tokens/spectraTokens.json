@@ -5,7 +5,7 @@
     "name": "Spectra",
     "symbol": "APW",
     "decimals": 18,
-    "logoURI": "../src/images/tokens/apw.svg"
+    "logoURI": "/images/tokens/apw.svg"
   },
   {
     "chainId": 1,

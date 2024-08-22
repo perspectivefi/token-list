@@ -15,7 +15,7 @@
     "schema",
     "protocol"
   ],
-  "author": "matstyler",
+  "author": "Spectra Finance",
   "license": "ISC",
   "scripts": {
     "build": "tsup"

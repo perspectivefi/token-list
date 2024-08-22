@@ -1,0 +1,23 @@
+name: Token validation
+on: [ pull_request ]
+
+jobs:
+  validate_token_schema:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+        with:
+          ref: ${{ github.head_ref }}
+
+      - name: Validate Spectra Tokens
+        uses: docker://orrosenblatt/validate-json-action:latest
+        env:
+          INPUT_SCHEMA: src/schema/spectraTokens.schema.json
+          INPUT_JSONS: src/tokens/spectraTokens.json,src/tokens/erc4626Wrappers.json
+
+      - name: Validate Protocol List
+        uses: docker://orrosenblatt/validate-json-action:latest
+        env:
+          INPUT_SCHEMA: src/schema/protocolList.schema.json
+          INPUT_JSONS: src/protocols/protocolList.json

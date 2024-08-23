@@ -1,8 +1,8 @@
 {
   "compilerOptions": {
-    "rootDir": ".",
+    "outDir": "./dist",
+    "rootDir": "src",
     "target": "es2020",
-    "baseUrl": "src",
     "lib": [
       "dom",
       "dom.iterable",
@@ -21,18 +21,12 @@
     "allowSyntheticDefaultImports": true,
     "noFallthroughCasesInSwitch": true,
     "isolatedModules": true,
-    "incremental": true
+    "declaration": true,
   },
   "include": [
-    "src",
-    "scripts"
+    "src"
   ],
   "exclude": [
     "node_modules"
   ],
-  "ts-node": {
-    "compilerOptions": {
-      "module": "commonjs"
-    }
-  }
 }

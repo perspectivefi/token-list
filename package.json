@@ -1,19 +1,32 @@
 {
-  "name": "token-list",
+  "name": "@spectra/token-list",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "files": [
+    "dist",
+    "src/images"
+  ],
   "keywords": [
-    "spectral",
+    "spectra",
     "token",
     "list",
     "schema",
     "protocol"
   ],
-  "author": "",
+  "author": "Spectra Finance",
   "license": "ISC",
+  "scripts": {
+    "build": "tsup"
+  },
   "dependencies": {
     "react": "^18.3.1",
     "wagmi": "1.4.7"
+  },
+  "devDependencies": {
+    "prettier": "3.3.3",
+    "tsup": "^8.2.4",
+    "typescript": "^5.5.4"
   }
 }

@@ -591,5 +591,169 @@
     "symbol": "APW/ETH",
     "decimals": 18,
     "logoURI": "/images/tokens/apw-eth.svg"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xed5f727107bdac99443bae317e0ef38239719e87",
+    "name": "CIAN strategy pool",
+    "symbol": "ciWeETH",
+    "decimals": 18,
+    "logoURI": "/images/tokens/ciWeETH.svg",
+    "extensions": {
+      "underlying": "0x04c0599ae5a44757c0af6f9ec3b93da8976c150a",
+      "protocol": "CIAN"
+    }
+  },
+  {
+    "chainId": 42161,
+    "address": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
+    "name": "Wrapped Ether",
+    "symbol": "wETH",
+    "decimals": 18,
+    "logoURI": "/images/tokens/weth.svg"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x2b70238022589f17e7b266bc753e74027d57009f",
+    "name": "FARM_WETH",
+    "symbol": "fWETH",
+    "decimals": 18,
+    "logoURI": "/images/tokens/fweth.svg",
+    "extensions": {
+      "underlying": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
+      "protocol": "Harvest (Lodestar)"
+    }
+  },
+  {
+    "chainId": 42161,
+    "address": "0x0c880f6761f1af8d9aa9c466984b80dab9a8c9e8",
+    "name": "Pendle",
+    "symbol": "PENDLE",
+    "decimals": 18,
+    "logoURI": "/images/tokens/pendle.svg"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xc76387330f1614d7e10e045cfcc7c9f7ff2adc1f",
+    "name": "FARM_PENDLE",
+    "symbol": "fPENDLE",
+    "decimals": 18,
+    "logoURI": "/images/tokens/fpendle.svg",
+    "extensions": {
+      "underlying": "0x0c880f6761f1af8d9aa9c466984b80dab9a8c9e8",
+      "protocol": "Harvest (Lodestar)"
+    }
+  },
+  {
+    "chainId": 42161,
+    "address": "0xff970a61a04b1ca14834a43f5de4533ebddb5cc8",
+    "name": "Bridged USDC",
+    "symbol": "USDC.e",
+    "decimals": 6,
+    "logoURI": "/images/tokens/usdc.svg"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x2ec0160246461f0ce477887dde2c931ee8233de7",
+    "name": "FARM_USDC",
+    "symbol": "fUSDC",
+    "decimals": 6,
+    "logoURI": "/images/tokens/fusdc.svg",
+    "extensions": {
+      "underlying": "0xff970a61a04b1ca14834a43f5de4533ebddb5cc8",
+      "protocol": "Harvest (Lodestar)"
+    }
+  },
+  {
+    "chainId": 42161,
+    "address": "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9",
+    "name": "Tether USD",
+    "symbol": "USDT",
+    "decimals": 6,
+    "logoURI": "/images/tokens/usdt.png"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x0d15225454474ab3cb124083278c7be03f8a99ff",
+    "name": "FARM_USDT",
+    "symbol": "fUSDT",
+    "decimals": 6,
+    "logoURI": "/images/tokens/fusdt.svg",
+    "extensions": {
+      "underlying": "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9",
+      "protocol": "Harvest (Lodestar)"
+    }
+  },
+  {
+    "chainId": 42161,
+    "address": "0x912ce59144191c1204e64559fe8253a0e49e6548",
+    "name": "Arbitrum",
+    "symbol": "ARB",
+    "decimals": 18,
+    "logoURI": "/images/tokens/arbitrum.png"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x32db5cbac1c278696875eb9f27ed4cd7423dd126",
+    "name": "FARM_ARB",
+    "symbol": "fARB",
+    "decimals": 18,
+    "logoURI": "/images/tokens/farb.svg",
+    "extensions": {
+      "underlying": "0x912ce59144191c1204e64559fe8253a0e49e6548",
+      "protocol": "Harvest (Lodestar)"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0xcdcc3da8fd73cedfa8e6927864e463b4760b320d",
+    "name": "agETH-LP",
+    "symbol": "agETH-LP",
+    "decimals": 18,
+    "logoURI": "/images/tokens/agethlp.svg",
+    "extensions": {
+      "underlying": "0x6010676bc2534652ad1ef5fa8073dcf9ad7ebfbe",
+      "protocol": "Pendle (Penpie)"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0x1a7e4e63778b4f12a199c062f3efdd288afcbce8",
+    "name": "EURA",
+    "symbol": "EURA",
+    "decimals": 18,
+    "logoURI": "/images/tokens/eura.svg"
+  },
+  {
+    "chainId": 1,
+    "address": "0x004626a008b1acdc4c74ab51644093b155e59a23",
+    "name": "Staked agEUR",
+    "symbol": "stEUR",
+    "decimals": 18,
+    "logoURI": "/images/tokens/stEUR.svg",
+    "extensions": {
+      "underlying": "0x1a7e4e63778b4f12a199c062f3efdd288afcbce8",
+      "protocol": "Angle"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0x62b9c7356a2dc64a1969e19c23e4f579f9810aa7",
+    "name": "Convex CRV",
+    "symbol": "cvxCRV",
+    "decimals": 18,
+    "logoURI": "/images/tokens/cvxcrv.svg"
+  },
+  {
+    "chainId": 1,
+    "address": "0x2b95a1dcc3d405535f9ed33c219ab38e8d7e0884",
+    "name": "Aladdin cvxCRV",
+    "symbol": "aCRV",
+    "decimals": 18,
+    "logoURI": "/images/tokens/acrv.svg",
+    "extensions": {
+      "underlying": "0x62b9c7356a2dc64a1969e19c23e4f579f9810aa7",
+      "protocol": "Aladdin"
+    }
   }
 ]

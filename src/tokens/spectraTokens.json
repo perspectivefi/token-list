@@ -755,5 +755,25 @@
       "underlying": "0x62b9c7356a2dc64a1969e19c23e4f579f9810aa7",
       "protocol": "Aladdin"
     }
+  },
+  {
+    "chainId": 1,
+    "address": "0x66a1e37c9b0eaddca17d3662d6c05f4decf3e110",
+    "name": "Resolv USD",
+    "symbol": "USR",
+    "decimals": 18,
+    "logoURI": "/images/tokens/usr.svg"
+  },
+  {
+    "chainId": 1,
+    "address": "0x1202f5c7b4b9e47a1a484e8b270be34dbbc75055",
+    "name": "Wrapped stUSR",
+    "symbol": "wstUSR",
+    "decimals": 18,
+    "logoURI": "/images/tokens/usr.svg",
+    "extensions": {
+      "underlying": "0x66a1e37c9b0eaddca17d3662d6c05f4decf3e110",
+      "protocol": "Resolv"
+    }
   }
 ]

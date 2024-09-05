@@ -361,5 +361,25 @@
       },
       "protocol": "Ether.fi"
     }
+  },
+  {
+    "chainId": 1,
+    "address": "0x6e0dccf49D095F8ea8920A8aF03D236FA167B7E0",
+    "name": "Spectra ERC4626 Wrapper: ynETH",
+    "symbol": "sw-ynETH",
+    "decimals": 18,
+    "logoURI": "/images/tokens/ynETH.svg",
+    "extensions": {
+      "underlying": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+      "vault": {
+        "chainId": 1,
+        "address": "0x09db87a538bd693e9d08544577d5ccfaa6373a48",
+        "name": "ynETH",
+        "symbol": "ynETH",
+        "decimals": 18,
+        "logoURI": "/images/tokens/ynETH.svg"
+      },
+      "protocol": "YieldNest"
+    }
   }
 ]

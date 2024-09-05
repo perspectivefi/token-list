@@ -901,5 +901,13 @@
       "protocol": "Harvest (Aerodrome)",
       "externalLink": "https://app.harvest.finance/base/0x284c60490212DB0dc0b8F93503d35744f8053381"
     }
+  },
+  {
+    "address": "0x4104b135dbc9609fc1a9490e61369036497660c8",
+    "chainId": 1,
+    "name": "Test",
+    "symbol": "TEST",
+    "decimals": 18,
+    "extensions": {}
   }
 ]

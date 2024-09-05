@@ -901,5 +901,13 @@
       "protocol": "Harvest (Aerodrome)",
       "externalLink": "https://app.harvest.finance/base/0x284c60490212DB0dc0b8F93503d35744f8053381"
     }
+  },
+  {
+    "address": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
+    "chainId": 1,
+    "name": "SHIBA INU",
+    "symbol": "SHIB",
+    "decimals": 18,
+    "logoURI": "/images/tokens/1/0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce.png"
   }
 ]

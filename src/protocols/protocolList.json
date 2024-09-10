@@ -219,5 +219,22 @@
         "name": "Kernel Points"
       }
     ]
+  },
+  {
+    "ptAddress": "0xd0097149aa4cc0d0e1fc99b8bd73fc17dc32c1e9",
+    "chainId": 1,
+    "protocolName": "Resolv",
+    "bgUrl": "/images/textures/resolvBackground.png",
+    "token": {
+      "symbol": "wstUSR",
+      "logoURI": "/images/tokens/usr.svg",
+      "underlying": "USR"
+    },
+    "multipliers": [
+      {
+        "amount": 30,
+        "name": "Resolv points"
+      }
+    ]
   }
 ]

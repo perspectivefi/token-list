@@ -381,5 +381,85 @@
       },
       "protocol": "YieldNest"
     }
+  },
+  {
+    "chainId": 1,
+    "address": "0x1B56E30b6efD7cfDe46eE3E29B851b9094D5810B",
+    "name": "Spectra ERC4626 Wrapper: Usual Boosted USDC",
+    "symbol": "sw-USUALUSDC+",
+    "decimals": 18,
+    "logoURI": "/images/tokens/USUALUSDC.svg",
+    "extensions": {
+      "underlying": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+      "vault": {
+        "chainId": 1,
+        "address": "0xd63070114470f685b75B74D60EEc7c1113d33a3D",
+        "name": "Usual Boosted USDC",
+        "symbol": "USUALUSDC+",
+        "decimals": 18,
+        "logoURI": "/images/tokens/USUALUSDC.svg"
+      },
+      "protocol": "Morpho (Usual Boosted USDC)"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0x37F86e2FB8020fb8Dc53236FDae86f9122B56270",
+    "name": "Spectra ERC4626 Wrapper: Gauntlet USDC Core",
+    "symbol": "sw-gtUSDCcore",
+    "decimals": 18,
+    "logoURI": "/images/tokens/",
+    "extensions": {
+      "underlying": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+      "vault": {
+        "chainId": 1,
+        "address": "0x8eB67A509616cd6A7c1B3c8C21D48FF57df3d458",
+        "name": "Gauntlet USDC Core",
+        "symbol": "gtUSDCcore",
+        "decimals": 18,
+        "logoURI": "/images/tokens/"
+      },
+      "protocol": "Morpho"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0xBDC1d4BbCa6429efAaA42c26e80f6a138F9c69d5",
+    "name": "Spectra ERC4626 Wrapper: Gauntlet LRT Core",
+    "symbol": "sw-gtLRTcore",
+    "decimals": 18,
+    "logoURI": "/images/tokens/",
+    "extensions": {
+      "underlying": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+      "vault": {
+        "chainId": 1,
+        "address": "0x4881Ef0BF6d2365D3dd6499ccd7532bcdBCE0658",
+        "name": "Gauntlet LRT Core",
+        "symbol": "gtLRTcore",
+        "decimals": 18,
+        "logoURI": "/images/tokens/"
+      },
+      "protocol": "Morpho"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0xF54c0ac4026D80f3436078BDca41F9ca8a470D47",
+    "name": "Spectra ERC4626 Wrapper: Morpho eUSD",
+    "symbol": "sw-meUSD",
+    "decimals": 18,
+    "logoURI": "/images/tokens/",
+    "extensions": {
+      "underlying": "0xCfA3Ef56d303AE4fAabA0592388F19d7C3399FB4",
+      "vault": {
+        "chainId": 8453,
+        "address": "0xbb819D845b573B5D7C538F5b85057160cfb5f313",
+        "name": "Morpho eUSD",
+        "symbol": "meUSD",
+        "decimals": 18,
+        "logoURI": "/images/tokens/"
+      },
+      "protocol": "Morpho"
+    }
   }
 ]

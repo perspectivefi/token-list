@@ -408,7 +408,7 @@
     "name": "Spectra ERC4626 Wrapper: Gauntlet USDC Core",
     "symbol": "sw-gtUSDCcore",
     "decimals": 18,
-    "logoURI": "/images/tokens/",
+    "logoURI": "/images/tokens/morpho.png",
     "extensions": {
       "underlying": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
       "vault": {
@@ -417,7 +417,7 @@
         "name": "Gauntlet USDC Core",
         "symbol": "gtUSDCcore",
         "decimals": 18,
-        "logoURI": "/images/tokens/"
+        "logoURI": "/images/tokens/morpho.png"
       },
       "protocol": "Morpho"
     }
@@ -428,7 +428,7 @@
     "name": "Spectra ERC4626 Wrapper: Gauntlet LRT Core",
     "symbol": "sw-gtLRTcore",
     "decimals": 18,
-    "logoURI": "/images/tokens/",
+    "logoURI": "/images/tokens/morpho.png",
     "extensions": {
       "underlying": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
       "vault": {
@@ -437,7 +437,7 @@
         "name": "Gauntlet LRT Core",
         "symbol": "gtLRTcore",
         "decimals": 18,
-        "logoURI": "/images/tokens/"
+        "logoURI": "/images/tokens/morpho.png"
       },
       "protocol": "Morpho"
     }
@@ -448,7 +448,7 @@
     "name": "Spectra ERC4626 Wrapper: Morpho eUSD",
     "symbol": "sw-meUSD",
     "decimals": 18,
-    "logoURI": "/images/tokens/",
+    "logoURI": "/images/tokens/morpho.png",
     "extensions": {
       "underlying": "0xCfA3Ef56d303AE4fAabA0592388F19d7C3399FB4",
       "vault": {
@@ -457,7 +457,7 @@
         "name": "Morpho eUSD",
         "symbol": "meUSD",
         "decimals": 18,
-        "logoURI": "/images/tokens/"
+        "logoURI": "/images/tokens/morpho.png"
       },
       "protocol": "Morpho"
     }

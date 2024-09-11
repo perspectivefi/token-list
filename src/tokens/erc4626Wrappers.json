@@ -381,5 +381,25 @@
       },
       "protocol": "YieldNest"
     }
+  },
+  {
+    "chainId": 1,
+    "address": "0x1B56E30b6efD7cfDe46eE3E29B851b9094D5810B",
+    "name": "Spectra ERC4626 Wrapper: Usual Boosted USDC",
+    "symbol": "sw-USUALUSDC+",
+    "decimals": 18,
+    "logoURI": "/images/tokens/usual.png",
+    "extensions": {
+      "underlying": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+      "vault": {
+        "chainId": 1,
+        "address": "0xd63070114470f685b75B74D60EEc7c1113d33a3D",
+        "name": "Usual Boosted USDC",
+        "symbol": "USUALUSDC+",
+        "decimals": 18,
+        "logoURI": "/images/tokens/usual.png"
+      },
+      "protocol": "Usual"
+    }
   }
 ]

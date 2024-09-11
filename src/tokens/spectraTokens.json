@@ -901,5 +901,53 @@
       "protocol": "Harvest (Aerodrome)",
       "externalLink": "https://app.harvest.finance/base/0x284c60490212DB0dc0b8F93503d35744f8053381"
     }
+  },
+  {
+    "chainId": 1,
+    "address": "0xd63070114470f685b75B74D60EEc7c1113d33a3D",
+    "name": "Usual Boosted USDC",
+    "symbol": "USUALUSDC+",
+    "decimals": 18,
+    "logoURI": "/images/tokens/USUALUSDC.svg",
+    "extensions": {
+      "underlying": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+      "protocol": "Usual"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+    "name": "Gauntlet USDC Core",
+    "symbol": "gtUSDCcore",
+    "decimals": 18,
+    "logoURI": "/images/tokens/morpho.png",
+    "extensions": {
+      "underlying": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+      "protocol": "Gauntlet"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0x4881Ef0BF6d2365D3dd6499ccd7532bcdBCE0658",
+    "name": "Gauntlet LRT Core",
+    "symbol": "gtLRTcore",
+    "decimals": 18,
+    "logoURI": "/images/tokens/morpho.png",
+    "extensions": {
+      "underlying": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+      "protocol": "Gauntlet"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0xbb819D845b573B5D7C538F5b85057160cfb5f313",
+    "name": "Morpho eUSD",
+    "symbol": "meUSD",
+    "decimals": 18,
+    "logoURI": "/images/tokens/morpho.png",
+    "extensions": {
+      "underlying": "0xCfA3Ef56d303AE4fAabA0592388F19d7C3399FB4",
+      "protocol": "Morpho"
+    }
   }
 ]

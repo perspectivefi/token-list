@@ -408,7 +408,7 @@
         "name": "Spectra ERC4626 Wrapper: Gauntlet USDC Core",
         "symbol": "sw-gtUSDCcore",
         "decimals": 18,
-        "logoURI": "/images/tokens/1/0x37f86e2fb8020fb8dc53236fdae86f9122b56270.png",
+        "logoURI": "/images/tokens/1/0x37f86e2fb8020fb8dc53236fdae86f9122b56270.svg",
         "extensions": {
             "underlying": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
             "vault": {
@@ -417,7 +417,7 @@
                 "name": "Gauntlet USDC Core",
                 "symbol": "gtUSDCcore",
                 "decimals": 18,
-                "logoURI": "/images/tokens/1/0x8eb67a509616cd6a7c1b3c8c21d48ff57df3d458.png"
+                "logoURI": "/images/tokens/1/0x8eb67a509616cd6a7c1b3c8c21d48ff57df3d458.svg"
             },
             "protocol": "Morpho"
         }
@@ -428,7 +428,7 @@
         "name": "Spectra ERC4626 Wrapper: Gauntlet LRT Core",
         "symbol": "sw-gtLRTcore",
         "decimals": 18,
-        "logoURI": "/images/tokens/1/0xbdc1d4bbca6429efaaa42c26e80f6a138f9c69d5.png",
+        "logoURI": "/images/tokens/1/0xbdc1d4bbca6429efaaa42c26e80f6a138f9c69d5.svg",
         "extensions": {
             "underlying": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
             "vault": {
@@ -437,7 +437,7 @@
                 "name": "Gauntlet LRT Core",
                 "symbol": "gtLRTcore",
                 "decimals": 18,
-                "logoURI": "/images/tokens/1/0x4881ef0bf6d2365d3dd6499ccd7532bcdbce0658.png"
+                "logoURI": "/images/tokens/1/0x4881ef0bf6d2365d3dd6499ccd7532bcdbce0658.svg"
             },
             "protocol": "Morpho"
         }
@@ -448,7 +448,7 @@
         "name": "Spectra ERC4626 Wrapper: Morpho eUSD",
         "symbol": "sw-meUSD",
         "decimals": 18,
-        "logoURI": "/images/tokens/8453/0xf54c0ac4026d80f3436078bdca41f9ca8a470d47.png",
+        "logoURI": "/images/tokens/8453/0xf54c0ac4026d80f3436078bdca41f9ca8a470d47.svg",
         "extensions": {
             "underlying": "0xCfA3Ef56d303AE4fAabA0592388F19d7C3399FB4",
             "vault": {
@@ -457,7 +457,7 @@
                 "name": "Morpho eUSD",
                 "symbol": "meUSD",
                 "decimals": 18,
-                "logoURI": "/images/tokens/8453/0xbb819d845b573b5d7c538f5b85057160cfb5f313.png"
+                "logoURI": "/images/tokens/8453/0xbb819d845b573b5d7c538f5b85057160cfb5f313.svg"
             },
             "protocol": "Morpho"
         }

@@ -916,11 +916,11 @@
     },
     {
         "chainId": 1,
-        "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+        "address": "0x37F86e2FB8020fb8Dc53236FDae86f9122B56270",
         "name": "Gauntlet USDC Core",
         "symbol": "gtUSDCcore",
         "decimals": 18,
-        "logoURI": "/images/tokens/1/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48.png",
+        "logoURI": "/images/tokens/1/0x37f86e2fb8020fb8dc53236fdae86f9122b56270.svg",
         "extensions": {
             "underlying": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
             "protocol": "Gauntlet"
@@ -932,7 +932,7 @@
         "name": "Gauntlet LRT Core",
         "symbol": "gtLRTcore",
         "decimals": 18,
-        "logoURI": "/images/tokens/1/0x4881ef0bf6d2365d3dd6499ccd7532bcdbce0658.png",
+        "logoURI": "/images/tokens/1/0x4881ef0bf6d2365d3dd6499ccd7532bcdbce0658.svg",
         "extensions": {
             "underlying": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
             "protocol": "Gauntlet"

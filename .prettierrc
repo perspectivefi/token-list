@@ -1,22 +1,7 @@
 {
-  "tabWidth": 4,
+  "tabWidth": 2,
   "semi": false,
   "singleQuote": false,
   "bracketSpacing": true,
-  "useTabs": false,
-  "importOrder": [
-    "^@*/(.*)$",
-    "^styles/(.*)$",
-    "^state/(.*)$",
-    "^hooks/(.*)$",
-    "^(data|web3|contracts|utils)/(.*)$",
-    "^(components|routes)/(.*)$",
-    "^assets/(.*)$",
-    "^[./]"
-  ],
-  "importOrderSeparation": true,
-  "plugins": [
-    "@trivago/prettier-plugin-sort-imports",
-    "prettier-plugin-tailwindcss"
-  ]
+  "useTabs": false
 }

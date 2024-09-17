@@ -949,5 +949,17 @@
       "underlying": "0xCfA3Ef56d303AE4fAabA0592388F19d7C3399FB4",
       "protocol": "Morpho"
     }
+  },
+  {
+    "address": "0x7FcD174E80f264448ebeE8c88a7C4476AAF58Ea6",
+    "chainId": 8453,
+    "name": "Wrapped Super OETH",
+    "symbol": "wsuperOETHb",
+    "decimals": 18,
+    "extensions": {
+      "underlying": "0xDBFeFD2e8460a6Ee4955A68582F85708BAEA60A3",
+      "protocol": "Origin"
+    },
+    "logoURI": "/images/tokens/8453/0x7fcd174e80f264448ebee8c88a7c4476aaf58ea6.svg"
   }
 ]

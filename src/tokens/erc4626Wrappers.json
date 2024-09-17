@@ -17,7 +17,9 @@
         "decimals": 18,
         "logoURI": "/images/tokens/1/0x1a88df1cfe15af22b3c4c783d4e6f7f9e0c1885d.svg"
       },
-      "ibtRoutes": { "withdraw": false },
+      "ibtRoutes": {
+        "withdraw": false
+      },
       "protocol": "Aave"
     }
   },
@@ -38,7 +40,10 @@
         "decimals": 8,
         "logoURI": "/images/tokens/1/0x004e9c3ef86bc1ca1f0bb5c7662861ee93350568.svg"
       },
-      "ibtRoutes": { "withdraw": false, "redeem": false },
+      "ibtRoutes": {
+        "withdraw": false,
+        "redeem": false
+      },
       "protocol": "Bedrock"
     }
   },
@@ -59,7 +64,10 @@
         "decimals": 8,
         "logoURI": "/images/tokens/10/0x93919784c523f39cacaa98ee0a9d96c3f32b593e.svg"
       },
-      "ibtRoutes": { "withdraw": false, "redeem": false },
+      "ibtRoutes": {
+        "withdraw": false,
+        "redeem": false
+      },
       "protocol": "Bedrock"
     }
   },
@@ -81,7 +89,10 @@
         "decimals": 18,
         "logoURI": "https://assets.coingecko.com/coins/images/33033/thumb/weETH.png?1701438396"
       },
-      "ibtRoutes": { "unwrap": false, "createPool": false },
+      "ibtRoutes": {
+        "unwrap": false,
+        "createPool": false
+      },
       "protocol": "Karak"
     }
   },
@@ -122,7 +133,10 @@
         "decimals": 18,
         "logoURI": "/images/tokens/1/0x5fd13359ba15a84b76f7f87568309040176167cd.svg"
       },
-      "ibtRoutes": { "withdraw": false, "redeem": false },
+      "ibtRoutes": {
+        "withdraw": false,
+        "redeem": false
+      },
       "protocol": "Mellow"
     }
   },
@@ -143,7 +157,10 @@
         "decimals": 18,
         "logoURI": "/images/tokens/1/0xf1376bcef0f78459c0ed0ba5ddce976f1ddf51f4.svg"
       },
-      "ibtRoutes": { "withdraw": false, "redeem": false },
+      "ibtRoutes": {
+        "withdraw": false,
+        "redeem": false
+      },
       "protocol": "Bedrock"
     }
   },
@@ -164,7 +181,10 @@
         "decimals": 18,
         "logoURI": "/images/tokens/1/0x06824c27c8a0dbde5f72f770ec82e3c0fd4dcec3.png"
       },
-      "ibtRoutes": { "withdraw": false, "redeem": false },
+      "ibtRoutes": {
+        "withdraw": false,
+        "redeem": false
+      },
       "protocol": "Amphor"
     }
   },

@@ -187,7 +187,9 @@
     "symbol": "stUSD",
     "decimals": 18,
     "logoURI": "/images/tokens/1/0x0022228a2cc5e7ef0274a7baa600d44da5ab5776.svg",
-    "extensions": { "protocol": "Angle" }
+    "extensions": {
+      "protocol": "Angle"
+    }
   },
   {
     "chainId": 42161,
@@ -267,7 +269,10 @@
     "extensions": {
       "underlying": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
       "protocol": "Gains",
-      "ibtRoutes": { "withdraw": false, "redeem": false }
+      "ibtRoutes": {
+        "withdraw": false,
+        "redeem": false
+      }
     }
   },
   {
@@ -331,7 +336,10 @@
     "logoURI": "/images/tokens/1/0x06824c27c8a0dbde5f72f770ec82e3c0fd4dcec3.png",
     "extensions": {
       "underlying": "0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0",
-      "ibtRoutes": { "withdraw": false, "redeem": false }
+      "ibtRoutes": {
+        "withdraw": false,
+        "redeem": false
+      }
     }
   },
   {

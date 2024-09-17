@@ -6,7 +6,7 @@
     "bgUrl": "/images/textures/ether.fiBackground.svg",
     "token": {
       "symbol": "KweETH",
-      "logoURI": "/images/tokens/weETH.svg",
+      "logoURI": "/images/tokens/1/0x2dabcea55a12d73191aece59f508b191fb68adac.svg",
       "underlying": "weETH"
     },
     "multipliers": [
@@ -31,7 +31,7 @@
     "bgUrl": "/images/textures/bedrockBackground.svg",
     "token": {
       "symbol": "uniBTC",
-      "logoURI": "/images/tokens/uniBTC.svg",
+      "logoURI": "/images/tokens/1/0x004e9c3ef86bc1ca1f0bb5c7662861ee93350568.svg",
       "underlying": "uniBTC"
     },
     "multipliers": [
@@ -48,7 +48,7 @@
     "bgUrl": "/images/textures/fxBackground.png",
     "token": {
       "symbol": "arUSD",
-      "logoURI": "/images/tokens/arUSD.svg",
+      "logoURI": "/images/tokens/1/0x07d1718ff05a8c53c8f05adaed57c0d672945f9a.svg",
       "underlying": "rUSD"
     },
     "multipliers": [
@@ -72,7 +72,7 @@
     "protocolName": "Mellow",
     "token": {
       "symbol": "amphrETH",
-      "logoURI": "/images/tokens/amphrETH.svg",
+      "logoURI": "/images/tokens/1/0x06c03069de266f58d10a0724a4f65c3d4fefff4d.svg",
       "underlying": "wstETH"
     },
     "multipliers": [
@@ -93,7 +93,7 @@
     "bgUrl": "/images/textures/bedrockBackground.svg",
     "token": {
       "symbol": "uniETH",
-      "logoURI": "/images/tokens/uniETH.svg",
+      "logoURI": "/images/tokens/1/0x248f43b622ce2f35a14db3fc528284730b619cd5.svg",
       "underlying": "uniETH"
     },
     "multipliers": [
@@ -114,7 +114,7 @@
     "bgUrl": "/images/textures/amphorBackground.png",
     "token": {
       "symbol": "amphrLRT",
-      "logoURI": "/images/tokens/amphrLRT.png",
+      "logoURI": "/images/tokens/1/0x06824c27c8a0dbde5f72f770ec82e3c0fd4dcec3.png",
       "underlying": "wstETH"
     },
     "multipliers": [
@@ -147,7 +147,7 @@
     "bgUrl": "/images/textures/bedrockBackground.svg",
     "token": {
       "symbol": "uniBTC",
-      "logoURI": "/images/tokens/uniBTC.svg",
+      "logoURI": "/images/tokens/10/0x93919784c523f39cacaa98ee0a9d96c3f32b593e.svg",
       "underlying": "uniBTC"
     },
     "multipliers": [
@@ -164,7 +164,7 @@
     "bgUrl": "/images/textures/kernelBackground.png",
     "token": {
       "symbol": "krETH",
-      "logoURI": "/images/tokens/krETH.png",
+      "logoURI": "/images/tokens/1/0xb10a1b53f11aa969bc79dc86948de489e5996f8d.png",
       "underlying": "krETH"
     },
     "multipliers": [
@@ -185,7 +185,7 @@
     "bgUrl": "/images/textures/kernelBackground.png",
     "token": {
       "symbol": "kUSD",
-      "logoURI": "/images/tokens/kUSD.png",
+      "logoURI": "/images/tokens/1/0x0bb9ab78aaf7179b7515e6753d89822b91e670c4.png",
       "underlying": "kUSD"
     },
     "multipliers": [
@@ -206,7 +206,7 @@
     "bgUrl": "/images/textures/kernelBackground.png",
     "token": {
       "symbol": "ksETH",
-      "logoURI": "/images/tokens/ksETH.png",
+      "logoURI": "/images/tokens/1/0x04a40ef57eb9d6265b90367ddbba17a6916a45df.png",
       "underlying": "ksETH"
     },
     "multipliers": [
@@ -227,7 +227,7 @@
     "bgUrl": "/images/textures/resolvBackground.png",
     "token": {
       "symbol": "wstUSR",
-      "logoURI": "/images/tokens/usr.svg",
+      "logoURI": "/images/tokens/1/0x1202f5c7b4b9e47a1a484e8b270be34dbbc75055.svg",
       "underlying": "USR"
     },
     "multipliers": [

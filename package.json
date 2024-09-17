@@ -19,7 +19,7 @@
   "license": "ISC",
   "scripts": {
     "build": "tsup",
-    "format": "prettier --write src/tokens/*.json"
+    "format": "prettier --write src/**/*.json"
   },
   "dependencies": {
     "react": "^18.3.1",

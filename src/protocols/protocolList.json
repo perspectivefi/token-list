@@ -1,240 +1,240 @@
 [
-  {
-    "ptAddress": "0x6def54ae7e38992a7d1ab60d279483ba7f7b0aeb",
-    "chainId": 1,
-    "protocolName": "Karak",
-    "bgUrl": "/images/textures/ether.fiBackground.svg",
-    "token": {
-      "symbol": "KweETH",
-      "logoURI": "/images/tokens/1/0x2dabcea55a12d73191aece59f508b191fb68adac.svg",
-      "underlying": "weETH"
+    {
+        "ptAddress": "0x6def54ae7e38992a7d1ab60d279483ba7f7b0aeb",
+        "chainId": 1,
+        "protocolName": "Karak",
+        "bgUrl": "/images/textures/ether.fiBackground.svg",
+        "token": {
+            "symbol": "KweETH",
+            "logoURI": "/images/tokens/1/0x2dabcea55a12d73191aece59f508b191fb68adac.svg",
+            "underlying": "weETH"
+        },
+        "multipliers": [
+            {
+                "amount": 1.5,
+                "name": "Karak XP"
+            },
+            {
+                "amount": 2,
+                "name": "Ether.fi Points"
+            },
+            {
+                "amount": 1,
+                "name": "EigenLayer Points"
+            }
+        ]
     },
-    "multipliers": [
-      {
-        "amount": 1.5,
-        "name": "Karak XP"
-      },
-      {
-        "amount": 2,
-        "name": "Ether.fi Points"
-      },
-      {
-        "amount": 1,
-        "name": "EigenLayer Points"
-      }
-    ]
-  },
-  {
-    "ptAddress": "0xe617fc640413171100c32cc8dbf69fc7928d895e",
-    "chainId": 1,
-    "protocolName": "Bedrock",
-    "bgUrl": "/images/textures/bedrockBackground.svg",
-    "token": {
-      "symbol": "uniBTC",
-      "logoURI": "/images/tokens/1/0x004e9c3ef86bc1ca1f0bb5c7662861ee93350568.svg",
-      "underlying": "uniBTC"
+    {
+        "ptAddress": "0xe617fc640413171100c32cc8dbf69fc7928d895e",
+        "chainId": 1,
+        "protocolName": "Bedrock",
+        "bgUrl": "/images/textures/bedrockBackground.svg",
+        "token": {
+            "symbol": "uniBTC",
+            "logoURI": "/images/tokens/1/0x004e9c3ef86bc1ca1f0bb5c7662861ee93350568.svg",
+            "underlying": "uniBTC"
+        },
+        "multipliers": [
+            {
+                "amount": 63,
+                "name": "Bedrock diamonds"
+            }
+        ]
     },
-    "multipliers": [
-      {
-        "amount": 63,
-        "name": "Bedrock diamonds"
-      }
-    ]
-  },
-  {
-    "ptAddress": "0xf58e22d224e465fb65f4257573b58dbfb0f704a0",
-    "chainId": 1,
-    "protocolName": "f(x) protocol",
-    "bgUrl": "/images/textures/fxBackground.png",
-    "token": {
-      "symbol": "arUSD",
-      "logoURI": "/images/tokens/1/0x07d1718ff05a8c53c8f05adaed57c0d672945f9a.svg",
-      "underlying": "rUSD"
+    {
+        "ptAddress": "0xf58e22d224e465fb65f4257573b58dbfb0f704a0",
+        "chainId": 1,
+        "protocolName": "f(x) protocol",
+        "bgUrl": "/images/textures/fxBackground.png",
+        "token": {
+            "symbol": "arUSD",
+            "logoURI": "/images/tokens/1/0x07d1718ff05a8c53c8f05adaed57c0d672945f9a.svg",
+            "underlying": "rUSD"
+        },
+        "multipliers": [
+            {
+                "amount": 3,
+                "name": "FX Points"
+            },
+            {
+                "amount": 6,
+                "name": "Ether.fi Points"
+            },
+            {
+                "amount": 2,
+                "name": "EigenLayer Points"
+            }
+        ]
     },
-    "multipliers": [
-      {
-        "amount": 3,
-        "name": "FX Points"
-      },
-      {
-        "amount": 6,
-        "name": "Ether.fi Points"
-      },
-      {
-        "amount": 2,
-        "name": "EigenLayer Points"
-      }
-    ]
-  },
-  {
-    "ptAddress": "0x470f623e8bc3c870f96516b8cbfc6a27e253424d",
-    "chainId": 1,
-    "protocolName": "Mellow",
-    "token": {
-      "symbol": "amphrETH",
-      "logoURI": "/images/tokens/1/0x06c03069de266f58d10a0724a4f65c3d4fefff4d.svg",
-      "underlying": "wstETH"
+    {
+        "ptAddress": "0x470f623e8bc3c870f96516b8cbfc6a27e253424d",
+        "chainId": 1,
+        "protocolName": "Mellow",
+        "token": {
+            "symbol": "amphrETH",
+            "logoURI": "/images/tokens/1/0x06c03069de266f58d10a0724a4f65c3d4fefff4d.svg",
+            "underlying": "wstETH"
+        },
+        "multipliers": [
+            {
+                "amount": 2,
+                "name": "Mellow Points"
+            },
+            {
+                "amount": 1,
+                "name": "Symbiotic Points"
+            }
+        ]
     },
-    "multipliers": [
-      {
-        "amount": 2,
-        "name": "Mellow Points"
-      },
-      {
-        "amount": 1,
-        "name": "Symbiotic Points"
-      }
-    ]
-  },
-  {
-    "ptAddress": "0xd4c0ab44698bca5070624ef62c66b1f4d1488551",
-    "chainId": 1,
-    "protocolName": "Bedrock",
-    "bgUrl": "/images/textures/bedrockBackground.svg",
-    "token": {
-      "symbol": "uniETH",
-      "logoURI": "/images/tokens/1/0x248f43b622ce2f35a14db3fc528284730b619cd5.svg",
-      "underlying": "uniETH"
+    {
+        "ptAddress": "0xd4c0ab44698bca5070624ef62c66b1f4d1488551",
+        "chainId": 1,
+        "protocolName": "Bedrock",
+        "bgUrl": "/images/textures/bedrockBackground.svg",
+        "token": {
+            "symbol": "uniETH",
+            "logoURI": "/images/tokens/1/0x248f43b622ce2f35a14db3fc528284730b619cd5.svg",
+            "underlying": "uniETH"
+        },
+        "multipliers": [
+            {
+                "amount": 6,
+                "name": "Bedrock diamonds"
+            },
+            {
+                "amount": 1,
+                "name": "EigenLayer Points"
+            }
+        ]
     },
-    "multipliers": [
-      {
-        "amount": 6,
-        "name": "Bedrock diamonds"
-      },
-      {
-        "amount": 1,
-        "name": "EigenLayer Points"
-      }
-    ]
-  },
-  {
-    "ptAddress": "0x8f01036563831feabbf3bee396d99b117c032428",
-    "chainId": 1,
-    "protocolName": "Amphor",
-    "bgUrl": "/images/textures/amphorBackground.png",
-    "token": {
-      "symbol": "amphrLRT",
-      "logoURI": "/images/tokens/1/0x06824c27c8a0dbde5f72f770ec82e3c0fd4dcec3.png",
-      "underlying": "wstETH"
+    {
+        "ptAddress": "0x8f01036563831feabbf3bee396d99b117c032428",
+        "chainId": 1,
+        "protocolName": "Amphor",
+        "bgUrl": "/images/textures/amphorBackground.png",
+        "token": {
+            "symbol": "amphrLRT",
+            "logoURI": "/images/tokens/1/0x06824c27c8a0dbde5f72f770ec82e3c0fd4dcec3.png",
+            "underlying": "wstETH"
+        },
+        "multipliers": [
+            {
+                "amount": 1,
+                "name": "Amphor Points"
+            },
+            {
+                "amount": 1,
+                "name": "Mellow Points"
+            },
+            {
+                "amount": 1,
+                "name": "Symbiotic Points"
+            },
+            {
+                "amount": 1,
+                "name": "Zircuit L2 Points"
+            },
+            {
+                "amount": 1,
+                "name": "Swell L2 Points"
+            }
+        ]
     },
-    "multipliers": [
-      {
-        "amount": 1,
-        "name": "Amphor Points"
-      },
-      {
-        "amount": 1,
-        "name": "Mellow Points"
-      },
-      {
-        "amount": 1,
-        "name": "Symbiotic Points"
-      },
-      {
-        "amount": 1,
-        "name": "Zircuit L2 Points"
-      },
-      {
-        "amount": 1,
-        "name": "Swell L2 Points"
-      }
-    ]
-  },
-  {
-    "ptAddress": "0xad3debad39c8e387f59fa025edf16f10e7aa656f",
-    "chainId": 10,
-    "protocolName": "Bedrock",
-    "bgUrl": "/images/textures/bedrockBackground.svg",
-    "token": {
-      "symbol": "uniBTC",
-      "logoURI": "/images/tokens/10/0x93919784c523f39cacaa98ee0a9d96c3f32b593e.svg",
-      "underlying": "uniBTC"
+    {
+        "ptAddress": "0xad3debad39c8e387f59fa025edf16f10e7aa656f",
+        "chainId": 10,
+        "protocolName": "Bedrock",
+        "bgUrl": "/images/textures/bedrockBackground.svg",
+        "token": {
+            "symbol": "uniBTC",
+            "logoURI": "/images/tokens/10/0x93919784c523f39cacaa98ee0a9d96c3f32b593e.svg",
+            "underlying": "uniBTC"
+        },
+        "multipliers": [
+            {
+                "amount": 63,
+                "name": "Bedrock diamonds"
+            }
+        ]
     },
-    "multipliers": [
-      {
-        "amount": 63,
-        "name": "Bedrock diamonds"
-      }
-    ]
-  },
-  {
-    "ptAddress": "0xdeb0ef575c92188091d33dd1ec5b3519182aaa22",
-    "chainId": 1,
-    "protocolName": "Kernel",
-    "bgUrl": "/images/textures/kernelBackground.png",
-    "token": {
-      "symbol": "krETH",
-      "logoURI": "/images/tokens/1/0xb10a1b53f11aa969bc79dc86948de489e5996f8d.png",
-      "underlying": "krETH"
+    {
+        "ptAddress": "0xdeb0ef575c92188091d33dd1ec5b3519182aaa22",
+        "chainId": 1,
+        "protocolName": "Kernel",
+        "bgUrl": "/images/textures/kernelBackground.png",
+        "token": {
+            "symbol": "krETH",
+            "logoURI": "/images/tokens/1/0xb10a1b53f11aa969bc79dc86948de489e5996f8d.png",
+            "underlying": "krETH"
+        },
+        "multipliers": [
+            {
+                "amount": 3,
+                "name": "Karak XP"
+            },
+            {
+                "amount": 3,
+                "name": "Kernel Points"
+            }
+        ]
     },
-    "multipliers": [
-      {
-        "amount": 3,
-        "name": "Karak XP"
-      },
-      {
-        "amount": 3,
-        "name": "Kernel Points"
-      }
-    ]
-  },
-  {
-    "ptAddress": "0x581b928365b2c339db2b66572e8d9d7cfcca0f80",
-    "chainId": 1,
-    "protocolName": "Kernel",
-    "bgUrl": "/images/textures/kernelBackground.png",
-    "token": {
-      "symbol": "kUSD",
-      "logoURI": "/images/tokens/1/0x0bb9ab78aaf7179b7515e6753d89822b91e670c4.png",
-      "underlying": "kUSD"
+    {
+        "ptAddress": "0x581b928365b2c339db2b66572e8d9d7cfcca0f80",
+        "chainId": 1,
+        "protocolName": "Kernel",
+        "bgUrl": "/images/textures/kernelBackground.png",
+        "token": {
+            "symbol": "kUSD",
+            "logoURI": "/images/tokens/1/0x0bb9ab78aaf7179b7515e6753d89822b91e670c4.png",
+            "underlying": "kUSD"
+        },
+        "multipliers": [
+            {
+                "amount": 3,
+                "name": "Karak XP"
+            },
+            {
+                "amount": 3,
+                "name": "Kernel Points"
+            }
+        ]
     },
-    "multipliers": [
-      {
-        "amount": 3,
-        "name": "Karak XP"
-      },
-      {
-        "amount": 3,
-        "name": "Kernel Points"
-      }
-    ]
-  },
-  {
-    "ptAddress": "0xc3a20131ee6853fc4d444c9ad952c93f77c0b71b",
-    "chainId": 1,
-    "protocolName": "Kernel",
-    "bgUrl": "/images/textures/kernelBackground.png",
-    "token": {
-      "symbol": "ksETH",
-      "logoURI": "/images/tokens/1/0x04a40ef57eb9d6265b90367ddbba17a6916a45df.png",
-      "underlying": "ksETH"
+    {
+        "ptAddress": "0xc3a20131ee6853fc4d444c9ad952c93f77c0b71b",
+        "chainId": 1,
+        "protocolName": "Kernel",
+        "bgUrl": "/images/textures/kernelBackground.png",
+        "token": {
+            "symbol": "ksETH",
+            "logoURI": "/images/tokens/1/0x04a40ef57eb9d6265b90367ddbba17a6916a45df.png",
+            "underlying": "ksETH"
+        },
+        "multipliers": [
+            {
+                "amount": 3,
+                "name": "Karak XP"
+            },
+            {
+                "amount": 3,
+                "name": "Kernel Points"
+            }
+        ]
     },
-    "multipliers": [
-      {
-        "amount": 3,
-        "name": "Karak XP"
-      },
-      {
-        "amount": 3,
-        "name": "Kernel Points"
-      }
-    ]
-  },
-  {
-    "ptAddress": "0xd0097149aa4cc0d0e1fc99b8bd73fc17dc32c1e9",
-    "chainId": 1,
-    "protocolName": "Resolv",
-    "bgUrl": "/images/textures/resolvBackground.png",
-    "token": {
-      "symbol": "wstUSR",
-      "logoURI": "/images/tokens/1/0x1202f5c7b4b9e47a1a484e8b270be34dbbc75055.svg",
-      "underlying": "USR"
-    },
-    "multipliers": [
-      {
-        "amount": 30,
-        "name": "Resolv points"
-      }
-    ]
-  }
+    {
+        "ptAddress": "0xd0097149aa4cc0d0e1fc99b8bd73fc17dc32c1e9",
+        "chainId": 1,
+        "protocolName": "Resolv",
+        "bgUrl": "/images/textures/resolvBackground.png",
+        "token": {
+            "symbol": "wstUSR",
+            "logoURI": "/images/tokens/1/0x1202f5c7b4b9e47a1a484e8b270be34dbbc75055.svg",
+            "underlying": "USR"
+        },
+        "multipliers": [
+            {
+                "amount": 30,
+                "name": "Resolv points"
+            }
+        ]
+    }
 ]

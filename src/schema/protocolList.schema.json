@@ -1,4 +1,27 @@
 {
+    "$defs": {
+        "multiplierArray": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "additionalProperties": false,
+                "required": [
+                    "amount",
+                    "name"
+                ],
+                "properties": {
+                    "amount": {
+                        "type": "number",
+                        "minimum": 1,
+                        "maximum": 1000
+                    },
+                    "name": {
+                        "type": "string"
+                    }
+                }
+            }
+        }
+    },
     "type": "array",
     "uniqueItems": true,
     "items": {
@@ -46,25 +69,23 @@
                 }
             },
             "multipliers": {
-                "type": "array",
-                "items": {
-                    "type": "object",
-                    "additionalProperties": false,
-                    "required": [
-                        "amount",
-                        "name"
-                    ],
-                    "properties": {
-                        "amount": {
-                            "type": "number",
-                            "minimum": 1,
-                            "maximum": 1000
-                        },
-                        "name": {
-                            "type": "string"
+                "anyOf": [
+                    {
+                        "$ref": "multiplierArray"
+                    },
+                    {
+                        "type": "object",
+                        "additionalProperties": false,
+                        "properties": {
+                            "lp": {
+                                "$ref": "multiplierArray"
+                            },
+                            "yt": {
+                                "$ref": "multiplierArray"
+                            }
                         }
                     }
-                }
+                ]
             }
         }
     }

@@ -236,5 +236,29 @@
                 "name": "Resolv points"
             }
         ]
+    },
+    {
+        "ptAddress": "0x4ee81b93cf490f7157144c82ff07557cffd2b86b",
+        "chainId": 1,
+        "protocolName": "Morpho (Usual Boosted USDC)",
+        "token": {
+            "symbol": "USUALUSDC+",
+            "logoURI": "/images/tokens/USUALUSDC.svg",
+            "underlying": "USDC"
+        },
+        "multipliers": {
+            "lp": [
+                {
+                    "amount": 1,
+                    "name": "Pill/day per $1 of USUALUSDC"
+                }
+            ],
+            "yt": [
+                {
+                    "amount": 1,
+                    "name": "Pill/day"
+                }
+            ]
+        }
     }
 ]

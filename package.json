@@ -18,7 +18,8 @@
   "author": "Spectra",
   "license": "ISC",
   "scripts": {
-    "build": "tsup"
+    "build": "tsup",
+    "format": "prettier --write src/**/*.json"
   },
   "dependencies": {
     "react": "^18.3.1",

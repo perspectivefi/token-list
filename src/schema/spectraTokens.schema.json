@@ -1,121 +1,121 @@
 {
-  "type": "array",
-  "uniqueItems": true,
-  "items": {
-    "type": "object",
-    "additionalProperties": false,
-    "required": [
-      "chainId",
-      "address",
-      "name",
-      "symbol",
-      "decimals",
-      "logoURI"
-    ],
-    "properties": {
-      "chainId": {
-        "type": "integer"
-      },
-      "address": {
-        "type": "string",
-        "pattern": "^0x[a-fA-F0-9]{40}$"
-      },
-      "name": {
-        "type": "string"
-      },
-      "symbol": {
-        "type": "string"
-      },
-      "decimals": {
-        "type": "integer",
-        "minimum": 1,
-        "maximum": 18
-      },
-      "logoURI": {
-        "type": "string"
-      },
-      "extensions": {
+    "type": "array",
+    "uniqueItems": true,
+    "items": {
         "type": "object",
         "additionalProperties": false,
+        "required": [
+            "chainId",
+            "address",
+            "name",
+            "symbol",
+            "decimals",
+            "logoURI"
+        ],
         "properties": {
-          "underlying": {
-            "type": "string",
-            "pattern": "^0x[a-fA-F0-9]{40}$"
-          },
-          "protocol": {
-            "type": "string"
-          },
-          "externalLink": {
-            "type": "string",
-            "pattern": "(http|https)\\:\\/\\/[a-zA-Z0-9\\-\\.]+\\.[a-zA-Z]{2,3}(\\/\\S*)?"
-          },
-          "faucetAddress": {
-            "type": "string",
-            "pattern": "^0x[a-fA-F0-9]{40}$"
-          },
-          "aprEndpoint": {
-            "type": "string"
-          },
-          "negativeYield": {
-            "type": "boolean"
-          },
-          "tokenOut": {
-            "type": "string",
-            "pattern": "^0x[a-fA-F0-9]{40}$"
-          },
-          "ibtRoutes": {
-            "type": "object",
-            "additionalProperties": false,
-            "properties": {
-              "deposit": {
-                "type": "boolean"
-              },
-              "mint": {
-                "type": "boolean"
-              },
-              "withdraw": {
-                "type": "boolean"
-              },
-              "redeem": {
-                "type": "boolean"
-              },
-              "createPool": {
-                "type": "boolean"
-              },
-              "unwrap": {
-                "type": "boolean"
-              }
-            }
-          },
-          "vault": {
-            "type": "object",
-            "additionalProperties": false,
-            "properties": {
-              "chainId": {
+            "chainId": {
                 "type": "integer"
-              },
-              "address": {
+            },
+            "address": {
                 "type": "string",
                 "pattern": "^0x[a-fA-F0-9]{40}$"
-              },
-              "name": {
+            },
+            "name": {
                 "type": "string"
-              },
-              "symbol": {
+            },
+            "symbol": {
                 "type": "string"
-              },
-              "decimals": {
+            },
+            "decimals": {
                 "type": "integer",
                 "minimum": 1,
                 "maximum": 18
-              },
-              "logoURI": {
+            },
+            "logoURI": {
                 "type": "string"
-              }
+            },
+            "extensions": {
+                "type": "object",
+                "additionalProperties": false,
+                "properties": {
+                    "underlying": {
+                        "type": "string",
+                        "pattern": "^0x[a-fA-F0-9]{40}$"
+                    },
+                    "protocol": {
+                        "type": "string"
+                    },
+                    "externalLink": {
+                        "type": "string",
+                        "pattern": "(http|https)\\:\\/\\/[a-zA-Z0-9\\-\\.]+\\.[a-zA-Z]{2,3}(\\/\\S*)?"
+                    },
+                    "faucetAddress": {
+                        "type": "string",
+                        "pattern": "^0x[a-fA-F0-9]{40}$"
+                    },
+                    "aprEndpoint": {
+                        "type": "string"
+                    },
+                    "negativeYield": {
+                        "type": "boolean"
+                    },
+                    "tokenOut": {
+                        "type": "string",
+                        "pattern": "^0x[a-fA-F0-9]{40}$"
+                    },
+                    "ibtRoutes": {
+                        "type": "object",
+                        "additionalProperties": false,
+                        "properties": {
+                            "deposit": {
+                                "type": "boolean"
+                            },
+                            "mint": {
+                                "type": "boolean"
+                            },
+                            "withdraw": {
+                                "type": "boolean"
+                            },
+                            "redeem": {
+                                "type": "boolean"
+                            },
+                            "createPool": {
+                                "type": "boolean"
+                            },
+                            "unwrap": {
+                                "type": "boolean"
+                            }
+                        }
+                    },
+                    "vault": {
+                        "type": "object",
+                        "additionalProperties": false,
+                        "properties": {
+                            "chainId": {
+                                "type": "integer"
+                            },
+                            "address": {
+                                "type": "string",
+                                "pattern": "^0x[a-fA-F0-9]{40}$"
+                            },
+                            "name": {
+                                "type": "string"
+                            },
+                            "symbol": {
+                                "type": "string"
+                            },
+                            "decimals": {
+                                "type": "integer",
+                                "minimum": 1,
+                                "maximum": 18
+                            },
+                            "logoURI": {
+                                "type": "string"
+                            }
+                        }
+                    }
+                }
             }
-          }
         }
-      }
     }
-  }
 }

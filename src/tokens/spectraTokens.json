@@ -404,6 +404,14 @@
         "logoURI": "/images/tokens/42161/0x2f2a2543b76a4166549f7aab2e75bef0aefc5b0f.svg"
     },
     {
+        "chainId": 1,
+        "address": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+        "name": "Wrapped BTC",
+        "symbol": "WBTC",
+        "decimals": 8,
+        "logoURI": "/images/tokens/1/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599.svg"
+    },
+    {
         "chainId": 42161,
         "address": "0x7dff72693f6a4149b17e7c6314655f6a9f7c8b33",
         "name": "Gho Token",

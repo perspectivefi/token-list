@@ -404,6 +404,14 @@
         "logoURI": "/images/tokens/42161/0x2f2a2543b76a4166549f7aab2e75bef0aefc5b0f.svg"
     },
     {
+        "chainId": 1,
+        "address": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+        "name": "Wrapped BTC",
+        "symbol": "WBTC",
+        "decimals": 8,
+        "logoURI": "/images/tokens/1/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599.svg"
+    },
+    {
         "chainId": 42161,
         "address": "0x7dff72693f6a4149b17e7c6314655f6a9f7c8b33",
         "name": "Gho Token",
@@ -969,5 +977,13 @@
         "symbol": "superOETHb",
         "decimals": 18,
         "logoURI": "/images/tokens/8453/0xdbfefd2e8460a6ee4955a68582f85708baea60a3.svg"
+    },
+    {
+        "chainId": 1,
+        "address": "0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0",
+        "name": "Wrapped stETH",
+        "symbol": "wstETH",
+        "decimals": 18,
+        "logoURI": "/images/tokens/1/0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0.svg"
     }
 ]

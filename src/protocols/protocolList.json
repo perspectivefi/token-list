@@ -260,5 +260,42 @@
                 }
             ]
         }
+    },
+    {
+        "ptAddress": "0x6c8494e596a7b3847a4e8f9f49014bab5730a19c",
+        "chainId": 1,
+        "protocolName": "KelpDAO",
+        "bgUrl": "/images/textures/kelpDAOBackground.svg",
+        "token": {
+            "symbol": "agETH",
+            "logoURI": "/images/tokens/1/0xe1b4d34e8754600962cd944b535180bd758e6c2e.svg",
+            "underlying": "rsETH"
+        },
+        "multipliers": [
+            {
+                "amount": 3,
+                "name": "Kelp Miles"
+            },
+            {
+                "amount": 3,
+                "name": "Karak Points"
+            },
+            {
+                "amount": 1,
+                "name": "EigenLayer Points"
+            },
+            {
+                "amount": 3,
+                "name": "Infra Partner"
+            },
+            {
+                "amount": 1,
+                "name": "Scroll [Top Marks]"
+            },
+            {
+                "amount": 1,
+                "name": "Linea LXP-L [Boosted]"
+            }
+        ]
     }
 ]

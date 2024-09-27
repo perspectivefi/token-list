@@ -285,7 +285,7 @@
                 "name": "EigenLayer Points"
             },
             {
-                "amount": 3,
+                "amount": 3.5,
                 "name": "Infra Partner"
             },
             {
@@ -293,8 +293,8 @@
                 "name": "Scroll [Top Marks]"
             },
             {
-                "amount": 1,
-                "name": "Linea LXP-L [Boosted]"
+                "amount": 1.15,
+                "name": "Linea LXP-L Boost"
             }
         ]
     }

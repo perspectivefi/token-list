@@ -987,6 +987,18 @@
         "logoURI": "/images/tokens/1/0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0.svg"
     },
     {
+        "address": "0xa88594d404727625a9437c3f886c7643872296ae",
+        "chainId": 8453,
+        "name": "WELL",
+        "symbol": "WELL",
+        "decimals": 18,
+        "extensions": {
+            "protocol": "Harvest (ExtraFi - Lend)",
+            "externalLink": "https://app.harvest.finance/base/0x97c07792833b0DE228a2C33466729ED1D588B5F2"
+        },
+        "logoURI": "/images/tokens/8453/0xa88594d404727625a9437c3f886c7643872296ae.svg"
+    },
+    {
         "address": "0x60a3e35cc302bfa44cb288bc5a4f316fdb1adb42",
         "chainId": 8453,
         "name": "EURC",

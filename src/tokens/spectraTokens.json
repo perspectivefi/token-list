@@ -1,989 +1,1001 @@
 [
-    {
-        "chainId": 1,
-        "address": "0x4104b135dbc9609fc1a9490e61369036497660c8",
-        "name": "Spectra",
-        "symbol": "APW",
-        "decimals": 18,
-        "logoURI": "/images/tokens/1/0x4104b135dbc9609fc1a9490e61369036497660c8.svg"
-    },
-    {
-        "chainId": 1,
-        "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
-        "name": "USDC",
-        "symbol": "USDC",
-        "decimals": 6,
-        "logoURI": "/images/tokens/1/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48.png"
-    },
-    {
-        "chainId": 1,
-        "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
-        "name": "Ether",
-        "symbol": "ETH",
-        "decimals": 18,
-        "logoURI": "/images/tokens/1/0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee.svg"
-    },
-    {
-        "chainId": 11155111,
-        "address": "0x6C5235a3FdF46A07EabC0CDDf0234D67D189CD87",
-        "name": "DAI",
-        "symbol": "DAI",
-        "decimals": 18,
-        "logoURI": "/images/tokens/11155111/0x6c5235a3fdf46a07eabc0cddf0234d67d189cd87.svg",
-        "extensions": {
-            "faucetAddress": "0x400455dd14e0B52b280A5178cA1329a267FaC5C6"
-        }
-    },
-    {
-        "chainId": 11155111,
-        "address": "0x5bae48a51253630173e0c53C0643737Cca49c2D5",
-        "name": "Spectra DAI",
-        "symbol": "sDAI",
-        "decimals": 18,
-        "logoURI": "/images/tokens/11155111/0x5bae48a51253630173e0c53c0643737cca49c2d5.svg",
-        "extensions": {
-            "aprEndpoint": "https://mock.endpoint.com/ibt-apr",
-            "faucetAddress": "0x400455dd14e0B52b280A5178cA1329a267FaC5C6",
-            "underlying": "0x6C5235a3FdF46A07EabC0CDDf0234D67D189CD87"
-        }
-    },
-    {
-        "chainId": 11155111,
-        "address": "0x0372cE7418865080D82d0B6677a692a2c045e4D3",
-        "name": "USDT",
-        "symbol": "USDT",
-        "decimals": 18,
-        "logoURI": "/images/tokens/11155111/0x0372ce7418865080d82d0b6677a692a2c045e4d3.svg",
-        "extensions": {
-            "faucetAddress": "0xBCCa8F90f220857Bd9f973f6DF3e0dBd667C8E19"
-        }
-    },
-    {
-        "chainId": 11155111,
-        "address": "0xD7fd5213B94Cb3B2BBFdeDf5fB5Ac7b5644552b1",
-        "name": "Spectra USDT",
-        "symbol": "sUSDT",
-        "decimals": 18,
-        "logoURI": "/images/tokens/11155111/0xd7fd5213b94cb3b2bbfdedf5fb5ac7b5644552b1.svg",
-        "extensions": {
-            "faucetAddress": "0xBCCa8F90f220857Bd9f973f6DF3e0dBd667C8E19",
-            "underlying": "0x0372cE7418865080D82d0B6677a692a2c045e4D3"
-        }
-    },
-    {
-        "chainId": 11155111,
-        "address": "0xA7e2FCc6E2e9eA6e24D8e5f62586Cc6466244e2F",
-        "name": "BTC",
-        "symbol": "BTC",
-        "decimals": 18,
-        "logoURI": "/images/tokens/11155111/0xa7e2fcc6e2e9ea6e24d8e5f62586cc6466244e2f.png",
-        "extensions": {
-            "faucetAddress": "0xA62BA1b39bD9d95c29E3D30548Da425195dc2aa9"
-        }
-    },
-    {
-        "chainId": 11155111,
-        "address": "0x4711BE390EcE629254192393fEE52595A4d733C9",
-        "name": "Spectra BTC",
-        "symbol": "sBTC",
-        "decimals": 18,
-        "logoURI": "/images/tokens/11155111/0x4711be390ece629254192393fee52595a4d733c9.png",
-        "extensions": {
-            "faucetAddress": "0xA62BA1b39bD9d95c29E3D30548Da425195dc2aa9",
-            "underlying": "0xA7e2FCc6E2e9eA6e24D8e5f62586Cc6466244e2F"
-        }
-    },
-    {
-        "chainId": 11155111,
-        "address": "0x7F1ca0535F6f44Dc443a1C67001920338e50DBeE",
-        "name": "ETH",
-        "symbol": "ETH",
-        "decimals": 18,
-        "logoURI": "/images/tokens/11155111/0x7f1ca0535f6f44dc443a1c67001920338e50dbee.svg",
-        "extensions": {
-            "faucetAddress": "0xCc88435299eb800b5C34E3C68b309D3ed8FA820C"
-        }
-    },
-    {
-        "chainId": 11155111,
-        "address": "0x4Ef8941Ed563b1CA5D126b02fD4C0f103F7cd46c",
-        "name": "Spectra ETH",
-        "symbol": "sETH",
-        "decimals": 18,
-        "logoURI": "/images/tokens/11155111/0x4ef8941ed563b1ca5d126b02fd4c0f103f7cd46c.svg",
-        "extensions": {
-            "faucetAddress": "0xCc88435299eb800b5C34E3C68b309D3ed8FA820C",
-            "underlying": "0x7F1ca0535F6f44Dc443a1C67001920338e50DBeE"
-        }
-    },
-    {
-        "chainId": 11155111,
-        "address": "0x14Ed4B6D2FCcE4301D19f52171Db9dA20FB04308",
-        "name": "eUSDC",
-        "symbol": "eUSDC",
-        "decimals": 6,
-        "logoURI": "/images/tokens/11155111/0x14ed4b6d2fcce4301d19f52171db9da20fb04308.png",
-        "extensions": {
-            "faucetAddress": "0x7Dc0CAB183F58c8885312a7ffdA418c57148802D"
-        }
-    },
-    {
-        "chainId": 11155111,
-        "address": "0x494AbFf3Da6af489F8F18048c161b380d88BB5f5",
-        "name": "Spectra eUSDC",
-        "symbol": "seUSDC",
-        "decimals": 6,
-        "logoURI": "/images/tokens/11155111/0x494abff3da6af489f8f18048c161b380d88bb5f5.png",
-        "extensions": {
-            "faucetAddress": "0x7Dc0CAB183F58c8885312a7ffdA418c57148802D",
-            "underlying": "0x14Ed4B6D2FCcE4301D19f52171Db9dA20FB04308"
-        }
-    },
-    {
-        "chainId": 11155111,
-        "address": "0x1798A5257AD9984C6728431102995b5B9d6a14F5",
-        "name": "eUSDT",
-        "symbol": "eUSDT",
-        "decimals": 6,
-        "logoURI": "/images/tokens/11155111/0x1798a5257ad9984c6728431102995b5b9d6a14f5.svg",
-        "extensions": {
-            "faucetAddress": "0x0A1C396a157AB6B3EDCf5BC4216784BAa4Ba2dd7"
-        }
-    },
-    {
-        "chainId": 11155111,
-        "address": "0x1e23089A9122cA256C1f6bdA52279eF35A9e5994",
-        "name": "Spectra seUSDT",
-        "symbol": "seUSDT",
-        "decimals": 18,
-        "logoURI": "/images/tokens/11155111/0x1e23089a9122ca256c1f6bda52279ef35a9e5994.svg",
-        "extensions": {
-            "faucetAddress": "0x0A1C396a157AB6B3EDCf5BC4216784BAa4Ba2dd7",
-            "underlying": "0x1798A5257AD9984C6728431102995b5B9d6a14F5"
-        }
-    },
-    {
-        "address": "0x2dabcea55a12d73191aece59f508b191fb68adac",
-        "chainId": 1,
-        "name": "Karak - Wrapped eETH",
-        "symbol": "KweETH",
-        "decimals": 18,
-        "logoURI": "/images/tokens/1/0x2dabcea55a12d73191aece59f508b191fb68adac.svg",
-        "extensions": {
-            "underlying": "0xcd5fe23c85820f7b72d0926fc9b05b43e359b7ee",
-            "ibtRoutes": {
-                "deposit": false,
-                "mint": false,
-                "withdraw": false,
-                "redeem": false
-            },
-            "protocol": "Karak"
-        }
-    },
-    {
-        "chainId": 1,
-        "address": "0x0022228a2cc5e7ef0274a7baa600d44da5ab5776",
-        "name": "Angle Staked USDA",
-        "symbol": "stUSD",
-        "decimals": 18,
-        "logoURI": "/images/tokens/1/0x0022228a2cc5e7ef0274a7baa600d44da5ab5776.svg",
-        "extensions": {
-            "protocol": "Angle"
-        }
-    },
-    {
-        "chainId": 42161,
-        "address": "0x0000206329b97db379d5e1bf586bbdb969c63274",
-        "name": "USDA",
-        "symbol": "USDA",
-        "decimals": 18,
-        "logoURI": "/images/tokens/42161/0x0000206329b97db379d5e1bf586bbdb969c63274.svg"
-    },
-    {
-        "chainId": 42161,
-        "address": "0x0022228a2cc5e7ef0274a7baa600d44da5ab5776",
-        "name": "Angle Staked USDA",
-        "symbol": "stUSD",
-        "decimals": 18,
-        "logoURI": "/images/tokens/42161/0x0022228a2cc5e7ef0274a7baa600d44da5ab5776.svg",
-        "extensions": {
-            "underlying": "0x0000206329b97db379d5e1bf586bbdb969c63274",
-            "protocol": "Angle"
-        }
-    },
-    {
-        "chainId": 1,
-        "address": "0x0000206329b97db379d5e1bf586bbdb969c63274",
-        "name": "USDA",
-        "symbol": "USDA",
-        "decimals": 18,
-        "logoURI": "/images/tokens/1/0x0000206329b97db379d5e1bf586bbdb969c63274.svg"
-    },
-    {
-        "chainId": 1,
-        "address": "0x40d16fc0246ad3160ccc09b8d0d3a2cd28ae6c2f",
-        "name": "GHO",
-        "symbol": "GHO",
-        "decimals": 18,
-        "logoURI": "/images/tokens/1/0x40d16fc0246ad3160ccc09b8d0d3a2cd28ae6c2f.svg"
-    },
-    {
-        "chainId": 1,
-        "address": "0xa8258deE2a677874a48F5320670A869D74f0cbC1",
-        "name": "Warlord Token",
-        "symbol": "WAR",
-        "decimals": 18,
-        "logoURI": "/images/tokens/1/0xa8258dee2a677874a48f5320670a869d74f0cbc1.svg",
-        "extensions": {
-            "underlying": "0x2fc1E74BC8A6D15fE768c10C2EDe7D6d95ec27e9",
-            "protocol": "Paladin"
-        }
-    },
-    {
-        "chainId": 1,
-        "address": "0x2fc1e74bc8a6d15fe768c10c2ede7d6d95ec27e9",
-        "name": "Tholgar Warlord Vault",
-        "symbol": "thWAR",
-        "decimals": 18,
-        "logoURI": "/images/tokens/1/0x2fc1e74bc8a6d15fe768c10c2ede7d6d95ec27e9.png",
-        "extensions": {
-            "underlying": "0xa8258deE2a677874a48F5320670A869D74f0cbC1",
-            "protocol": "Tholgar"
-        }
-    },
-    {
-        "chainId": 42161,
-        "address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
-        "name": "Dai Stablecoin",
-        "symbol": "DAI",
-        "decimals": 18,
-        "logoURI": "/images/tokens/42161/0xda10009cbd5d07dd0cecc66161fc93d7c9000da1.svg"
-    },
-    {
-        "chainId": 42161,
-        "address": "0xd85e038593d7a098614721eae955ec2022b9b91b",
-        "name": "Gains Network DAI",
-        "symbol": "gDAI",
-        "decimals": 18,
-        "logoURI": "/images/tokens/42161/0xd85e038593d7a098614721eae955ec2022b9b91b.webp",
-        "extensions": {
-            "underlying": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
-            "protocol": "Gains",
-            "ibtRoutes": {
-                "withdraw": false,
-                "redeem": false
-            }
-        }
-    },
-    {
-        "chainId": 1,
-        "address": "0x43e54c2e7b3e294de3a155785f52ab49d87b9922",
-        "name": "Aladdin sdCRV",
-        "symbol": "asdCRV",
-        "decimals": 18,
-        "logoURI": "/images/tokens/1/0x43e54c2e7b3e294de3a155785f52ab49d87b9922.png",
-        "extensions": {
-            "underlying": "0xD1b5651E55D4CeeD36251c61c50C889B36F6abB5",
-            "protocol": "Aladdin"
-        }
-    },
-    {
-        "chainId": 1,
-        "address": "0x856c4Efb76C1D1AE02e20CEB03A2A6a08b0b8dC3",
-        "name": "Origin Ether",
-        "symbol": "OETH",
-        "decimals": 18,
-        "logoURI": "/images/tokens/1/0x856c4efb76c1d1ae02e20ceb03a2a6a08b0b8dc3.png"
-    },
-    {
-        "chainId": 1,
-        "address": "0xdcee70654261af21c44c093c300ed3bb97b78192",
-        "name": "Wrapped OETH",
-        "symbol": "WOETH",
-        "decimals": 18,
-        "logoURI": "/images/tokens/1/0xdcee70654261af21c44c093c300ed3bb97b78192.png",
-        "extensions": {
-            "underlying": "0x856c4Efb76C1D1AE02e20CEB03A2A6a08b0b8dC3",
-            "protocol": "Origin"
-        }
-    },
-    {
-        "chainId": 1,
-        "address": "0x07D1718fF05a8C53C8F05aDAEd57C0d672945f9a",
-        "name": "Aladdin rUSD",
-        "symbol": "arUSD",
-        "decimals": 18,
-        "logoURI": "/images/tokens/1/0x07d1718ff05a8c53c8f05adaed57c0d672945f9a.svg",
-        "extensions": {
-            "underlying": "0x65d72aa8da931f047169112fcf34f52dbaae7d18",
-            "protocol": "f(x) protocol"
-        }
-    },
-    {
-        "chainId": 1,
-        "address": "0x5fD13359Ba15A84B76f7F87568309040176167cd",
-        "name": "Amphor Restaked ETH",
-        "symbol": "amphrETH",
-        "decimals": 18,
-        "logoURI": "/images/tokens/1/0x5fd13359ba15a84b76f7f87568309040176167cd.svg"
-    },
-    {
-        "chainId": 1,
-        "address": "0x06824C27C8a0DbDe5F72f770eC82e3c0FD4DcEc3",
-        "name": "Amphor Symbiotic LRT (WSTETH)",
-        "symbol": "amphrLRT",
-        "decimals": 18,
-        "logoURI": "/images/tokens/1/0x06824c27c8a0dbde5f72f770ec82e3c0fd4dcec3.png",
-        "extensions": {
-            "underlying": "0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0",
-            "ibtRoutes": {
-                "withdraw": false,
-                "redeem": false
-            }
-        }
-    },
-    {
-        "chainId": 42161,
-        "address": "0x24174022D382CD155C33A847404cDA5Bc7978802",
-        "name": "Farm WBTC",
-        "symbol": "fWBTC",
-        "decimals": 8,
-        "logoURI": "/images/tokens/42161/0x24174022d382cd155c33a847404cda5bc7978802.svg",
-        "extensions": {
-            "negativeYield": true,
-            "underlying": "0x2f2a2543b76a4166549f7aab2e75bef0aefc5b0f",
-            "protocol": "Harvest"
-        }
-    },
-    {
-        "chainId": 1,
-        "address": "0x65d72aa8da931f047169112fcf34f52dbaae7d18",
-        "name": "f(x) rUSD",
-        "symbol": "rUSD",
-        "decimals": 18,
-        "logoURI": "/images/tokens/1/0x65d72aa8da931f047169112fcf34f52dbaae7d18.svg"
-    },
-    {
-        "chainId": 42161,
-        "address": "0xdfd2214236b60fc0485288c959cb07da4f6a15f7",
-        "name": "FARM_DAI",
-        "symbol": "fDAI",
-        "decimals": 18,
-        "logoURI": "/images/tokens/42161/0xdfd2214236b60fc0485288c959cb07da4f6a15f7.svg",
-        "extensions": {
-            "underlying": "0xda10009cbd5d07dd0cecc66161fc93d7c9000da1",
-            "protocol": "Harvest"
-        }
-    },
-    {
-        "chainId": 42161,
-        "address": "0xaf88d065e77c8cc2239327c5edb3a432268e5831",
-        "name": "USD Coin",
-        "symbol": "USDC",
-        "decimals": 6,
-        "logoURI": "/images/tokens/42161/0xaf88d065e77c8cc2239327c5edb3a432268e5831.svg"
-    },
-    {
-        "chainId": 42161,
-        "address": "0x6faf8b7ffee3306efcfc2ba9fec912b4d49834c1",
-        "name": "USDC-A yVault",
-        "symbol": "yvUSDC-A",
-        "decimals": 6,
-        "logoURI": "/images/tokens/42161/0x6faf8b7ffee3306efcfc2ba9fec912b4d49834c1.svg",
-        "extensions": {
-            "underlying": "0xaf88d065e77c8cc2239327c5edb3a432268e5831",
-            "protocol": "Yearn"
-        }
-    },
-    {
-        "chainId": 42161,
-        "address": "0x2f2a2543b76a4166549f7aab2e75bef0aefc5b0f",
-        "name": "Wrapped BTC",
-        "symbol": "WBTC",
-        "decimals": 8,
-        "logoURI": "/images/tokens/42161/0x2f2a2543b76a4166549f7aab2e75bef0aefc5b0f.svg"
-    },
-    {
-        "chainId": 1,
-        "address": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
-        "name": "Wrapped BTC",
-        "symbol": "WBTC",
-        "decimals": 8,
-        "logoURI": "/images/tokens/1/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599.svg"
-    },
-    {
-        "chainId": 42161,
-        "address": "0x7dff72693f6a4149b17e7c6314655f6a9f7c8b33",
-        "name": "Gho Token",
-        "symbol": "GHO",
-        "decimals": 18,
-        "logoURI": "/images/tokens/42161/0x7dff72693f6a4149b17e7c6314655f6a9f7c8b33.svg"
-    },
-    {
-        "chainId": 42161,
-        "address": "0x85050bedc80ea28e53db5f80f165d87f29d2a1bc",
-        "decimals": 18,
-        "name": "FARM_GHO",
-        "symbol": "fGHO",
-        "logoURI": "/images/tokens/42161/0x85050bedc80ea28e53db5f80f165d87f29d2a1bc.svg",
-        "extensions": {
-            "underlying": "0x7dff72693f6a4149b17e7c6314655f6a9f7c8b33",
-            "protocol": "Harvest"
-        }
-    },
-    {
-        "chainId": 1,
-        "address": "0x8668a15b7b023dc77b372a740fcb8939e15257cf",
-        "decimals": 18,
-        "name": "Asymmetry Finance afCVX",
-        "symbol": "afCVX",
-        "logoURI": "/images/tokens/1/0x8668a15b7b023dc77b372a740fcb8939e15257cf.svg",
-        "extensions": {
-            "underlying": "0x4e3fbd56cd56c3e72c1403e103b45db9da5b9d2b",
-            "protocol": "Asymmetry"
-        }
-    },
-    {
-        "chainId": 42161,
-        "address": "0x02Ab76B19944BdEc4d4c612468bB6aF3AC76B15D",
-        "decimals": 18,
-        "name": "FARM_LP-WETH",
-        "symbol": "fLP-WETH",
-        "logoURI": "/images/tokens/42161/0x02ab76b19944bdec4d4c612468bb6af3ac76b15d.svg",
-        "extensions": {
-            "underlying": "0xe62880cc6872c9e9fb1ddd73f400850fdabe798d",
-            "protocol": "Harvest"
-        }
-    },
-    {
-        "chainId": 42161,
-        "address": "0xe62880cc6872c9e9fb1ddd73f400850fdabe798d",
-        "decimals": 18,
-        "name": "Wombat Wrapped Ether Asset",
-        "symbol": "LP-WETH",
-        "logoURI": "/images/tokens/42161/0xe62880cc6872c9e9fb1ddd73f400850fdabe798d.svg"
-    },
-    {
-        "chainId": 42161,
-        "address": "0x7C11F78Ce78768518D743E81Fdfa2F860C6b9A77",
-        "name": "GMX Market gmBTC",
-        "symbol": "gmBTC",
-        "decimals": 18,
-        "logoURI": "/images/tokens/42161/0x7c11f78ce78768518d743e81fdfa2f860c6b9a77.svg"
-    },
-    {
-        "chainId": 10,
-        "address": "0x64831f82e3543006413897c03f59518cecae02b4",
-        "name": "Reward Cow Velo Op ezETH-wstETH",
-        "symbol": "ezETH-wstETH [CLM Pool]",
-        "decimals": 18,
-        "logoURI": "/images/tokens/10/0x64831f82e3543006413897c03f59518cecae02b4.svg"
-    },
-    {
-        "chainId": 8453,
-        "address": "0x0b0193fad49de45f5e2b0a9f5d6bc3bb7d281688",
-        "name": "FARM_WETH",
-        "symbol": "fWETH",
-        "decimals": 18,
-        "logoURI": "/images/tokens/8453/0x0b0193fad49de45f5e2b0a9f5d6bc3bb7d281688.svg",
-        "extensions": {
-            "underlying": "0x4200000000000000000000000000000000000006",
-            "protocol": "Harvest (Moonwell)"
-        }
-    },
-    {
-        "chainId": 8453,
-        "address": "0x4200000000000000000000000000000000000006",
-        "name": "Wrapped Ether",
-        "symbol": "wETH",
-        "decimals": 18,
-        "logoURI": "/images/tokens/8453/0x4200000000000000000000000000000000000006.svg"
-    },
-    {
-        "chainId": 42161,
-        "address": "0x710a1ab6cb8412de9613ad6c7195453ce8b5ca71",
-        "name": "FARM_LODE",
-        "symbol": "fLODE",
-        "decimals": 18,
-        "logoURI": "/images/tokens/42161/0x710a1ab6cb8412de9613ad6c7195453ce8b5ca71.svg",
-        "extensions": {
-            "underlying": "0xf19547f9ed24aa66b03c3a552d181ae334fbb8db",
-            "protocol": "Harvest (Lodestar)"
-        }
-    },
-    {
-        "chainId": 42161,
-        "address": "0xf19547f9ed24aa66b03c3a552d181ae334fbb8db",
-        "name": "Lodestar",
-        "symbol": "LODE",
-        "decimals": 18,
-        "logoURI": "/images/tokens/42161/0xf19547f9ed24aa66b03c3a552d181ae334fbb8db.svg"
-    },
-    {
-        "chainId": 8453,
-        "address": "0x04C0599Ae5A44757c0af6F9eC3b93da8976c150A",
-        "name": "Wrapped eETH",
-        "symbol": "weETH",
-        "decimals": 18,
-        "logoURI": "/images/tokens/8453/0x04c0599ae5a44757c0af6f9ec3b93da8976c150a.svg"
-    },
-    {
-        "chainId": 1,
-        "address": "0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
-        "name": "Aave",
-        "symbol": "AAVE",
-        "decimals": 18,
-        "logoURI": "/images/tokens/1/0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9.webp"
-    },
-    {
-        "chainId": 1,
-        "address": "0xb50721bcf8d664c30412cfbc6cf7a15145234ad1",
-        "name": "Arbitrum",
-        "symbol": "ARB",
-        "decimals": 18,
-        "logoURI": "/images/tokens/1/0xb50721bcf8d664c30412cfbc6cf7a15145234ad1.png"
-    },
-    {
-        "chainId": 1,
-        "address": "0xa0246c9032bc3a600820415ae600c6388619a14d",
-        "name": "Harvest Finance",
-        "symbol": "FARM",
-        "decimals": 18,
-        "logoURI": "/images/tokens/1/0xa0246c9032bc3a600820415ae600c6388619a14d.webp"
-    },
-    {
-        "chainId": 1,
-        "address": "0x8207c1ffc5b6804f6024322ccf34f29c3541ae26",
-        "name": "Origin Protocol",
-        "symbol": "OGN",
-        "decimals": 18,
-        "logoURI": "/images/tokens/1/0x8207c1ffc5b6804f6024322ccf34f29c3541ae26.svg"
-    },
-    {
-        "chainId": 1,
-        "address": "0xe1b4d34e8754600962cd944b535180bd758e6c2e",
-        "name": "Kelp Gain",
-        "symbol": "agETH",
-        "decimals": 18,
-        "logoURI": "/images/tokens/1/0xe1b4d34e8754600962cd944b535180bd758e6c2e.svg",
-        "extensions": {
-            "underlying": "0xa1290d69c65a6fe4df752f95823fae25cb99e5a7",
-            "protocol": "KelpDAO (Airdrop Gains)"
-        }
-    },
-    {
-        "chainId": 1,
-        "address": "0xa1290d69c65a6fe4df752f95823fae25cb99e5a7",
-        "name": "rsETH",
-        "symbol": "rsETH",
-        "decimals": 18,
-        "logoURI": "/images/tokens/1/0xa1290d69c65a6fe4df752f95823fae25cb99e5a7.svg"
-    },
-    {
-        "chainId": 1,
-        "address": "0x33d7e5827eb62628c093d88ac2531ddac6f6e396",
-        "name": "FARM-APW/ETH",
-        "symbol": "FARM-APW/ETH",
-        "decimals": 18,
-        "logoURI": "/images/tokens/1/0x33d7e5827eb62628c093d88ac2531ddac6f6e396.svg",
-        "extensions": {
-            "underlying": "0x093254005743b7af89e24f645730ba2dd8441333",
-            "protocol": "Harvest (Balancer)",
-            "externalLink": "https://app.harvest.finance/ethereum/0x33D7E5827eB62628c093D88aC2531ddaC6f6E396"
-        }
-    },
-    {
-        "chainId": 1,
-        "address": "0x093254005743b7af89e24f645730ba2dd8441333",
-        "name": "APW/ETH",
-        "symbol": "APW/ETH",
-        "decimals": 18,
-        "logoURI": "/images/tokens/1/0x093254005743b7af89e24f645730ba2dd8441333.svg"
-    },
-    {
-        "chainId": 42161,
-        "address": "0xed5f727107bdac99443bae317e0ef38239719e87",
-        "name": "CIAN strategy pool",
-        "symbol": "ciWeETH",
-        "decimals": 18,
-        "logoURI": "/images/tokens/42161/0xed5f727107bdac99443bae317e0ef38239719e87.svg",
-        "extensions": {
-            "underlying": "0x04c0599ae5a44757c0af6f9ec3b93da8976c150a",
-            "protocol": "CIAN"
-        }
-    },
-    {
-        "chainId": 42161,
-        "address": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
-        "name": "Wrapped Ether",
-        "symbol": "wETH",
-        "decimals": 18,
-        "logoURI": "/images/tokens/42161/0x82af49447d8a07e3bd95bd0d56f35241523fbab1.svg"
-    },
-    {
-        "chainId": 42161,
-        "address": "0x2b70238022589f17e7b266bc753e74027d57009f",
-        "name": "FARM_WETH",
-        "symbol": "fWETH",
-        "decimals": 18,
-        "logoURI": "/images/tokens/42161/0x2b70238022589f17e7b266bc753e74027d57009f.svg",
-        "extensions": {
-            "underlying": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
-            "protocol": "Harvest (Lodestar)"
-        }
-    },
-    {
-        "chainId": 42161,
-        "address": "0x0c880f6761f1af8d9aa9c466984b80dab9a8c9e8",
-        "name": "Pendle",
-        "symbol": "PENDLE",
-        "decimals": 18,
-        "logoURI": "/images/tokens/42161/0x0c880f6761f1af8d9aa9c466984b80dab9a8c9e8.svg"
-    },
-    {
-        "chainId": 42161,
-        "address": "0xc76387330f1614d7e10e045cfcc7c9f7ff2adc1f",
-        "name": "FARM_PENDLE",
-        "symbol": "fPENDLE",
-        "decimals": 18,
-        "logoURI": "/images/tokens/42161/0xc76387330f1614d7e10e045cfcc7c9f7ff2adc1f.svg",
-        "extensions": {
-            "underlying": "0x0c880f6761f1af8d9aa9c466984b80dab9a8c9e8",
-            "protocol": "Harvest (Lodestar)"
-        }
-    },
-    {
-        "chainId": 42161,
-        "address": "0xff970a61a04b1ca14834a43f5de4533ebddb5cc8",
-        "name": "Bridged USDC",
-        "symbol": "USDC.e",
-        "decimals": 6,
-        "logoURI": "/images/tokens/42161/0xff970a61a04b1ca14834a43f5de4533ebddb5cc8.svg"
-    },
-    {
-        "chainId": 42161,
-        "address": "0x2ec0160246461f0ce477887dde2c931ee8233de7",
-        "name": "FARM_USDC",
-        "symbol": "fUSDC",
-        "decimals": 6,
-        "logoURI": "/images/tokens/42161/0x2ec0160246461f0ce477887dde2c931ee8233de7.svg",
-        "extensions": {
-            "underlying": "0xff970a61a04b1ca14834a43f5de4533ebddb5cc8",
-            "protocol": "Harvest (Lodestar)"
-        }
-    },
-    {
-        "chainId": 42161,
-        "address": "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9",
-        "name": "Tether USD",
-        "symbol": "USDT",
-        "decimals": 6,
-        "logoURI": "/images/tokens/42161/0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9.png"
-    },
-    {
-        "chainId": 42161,
-        "address": "0x0d15225454474ab3cb124083278c7be03f8a99ff",
-        "name": "FARM_USDT",
-        "symbol": "fUSDT",
-        "decimals": 6,
-        "logoURI": "/images/tokens/42161/0x0d15225454474ab3cb124083278c7be03f8a99ff.svg",
-        "extensions": {
-            "underlying": "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9",
-            "protocol": "Harvest (Lodestar)"
-        }
-    },
-    {
-        "chainId": 42161,
-        "address": "0x912ce59144191c1204e64559fe8253a0e49e6548",
-        "name": "Arbitrum",
-        "symbol": "ARB",
-        "decimals": 18,
-        "logoURI": "/images/tokens/42161/0x912ce59144191c1204e64559fe8253a0e49e6548.png"
-    },
-    {
-        "chainId": 42161,
-        "address": "0x32db5cbac1c278696875eb9f27ed4cd7423dd126",
-        "name": "FARM_ARB",
-        "symbol": "fARB",
-        "decimals": 18,
-        "logoURI": "/images/tokens/42161/0x32db5cbac1c278696875eb9f27ed4cd7423dd126.svg",
-        "extensions": {
-            "underlying": "0x912ce59144191c1204e64559fe8253a0e49e6548",
-            "protocol": "Harvest (Lodestar)"
-        }
-    },
-    {
-        "chainId": 1,
-        "address": "0xcdcc3da8fd73cedfa8e6927864e463b4760b320d",
-        "name": "agETH-LP",
-        "symbol": "agETH-LP",
-        "decimals": 18,
-        "logoURI": "/images/tokens/1/0xcdcc3da8fd73cedfa8e6927864e463b4760b320d.svg",
-        "extensions": {
-            "underlying": "0x6010676bc2534652ad1ef5fa8073dcf9ad7ebfbe",
-            "protocol": "Pendle (Penpie)"
-        }
-    },
-    {
-        "chainId": 1,
-        "address": "0x1a7e4e63778b4f12a199c062f3efdd288afcbce8",
-        "name": "EURA",
-        "symbol": "EURA",
-        "decimals": 18,
-        "logoURI": "/images/tokens/1/0x1a7e4e63778b4f12a199c062f3efdd288afcbce8.svg"
-    },
-    {
-        "chainId": 1,
-        "address": "0x004626a008b1acdc4c74ab51644093b155e59a23",
-        "name": "Staked agEUR",
-        "symbol": "stEUR",
-        "decimals": 18,
-        "logoURI": "/images/tokens/1/0x004626a008b1acdc4c74ab51644093b155e59a23.svg",
-        "extensions": {
-            "underlying": "0x1a7e4e63778b4f12a199c062f3efdd288afcbce8",
-            "protocol": "Angle"
-        }
-    },
-    {
-        "chainId": 1,
-        "address": "0x62b9c7356a2dc64a1969e19c23e4f579f9810aa7",
-        "name": "Convex CRV",
-        "symbol": "cvxCRV",
-        "decimals": 18,
-        "logoURI": "/images/tokens/1/0x62b9c7356a2dc64a1969e19c23e4f579f9810aa7.svg"
-    },
-    {
-        "chainId": 1,
-        "address": "0x2b95a1dcc3d405535f9ed33c219ab38e8d7e0884",
-        "name": "Aladdin cvxCRV",
-        "symbol": "aCRV",
-        "decimals": 18,
-        "logoURI": "/images/tokens/1/0x2b95a1dcc3d405535f9ed33c219ab38e8d7e0884.svg",
-        "extensions": {
-            "underlying": "0x62b9c7356a2dc64a1969e19c23e4f579f9810aa7",
-            "protocol": "Aladdin"
-        }
-    },
-    {
-        "chainId": 1,
-        "address": "0x66a1e37c9b0eaddca17d3662d6c05f4decf3e110",
-        "name": "Resolv USD",
-        "symbol": "USR",
-        "decimals": 18,
-        "logoURI": "/images/tokens/1/0x66a1e37c9b0eaddca17d3662d6c05f4decf3e110.svg"
-    },
-    {
-        "chainId": 1,
-        "address": "0x1202f5c7b4b9e47a1a484e8b270be34dbbc75055",
-        "name": "Wrapped stUSR",
-        "symbol": "wstUSR",
-        "decimals": 18,
-        "logoURI": "/images/tokens/1/0x1202f5c7b4b9e47a1a484e8b270be34dbbc75055.svg",
-        "extensions": {
-            "underlying": "0x66a1e37c9b0eaddca17d3662d6c05f4decf3e110",
-            "protocol": "Resolv"
-        }
-    },
-    {
-        "chainId": 8453,
-        "address": "0xf45f6cdbcd0d2d4bf4d9758b032a66a2cf4e55c8",
-        "name": "Stable AMM - USDC/STAR",
-        "symbol": "sAMM-USDC/STAR",
-        "decimals": 18,
-        "logoURI": "/images/tokens/8453/0xf45f6cdbcd0d2d4bf4d9758b032a66a2cf4e55c8.svg"
-    },
-    {
-        "chainId": 8453,
-        "address": "0x94aa414befb207b869904f3310665a63fba3ae50",
-        "name": "FARM_sAMM-USDC/STAR",
-        "symbol": "fsAMM-USDC/STAR",
-        "decimals": 18,
-        "logoURI": "/images/tokens/8453/0x94aa414befb207b869904f3310665a63fba3ae50.svg",
-        "extensions": {
-            "underlying": "0xf45f6cdbcd0d2d4bf4d9758b032a66a2cf4e55c8",
-            "protocol": "Harvest (Aerodrome)",
-            "externalLink": "https://app.harvest.finance/base/0x94aA414BefB207B869904f3310665A63fBA3AE50"
-        }
-    },
-    {
-        "chainId": 8453,
-        "address": "0xa43455d99eb63473cfa186b388c1bc2ea1b63924",
-        "name": "Volatile AMM - USDC/SPOT",
-        "symbol": "vAMM-USDC/SPOT",
-        "decimals": 18,
-        "logoURI": "/images/tokens/8453/0xa43455d99eb63473cfa186b388c1bc2ea1b63924.svg"
-    },
-    {
-        "chainId": 8453,
-        "address": "0x048b45e45ba6153f6badf05fcdc6154cf5e0e23a",
-        "name": "FARM_vAMM-USDC/SPOT",
-        "symbol": "fvAMM-USDC/SPOT",
-        "decimals": 18,
-        "logoURI": "/images/tokens/8453/0x048b45e45ba6153f6badf05fcdc6154cf5e0e23a.svg",
-        "extensions": {
-            "underlying": "0xa43455d99eb63473cfa186b388c1bc2ea1b63924",
-            "protocol": "Harvest (Aerodrome)",
-            "externalLink": "https://app.harvest.finance/base/0x048B45e45Ba6153F6bADF05FCdC6154cF5e0E23a"
-        }
-    },
-    {
-        "chainId": 8453,
-        "address": "0x940181a94a35a4569e4529a3cdfb74e38fd98631",
-        "name": "Aerodrome",
-        "symbol": "AERO",
-        "decimals": 18,
-        "logoURI": "/images/tokens/8453/0x940181a94a35a4569e4529a3cdfb74e38fd98631.svg"
-    },
-    {
-        "chainId": 8453,
-        "address": "0xc38380A706bfcD29874Bf7Bc436382017c90c255",
-        "name": "FARM_AERO",
-        "symbol": "fAERO",
-        "decimals": 18,
-        "logoURI": "/images/tokens/8453/0xc38380a706bfcd29874bf7bc436382017c90c255.svg",
-        "extensions": {
-            "underlying": "0x940181a94a35a4569e4529a3cdfb74e38fd98631",
-            "protocol": "Harvest (Moonwell)",
-            "externalLink": "https://app.harvest.finance/base/0xc38380A706bfcD29874Bf7Bc436382017c90c255"
-        }
-    },
-    {
-        "chainId": 8453,
-        "address": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
-        "name": "USDC",
-        "symbol": "USDC",
-        "decimals": 6,
-        "logoURI": "/images/tokens/8453/0x833589fcd6edb6e08f4c7c32d4f71b54bda02913.svg"
-    },
-    {
-        "chainId": 8453,
-        "address": "0x90613e167D42CA420942082157B42AF6fc6a8087",
-        "name": "FARM_USDC",
-        "symbol": "fUSDC",
-        "decimals": 6,
-        "logoURI": "/images/tokens/8453/0x90613e167d42ca420942082157b42af6fc6a8087.svg",
-        "extensions": {
-            "underlying": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
-            "protocol": "Harvest (Moonwell)",
-            "externalLink": "https://app.harvest.finance/base/0x90613e167D42CA420942082157B42AF6fc6a8087"
-        }
-    },
-    {
-        "chainId": 8453,
-        "address": "0x2ae3f1ec7f1f5012cfeab0185bfc7aa3cf0dec22",
-        "name": "Coinbase Wrapped Staked ETH",
-        "symbol": "cbETH",
-        "decimals": 18,
-        "logoURI": "/images/tokens/8453/0x2ae3f1ec7f1f5012cfeab0185bfc7aa3cf0dec22.svg"
-    },
-    {
-        "chainId": 8453,
-        "address": "0x99946CEFb02249270373f7F2DC0bd9b085d52ae5",
-        "name": "FARM_cbETH",
-        "symbol": "fcbETH",
-        "decimals": 18,
-        "logoURI": "/images/tokens/8453/0x99946cefb02249270373f7f2dc0bd9b085d52ae5.svg",
-        "extensions": {
-            "underlying": "0x2ae3f1ec7f1f5012cfeab0185bfc7aa3cf0dec22",
-            "protocol": "Harvest (Moonwell)",
-            "externalLink": "https://app.harvest.finance/base/0x99946CEFb02249270373f7F2DC0bd9b085d52ae5"
-        }
-    },
-    {
-        "chainId": 8453,
-        "address": "0x963ceee215e5b0b1dcb221c3ba398de66abc73d9",
-        "name": "Volatile AMM - GENOME/WETH",
-        "symbol": "vAMM-GENOME/WETH",
-        "decimals": 18,
-        "logoURI": "/images/tokens/8453/0x963ceee215e5b0b1dcb221c3ba398de66abc73d9.svg"
-    },
-    {
-        "chainId": 8453,
-        "address": "0x284c60490212DB0dc0b8F93503d35744f8053381",
-        "name": "FARM_vAMM-GENOME/WETH",
-        "symbol": "fvAMM-GENOME/WETH",
-        "decimals": 18,
-        "logoURI": "/images/tokens/8453/0x284c60490212db0dc0b8f93503d35744f8053381.svg",
-        "extensions": {
-            "underlying": "0x963ceee215e5b0b1dcb221c3ba398de66abc73d9",
-            "protocol": "Harvest (Aerodrome)",
-            "externalLink": "https://app.harvest.finance/base/0x284c60490212DB0dc0b8F93503d35744f8053381"
-        }
-    },
-    {
-        "chainId": 1,
-        "address": "0xd63070114470f685b75B74D60EEc7c1113d33a3D",
-        "name": "Usual Boosted USDC",
-        "symbol": "USUALUSDC+",
-        "decimals": 18,
-        "logoURI": "/images/tokens/1/0xd63070114470f685b75b74d60eec7c1113d33a3d.svg",
-        "extensions": {
-            "underlying": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
-            "protocol": "Usual"
-        }
-    },
-    {
-        "chainId": 1,
-        "address": "0x37F86e2FB8020fb8Dc53236FDae86f9122B56270",
-        "name": "Gauntlet USDC Core",
-        "symbol": "gtUSDCcore",
-        "decimals": 18,
-        "logoURI": "/images/tokens/1/0x37f86e2fb8020fb8dc53236fdae86f9122b56270.svg",
-        "extensions": {
-            "underlying": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
-            "protocol": "Gauntlet"
-        }
-    },
-    {
-        "chainId": 1,
-        "address": "0x4881Ef0BF6d2365D3dd6499ccd7532bcdBCE0658",
-        "name": "Gauntlet LRT Core",
-        "symbol": "gtLRTcore",
-        "decimals": 18,
-        "logoURI": "/images/tokens/1/0x4881ef0bf6d2365d3dd6499ccd7532bcdbce0658.svg",
-        "extensions": {
-            "underlying": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
-            "protocol": "Gauntlet"
-        }
-    },
-    {
-        "chainId": 8453,
-        "address": "0xbb819D845b573B5D7C538F5b85057160cfb5f313",
-        "name": "Morpho eUSD",
-        "symbol": "meUSD",
-        "decimals": 18,
-        "logoURI": "/images/tokens/8453/0xbb819d845b573b5d7c538f5b85057160cfb5f313.png",
-        "extensions": {
-            "underlying": "0xCfA3Ef56d303AE4fAabA0592388F19d7C3399FB4",
-            "protocol": "Morpho"
-        }
-    },
-    {
-        "address": "0x7FcD174E80f264448ebeE8c88a7C4476AAF58Ea6",
-        "chainId": 8453,
-        "name": "Wrapped Super OETH",
-        "symbol": "wsuperOETHb",
-        "decimals": 18,
-        "extensions": {
-            "underlying": "0xDBFeFD2e8460a6Ee4955A68582F85708BAEA60A3",
-            "protocol": "Origin"
-        },
-        "logoURI": "/images/tokens/8453/0x7fcd174e80f264448ebee8c88a7c4476aaf58ea6.svg"
-    },
-    {
-        "address": "0xdbfefd2e8460a6ee4955a68582f85708baea60a3",
-        "chainId": 8453,
-        "name": "Super OETH",
-        "symbol": "superOETHb",
-        "decimals": 18,
-        "logoURI": "/images/tokens/8453/0xdbfefd2e8460a6ee4955a68582f85708baea60a3.svg"
-    },
-    {
-        "chainId": 1,
-        "address": "0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0",
-        "name": "Wrapped stETH",
-        "symbol": "wstETH",
-        "decimals": 18,
-        "logoURI": "/images/tokens/1/0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0.svg"
+  {
+    "chainId": 1,
+    "address": "0x4104b135dbc9609fc1a9490e61369036497660c8",
+    "name": "Spectra",
+    "symbol": "APW",
+    "decimals": 18,
+    "logoURI": "/images/tokens/1/0x4104b135dbc9609fc1a9490e61369036497660c8.svg"
+  },
+  {
+    "chainId": 1,
+    "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+    "name": "USDC",
+    "symbol": "USDC",
+    "decimals": 6,
+    "logoURI": "/images/tokens/1/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18,
+    "logoURI": "/images/tokens/1/0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee.svg"
+  },
+  {
+    "chainId": 11155111,
+    "address": "0x6C5235a3FdF46A07EabC0CDDf0234D67D189CD87",
+    "name": "DAI",
+    "symbol": "DAI",
+    "decimals": 18,
+    "logoURI": "/images/tokens/11155111/0x6c5235a3fdf46a07eabc0cddf0234d67d189cd87.svg",
+    "extensions": {
+      "faucetAddress": "0x400455dd14e0B52b280A5178cA1329a267FaC5C6"
     }
+  },
+  {
+    "chainId": 11155111,
+    "address": "0x5bae48a51253630173e0c53C0643737Cca49c2D5",
+    "name": "Spectra DAI",
+    "symbol": "sDAI",
+    "decimals": 18,
+    "logoURI": "/images/tokens/11155111/0x5bae48a51253630173e0c53c0643737cca49c2d5.svg",
+    "extensions": {
+      "aprEndpoint": "https://mock.endpoint.com/ibt-apr",
+      "faucetAddress": "0x400455dd14e0B52b280A5178cA1329a267FaC5C6",
+      "underlying": "0x6C5235a3FdF46A07EabC0CDDf0234D67D189CD87"
+    }
+  },
+  {
+    "chainId": 11155111,
+    "address": "0x0372cE7418865080D82d0B6677a692a2c045e4D3",
+    "name": "USDT",
+    "symbol": "USDT",
+    "decimals": 18,
+    "logoURI": "/images/tokens/11155111/0x0372ce7418865080d82d0b6677a692a2c045e4d3.svg",
+    "extensions": {
+      "faucetAddress": "0xBCCa8F90f220857Bd9f973f6DF3e0dBd667C8E19"
+    }
+  },
+  {
+    "chainId": 11155111,
+    "address": "0xD7fd5213B94Cb3B2BBFdeDf5fB5Ac7b5644552b1",
+    "name": "Spectra USDT",
+    "symbol": "sUSDT",
+    "decimals": 18,
+    "logoURI": "/images/tokens/11155111/0xd7fd5213b94cb3b2bbfdedf5fb5ac7b5644552b1.svg",
+    "extensions": {
+      "faucetAddress": "0xBCCa8F90f220857Bd9f973f6DF3e0dBd667C8E19",
+      "underlying": "0x0372cE7418865080D82d0B6677a692a2c045e4D3"
+    }
+  },
+  {
+    "chainId": 11155111,
+    "address": "0xA7e2FCc6E2e9eA6e24D8e5f62586Cc6466244e2F",
+    "name": "BTC",
+    "symbol": "BTC",
+    "decimals": 18,
+    "logoURI": "/images/tokens/11155111/0xa7e2fcc6e2e9ea6e24d8e5f62586cc6466244e2f.png",
+    "extensions": {
+      "faucetAddress": "0xA62BA1b39bD9d95c29E3D30548Da425195dc2aa9"
+    }
+  },
+  {
+    "chainId": 11155111,
+    "address": "0x4711BE390EcE629254192393fEE52595A4d733C9",
+    "name": "Spectra BTC",
+    "symbol": "sBTC",
+    "decimals": 18,
+    "logoURI": "/images/tokens/11155111/0x4711be390ece629254192393fee52595a4d733c9.png",
+    "extensions": {
+      "faucetAddress": "0xA62BA1b39bD9d95c29E3D30548Da425195dc2aa9",
+      "underlying": "0xA7e2FCc6E2e9eA6e24D8e5f62586Cc6466244e2F"
+    }
+  },
+  {
+    "chainId": 11155111,
+    "address": "0x7F1ca0535F6f44Dc443a1C67001920338e50DBeE",
+    "name": "ETH",
+    "symbol": "ETH",
+    "decimals": 18,
+    "logoURI": "/images/tokens/11155111/0x7f1ca0535f6f44dc443a1c67001920338e50dbee.svg",
+    "extensions": {
+      "faucetAddress": "0xCc88435299eb800b5C34E3C68b309D3ed8FA820C"
+    }
+  },
+  {
+    "chainId": 11155111,
+    "address": "0x4Ef8941Ed563b1CA5D126b02fD4C0f103F7cd46c",
+    "name": "Spectra ETH",
+    "symbol": "sETH",
+    "decimals": 18,
+    "logoURI": "/images/tokens/11155111/0x4ef8941ed563b1ca5d126b02fd4c0f103f7cd46c.svg",
+    "extensions": {
+      "faucetAddress": "0xCc88435299eb800b5C34E3C68b309D3ed8FA820C",
+      "underlying": "0x7F1ca0535F6f44Dc443a1C67001920338e50DBeE"
+    }
+  },
+  {
+    "chainId": 11155111,
+    "address": "0x14Ed4B6D2FCcE4301D19f52171Db9dA20FB04308",
+    "name": "eUSDC",
+    "symbol": "eUSDC",
+    "decimals": 6,
+    "logoURI": "/images/tokens/11155111/0x14ed4b6d2fcce4301d19f52171db9da20fb04308.png",
+    "extensions": {
+      "faucetAddress": "0x7Dc0CAB183F58c8885312a7ffdA418c57148802D"
+    }
+  },
+  {
+    "chainId": 11155111,
+    "address": "0x494AbFf3Da6af489F8F18048c161b380d88BB5f5",
+    "name": "Spectra eUSDC",
+    "symbol": "seUSDC",
+    "decimals": 6,
+    "logoURI": "/images/tokens/11155111/0x494abff3da6af489f8f18048c161b380d88bb5f5.png",
+    "extensions": {
+      "faucetAddress": "0x7Dc0CAB183F58c8885312a7ffdA418c57148802D",
+      "underlying": "0x14Ed4B6D2FCcE4301D19f52171Db9dA20FB04308"
+    }
+  },
+  {
+    "chainId": 11155111,
+    "address": "0x1798A5257AD9984C6728431102995b5B9d6a14F5",
+    "name": "eUSDT",
+    "symbol": "eUSDT",
+    "decimals": 6,
+    "logoURI": "/images/tokens/11155111/0x1798a5257ad9984c6728431102995b5b9d6a14f5.svg",
+    "extensions": {
+      "faucetAddress": "0x0A1C396a157AB6B3EDCf5BC4216784BAa4Ba2dd7"
+    }
+  },
+  {
+    "chainId": 11155111,
+    "address": "0x1e23089A9122cA256C1f6bdA52279eF35A9e5994",
+    "name": "Spectra seUSDT",
+    "symbol": "seUSDT",
+    "decimals": 18,
+    "logoURI": "/images/tokens/11155111/0x1e23089a9122ca256c1f6bda52279ef35a9e5994.svg",
+    "extensions": {
+      "faucetAddress": "0x0A1C396a157AB6B3EDCf5BC4216784BAa4Ba2dd7",
+      "underlying": "0x1798A5257AD9984C6728431102995b5B9d6a14F5"
+    }
+  },
+  {
+    "address": "0x2dabcea55a12d73191aece59f508b191fb68adac",
+    "chainId": 1,
+    "name": "Karak - Wrapped eETH",
+    "symbol": "KweETH",
+    "decimals": 18,
+    "logoURI": "/images/tokens/1/0x2dabcea55a12d73191aece59f508b191fb68adac.svg",
+    "extensions": {
+      "underlying": "0xcd5fe23c85820f7b72d0926fc9b05b43e359b7ee",
+      "ibtRoutes": {
+        "deposit": false,
+        "mint": false,
+        "withdraw": false,
+        "redeem": false
+      },
+      "protocol": "Karak"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0x0022228a2cc5e7ef0274a7baa600d44da5ab5776",
+    "name": "Angle Staked USDA",
+    "symbol": "stUSD",
+    "decimals": 18,
+    "logoURI": "/images/tokens/1/0x0022228a2cc5e7ef0274a7baa600d44da5ab5776.svg",
+    "extensions": {
+      "protocol": "Angle"
+    }
+  },
+  {
+    "chainId": 42161,
+    "address": "0x0000206329b97db379d5e1bf586bbdb969c63274",
+    "name": "USDA",
+    "symbol": "USDA",
+    "decimals": 18,
+    "logoURI": "/images/tokens/42161/0x0000206329b97db379d5e1bf586bbdb969c63274.svg"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x0022228a2cc5e7ef0274a7baa600d44da5ab5776",
+    "name": "Angle Staked USDA",
+    "symbol": "stUSD",
+    "decimals": 18,
+    "logoURI": "/images/tokens/42161/0x0022228a2cc5e7ef0274a7baa600d44da5ab5776.svg",
+    "extensions": {
+      "underlying": "0x0000206329b97db379d5e1bf586bbdb969c63274",
+      "protocol": "Angle"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0x0000206329b97db379d5e1bf586bbdb969c63274",
+    "name": "USDA",
+    "symbol": "USDA",
+    "decimals": 18,
+    "logoURI": "/images/tokens/1/0x0000206329b97db379d5e1bf586bbdb969c63274.svg"
+  },
+  {
+    "chainId": 1,
+    "address": "0x40d16fc0246ad3160ccc09b8d0d3a2cd28ae6c2f",
+    "name": "GHO",
+    "symbol": "GHO",
+    "decimals": 18,
+    "logoURI": "/images/tokens/1/0x40d16fc0246ad3160ccc09b8d0d3a2cd28ae6c2f.svg"
+  },
+  {
+    "chainId": 1,
+    "address": "0xa8258deE2a677874a48F5320670A869D74f0cbC1",
+    "name": "Warlord Token",
+    "symbol": "WAR",
+    "decimals": 18,
+    "logoURI": "/images/tokens/1/0xa8258dee2a677874a48f5320670a869d74f0cbc1.svg",
+    "extensions": {
+      "underlying": "0x2fc1E74BC8A6D15fE768c10C2EDe7D6d95ec27e9",
+      "protocol": "Paladin"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0x2fc1e74bc8a6d15fe768c10c2ede7d6d95ec27e9",
+    "name": "Tholgar Warlord Vault",
+    "symbol": "thWAR",
+    "decimals": 18,
+    "logoURI": "/images/tokens/1/0x2fc1e74bc8a6d15fe768c10c2ede7d6d95ec27e9.png",
+    "extensions": {
+      "underlying": "0xa8258deE2a677874a48F5320670A869D74f0cbC1",
+      "protocol": "Tholgar"
+    }
+  },
+  {
+    "chainId": 42161,
+    "address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
+    "name": "Dai Stablecoin",
+    "symbol": "DAI",
+    "decimals": 18,
+    "logoURI": "/images/tokens/42161/0xda10009cbd5d07dd0cecc66161fc93d7c9000da1.svg"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xd85e038593d7a098614721eae955ec2022b9b91b",
+    "name": "Gains Network DAI",
+    "symbol": "gDAI",
+    "decimals": 18,
+    "logoURI": "/images/tokens/42161/0xd85e038593d7a098614721eae955ec2022b9b91b.webp",
+    "extensions": {
+      "underlying": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
+      "protocol": "Gains",
+      "ibtRoutes": {
+        "withdraw": false,
+        "redeem": false
+      }
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0x43e54c2e7b3e294de3a155785f52ab49d87b9922",
+    "name": "Aladdin sdCRV",
+    "symbol": "asdCRV",
+    "decimals": 18,
+    "logoURI": "/images/tokens/1/0x43e54c2e7b3e294de3a155785f52ab49d87b9922.png",
+    "extensions": {
+      "underlying": "0xD1b5651E55D4CeeD36251c61c50C889B36F6abB5",
+      "protocol": "Aladdin"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0x856c4Efb76C1D1AE02e20CEB03A2A6a08b0b8dC3",
+    "name": "Origin Ether",
+    "symbol": "OETH",
+    "decimals": 18,
+    "logoURI": "/images/tokens/1/0x856c4efb76c1d1ae02e20ceb03a2a6a08b0b8dc3.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xdcee70654261af21c44c093c300ed3bb97b78192",
+    "name": "Wrapped OETH",
+    "symbol": "WOETH",
+    "decimals": 18,
+    "logoURI": "/images/tokens/1/0xdcee70654261af21c44c093c300ed3bb97b78192.png",
+    "extensions": {
+      "underlying": "0x856c4Efb76C1D1AE02e20CEB03A2A6a08b0b8dC3",
+      "protocol": "Origin"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0x07D1718fF05a8C53C8F05aDAEd57C0d672945f9a",
+    "name": "Aladdin rUSD",
+    "symbol": "arUSD",
+    "decimals": 18,
+    "logoURI": "/images/tokens/1/0x07d1718ff05a8c53c8f05adaed57c0d672945f9a.svg",
+    "extensions": {
+      "underlying": "0x65d72aa8da931f047169112fcf34f52dbaae7d18",
+      "protocol": "f(x) protocol"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0x5fD13359Ba15A84B76f7F87568309040176167cd",
+    "name": "Amphor Restaked ETH",
+    "symbol": "amphrETH",
+    "decimals": 18,
+    "logoURI": "/images/tokens/1/0x5fd13359ba15a84b76f7f87568309040176167cd.svg"
+  },
+  {
+    "chainId": 1,
+    "address": "0x06824C27C8a0DbDe5F72f770eC82e3c0FD4DcEc3",
+    "name": "Amphor Symbiotic LRT (WSTETH)",
+    "symbol": "amphrLRT",
+    "decimals": 18,
+    "logoURI": "/images/tokens/1/0x06824c27c8a0dbde5f72f770ec82e3c0fd4dcec3.png",
+    "extensions": {
+      "underlying": "0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0",
+      "ibtRoutes": {
+        "withdraw": false,
+        "redeem": false
+      }
+    }
+  },
+  {
+    "chainId": 42161,
+    "address": "0x24174022D382CD155C33A847404cDA5Bc7978802",
+    "name": "Farm WBTC",
+    "symbol": "fWBTC",
+    "decimals": 8,
+    "logoURI": "/images/tokens/42161/0x24174022d382cd155c33a847404cda5bc7978802.svg",
+    "extensions": {
+      "negativeYield": true,
+      "underlying": "0x2f2a2543b76a4166549f7aab2e75bef0aefc5b0f",
+      "protocol": "Harvest"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0x65d72aa8da931f047169112fcf34f52dbaae7d18",
+    "name": "f(x) rUSD",
+    "symbol": "rUSD",
+    "decimals": 18,
+    "logoURI": "/images/tokens/1/0x65d72aa8da931f047169112fcf34f52dbaae7d18.svg"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xdfd2214236b60fc0485288c959cb07da4f6a15f7",
+    "name": "FARM_DAI",
+    "symbol": "fDAI",
+    "decimals": 18,
+    "logoURI": "/images/tokens/42161/0xdfd2214236b60fc0485288c959cb07da4f6a15f7.svg",
+    "extensions": {
+      "underlying": "0xda10009cbd5d07dd0cecc66161fc93d7c9000da1",
+      "protocol": "Harvest"
+    }
+  },
+  {
+    "chainId": 42161,
+    "address": "0xaf88d065e77c8cc2239327c5edb3a432268e5831",
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "decimals": 6,
+    "logoURI": "/images/tokens/42161/0xaf88d065e77c8cc2239327c5edb3a432268e5831.svg"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x6faf8b7ffee3306efcfc2ba9fec912b4d49834c1",
+    "name": "USDC-A yVault",
+    "symbol": "yvUSDC-A",
+    "decimals": 6,
+    "logoURI": "/images/tokens/42161/0x6faf8b7ffee3306efcfc2ba9fec912b4d49834c1.svg",
+    "extensions": {
+      "underlying": "0xaf88d065e77c8cc2239327c5edb3a432268e5831",
+      "protocol": "Yearn"
+    }
+  },
+  {
+    "chainId": 42161,
+    "address": "0x2f2a2543b76a4166549f7aab2e75bef0aefc5b0f",
+    "name": "Wrapped BTC",
+    "symbol": "WBTC",
+    "decimals": 8,
+    "logoURI": "/images/tokens/42161/0x2f2a2543b76a4166549f7aab2e75bef0aefc5b0f.svg"
+  },
+  {
+    "chainId": 1,
+    "address": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+    "name": "Wrapped BTC",
+    "symbol": "WBTC",
+    "decimals": 8,
+    "logoURI": "/images/tokens/1/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599.svg"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x7dff72693f6a4149b17e7c6314655f6a9f7c8b33",
+    "name": "Gho Token",
+    "symbol": "GHO",
+    "decimals": 18,
+    "logoURI": "/images/tokens/42161/0x7dff72693f6a4149b17e7c6314655f6a9f7c8b33.svg"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x85050bedc80ea28e53db5f80f165d87f29d2a1bc",
+    "decimals": 18,
+    "name": "FARM_GHO",
+    "symbol": "fGHO",
+    "logoURI": "/images/tokens/42161/0x85050bedc80ea28e53db5f80f165d87f29d2a1bc.svg",
+    "extensions": {
+      "underlying": "0x7dff72693f6a4149b17e7c6314655f6a9f7c8b33",
+      "protocol": "Harvest"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0x8668a15b7b023dc77b372a740fcb8939e15257cf",
+    "decimals": 18,
+    "name": "Asymmetry Finance afCVX",
+    "symbol": "afCVX",
+    "logoURI": "/images/tokens/1/0x8668a15b7b023dc77b372a740fcb8939e15257cf.svg",
+    "extensions": {
+      "underlying": "0x4e3fbd56cd56c3e72c1403e103b45db9da5b9d2b",
+      "protocol": "Asymmetry"
+    }
+  },
+  {
+    "chainId": 42161,
+    "address": "0x02Ab76B19944BdEc4d4c612468bB6aF3AC76B15D",
+    "decimals": 18,
+    "name": "FARM_LP-WETH",
+    "symbol": "fLP-WETH",
+    "logoURI": "/images/tokens/42161/0x02ab76b19944bdec4d4c612468bb6af3ac76b15d.svg",
+    "extensions": {
+      "underlying": "0xe62880cc6872c9e9fb1ddd73f400850fdabe798d",
+      "protocol": "Harvest"
+    }
+  },
+  {
+    "chainId": 42161,
+    "address": "0xe62880cc6872c9e9fb1ddd73f400850fdabe798d",
+    "decimals": 18,
+    "name": "Wombat Wrapped Ether Asset",
+    "symbol": "LP-WETH",
+    "logoURI": "/images/tokens/42161/0xe62880cc6872c9e9fb1ddd73f400850fdabe798d.svg"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x7C11F78Ce78768518D743E81Fdfa2F860C6b9A77",
+    "name": "GMX Market gmBTC",
+    "symbol": "gmBTC",
+    "decimals": 18,
+    "logoURI": "/images/tokens/42161/0x7c11f78ce78768518d743e81fdfa2f860c6b9a77.svg"
+  },
+  {
+    "chainId": 10,
+    "address": "0x64831f82e3543006413897c03f59518cecae02b4",
+    "name": "Reward Cow Velo Op ezETH-wstETH",
+    "symbol": "ezETH-wstETH [CLM Pool]",
+    "decimals": 18,
+    "logoURI": "/images/tokens/10/0x64831f82e3543006413897c03f59518cecae02b4.svg"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x0b0193fad49de45f5e2b0a9f5d6bc3bb7d281688",
+    "name": "FARM_WETH",
+    "symbol": "fWETH",
+    "decimals": 18,
+    "logoURI": "/images/tokens/8453/0x0b0193fad49de45f5e2b0a9f5d6bc3bb7d281688.svg",
+    "extensions": {
+      "underlying": "0x4200000000000000000000000000000000000006",
+      "protocol": "Harvest (Moonwell)"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0x4200000000000000000000000000000000000006",
+    "name": "Wrapped Ether",
+    "symbol": "wETH",
+    "decimals": 18,
+    "logoURI": "/images/tokens/8453/0x4200000000000000000000000000000000000006.svg"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x710a1ab6cb8412de9613ad6c7195453ce8b5ca71",
+    "name": "FARM_LODE",
+    "symbol": "fLODE",
+    "decimals": 18,
+    "logoURI": "/images/tokens/42161/0x710a1ab6cb8412de9613ad6c7195453ce8b5ca71.svg",
+    "extensions": {
+      "underlying": "0xf19547f9ed24aa66b03c3a552d181ae334fbb8db",
+      "protocol": "Harvest (Lodestar)"
+    }
+  },
+  {
+    "chainId": 42161,
+    "address": "0xf19547f9ed24aa66b03c3a552d181ae334fbb8db",
+    "name": "Lodestar",
+    "symbol": "LODE",
+    "decimals": 18,
+    "logoURI": "/images/tokens/42161/0xf19547f9ed24aa66b03c3a552d181ae334fbb8db.svg"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x04C0599Ae5A44757c0af6F9eC3b93da8976c150A",
+    "name": "Wrapped eETH",
+    "symbol": "weETH",
+    "decimals": 18,
+    "logoURI": "/images/tokens/8453/0x04c0599ae5a44757c0af6f9ec3b93da8976c150a.svg"
+  },
+  {
+    "chainId": 1,
+    "address": "0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+    "name": "Aave",
+    "symbol": "AAVE",
+    "decimals": 18,
+    "logoURI": "/images/tokens/1/0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9.webp"
+  },
+  {
+    "chainId": 1,
+    "address": "0xb50721bcf8d664c30412cfbc6cf7a15145234ad1",
+    "name": "Arbitrum",
+    "symbol": "ARB",
+    "decimals": 18,
+    "logoURI": "/images/tokens/1/0xb50721bcf8d664c30412cfbc6cf7a15145234ad1.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xa0246c9032bc3a600820415ae600c6388619a14d",
+    "name": "Harvest Finance",
+    "symbol": "FARM",
+    "decimals": 18,
+    "logoURI": "/images/tokens/1/0xa0246c9032bc3a600820415ae600c6388619a14d.webp"
+  },
+  {
+    "chainId": 1,
+    "address": "0x8207c1ffc5b6804f6024322ccf34f29c3541ae26",
+    "name": "Origin Protocol",
+    "symbol": "OGN",
+    "decimals": 18,
+    "logoURI": "/images/tokens/1/0x8207c1ffc5b6804f6024322ccf34f29c3541ae26.svg"
+  },
+  {
+    "chainId": 1,
+    "address": "0xe1b4d34e8754600962cd944b535180bd758e6c2e",
+    "name": "Kelp Gain",
+    "symbol": "agETH",
+    "decimals": 18,
+    "logoURI": "/images/tokens/1/0xe1b4d34e8754600962cd944b535180bd758e6c2e.svg",
+    "extensions": {
+      "underlying": "0xa1290d69c65a6fe4df752f95823fae25cb99e5a7",
+      "protocol": "KelpDAO (Airdrop Gains)"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0xa1290d69c65a6fe4df752f95823fae25cb99e5a7",
+    "name": "rsETH",
+    "symbol": "rsETH",
+    "decimals": 18,
+    "logoURI": "/images/tokens/1/0xa1290d69c65a6fe4df752f95823fae25cb99e5a7.svg"
+  },
+  {
+    "chainId": 1,
+    "address": "0x33d7e5827eb62628c093d88ac2531ddac6f6e396",
+    "name": "FARM-APW/ETH",
+    "symbol": "FARM-APW/ETH",
+    "decimals": 18,
+    "logoURI": "/images/tokens/1/0x33d7e5827eb62628c093d88ac2531ddac6f6e396.svg",
+    "extensions": {
+      "underlying": "0x093254005743b7af89e24f645730ba2dd8441333",
+      "protocol": "Harvest (Balancer)",
+      "externalLink": "https://app.harvest.finance/ethereum/0x33D7E5827eB62628c093D88aC2531ddaC6f6E396"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0x093254005743b7af89e24f645730ba2dd8441333",
+    "name": "APW/ETH",
+    "symbol": "APW/ETH",
+    "decimals": 18,
+    "logoURI": "/images/tokens/1/0x093254005743b7af89e24f645730ba2dd8441333.svg"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xed5f727107bdac99443bae317e0ef38239719e87",
+    "name": "CIAN strategy pool",
+    "symbol": "ciWeETH",
+    "decimals": 18,
+    "logoURI": "/images/tokens/42161/0xed5f727107bdac99443bae317e0ef38239719e87.svg",
+    "extensions": {
+      "underlying": "0x04c0599ae5a44757c0af6f9ec3b93da8976c150a",
+      "protocol": "CIAN"
+    }
+  },
+  {
+    "chainId": 42161,
+    "address": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
+    "name": "Wrapped Ether",
+    "symbol": "wETH",
+    "decimals": 18,
+    "logoURI": "/images/tokens/42161/0x82af49447d8a07e3bd95bd0d56f35241523fbab1.svg"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x2b70238022589f17e7b266bc753e74027d57009f",
+    "name": "FARM_WETH",
+    "symbol": "fWETH",
+    "decimals": 18,
+    "logoURI": "/images/tokens/42161/0x2b70238022589f17e7b266bc753e74027d57009f.svg",
+    "extensions": {
+      "underlying": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
+      "protocol": "Harvest (Lodestar)"
+    }
+  },
+  {
+    "chainId": 42161,
+    "address": "0x0c880f6761f1af8d9aa9c466984b80dab9a8c9e8",
+    "name": "Pendle",
+    "symbol": "PENDLE",
+    "decimals": 18,
+    "logoURI": "/images/tokens/42161/0x0c880f6761f1af8d9aa9c466984b80dab9a8c9e8.svg"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xc76387330f1614d7e10e045cfcc7c9f7ff2adc1f",
+    "name": "FARM_PENDLE",
+    "symbol": "fPENDLE",
+    "decimals": 18,
+    "logoURI": "/images/tokens/42161/0xc76387330f1614d7e10e045cfcc7c9f7ff2adc1f.svg",
+    "extensions": {
+      "underlying": "0x0c880f6761f1af8d9aa9c466984b80dab9a8c9e8",
+      "protocol": "Harvest (Lodestar)"
+    }
+  },
+  {
+    "chainId": 42161,
+    "address": "0xff970a61a04b1ca14834a43f5de4533ebddb5cc8",
+    "name": "Bridged USDC",
+    "symbol": "USDC.e",
+    "decimals": 6,
+    "logoURI": "/images/tokens/42161/0xff970a61a04b1ca14834a43f5de4533ebddb5cc8.svg"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x2ec0160246461f0ce477887dde2c931ee8233de7",
+    "name": "FARM_USDC",
+    "symbol": "fUSDC",
+    "decimals": 6,
+    "logoURI": "/images/tokens/42161/0x2ec0160246461f0ce477887dde2c931ee8233de7.svg",
+    "extensions": {
+      "underlying": "0xff970a61a04b1ca14834a43f5de4533ebddb5cc8",
+      "protocol": "Harvest (Lodestar)"
+    }
+  },
+  {
+    "chainId": 42161,
+    "address": "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9",
+    "name": "Tether USD",
+    "symbol": "USDT",
+    "decimals": 6,
+    "logoURI": "/images/tokens/42161/0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9.png"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x0d15225454474ab3cb124083278c7be03f8a99ff",
+    "name": "FARM_USDT",
+    "symbol": "fUSDT",
+    "decimals": 6,
+    "logoURI": "/images/tokens/42161/0x0d15225454474ab3cb124083278c7be03f8a99ff.svg",
+    "extensions": {
+      "underlying": "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9",
+      "protocol": "Harvest (Lodestar)"
+    }
+  },
+  {
+    "chainId": 42161,
+    "address": "0x912ce59144191c1204e64559fe8253a0e49e6548",
+    "name": "Arbitrum",
+    "symbol": "ARB",
+    "decimals": 18,
+    "logoURI": "/images/tokens/42161/0x912ce59144191c1204e64559fe8253a0e49e6548.png"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x32db5cbac1c278696875eb9f27ed4cd7423dd126",
+    "name": "FARM_ARB",
+    "symbol": "fARB",
+    "decimals": 18,
+    "logoURI": "/images/tokens/42161/0x32db5cbac1c278696875eb9f27ed4cd7423dd126.svg",
+    "extensions": {
+      "underlying": "0x912ce59144191c1204e64559fe8253a0e49e6548",
+      "protocol": "Harvest (Lodestar)"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0xcdcc3da8fd73cedfa8e6927864e463b4760b320d",
+    "name": "agETH-LP",
+    "symbol": "agETH-LP",
+    "decimals": 18,
+    "logoURI": "/images/tokens/1/0xcdcc3da8fd73cedfa8e6927864e463b4760b320d.svg",
+    "extensions": {
+      "underlying": "0x6010676bc2534652ad1ef5fa8073dcf9ad7ebfbe",
+      "protocol": "Pendle (Penpie)"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0x1a7e4e63778b4f12a199c062f3efdd288afcbce8",
+    "name": "EURA",
+    "symbol": "EURA",
+    "decimals": 18,
+    "logoURI": "/images/tokens/1/0x1a7e4e63778b4f12a199c062f3efdd288afcbce8.svg"
+  },
+  {
+    "chainId": 1,
+    "address": "0x004626a008b1acdc4c74ab51644093b155e59a23",
+    "name": "Staked agEUR",
+    "symbol": "stEUR",
+    "decimals": 18,
+    "logoURI": "/images/tokens/1/0x004626a008b1acdc4c74ab51644093b155e59a23.svg",
+    "extensions": {
+      "underlying": "0x1a7e4e63778b4f12a199c062f3efdd288afcbce8",
+      "protocol": "Angle"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0x62b9c7356a2dc64a1969e19c23e4f579f9810aa7",
+    "name": "Convex CRV",
+    "symbol": "cvxCRV",
+    "decimals": 18,
+    "logoURI": "/images/tokens/1/0x62b9c7356a2dc64a1969e19c23e4f579f9810aa7.svg"
+  },
+  {
+    "chainId": 1,
+    "address": "0x2b95a1dcc3d405535f9ed33c219ab38e8d7e0884",
+    "name": "Aladdin cvxCRV",
+    "symbol": "aCRV",
+    "decimals": 18,
+    "logoURI": "/images/tokens/1/0x2b95a1dcc3d405535f9ed33c219ab38e8d7e0884.svg",
+    "extensions": {
+      "underlying": "0x62b9c7356a2dc64a1969e19c23e4f579f9810aa7",
+      "protocol": "Aladdin"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0x66a1e37c9b0eaddca17d3662d6c05f4decf3e110",
+    "name": "Resolv USD",
+    "symbol": "USR",
+    "decimals": 18,
+    "logoURI": "/images/tokens/1/0x66a1e37c9b0eaddca17d3662d6c05f4decf3e110.svg"
+  },
+  {
+    "chainId": 1,
+    "address": "0x1202f5c7b4b9e47a1a484e8b270be34dbbc75055",
+    "name": "Wrapped stUSR",
+    "symbol": "wstUSR",
+    "decimals": 18,
+    "logoURI": "/images/tokens/1/0x1202f5c7b4b9e47a1a484e8b270be34dbbc75055.svg",
+    "extensions": {
+      "underlying": "0x66a1e37c9b0eaddca17d3662d6c05f4decf3e110",
+      "protocol": "Resolv"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0xf45f6cdbcd0d2d4bf4d9758b032a66a2cf4e55c8",
+    "name": "Stable AMM - USDC/STAR",
+    "symbol": "sAMM-USDC/STAR",
+    "decimals": 18,
+    "logoURI": "/images/tokens/8453/0xf45f6cdbcd0d2d4bf4d9758b032a66a2cf4e55c8.svg"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x94aa414befb207b869904f3310665a63fba3ae50",
+    "name": "FARM_sAMM-USDC/STAR",
+    "symbol": "fsAMM-USDC/STAR",
+    "decimals": 18,
+    "logoURI": "/images/tokens/8453/0x94aa414befb207b869904f3310665a63fba3ae50.svg",
+    "extensions": {
+      "underlying": "0xf45f6cdbcd0d2d4bf4d9758b032a66a2cf4e55c8",
+      "protocol": "Harvest (Aerodrome)",
+      "externalLink": "https://app.harvest.finance/base/0x94aA414BefB207B869904f3310665A63fBA3AE50"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0xa43455d99eb63473cfa186b388c1bc2ea1b63924",
+    "name": "Volatile AMM - USDC/SPOT",
+    "symbol": "vAMM-USDC/SPOT",
+    "decimals": 18,
+    "logoURI": "/images/tokens/8453/0xa43455d99eb63473cfa186b388c1bc2ea1b63924.svg"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x048b45e45ba6153f6badf05fcdc6154cf5e0e23a",
+    "name": "FARM_vAMM-USDC/SPOT",
+    "symbol": "fvAMM-USDC/SPOT",
+    "decimals": 18,
+    "logoURI": "/images/tokens/8453/0x048b45e45ba6153f6badf05fcdc6154cf5e0e23a.svg",
+    "extensions": {
+      "underlying": "0xa43455d99eb63473cfa186b388c1bc2ea1b63924",
+      "protocol": "Harvest (Aerodrome)",
+      "externalLink": "https://app.harvest.finance/base/0x048B45e45Ba6153F6bADF05FCdC6154cF5e0E23a"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0x940181a94a35a4569e4529a3cdfb74e38fd98631",
+    "name": "Aerodrome",
+    "symbol": "AERO",
+    "decimals": 18,
+    "logoURI": "/images/tokens/8453/0x940181a94a35a4569e4529a3cdfb74e38fd98631.svg"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xc38380A706bfcD29874Bf7Bc436382017c90c255",
+    "name": "FARM_AERO",
+    "symbol": "fAERO",
+    "decimals": 18,
+    "logoURI": "/images/tokens/8453/0xc38380a706bfcd29874bf7bc436382017c90c255.svg",
+    "extensions": {
+      "underlying": "0x940181a94a35a4569e4529a3cdfb74e38fd98631",
+      "protocol": "Harvest (Moonwell)",
+      "externalLink": "https://app.harvest.finance/base/0xc38380A706bfcD29874Bf7Bc436382017c90c255"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+    "name": "USDC",
+    "symbol": "USDC",
+    "decimals": 6,
+    "logoURI": "/images/tokens/8453/0x833589fcd6edb6e08f4c7c32d4f71b54bda02913.svg"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x90613e167D42CA420942082157B42AF6fc6a8087",
+    "name": "FARM_USDC",
+    "symbol": "fUSDC",
+    "decimals": 6,
+    "logoURI": "/images/tokens/8453/0x90613e167d42ca420942082157b42af6fc6a8087.svg",
+    "extensions": {
+      "underlying": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+      "protocol": "Harvest (Moonwell)",
+      "externalLink": "https://app.harvest.finance/base/0x90613e167D42CA420942082157B42AF6fc6a8087"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0x2ae3f1ec7f1f5012cfeab0185bfc7aa3cf0dec22",
+    "name": "Coinbase Wrapped Staked ETH",
+    "symbol": "cbETH",
+    "decimals": 18,
+    "logoURI": "/images/tokens/8453/0x2ae3f1ec7f1f5012cfeab0185bfc7aa3cf0dec22.svg"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x99946CEFb02249270373f7F2DC0bd9b085d52ae5",
+    "name": "FARM_cbETH",
+    "symbol": "fcbETH",
+    "decimals": 18,
+    "logoURI": "/images/tokens/8453/0x99946cefb02249270373f7f2dc0bd9b085d52ae5.svg",
+    "extensions": {
+      "underlying": "0x2ae3f1ec7f1f5012cfeab0185bfc7aa3cf0dec22",
+      "protocol": "Harvest (Moonwell)",
+      "externalLink": "https://app.harvest.finance/base/0x99946CEFb02249270373f7F2DC0bd9b085d52ae5"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0x963ceee215e5b0b1dcb221c3ba398de66abc73d9",
+    "name": "Volatile AMM - GENOME/WETH",
+    "symbol": "vAMM-GENOME/WETH",
+    "decimals": 18,
+    "logoURI": "/images/tokens/8453/0x963ceee215e5b0b1dcb221c3ba398de66abc73d9.svg"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x284c60490212DB0dc0b8F93503d35744f8053381",
+    "name": "FARM_vAMM-GENOME/WETH",
+    "symbol": "fvAMM-GENOME/WETH",
+    "decimals": 18,
+    "logoURI": "/images/tokens/8453/0x284c60490212db0dc0b8f93503d35744f8053381.svg",
+    "extensions": {
+      "underlying": "0x963ceee215e5b0b1dcb221c3ba398de66abc73d9",
+      "protocol": "Harvest (Aerodrome)",
+      "externalLink": "https://app.harvest.finance/base/0x284c60490212DB0dc0b8F93503d35744f8053381"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0xd63070114470f685b75B74D60EEc7c1113d33a3D",
+    "name": "Usual Boosted USDC",
+    "symbol": "USUALUSDC+",
+    "decimals": 18,
+    "logoURI": "/images/tokens/1/0xd63070114470f685b75b74d60eec7c1113d33a3d.svg",
+    "extensions": {
+      "underlying": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+      "protocol": "Usual"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0x37F86e2FB8020fb8Dc53236FDae86f9122B56270",
+    "name": "Gauntlet USDC Core",
+    "symbol": "gtUSDCcore",
+    "decimals": 18,
+    "logoURI": "/images/tokens/1/0x37f86e2fb8020fb8dc53236fdae86f9122b56270.svg",
+    "extensions": {
+      "underlying": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+      "protocol": "Gauntlet"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0x4881Ef0BF6d2365D3dd6499ccd7532bcdBCE0658",
+    "name": "Gauntlet LRT Core",
+    "symbol": "gtLRTcore",
+    "decimals": 18,
+    "logoURI": "/images/tokens/1/0x4881ef0bf6d2365d3dd6499ccd7532bcdbce0658.svg",
+    "extensions": {
+      "underlying": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+      "protocol": "Gauntlet"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0xbb819D845b573B5D7C538F5b85057160cfb5f313",
+    "name": "Morpho eUSD",
+    "symbol": "meUSD",
+    "decimals": 18,
+    "logoURI": "/images/tokens/8453/0xbb819d845b573b5d7c538f5b85057160cfb5f313.png",
+    "extensions": {
+      "underlying": "0xCfA3Ef56d303AE4fAabA0592388F19d7C3399FB4",
+      "protocol": "Morpho"
+    }
+  },
+  {
+    "address": "0x7FcD174E80f264448ebeE8c88a7C4476AAF58Ea6",
+    "chainId": 8453,
+    "name": "Wrapped Super OETH",
+    "symbol": "wsuperOETHb",
+    "decimals": 18,
+    "extensions": {
+      "underlying": "0xDBFeFD2e8460a6Ee4955A68582F85708BAEA60A3",
+      "protocol": "Origin"
+    },
+    "logoURI": "/images/tokens/8453/0x7fcd174e80f264448ebee8c88a7c4476aaf58ea6.svg"
+  },
+  {
+    "address": "0xdbfefd2e8460a6ee4955a68582f85708baea60a3",
+    "chainId": 8453,
+    "name": "Super OETH",
+    "symbol": "superOETHb",
+    "decimals": 18,
+    "logoURI": "/images/tokens/8453/0xdbfefd2e8460a6ee4955a68582f85708baea60a3.svg"
+  },
+  {
+    "chainId": 1,
+    "address": "0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0",
+    "name": "Wrapped stETH",
+    "symbol": "wstETH",
+    "decimals": 18,
+    "logoURI": "/images/tokens/1/0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0.svg"
+  },
+  {
+    "address": "0x04d5ddf5f3a8939889f11e97f8c4bb48317f1938",
+    "chainId": 8453,
+    "name": "USDz",
+    "symbol": "USDz",
+    "decimals": 18,
+    "extensions": {
+      "protocol": "Harvest (ExtraFi - Lend)",
+      "externalLink": "https://app.harvest.finance/base/0x72432B8f837f3ED4c50499F57775AC820243B838"
+    },
+    "logoURI": "/images/tokens/8453/0x04d5ddf5f3a8939889f11e97f8c4bb48317f1938.svg"
+  }
 ]

@@ -999,6 +999,54 @@
         "logoURI": "/images/tokens/8453/0xc1cba3fcea344f92d9239c08c0568f6f2f0ee452.svg"
     },
     {
+        "address": "0x04d5ddf5f3a8939889f11e97f8c4bb48317f1938",
+        "chainId": 8453,
+        "name": "USDz",
+        "symbol": "USDz",
+        "decimals": 18,
+        "extensions": {
+            "protocol": "Harvest (ExtraFi - Lend)",
+            "externalLink": "https://app.harvest.finance/base/0x72432B8f837f3ED4c50499F57775AC820243B838"
+        },
+        "logoURI": "/images/tokens/8453/0x04d5ddf5f3a8939889f11e97f8c4bb48317f1938.svg"
+    },
+    {
+        "address": "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf",
+        "chainId": 8453,
+        "name": "Coinbase Wrapped BTC",
+        "symbol": "cbBTC",
+        "decimals": 8,
+        "extensions": {
+            "protocol": "Harvest (Moonwell)",
+            "externalLink": "https://app.harvest.finance/base/0xc5dc397B1dB51dA30dC9F3aC7084bBBA1EFbe249"
+        },
+        "logoURI": "/images/tokens/8453/0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf.svg"
+    },
+    {
+        "address": "0xa88594d404727625a9437c3f886c7643872296ae",
+        "chainId": 8453,
+        "name": "WELL",
+        "symbol": "WELL",
+        "decimals": 18,
+        "extensions": {
+            "protocol": "Harvest (ExtraFi - Lend)",
+            "externalLink": "https://app.harvest.finance/base/0x97c07792833b0DE228a2C33466729ED1D588B5F2"
+        },
+        "logoURI": "/images/tokens/8453/0xa88594d404727625a9437c3f886c7643872296ae.svg"
+    },
+    {
+        "address": "0x60a3e35cc302bfa44cb288bc5a4f316fdb1adb42",
+        "chainId": 8453,
+        "name": "EURC",
+        "symbol": "EURC",
+        "decimals": 6,
+        "extensions": {
+            "protocol": "Harvest (Moonwell)",
+            "externalLink": "https://app.harvest.finance/base/0xc101921178b843fDcB6d512E4c30CF44e10FA51B?"
+        },
+        "logoURI": "/images/tokens/8453/0x60a3e35cc302bfa44cb288bc5a4f316fdb1adb42.svg"
+    },
+    {
         "address": "0x4621b7a9c75199271f773ebd9a499dbd165c3191",
         "chainId": 8453,
         "name": "Dola USD Stablecoin",

@@ -987,6 +987,18 @@
         "logoURI": "/images/tokens/1/0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0.svg"
     },
     {
+        "address": "0x04d5ddf5f3a8939889f11e97f8c4bb48317f1938",
+        "chainId": 8453,
+        "name": "USDz",
+        "symbol": "USDz",
+        "decimals": 18,
+        "extensions": {
+            "protocol": "Harvest (ExtraFi - Lend)",
+            "externalLink": "https://app.harvest.finance/base/0x72432B8f837f3ED4c50499F57775AC820243B838"
+        },
+        "logoURI": "/images/tokens/8453/0x04d5ddf5f3a8939889f11e97f8c4bb48317f1938.svg"
+    },
+    {
         "address": "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf",
         "chainId": 8453,
         "name": "Coinbase Wrapped BTC",

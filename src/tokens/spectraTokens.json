@@ -987,6 +987,18 @@
         "logoURI": "/images/tokens/1/0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0.svg"
     },
     {
+        "address": "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf",
+        "chainId": 8453,
+        "name": "Coinbase Wrapped BTC",
+        "symbol": "cbBTC",
+        "decimals": 8,
+        "extensions": {
+            "protocol": "Harvest (Moonwell)",
+            "externalLink": "https://app.harvest.finance/base/0xc5dc397B1dB51dA30dC9F3aC7084bBBA1EFbe249"
+        },
+        "logoURI": "/images/tokens/8453/0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf.svg"
+    },
+    {
         "address": "0xa88594d404727625a9437c3f886c7643872296ae",
         "chainId": 8453,
         "name": "WELL",

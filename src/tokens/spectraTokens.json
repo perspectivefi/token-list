@@ -997,5 +997,29 @@
             "externalLink": "https://app.harvest.finance/base/0x3F227C9D9d6489A6258f4a8286Ee93AA98d5A2c3"
         },
         "logoURI": "/images/tokens/8453/0x4621b7a9c75199271f773ebd9a499dbd165c3191.svg"
+    },
+    {
+        "address": "0xa3d1a8deb97b111454b294e2324efad13a9d8396",
+        "chainId": 8453,
+        "name": "OVN",
+        "symbol": "OVN",
+        "decimals": 18,
+        "extensions": {
+            "protocol": "Harvest (ExtraFi - Lend)",
+            "externalLink": "https://app.harvest.finance/base/0x6a66697BB83b1660F58b618F85f37E413053D3A1?search=ovn"
+        },
+        "logoURI": "/images/tokens/8453/0xa3d1a8deb97b111454b294e2324efad13a9d8396.svg"
+    },
+    {
+        "address": "0xdcefd8c8fcc492630b943abcab3429f12ea9fea2",
+        "chainId": 8453,
+        "name": "Klima DAO",
+        "symbol": "KLIMA",
+        "decimals": 9,
+        "extensions": {
+            "protocol": "Harvest (ExtraFi - Lend)",
+            "externalLink": "https://app.harvest.finance/base/0xbe36B2367b081CDB3e657CeD2045729e5d8f89c4"
+        },
+        "logoURI": "/images/tokens/8453/0xdcefd8c8fcc492630b943abcab3429f12ea9fea2.svg"
     }
 ]

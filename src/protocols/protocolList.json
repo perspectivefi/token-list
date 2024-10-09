@@ -302,7 +302,7 @@
         "ptAddress": "0x57e9ebeb30852d31f99a08e39068d93b0d8fc917",
         "chainId": 1,
         "protocolName": "YieldNest",
-        "bgUrl": "/images/textures/yieldNestBackground.svg",
+        "bgUrl": "/images/textures/yieldNestBackground.png",
         "token": {
             "symbol": "ynETH",
             "logoURI": "/images/tokens/1/0x09db87a538bd693e9d08544577d5ccfaa6373a48.svg",

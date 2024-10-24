@@ -499,5 +499,28 @@
             },
             "protocol": "Reserve"
         }
+    },
+    {
+        "address": "0xBDE752ef69880c00a795D88438040b8f737Eb254",
+        "chainId": 8453,
+        "name": "Spectra ERC4626 Wrapper: Moonwell Flagship USDC",
+        "symbol": "sw-mwUSDC",
+        "decimals": 18,
+        "extensions": {
+            "underlying": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+            "protocol": "Morpho (Moonwell)",
+            "externalLink": "https://app.morpho.org/vault?vault=0xc1256Ae5FF1cf2719D4937adb3bbCCab2E00A2Ca&network=base"
+        },
+        "vault": {
+            "chainId": 8453,
+            "address": "0xc1256Ae5FF1cf2719D4937adb3bbCCab2E00A2Ca",
+            "symbol": "mwUSDC",
+            "name": "Moonwell Flagship USDC",
+            "decimals": 18,
+            "extensions": {
+                "underlying": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913"
+            }
+        },
+        "logoURI": "/images/tokens/8453/0xbde752ef69880c00a795d88438040b8f737eb254.svg"
     }
 ]

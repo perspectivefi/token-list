@@ -10,10 +10,10 @@
     {
         "chainId": 1,
         "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
-        "name": "USDC",
+        "name": "USD Coin",
         "symbol": "USDC",
         "decimals": 6,
-        "logoURI": "/images/tokens/1/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48.png"
+        "logoURI": "/images/tokens/1/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48.svg"
     },
     {
         "chainId": 1,
@@ -850,7 +850,7 @@
     {
         "chainId": 8453,
         "address": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
-        "name": "USDC",
+        "name": "USD Coin",
         "symbol": "USDC",
         "decimals": 6,
         "logoURI": "/images/tokens/8453/0x833589fcd6edb6e08f4c7c32d4f71b54bda02913.svg"

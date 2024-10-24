@@ -501,6 +501,26 @@
         }
     },
     {
+        "address": "0x7E32f4C44E22aB20df287f8a15eB6C0F54dA6E30",
+        "chainId": 8453,
+        "name": "Spectra ERC4626 Wrapper: Moonwell Flagship ETH",
+        "symbol": "sw-mwETH",
+        "decimals": 18,
+        "logoURI": "/images/tokens/8453/0xa0e430870c4604ccfc7b38ca7845b1ff653d0ff1.svg",
+        "extensions": {
+            "underlying": "0x4200000000000000000000000000000000000006",
+            "protocol": "Morpho (Moonwell)",
+            "vault": {
+                "chainId": 8453,
+                "address": "0xa0E430870c4604CcfC7B38Ca7845B1FF653D0ff1",
+                "symbol": "mwETH",
+                "name": "Moonwell Flagship ETH",
+                "decimals": 18,
+                "logoURI": "/images/tokens/8453/0xa0e430870c4604ccfc7b38ca7845b1ff653d0ff1.svg"
+            }
+        }
+    },
+    {
         "address": "0xBDE752ef69880c00a795D88438040b8f737Eb254",
         "chainId": 8453,
         "name": "Spectra ERC4626 Wrapper: Moonwell Flagship USDC",

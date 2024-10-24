@@ -1081,5 +1081,18 @@
             "externalLink": "https://app.harvest.finance/base/0xbe36B2367b081CDB3e657CeD2045729e5d8f89c4"
         },
         "logoURI": "/images/tokens/8453/0xdcefd8c8fcc492630b943abcab3429f12ea9fea2.svg"
+    },
+    {
+        "chainId": 8453,
+        "address": "0xc1256Ae5FF1cf2719D4937adb3bbCCab2E00A2Ca",
+        "symbol": "mwUSDC",
+        "name": "Moonwell Flagship USDC",
+        "decimals": 18,
+        "logoURI": "/images/tokens/8453/0xc1256ae5ff1cf2719d4937adb3bbccab2e00a2ca.svg",
+        "extensions": {
+            "underlying": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+            "protocol": "Morpho (Moonwell)",
+            "externalLink": "https://app.morpho.org/vault?vault=0xc1256Ae5FF1cf2719D4937adb3bbCCab2E00A2Ca&network=base"
+        }
     }
 ]

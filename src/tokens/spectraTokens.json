@@ -1081,5 +1081,18 @@
             "externalLink": "https://app.harvest.finance/base/0xbe36B2367b081CDB3e657CeD2045729e5d8f89c4"
         },
         "logoURI": "/images/tokens/8453/0xdcefd8c8fcc492630b943abcab3429f12ea9fea2.svg"
+    },
+    {
+        "chainId": 8453,
+        "address": "0xa0E430870c4604CcfC7B38Ca7845B1FF653D0ff1",
+        "symbol": "mwETH",
+        "name": "Moonwell Flagship ETH",
+        "decimals": 18,
+        "logoURI": "/images/tokens/8453/0xa0e430870c4604ccfc7b38ca7845b1ff653d0ff1.svg",
+        "extensions": {
+            "underlying": "0x4200000000000000000000000000000000000006",
+            "protocol": "Morpho (Moonwell)",
+            "externalLink": "https://app.morpho.org/vault?vault=0xa0E430870c4604CcfC7B38Ca7845B1FF653D0ff1&network=base"
+        }
     }
 ]

@@ -9,19 +9,51 @@
     },
     {
         "chainId": 1,
-        "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
-        "name": "USD Coin",
-        "symbol": "USDC",
-        "decimals": 6,
-        "logoURI": "/images/tokens/1/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48.svg"
-    },
-    {
-        "chainId": 1,
         "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
         "name": "Ether",
         "symbol": "ETH",
         "decimals": 18,
         "logoURI": "/images/tokens/1/0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee.svg"
+    },
+    {
+        "chainId": 8453,
+        "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+        "name": "Ether",
+        "symbol": "ETH",
+        "decimals": 18,
+        "logoURI": "/images/tokens/1/0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee.svg"
+    },
+    {
+        "chainId": 1,
+        "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "name": "Wrapped Ether",
+        "symbol": "wETH",
+        "decimals": 18,
+        "logoURI": "/images/tokens/8453/0x4200000000000000000000000000000000000006.svg"
+    },
+    {
+        "chainId": 8453,
+        "address": "0x4200000000000000000000000000000000000006",
+        "name": "Wrapped Ether",
+        "symbol": "wETH",
+        "decimals": 18,
+        "logoURI": "/images/tokens/8453/0x4200000000000000000000000000000000000006.svg"
+    },
+    {
+        "chainId": 42161,
+        "address": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
+        "name": "Wrapped Ether",
+        "symbol": "wETH",
+        "decimals": 18,
+        "logoURI": "/images/tokens/42161/0x82af49447d8a07e3bd95bd0d56f35241523fbab1.svg"
+    },
+    {
+        "chainId": 1,
+        "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+        "name": "USD Coin",
+        "symbol": "USDC",
+        "decimals": 6,
+        "logoURI": "/images/tokens/1/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48.svg"
     },
     {
         "chainId": 11155111,
@@ -492,14 +524,6 @@
         }
     },
     {
-        "chainId": 8453,
-        "address": "0x4200000000000000000000000000000000000006",
-        "name": "Wrapped Ether",
-        "symbol": "wETH",
-        "decimals": 18,
-        "logoURI": "/images/tokens/8453/0x4200000000000000000000000000000000000006.svg"
-    },
-    {
         "chainId": 42161,
         "address": "0x710a1ab6cb8412de9613ad6c7195453ce8b5ca71",
         "name": "FARM_LODE",
@@ -611,14 +635,6 @@
             "underlying": "0x04c0599ae5a44757c0af6f9ec3b93da8976c150a",
             "protocol": "CIAN"
         }
-    },
-    {
-        "chainId": 42161,
-        "address": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
-        "name": "Wrapped Ether",
-        "symbol": "wETH",
-        "decimals": 18,
-        "logoURI": "/images/tokens/42161/0x82af49447d8a07e3bd95bd0d56f35241523fbab1.svg"
     },
     {
         "chainId": 42161,

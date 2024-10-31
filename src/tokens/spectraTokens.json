@@ -1135,5 +1135,18 @@
             "underlying": "0x60a3E35Cc302bFA44Cb288Bc5a4F316Fdb1adb42",
             "protocol": "Harvest (Moonwell)"
         }
+    },
+    {
+        "chainId": 1,
+        "address": "0x270B7748CdF8243bFe68FaCE7230ef0fCE695389",
+        "symbol": "hETH",
+        "name": "Hinkal ETH",
+        "decimals": 18,
+        "logoURI": "/images/tokens/1/0x270b7748cdf8243bfe68face7230ef0fce695389.svg",
+        "extensions": {
+            "underlying": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+            "protocol": "Hinkal",
+            "externalLink": "https://app.hinkal.pro/anonymity-staking"
+        }
     }
 ]

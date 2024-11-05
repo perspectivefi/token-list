@@ -171,10 +171,6 @@
             {
                 "amount": 3,
                 "name": "Karak XP"
-            },
-            {
-                "amount": 3,
-                "name": "Kernel Points"
             }
         ]
     },
@@ -192,10 +188,6 @@
             {
                 "amount": 3,
                 "name": "Karak XP"
-            },
-            {
-                "amount": 3,
-                "name": "Kernel Points"
             }
         ]
     },
@@ -213,10 +205,6 @@
             {
                 "amount": 3,
                 "name": "Karak XP"
-            },
-            {
-                "amount": 3,
-                "name": "Kernel Points"
             }
         ]
     },

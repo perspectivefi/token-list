@@ -158,57 +158,6 @@
         ]
     },
     {
-        "ptAddress": "0xdeb0ef575c92188091d33dd1ec5b3519182aaa22",
-        "chainId": 1,
-        "protocolName": "Kernel",
-        "bgUrl": "/images/textures/kernelBackground.png",
-        "token": {
-            "symbol": "krETH",
-            "logoURI": "/images/tokens/1/0xb10a1b53f11aa969bc79dc86948de489e5996f8d.png",
-            "underlying": "krETH"
-        },
-        "multipliers": [
-            {
-                "amount": 3,
-                "name": "Karak XP"
-            }
-        ]
-    },
-    {
-        "ptAddress": "0x581b928365b2c339db2b66572e8d9d7cfcca0f80",
-        "chainId": 1,
-        "protocolName": "Kernel",
-        "bgUrl": "/images/textures/kernelBackground.png",
-        "token": {
-            "symbol": "kUSD",
-            "logoURI": "/images/tokens/1/0x0bb9ab78aaf7179b7515e6753d89822b91e670c4.png",
-            "underlying": "kUSD"
-        },
-        "multipliers": [
-            {
-                "amount": 3,
-                "name": "Karak XP"
-            }
-        ]
-    },
-    {
-        "ptAddress": "0xc3a20131ee6853fc4d444c9ad952c93f77c0b71b",
-        "chainId": 1,
-        "protocolName": "Kernel",
-        "bgUrl": "/images/textures/kernelBackground.png",
-        "token": {
-            "symbol": "ksETH",
-            "logoURI": "/images/tokens/1/0x04a40ef57eb9d6265b90367ddbba17a6916a45df.png",
-            "underlying": "ksETH"
-        },
-        "multipliers": [
-            {
-                "amount": 3,
-                "name": "Karak XP"
-            }
-        ]
-    },
-    {
         "ptAddress": "0xd0097149aa4cc0d0e1fc99b8bd73fc17dc32c1e9",
         "chainId": 1,
         "protocolName": "Resolv",

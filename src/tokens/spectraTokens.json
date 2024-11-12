@@ -1161,5 +1161,17 @@
             "protocol": "ether.fi",
             "externalLink": "https://app.ether.fi/ebtc"
         }
+    },
+    {
+        "address": "0x358d94b5b2F147D741088803d932Acb566acB7B6",
+        "chainId": 1,
+        "name": "rSWELL",
+        "symbol": "rSWELL",
+        "decimals": 18,
+        "logoURI": "/images/tokens/1/0x358d94b5b2f147d741088803d932acb566acb7b6.svg",
+        "extensions": {
+            "underlying": "0x0a6E7Ba5042B38349e437ec6Db6214AEC7B35676",
+            "protocol": "Swell"
+        }
     }
 ]

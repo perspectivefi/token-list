@@ -234,20 +234,7 @@
             "logoURI": "/images/tokens/USUALUSDC.svg",
             "underlying": "USDC"
         },
-        "multipliers": {
-            "lp": [
-                {
-                    "amount": 1,
-                    "name": "Pill/day per $1 of USUALUSDC"
-                }
-            ],
-            "yt": [
-                {
-                    "amount": 1,
-                    "name": "Pill/day"
-                }
-            ]
-        }
+        "multipliers": []
     },
     {
         "ptAddress": "0x6c8494e596a7b3847a4e8f9f49014bab5730a19c",

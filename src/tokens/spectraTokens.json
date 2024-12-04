@@ -1234,5 +1234,18 @@
             "protocol": "Morpho (Relend)",
             "externalLink": "https://app.morpho.org/vault?vault=0x0F359FD18BDa75e9c49bC027E7da59a4b01BF32a&network=mainnet"
         }
+    },
+    {
+        "address": "0x4626c0d31c52991573ddd4df8f2bb1bc5101284f",
+        "chainId": 10,
+        "name": "sMONEY",
+        "symbol": "sMONEY",
+        "decimals": 18,
+        "logoURI": "/images/tokens/10/0x4626c0d31c52991573ddd4df8f2bb1bc5101284f.svg",
+        "extensions": {
+            "underlying": "0x69420f9E38a4e60a62224C489be4BF7a94402496",
+            "protocol": "defi.money",
+            "externalLink": "https://app.defi.money/earn/arbitrum"
+        }
     }
 ]

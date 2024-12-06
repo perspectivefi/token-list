@@ -1234,5 +1234,17 @@
             "protocol": "Morpho (Relend)",
             "externalLink": "https://app.morpho.org/vault?vault=0x0F359FD18BDa75e9c49bC027E7da59a4b01BF32a&network=mainnet"
         }
+    },
+    {
+        "address": "0x69420f9e38a4e60a62224c489be4bf7a94402496",
+        "chainId": 10,
+        "name": "MONEY",
+        "symbol": "MONEY",
+        "decimals": 18,
+        "logoURI": "/images/tokens/10/0x69420f9e38a4e60a62224c489be4bf7a94402496.svg",
+        "extensions": {
+            "protocol": "defi.money",
+            "externalLink": "https://app.defi.money/earn/arbitrum"
+        }
     }
 ]

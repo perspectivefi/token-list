@@ -1236,6 +1236,18 @@
         }
     },
     {
+        "address": "0x4626c0d31c52991573ddd4df8f2bb1bc5101284f",
+        "chainId": 10,
+        "name": "sMONEY",
+        "symbol": "sMONEY",
+        "decimals": 18,
+        "logoURI": "/images/tokens/10/0x4626c0d31c52991573ddd4df8f2bb1bc5101284f.svg",
+        "extensions": {
+            "underlying": "0x69420f9E38a4e60a62224C489be4BF7a94402496",
+            "protocol": "defi.money",
+            "externalLink": "https://app.defi.money/earn/optimism"
+    },
+    {
         "address": "0x69420f9e38a4e60a62224c489be4bf7a94402496",
         "chainId": 10,
         "name": "MONEY",
@@ -1244,7 +1256,7 @@
         "logoURI": "/images/tokens/10/0x69420f9e38a4e60a62224c489be4bf7a94402496.svg",
         "extensions": {
             "protocol": "defi.money",
-            "externalLink": "https://app.defi.money/earn/arbitrum"
+            "externalLink": "https://app.defi.money/earn/optimism"
         }
     }
 ]

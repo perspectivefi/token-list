@@ -309,5 +309,26 @@
                 "name": "All eBTC staking rewards. Find them all on https://app.ether.fi/ebtc"
             }
         ]
+    },
+    {
+        "ptAddress": "0xbba9b8e2f698d2b1d79b6ee9fb05ac2520696f6d",
+        "chainId": 1,
+        "protocolName": "YieldNest",
+        "bgUrl": "/images/textures/yieldNestBackground.png",
+        "token": {
+            "symbol": "ynETH",
+            "logoURI": "/images/tokens/1/0x09db87a538bd693e9d08544577d5ccfaa6373a48.svg",
+            "underlying": "WETH"
+        },
+        "multipliers": [
+            {
+                "amount": 3,
+                "name": "Seeds"
+            },
+            {
+                "amount": 1,
+                "name": "EigenLayer Points"
+            }
+        ]
     }
 ]

@@ -330,5 +330,16 @@
                 "name": "EigenLayer Points"
             }
         ]
+    },
+    {
+        "ptAddress": "0x4d19336F180315524a31c9E46e570CBC01bEc730",
+        "chainId": 8453,
+        "protocolName": "Jarvis Network",
+        "bgUrl": "/images/textures/amphorBackground.png",
+        "token": {
+            "symbol": "sjEUR",
+            "logoURI": "/images/tokens/1/0x89Cc2A57223fa803852b6B4E65c6E376D49909f9.svg",
+            "underlying": "sjEUR"
+        }
     }
 ]

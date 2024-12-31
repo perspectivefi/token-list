@@ -1288,5 +1288,18 @@
         "symbol": "LBTC",
         "decimals": 8,
         "logoURI": "/images/tokens/8453/0xecac9c5f704e954931349da37f60e39f515c11c1.svg"
+    },
+    {
+        "address": "0x43Ee0243eA8CF02f7087d8B16C8D2007CC9c7cA2",
+        "chainId": 1,
+        "name": "IPOR USDC Ethereum Optimizer",
+        "symbol": "ipUSDCfusion",
+        "decimals": 8,
+        "logoURI": "/images/tokens/1/0x43ee0243ea8cf02f7087d8b16c8d2007cc9c7ca2.svg",
+        "extensions": {
+            "underlying": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+            "protocol": "IPOR Fusion",
+            "externalLink": "https://app.ipor.io/fusion/ethereum/0x43ee0243ea8cf02f7087d8b16c8d2007cc9c7ca2"
+        }
     }
 ]

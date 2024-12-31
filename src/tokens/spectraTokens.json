@@ -1267,5 +1267,18 @@
             "protocol": "defi.money",
             "externalLink": "https://app.defi.money/earn/optimism"
         }
+    },
+    {
+        "address": "0x4e2d90f0307a93b54aca31dc606f93fe6b9132d2",
+        "chainId": 8453,
+        "name": "Upshift Lombard LBTC",
+        "symbol": "upLBTC",
+        "decimals": 8,
+        "logoURI": "/images/tokens/8453/0x4e2d90f0307a93b54aca31dc606f93fe6b9132d2.svg",
+        "extensions": {
+            "underlying": "0xecAc9C5F704e954931349Da37F60E39f515c11c1",
+            "protocol": "Lombard",
+            "externalLink": "https://lombard.upshift.finance/pools/8453/0x4e2D90f0307A93b54ACA31dc606F93FE6b9132d2"
+        }
     }
 ]

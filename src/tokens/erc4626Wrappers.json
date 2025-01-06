@@ -619,5 +619,25 @@
                 "logoURI": "/images/tokens/1/0x0f359fd18bda75e9c49bc027e7da59a4b01bf32a.svg"
             }
         }
+    },
+    {
+        "address": "0xcD4954CE6A178aB0bc4FFa0b2886F33c5A851D0B",
+        "chainId": 1,
+        "name": "Spectra ERC4626 Wrapper: Smokehouse WSTETH",
+        "symbol": "sw-bbqWSTETH",
+        "decimals": 18,
+        "logoURI": "/images/tokens/1/0x833adaef212c5cd3f78906b44bbfb18258f238f0.svg",
+        "extensions": {
+            "underlying": "0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0",
+            "protocol": "Morpho (Smokehouse)",
+            "vault": {
+                "chainId": 1,
+                "address": "0x833AdaeF212c5cD3f78906B44bBfb18258F238F0",
+                "symbol": "bbqWSTETH",
+                "name": "Smokehouse WSTETH",
+                "decimals": 18,
+                "logoURI": "/images/tokens/1/0x833adaef212c5cd3f78906b44bbfb18258f238f0.svg"
+            }
+        }
     }
 ]

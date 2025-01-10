@@ -639,5 +639,25 @@
                 "logoURI": "/images/tokens/1/0x833adaef212c5cd3f78906b44bbfb18258f238f0.svg"
             }
         }
+    },
+    {
+        "address": "0x55076E45a3ab31c4D9f92F63f0b7801c74B986f8",
+        "chainId": 8453,
+        "name": "Spectra ERC4626 Wrapper: 9Summits WETH Core 1.1",
+        "symbol": "sw-9SETHcore",
+        "decimals": 18,
+        "logoURI": "/images/tokens/8453/0x5496b42ad0decebfab0db944d83260e60d54f667.svg",
+        "extensions": {
+            "underlying": "0x4200000000000000000000000000000000000006",
+            "protocol": "Morpho (9Summits)",
+            "vault": {
+                "chainId": 8453,
+                "address": "0x5496b42ad0deCebFab0db944D83260e60D54f667",
+                "symbol": "9SETHcore",
+                "name": "9Summits WETH Core 1.1",
+                "decimals": 18,
+                "logoURI": "/images/tokens/8453/0x5496b42ad0decebfab0db944d83260e60d54f667.svg"
+            }
+        }
     }
 ]

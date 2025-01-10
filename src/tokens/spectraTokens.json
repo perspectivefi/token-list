@@ -1360,5 +1360,18 @@
             "protocol": "Morpho (Ionic)",
             "externalLink": "https://app.morpho.org/vault?vault=0x5A32099837D89E3a794a44fb131CBbAD41f87a8C&network=base"
         }
+    },
+    {
+        "chainId": 8453,
+        "address": "0x23479229e52Ab6aaD312D0B03DF9F33B46753B5e",
+        "symbol": "ionicUSDC",
+        "name": "Ionic Ecosystem USDC",
+        "decimals": 18,
+        "logoURI": "/images/tokens/8453/0x23479229e52ab6aad312d0b03df9f33b46753b5e.svg",
+        "extensions": {
+            "underlying": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+            "protocol": "Morpho (Ionic)",
+            "externalLink": "https://app.morpho.org/vault?vault=0x23479229e52Ab6aaD312D0B03DF9F33B46753B5e&network=base"
+        }
     }
 ]

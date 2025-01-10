@@ -699,5 +699,25 @@
                 "logoURI": "/images/tokens/8453/0x23479229e52ab6aad312d0b03df9f33b46753b5e.svg"
             }
         }
+    },
+    {
+        "address": "0xb7C5eb1271432f725a8f182DC00eaeE13982Bf46",
+        "chainId": 1,
+        "name": "Spectra ERC4626 Wrapper: Static RWA ZeroLend USDC",
+        "symbol": "sw-statz0RWAUSDC",
+        "decimals": 18,
+        "logoURI": "/images/tokens/1/0x942bed98560e9b2aa0d4ec76bbda7a7e55f6b2d6.svg",
+        "extensions": {
+            "underlying": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+            "protocol": "ZeroLend",
+            "vault": {
+                "chainId": 1,
+                "address": "0x942bed98560e9b2Aa0d4Ec76BbDa7a7E55f6B2D6",
+                "symbol": "statz0RWAUSDC",
+                "name": "Static RWA ZeroLend USDC",
+                "decimals": 6,
+                "logoURI": "/images/tokens/1/0x942bed98560e9b2aa0d4ec76bbda7a7e55f6b2d6.svg"
+            }
+        }
     }
 ]

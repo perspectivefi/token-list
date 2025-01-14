@@ -1411,5 +1411,13 @@
             "underlying": "0x7C1156E515aA1A2E851674120074968C905aAF37",
             "protocol": "Level"
         }
+    },
+    {
+        "address": "0x7c1156e515aa1a2e851674120074968c905aaf37",
+        "chainId": 1,
+        "name": "Level USD",
+        "symbol": "lvlUSD",
+        "decimals": 18,
+        "logoURI": "/images/tokens/1/0x7c1156e515aa1a2e851674120074968c905aaf37.svg"
     }
 ]

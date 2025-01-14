@@ -1399,5 +1399,13 @@
             "protocol": "Euler (Resolv)",
             "externalLink": "https://app.euler.finance/vault/0xcBC9B61177444A793B85442D3a953B90f6170b7D?chainId=1"
         }
+    },
+    {
+        "address": "0x7c1156e515aa1a2e851674120074968c905aaf37",
+        "chainId": 1,
+        "name": "Level USD",
+        "symbol": "lvlUSD",
+        "decimals": 18,
+        "logoURI": "/images/tokens/1/0x7c1156e515aa1a2e851674120074968c905aaf37.svg"
     }
 ]

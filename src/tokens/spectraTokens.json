@@ -1399,5 +1399,18 @@
             "protocol": "Euler (Resolv)",
             "externalLink": "https://app.euler.finance/vault/0xcBC9B61177444A793B85442D3a953B90f6170b7D?chainId=1"
         }
+    },
+    {
+        "address": "0x4737D9b4592B40d51e110b94c9C043c6654067Ae",
+        "chainId": 1,
+        "name": "lvlUSD",
+        "symbol": "slvlUSD",
+        "decimals": 18,
+        "logoURI": "/images/tokens/1/0x4737d9b4592b40d51e110b94c9c043c6654067ae.svg",
+        "extensions": {
+            "underlying": "0x7C1156E515aA1A2E851674120074968C905aAF37",
+            "protocol": "level.money",
+            "externalLink": "https://www.level.money/"
+        }
     }
 ]

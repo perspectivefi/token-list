@@ -330,5 +330,30 @@
                 "name": "EigenLayer Points"
             }
         ]
+    },
+    {
+        "ptAddress": "0xbc30e564052a622d6b50170b73ff14ee49eeade0",
+        "chainId": 1,
+        "protocolName": "Level",
+        "bgUrl": "/images/textures/level.png",
+        "token": {
+            "symbol": "slvlUSD",
+            "logoURI": "/images/tokens/1/0x4737d9b4592b40d51e110b94c9c043c6654067ae.svg",
+            "underlying": "lvlUSD"
+        },
+        "multipliers": {
+            "lp": [
+                {
+                    "amount": 20,
+                    "name": "Level XP"
+                }
+            ],
+            "yt": [
+                {
+                    "amount": 15,
+                    "name": "Level XP"
+                }
+            ]
+        }
     }
 ]

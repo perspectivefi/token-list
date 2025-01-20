@@ -757,6 +757,10 @@
                 "name": "Inception Symbiotic Restaked wstETH",
                 "decimals": 18,
                 "logoURI": "/images/tokens/1/0x8e0789d39db454dbe9f4a77acef6dc7c69f6d552.svg"
+            },
+            "ibtRoutes": {
+                "withdraw": false,
+                "redeem": false
             }
         }
     },

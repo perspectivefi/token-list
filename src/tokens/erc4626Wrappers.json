@@ -777,5 +777,25 @@
                 "logoURI": "/images/tokens/1/0x4956b52ae2ff65d74ca2d61207523288e4528f96.svg"
             }
         }
+    },
+    {
+        "address": "0x4427855b3d9D0a3e931cD6BBdbE4E0F74D47eBB0",
+        "chainId": 1,
+        "name": "Spectra ERC4626 Wrapper: Coinshift USDL",
+        "symbol": "sw-csUSDL",
+        "decimals": 18,
+        "logoURI": "/images/tokens/1/0xbeefc011e94f43b8b7b455ebab290c7ab4e216f1.svg",
+        "extensions": {
+            "underlying": "0x7751E2F4b8ae93EF6B79d86419d42FE3295A4559",
+            "protocol": "Morpho (Coinshift)",
+            "vault": {
+                "chainId": 1,
+                "address": "0xbEeFc011e94f43b8B7b455eBaB290C7Ab4E216f1",
+                "symbol": "csUSDL",
+                "name": "Coinshift USDL",
+                "decimals": 18,
+                "logoURI": "/images/tokens/1/0xbeefc011e94f43b8b7b455ebab290c7ab4e216f1.svg"
+            }
+        }
     }
 ]

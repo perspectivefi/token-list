@@ -1490,5 +1490,15 @@
             "protocol": "OpenEden",
             "externalLink": "https://openeden.com/"
         }
+    },
+    {
+        "address": "0xd89Fc47AacBB31E2bF23EC599F593A4876D8c18C",
+        "chainId": 1,
+        "name": "Spectra ERC4626 Wrapper: Inception Symbiotic Restaked wstETH",
+        "symbol": "sw-inwstETHs",
+        "decimals": 18,
+        "extensions": {
+            "underlying": "0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0"
+        }
     }
 ]

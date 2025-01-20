@@ -1442,8 +1442,45 @@
         }
     },
     {
-        "address": "0xad55aebc9b8c03fc43cd9f62260391c13c23e7c0",
         "chainId": 1,
+        "address": "0x8E0789d39db454DBE9f4a77aCEF6dc7c69f6D552",
+        "symbol": "inwstETHs",
+        "name": "Inception Symbiotic Restaked wstETH",
+        "decimals": 18,
+        "logoURI": "/images/tokens/1/0x8e0789d39db454dbe9f4a77acef6dc7c69f6d552.svg",
+        "extensions": {
+            "protocol": "InceptionLRT",
+            "externalLink": "https://www.inceptionlrt.com/app/restaking/restake/?token=wstETH&chainId=1&inceptionToken=inwstETHs"
+        }
+    },
+    {
+        "chainId": 1,
+        "address": "0x4956b52aE2fF65D74CA2d61207523288e4528f96",
+        "symbol": "RLP",
+        "name": "Resolv Liquidity Provider Token",
+        "decimals": 18,
+        "logoURI": "/images/tokens/1/0x4956b52ae2ff65d74ca2d61207523288e4528f96.svg",
+        "extensions": {
+            "protocol": "Resolv",
+            "externalLink": "https://resolv.xyz/rlp"
+        }
+    },
+    {
+        "chainId": 1,
+        "address": "0xbEeFc011e94f43b8B7b455eBaB290C7Ab4E216f1",
+        "symbol": "csUSDL",
+        "name": "Coinshift USDL",
+        "decimals": 18,
+        "logoURI": "/images/tokens/1/0xbeefc011e94f43b8b7b455ebab290c7ab4e216f1.svg",
+        "extensions": {
+            "underlying": "0x7751E2F4b8ae93EF6B79d86419d42FE3295A4559",
+            "protocol": "Morpho (Coinshift)",
+            "externalLink": "https://coinshift.global/dashboard/deposit"
+        }
+    },
+    {
+        "chainId": 1,
+        "address": "0xad55aebc9b8c03fc43cd9f62260391c13c23e7c0",
         "name": "Open Dollar",
         "symbol": "cUSDO",
         "decimals": 18,

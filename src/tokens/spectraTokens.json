@@ -1443,18 +1443,6 @@
     },
     {
         "chainId": 1,
-        "address": "0x8E0789d39db454DBE9f4a77aCEF6dc7c69f6D552",
-        "symbol": "inwstETHs",
-        "name": "Inception Symbiotic Restaked wstETH",
-        "decimals": 18,
-        "logoURI": "/images/tokens/1/0x8e0789d39db454dbe9f4a77acef6dc7c69f6d552.svg",
-        "extensions": {
-            "protocol": "InceptionLRT",
-            "externalLink": "https://www.inceptionlrt.com/app/restaking/restake/?token=wstETH&chainId=1&inceptionToken=inwstETHs"
-        }
-    },
-    {
-        "chainId": 1,
         "address": "0x4956b52aE2fF65D74CA2d61207523288e4528f96",
         "symbol": "RLP",
         "name": "Resolv Liquidity Provider Token",
@@ -1489,6 +1477,16 @@
             "underlying": "0x8238884Ec9668Ef77B90C6dfF4D1a9F4F4823BFe",
             "protocol": "OpenEden",
             "externalLink": "https://openeden.com/"
+        }
+    },
+    {
+        "chainId": 1,
+        "address": "0x8E0789d39db454DBE9f4a77aCEF6dc7c69f6D552",
+        "symbol": "inwstETHs",
+        "name": "Inception Symbiotic Restaked wstETH",
+        "decimals": 18,
+        "extensions": {
+            "underlying": "0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0"
         }
     }
 ]

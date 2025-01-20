@@ -741,25 +741,6 @@
         }
     },
     {
-        "address": "0xd89Fc47AacBB31E2bF23EC599F593A4876D8c18C",
-        "chainId": 1,
-        "name": "Spectra ERC4626 Wrapper: Inception Symbiotic Restaked wstETH",
-        "symbol": "sw-inwstETHs",
-        "decimals": 18,
-        "logoURI": "/images/tokens/1/0x8e0789d39db454dbe9f4a77acef6dc7c69f6d552.svg",
-        "extensions": {
-            "protocol": "InceptionLRT",
-            "vault": {
-                "chainId": 1,
-                "address": "0x8E0789d39db454DBE9f4a77aCEF6dc7c69f6D552",
-                "symbol": "inwstETHs",
-                "name": "Inception Symbiotic Restaked wstETH",
-                "decimals": 18,
-                "logoURI": "/images/tokens/1/0x8e0789d39db454dbe9f4a77acef6dc7c69f6d552.svg"
-            }
-        }
-    },
-    {
         "address": "0x3EdfaC40e3EE7a26D03393ac44918c53e7f90bad",
         "chainId": 1,
         "name": "Spectra ERC4626 Wrapper: Resolv Liquidity Provider Token",
@@ -795,6 +776,23 @@
                 "name": "Coinshift USDL",
                 "decimals": 18,
                 "logoURI": "/images/tokens/1/0xbeefc011e94f43b8b7b455ebab290c7ab4e216f1.svg"
+            }
+        }
+    },
+    {
+        "address": "0xd89Fc47AacBB31E2bF23EC599F593A4876D8c18C",
+        "chainId": 1,
+        "name": "Spectra ERC4626 Wrapper: Inception Symbiotic Restaked wstETH",
+        "symbol": "sw-inwstETHs",
+        "decimals": 18,
+        "extensions": {
+            "underlying": "0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0",
+            "vault": {
+                "chainId": 1,
+                "address": "0x8E0789d39db454DBE9f4a77aCEF6dc7c69f6D552",
+                "symbol": "inwstETHs",
+                "name": "Inception Symbiotic Restaked wstETH",
+                "decimals": 18
             }
         }
     }

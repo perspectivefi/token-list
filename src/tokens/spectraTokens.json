@@ -1452,5 +1452,17 @@
             "protocol": "InceptionLRT",
             "externalLink": "https://www.inceptionlrt.com/app/restaking/restake/?token=wstETH&chainId=1&inceptionToken=inwstETHs"
         }
+    },
+    {
+        "chainId": 1,
+        "address": "0x4956b52aE2fF65D74CA2d61207523288e4528f96",
+        "symbol": "RLP",
+        "name": "Resolv Liquidity Provider Token",
+        "decimals": 18,
+        "logoURI": "/images/tokens/1/0x4956b52ae2ff65d74ca2d61207523288e4528f96.png",
+        "extensions": {
+            "protocol": "Resolv",
+            "externalLink": "https://app.resolv.xyz/"
+        }
     }
 ]

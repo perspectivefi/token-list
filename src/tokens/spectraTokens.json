@@ -1452,5 +1452,18 @@
             "protocol": "InceptionLRT",
             "externalLink": "https://www.inceptionlrt.com/app/restaking/restake/?token=wstETH&chainId=1&inceptionToken=inwstETHs"
         }
+    },
+    {
+        "chainId": 1,
+        "address": "0xbEeFc011e94f43b8B7b455eBaB290C7Ab4E216f1",
+        "symbol": "csUSDL",
+        "name": "Coinshift USDL",
+        "decimals": 18,
+        "logoURI": "/images/tokens/1/0xbeefc011e94f43b8b7b455ebab290c7ab4e216f1.svg",
+        "extensions": {
+            "underlying": "0x7751E2F4b8ae93EF6B79d86419d42FE3295A4559",
+            "protocol": "Morpho (Coinshift)",
+            "externalLink": "https://coinshift.global/dashboard/deposit"
+        }
     }
 ]

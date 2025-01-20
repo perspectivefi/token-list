@@ -749,6 +749,7 @@
         "logoURI": "/images/tokens/1/0x8e0789d39db454dbe9f4a77acef6dc7c69f6d552.svg",
         "extensions": {
             "protocol": "InceptionLRT",
+            "underlying": "0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0",
             "vault": {
                 "chainId": 1,
                 "address": "0x8E0789d39db454DBE9f4a77aCEF6dc7c69f6D552",
@@ -768,6 +769,7 @@
         "logoURI": "/images/tokens/1/0x4956b52ae2ff65d74ca2d61207523288e4528f96.svg",
         "extensions": {
             "protocol": "Resolv",
+            "underlying": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
             "vault": {
                 "chainId": 1,
                 "address": "0x4956b52aE2fF65D74CA2d61207523288e4528f96",

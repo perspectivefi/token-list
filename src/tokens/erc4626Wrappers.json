@@ -739,5 +739,24 @@
                 "logoURI": "/images/tokens/1/0xcbc9b61177444a793b85442d3a953b90f6170b7d.svg"
             }
         }
+    },
+    {
+        "address": "0xd89Fc47AacBB31E2bF23EC599F593A4876D8c18C",
+        "chainId": 1,
+        "name": "Spectra ERC4626 Wrapper: Inception Symbiotic Restaked wstETH",
+        "symbol": "sw-inwstETHs",
+        "decimals": 18,
+        "logoURI": "/images/tokens/1/0x8e0789d39db454dbe9f4a77acef6dc7c69f6d552.svg",
+        "extensions": {
+            "protocol": "InceptionLRT",
+            "vault": {
+                "chainId": 1,
+                "address": "0x8E0789d39db454DBE9f4a77aCEF6dc7c69f6D552",
+                "symbol": "inwstETHs",
+                "name": "Inception Symbiotic Restaked wstETH",
+                "decimals": 18,
+                "logoURI": "/images/tokens/1/0x8e0789d39db454dbe9f4a77acef6dc7c69f6d552.svg"
+            }
+        }
     }
 ]

@@ -1440,5 +1440,17 @@
             "protocol": "USDX",
             "externalLink": "https://usdx.money"
         }
+    },
+    {
+        "chainId": 1,
+        "address": "0x8E0789d39db454DBE9f4a77aCEF6dc7c69f6D552",
+        "symbol": "inwstETHs",
+        "name": "Inception Symbiotic Restaked wstETH",
+        "decimals": 18,
+        "logoURI": "/images/tokens/1/0x8e0789d39db454dbe9f4a77acef6dc7c69f6d552.svg",
+        "extensions": {
+            "protocol": "InceptionLRT",
+            "externalLink": "https://www.inceptionlrt.com/app/restaking/restake/?token=wstETH&chainId=1&inceptionToken=inwstETHs"
+        }
     }
 ]

@@ -1536,5 +1536,13 @@
         "symbol": "S",
         "decimals": 18,
         "logoURI": "/images/tokens/146/0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee.svg"
+    },
+    {
+        "address": "0xd3dce716f3ef535c5ff8d041c1a41c3bd89b97ae",
+        "chainId": 146,
+        "name": "Sonic USD",
+        "symbol": "scUSD",
+        "decimals": 6,
+        "logoURI": "/images/tokens/146/0xd3dce716f3ef535c5ff8d041c1a41c3bd89b97ae.svg"
     }
 ]

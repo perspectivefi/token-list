@@ -1528,5 +1528,13 @@
         "symbol": "wS",
         "decimals": 18,
         "logoURI": "/images/tokens/146/0x039e2fb66102314ce7b64ce5ce3e5183bc94ad38.png"
+    },
+    {
+        "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+        "chainId": 146,
+        "name": "Sonic",
+        "symbol": "S",
+        "decimals": 18,
+        "logoURI": "/images/tokens/146/0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee.svg"
     }
 ]

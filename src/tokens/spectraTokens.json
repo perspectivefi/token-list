@@ -1560,5 +1560,17 @@
         "symbol": "deUSD",
         "decimals": 18,
         "logoURI": "/images/tokens/1/0x15700b564ca08d9439c58ca5053166e8317aa138.svg"
+    },
+    {
+        "address": "0x5c5b196abe0d54485975d1ec29617d42d9198326",
+        "chainId": 1,
+        "name": "Staked deUSD",
+        "symbol": "sdeUSD",
+        "decimals": 18,
+        "logoURI": "/images/tokens/1/0x5c5b196abe0d54485975d1ec29617d42d9198326.svg",
+        "extensions": {
+            "underlying": "0x15700B564Ca08D9439C58cA5053166E8317aa138",
+            "protocol": "Elixir"
+        }
     }
 ]

@@ -355,5 +355,47 @@
                 }
             ]
         }
+    },
+    {
+        "ptAddress": "0xfd0f8638a9c178a81eaa9648d57763f989843c40",
+        "chainId": 146,
+        "protocolName": "Rings",
+        "bgUrl": "/images/textures/rings.png",
+        "token": {
+            "symbol": "stkscUSD",
+            "logoURI": "/images/tokens/146/0x4d85ba8c3918359c78ed09581e5bc7578ba932ba.svg",
+            "underlying": "scUSD"
+        },
+        "multipliers": [
+            {
+                "amount": 12,
+                "name": "Sonic Points"
+            },
+            {
+                "amount": 2,
+                "name": "Rings Points"
+            },
+            {
+                "amount": 3,
+                "name": "Veda Points"
+            }
+        ]
+    },
+    {
+        "ptAddress": "0x91f6e24c9bd3ade0848d46e3b7bbf4bf7d172650",
+        "chainId": 146,
+        "protocolName": "Beets",
+        "bgUrl": "/images/textures/beets.png",
+        "token": {
+            "symbol": "stS",
+            "logoURI": "/images/tokens/146/0xe5da20f15420ad15de0fa650600afc998bbe3955.svg",
+            "underlying": "wS"
+        },
+        "multipliers": [
+            {
+                "amount": 8,
+                "name": "Sonic Points"
+            }
+        ]
     }
 ]

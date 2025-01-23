@@ -30,8 +30,6 @@
         "required": [
             "ptAddress",
             "chainId",
-            "protocolName",
-            "token",
             "multipliers"
         ],
         "properties": {
@@ -41,32 +39,6 @@
             },
             "chainId": {
                 "type": "integer"
-            },
-            "protocolName": {
-                "type": "string"
-            },
-            "bgUrl": {
-                "type": "string"
-            },
-            "token": {
-                "type": "object",
-                "additionalProperties": false,
-                "required": [
-                    "symbol",
-                    "logoURI",
-                    "underlying"
-                ],
-                "properties": {
-                    "symbol": {
-                        "type": "string"
-                    },
-                    "logoURI": {
-                        "type": "string"
-                    },
-                    "underlying": {
-                        "type": "string"
-                    }
-                }
             },
             "multipliers": {
                 "anyOf": [

@@ -2,13 +2,6 @@
     {
         "ptAddress": "0x6def54ae7e38992a7d1ab60d279483ba7f7b0aeb",
         "chainId": 1,
-        "protocolName": "Karak",
-        "bgUrl": "/images/textures/ether.fiBackground.svg",
-        "token": {
-            "symbol": "KweETH",
-            "logoURI": "/images/tokens/1/0x2dabcea55a12d73191aece59f508b191fb68adac.svg",
-            "underlying": "weETH"
-        },
         "multipliers": [
             {
                 "amount": 1.5,
@@ -27,13 +20,6 @@
     {
         "ptAddress": "0xe617fc640413171100c32cc8dbf69fc7928d895e",
         "chainId": 1,
-        "protocolName": "Bedrock",
-        "bgUrl": "/images/textures/bedrockBackground.svg",
-        "token": {
-            "symbol": "uniBTC",
-            "logoURI": "/images/tokens/1/0x004e9c3ef86bc1ca1f0bb5c7662861ee93350568.svg",
-            "underlying": "uniBTC"
-        },
         "multipliers": [
             {
                 "amount": 63,
@@ -44,13 +30,6 @@
     {
         "ptAddress": "0xf58e22d224e465fb65f4257573b58dbfb0f704a0",
         "chainId": 1,
-        "protocolName": "f(x) protocol",
-        "bgUrl": "/images/textures/fxBackground.png",
-        "token": {
-            "symbol": "arUSD",
-            "logoURI": "/images/tokens/1/0x07d1718ff05a8c53c8f05adaed57c0d672945f9a.svg",
-            "underlying": "rUSD"
-        },
         "multipliers": [
             {
                 "amount": 3,
@@ -69,12 +48,6 @@
     {
         "ptAddress": "0x470f623e8bc3c870f96516b8cbfc6a27e253424d",
         "chainId": 1,
-        "protocolName": "Mellow",
-        "token": {
-            "symbol": "amphrETH",
-            "logoURI": "/images/tokens/1/0x06c03069de266f58d10a0724a4f65c3d4fefff4d.svg",
-            "underlying": "wstETH"
-        },
         "multipliers": [
             {
                 "amount": 2,
@@ -89,13 +62,6 @@
     {
         "ptAddress": "0xd4c0ab44698bca5070624ef62c66b1f4d1488551",
         "chainId": 1,
-        "protocolName": "Bedrock",
-        "bgUrl": "/images/textures/bedrockBackground.svg",
-        "token": {
-            "symbol": "uniETH",
-            "logoURI": "/images/tokens/1/0x248f43b622ce2f35a14db3fc528284730b619cd5.svg",
-            "underlying": "uniETH"
-        },
         "multipliers": [
             {
                 "amount": 6,
@@ -110,13 +76,6 @@
     {
         "ptAddress": "0x8f01036563831feabbf3bee396d99b117c032428",
         "chainId": 1,
-        "protocolName": "Amphor",
-        "bgUrl": "/images/textures/amphorBackground.png",
-        "token": {
-            "symbol": "amphrLRT",
-            "logoURI": "/images/tokens/1/0x06824c27c8a0dbde5f72f770ec82e3c0fd4dcec3.png",
-            "underlying": "wstETH"
-        },
         "multipliers": [
             {
                 "amount": 1,
@@ -143,13 +102,6 @@
     {
         "ptAddress": "0xad3debad39c8e387f59fa025edf16f10e7aa656f",
         "chainId": 10,
-        "protocolName": "Bedrock",
-        "bgUrl": "/images/textures/bedrockBackground.svg",
-        "token": {
-            "symbol": "uniBTC",
-            "logoURI": "/images/tokens/10/0x93919784c523f39cacaa98ee0a9d96c3f32b593e.svg",
-            "underlying": "uniBTC"
-        },
         "multipliers": [
             {
                 "amount": 63,
@@ -160,13 +112,6 @@
     {
         "ptAddress": "0xdeb0ef575c92188091d33dd1ec5b3519182aaa22",
         "chainId": 1,
-        "protocolName": "Kernel",
-        "bgUrl": "/images/textures/kernelBackground.png",
-        "token": {
-            "symbol": "krETH",
-            "logoURI": "/images/tokens/1/0xb10a1b53f11aa969bc79dc86948de489e5996f8d.png",
-            "underlying": "krETH"
-        },
         "multipliers": [
             {
                 "amount": 3,
@@ -177,13 +122,6 @@
     {
         "ptAddress": "0x581b928365b2c339db2b66572e8d9d7cfcca0f80",
         "chainId": 1,
-        "protocolName": "Kernel",
-        "bgUrl": "/images/textures/kernelBackground.png",
-        "token": {
-            "symbol": "kUSD",
-            "logoURI": "/images/tokens/1/0x0bb9ab78aaf7179b7515e6753d89822b91e670c4.png",
-            "underlying": "kUSD"
-        },
         "multipliers": [
             {
                 "amount": 3,
@@ -194,13 +132,6 @@
     {
         "ptAddress": "0xc3a20131ee6853fc4d444c9ad952c93f77c0b71b",
         "chainId": 1,
-        "protocolName": "Kernel",
-        "bgUrl": "/images/textures/kernelBackground.png",
-        "token": {
-            "symbol": "ksETH",
-            "logoURI": "/images/tokens/1/0x04a40ef57eb9d6265b90367ddbba17a6916a45df.png",
-            "underlying": "ksETH"
-        },
         "multipliers": [
             {
                 "amount": 3,
@@ -211,13 +142,6 @@
     {
         "ptAddress": "0xd0097149aa4cc0d0e1fc99b8bd73fc17dc32c1e9",
         "chainId": 1,
-        "protocolName": "Resolv",
-        "bgUrl": "/images/textures/resolvBackground.png",
-        "token": {
-            "symbol": "wstUSR",
-            "logoURI": "/images/tokens/1/0x1202f5c7b4b9e47a1a484e8b270be34dbbc75055.svg",
-            "underlying": "USR"
-        },
         "multipliers": {
             "lp": [
                 {
@@ -236,24 +160,11 @@
     {
         "ptAddress": "0x4ee81b93cf490f7157144c82ff07557cffd2b86b",
         "chainId": 1,
-        "protocolName": "Morpho (Usual Boosted USDC)",
-        "token": {
-            "symbol": "USUALUSDC+",
-            "logoURI": "/images/tokens/USUALUSDC.svg",
-            "underlying": "USDC"
-        },
         "multipliers": []
     },
     {
         "ptAddress": "0x6c8494e596a7b3847a4e8f9f49014bab5730a19c",
         "chainId": 1,
-        "protocolName": "KelpDAO",
-        "bgUrl": "/images/textures/kelpDAOBackground.svg",
-        "token": {
-            "symbol": "agETH",
-            "logoURI": "/images/tokens/1/0xe1b4d34e8754600962cd944b535180bd758e6c2e.svg",
-            "underlying": "rsETH"
-        },
         "multipliers": [
             {
                 "amount": 3,
@@ -276,13 +187,6 @@
     {
         "ptAddress": "0x57e9ebeb30852d31f99a08e39068d93b0d8fc917",
         "chainId": 1,
-        "protocolName": "YieldNest",
-        "bgUrl": "/images/textures/yieldNestBackground.png",
-        "token": {
-            "symbol": "ynETH",
-            "logoURI": "/images/tokens/1/0x09db87a538bd693e9d08544577d5ccfaa6373a48.svg",
-            "underlying": "WETH"
-        },
         "multipliers": [
             {
                 "amount": 3,
@@ -297,13 +201,6 @@
     {
         "ptAddress": "0x86fa5e412f82bec8e911ca1a44e5daead7136930",
         "chainId": 1,
-        "protocolName": "ether.fi",
-        "bgUrl": "/images/textures/ether.fiBackground.svg",
-        "token": {
-            "symbol": "eBTC",
-            "logoURI": "/images/tokens/1/0x657e8c867d8b37dcc18fa4caead9c45eb088c642.svg",
-            "underlying": "WBTC"
-        },
         "multipliers": [
             {
                 "name": "All eBTC staking rewards. Find them all on https://app.ether.fi/ebtc"
@@ -313,13 +210,6 @@
     {
         "ptAddress": "0xbba9b8e2f698d2b1d79b6ee9fb05ac2520696f6d",
         "chainId": 1,
-        "protocolName": "YieldNest",
-        "bgUrl": "/images/textures/yieldNestBackground.png",
-        "token": {
-            "symbol": "ynETH",
-            "logoURI": "/images/tokens/1/0x09db87a538bd693e9d08544577d5ccfaa6373a48.svg",
-            "underlying": "WETH"
-        },
         "multipliers": [
             {
                 "amount": 3,
@@ -334,13 +224,6 @@
     {
         "ptAddress": "0xbc30e564052a622d6b50170b73ff14ee49eeade0",
         "chainId": 1,
-        "protocolName": "Level",
-        "bgUrl": "/images/textures/level.png",
-        "token": {
-            "symbol": "slvlUSD",
-            "logoURI": "/images/tokens/1/0x4737d9b4592b40d51e110b94c9c043c6654067ae.svg",
-            "underlying": "lvlUSD"
-        },
         "multipliers": {
             "lp": [
                 {
@@ -359,13 +242,6 @@
     {
         "ptAddress": "0x7002383d2305b8f3b2b7786f50c13d132a22076d",
         "chainId": 146,
-        "protocolName": "Rings",
-        "bgUrl": "/images/textures/rings.png",
-        "token": {
-            "symbol": "stkscUSD",
-            "logoURI": "/images/tokens/146/0x4d85ba8c3918359c78ed09581e5bc7578ba932ba.svg",
-            "underlying": "scUSD"
-        },
         "multipliers": [
             {
                 "amount": 12,
@@ -384,13 +260,6 @@
     {
         "ptAddress": "0x91f6e24c9bd3ade0848d46e3b7bbf4bf7d172650",
         "chainId": 146,
-        "protocolName": "Beets",
-        "bgUrl": "/images/textures/beets.png",
-        "token": {
-            "symbol": "stS",
-            "logoURI": "/images/tokens/146/0xe5da20f15420ad15de0fa650600afc998bbe3955.svg",
-            "underlying": "wS"
-        },
         "multipliers": [
             {
                 "amount": 8,
@@ -401,13 +270,6 @@
     {
         "ptAddress": "0x4ae0154f83427a5864e5de6513a47dac9e5d5a69",
         "chainId": 1,
-        "protocolName": "InceptionLRT",
-        "bgUrl": "/images/textures/inceptionlrt.png",
-        "token": {
-            "symbol": "inwstETHs",
-            "logoURI": "/images/tokens/1/0x8e0789d39db454dbe9f4a77acef6dc7c69f6d552.svg",
-            "underlying": "wstETH"
-        },
         "multipliers": [
             {
                 "amount": 2,
@@ -438,13 +300,6 @@
     {
         "ptAddress": "0x35cda288402c19db5413c9f1e111f35628d1044d",
         "chainId": 42161,
-        "protocolName": "USDX",
-        "bgUrl": "/images/textures/usdx.png",
-        "token": {
-            "symbol": "sUSDX",
-            "logoURI": "/images/tokens/42161/0x7788a3538c5fc7f9c7c8a74eac4c898fc8d87d92.svg",
-            "underlying": "USDX"
-        },
         "multipliers": {
             "lp": [
                 {
@@ -463,13 +318,6 @@
     {
         "ptAddress": "0x1f7aa7104db822987e1f44a66df709a8c4fb301a",
         "chainId": 1,
-        "protocolName": "Resolv",
-        "bgUrl": "/images/textures/resolv.png",
-        "token": {
-            "symbol": "RLP",
-            "logoURI": "/images/tokens/1/0x4956b52ae2ff65d74ca2d61207523288e4528f96.svg",
-            "underlying": "USDC"
-        },
         "multipliers": [
             {
                 "amount": 45,
@@ -480,25 +328,11 @@
     {
         "ptAddress": "0x4a977653c58cfd82d42fd706cf68a0c1b6d0ca56",
         "chainId": 1,
-        "protocolName": "Resolv",
-        "bgUrl": "/images/textures/resolv.png",
-        "token": {
-            "symbol": "wstUSR",
-            "logoURI": "/images/tokens/1/0x1202f5c7b4b9e47a1a484e8b270be34dbbc75055.svg",
-            "underlying": "USR"
-        },
         "multipliers": []
     },
     {
         "ptAddress": "0x328162108796142a8578ecdb24a2c79075ba79d5",
         "chainId": 1,
-        "protocolName": "Resolv (Euler)",
-        "bgUrl": "/images/textures/resolv.png",
-        "token": {
-            "symbol": "eUSDC-19",
-            "logoURI": "/images/tokens/1/0xcBC9B61177444A793B85442D3a953B90f6170b7D.svg",
-            "underlying": "USDC"
-        },
         "multipliers": [
             {
                 "amount": 20,

@@ -434,5 +434,30 @@
                 "name": "Turtle Club Points"
             }
         ]
+    },
+    {
+        "ptAddress": "0x35cda288402c19db5413c9f1e111f35628d1044d",
+        "chainId": 42161,
+        "protocolName": "USDX",
+        "bgUrl": "/images/textures/usdx.png",
+        "token": {
+            "symbol": "sUSDX",
+            "logoURI": "/images/tokens/42161/0x7788a3538c5fc7f9c7c8a74eac4c898fc8d87d92.svg",
+            "underlying": "USDX"
+        },
+        "multipliers": {
+            "lp": [
+                {
+                    "amount": 1.5,
+                    "name": "X-Points"
+                }
+            ],
+            "yt": [
+                {
+                    "amount": 3,
+                    "name": "X-Points"
+                }
+            ]
+        }
     }
 ]

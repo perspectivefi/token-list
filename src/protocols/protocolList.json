@@ -218,12 +218,20 @@
             "logoURI": "/images/tokens/1/0x1202f5c7b4b9e47a1a484e8b270be34dbbc75055.svg",
             "underlying": "USR"
         },
-        "multipliers": [
-            {
-                "amount": 30,
-                "name": "Resolv points"
-            }
-        ]
+        "multipliers": {
+            "lp": [
+                {
+                    "amount": 30,
+                    "name": "Resolv points"
+                }
+            ],
+            "yt": [
+                {
+                    "amount": 20,
+                    "name": "Resolv points"
+                }
+            ]
+        }
     },
     {
         "ptAddress": "0x4ee81b93cf490f7157144c82ff07557cffd2b86b",
@@ -487,12 +495,7 @@
             "logoURI": "/images/tokens/1/0x1202f5c7b4b9e47a1a484e8b270be34dbbc75055.svg",
             "underlying": "USR"
         },
-        "multipliers": [
-            {
-                "amount": 30,
-                "name": "Resolv points"
-            }
-        ]
+        "multipliers": []
     },
     {
         "ptAddress": "0x328162108796142a8578ecdb24a2c79075ba79d5",

@@ -459,5 +459,22 @@
                 }
             ]
         }
+    },
+    {
+        "ptAddress": "0x1f7aa7104db822987e1f44a66df709a8c4fb301a",
+        "chainId": 1,
+        "protocolName": "Resolv",
+        "bgUrl": "/images/textures/resolv.png",
+        "token": {
+            "symbol": "RLP",
+            "logoURI": "/images/tokens/1/0x4956b52ae2ff65d74ca2d61207523288e4528f96.svg",
+            "underlying": "USDC"
+        },
+        "multipliers": [
+            {
+                "amount": 45,
+                "name": "Resolv points"
+            }
+        ]
     }
 ]

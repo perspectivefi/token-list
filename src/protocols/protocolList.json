@@ -476,5 +476,39 @@
                 "name": "Resolv points"
             }
         ]
+    },
+    {
+        "ptAddress": "0x4a977653c58cfd82d42fd706cf68a0c1b6d0ca56",
+        "chainId": 1,
+        "protocolName": "Resolv",
+        "bgUrl": "/images/textures/resolv.png",
+        "token": {
+            "symbol": "wstUSR",
+            "logoURI": "/images/tokens/1/0x1202f5c7b4b9e47a1a484e8b270be34dbbc75055.svg",
+            "underlying": "USR"
+        },
+        "multipliers": [
+            {
+                "amount": 30,
+                "name": "Resolv points"
+            }
+        ]
+    },
+    {
+        "ptAddress": "0x328162108796142a8578ecdb24a2c79075ba79d5",
+        "chainId": 1,
+        "protocolName": "Resolv (Euler)",
+        "bgUrl": "/images/textures/resolv.png",
+        "token": {
+            "symbol": "eUSDC-19",
+            "logoURI": "/images/tokens/1/0xcBC9B61177444A793B85442D3a953B90f6170b7D.svg",
+            "underlying": "USDC"
+        },
+        "multipliers": [
+            {
+                "amount": 20,
+                "name": "Resolv points"
+            }
+        ]
     }
 ]

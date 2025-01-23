@@ -397,5 +397,42 @@
                 "name": "Sonic Points"
             }
         ]
+    },
+    {
+        "ptAddress": "0x4ae0154f83427a5864e5de6513a47dac9e5d5a69",
+        "chainId": 1,
+        "protocolName": "InceptionLRT",
+        "bgUrl": "/images/textures/inceptionlrt.png",
+        "token": {
+            "symbol": "inwstETHs",
+            "logoURI": "/images/tokens/1/0x8e0789d39db454dbe9f4a77acef6dc7c69f6d552.svg",
+            "underlying": "wstETH"
+        },
+        "multipliers": [
+            {
+                "amount": 2,
+                "name": "InceptionLRT Totems"
+            },
+            {
+                "amount": 1,
+                "name": "Symbiotic Points"
+            },
+            {
+                "amount": 1,
+                "name": "Mellow Points"
+            },
+            {
+                "amount": 1,
+                "name": "Mind Network Points"
+            },
+            {
+                "amount": 1,
+                "name": "Merits"
+            },
+            {
+                "amount": 1,
+                "name": "Turtle Club Points"
+            }
+        ]
     }
 ]

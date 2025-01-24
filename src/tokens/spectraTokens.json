@@ -1583,5 +1583,17 @@
         "extensions": {
             "underlying": "0xbdC7c08592Ee4aa51D06C27Ee23D5087D65aDbcD"
         }
+    },
+    {
+        "address": "0xf7de3c70f2db39a188a81052d2f3c8e3e217822a",
+        "chainId": 1,
+        "name": "SuperUSDC",
+        "symbol": "ysUSDC",
+        "decimals": 6,
+        "logoURI": "/images/tokens/1/0xf7de3c70f2db39a188a81052d2f3c8e3e217822a.svg",
+        "extensions": {
+            "underlying": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+            "protocol": "Superform"
+        }
     }
 ]

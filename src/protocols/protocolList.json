@@ -339,5 +339,15 @@
                 "name": "Resolv points"
             }
         ]
+    },
+    {
+        "ptAddress": "0x3b9739ee0c3b5bd7b392a801deac1dc68cfb0c48",
+        "chainId": 1,
+        "multipliers": [
+            {
+                "amount": 40,
+                "name": "CRED"
+            }
+        ]
     }
 ]

@@ -1595,5 +1595,17 @@
             "underlying": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
             "protocol": "Superform"
         }
+    },
+    {
+        "address": "0xabab980f0ecb232d52f422c6b68d25c3d0c18e3e",
+        "chainId": 1,
+        "name": "IPOR USDT Ethereum Optimizer",
+        "symbol": "ipUSDTfusion",
+        "decimals": 8,
+        "logoURI": "/images/tokens/1/0xabab980f0ecb232d52f422c6b68d25c3d0c18e3e.svg",
+        "extensions": {
+            "underlying": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+            "protocol": "IPOR Fusion"
+        }
     }
 ]

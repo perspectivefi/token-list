@@ -1607,5 +1607,18 @@
             "underlying": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
             "protocol": "IPOR Fusion"
         }
+    },
+    {
+        "address": "0x1ce7d9942ff78c328a4181b9f3826fee6d845a97",
+        "chainId": 1,
+        "name": "YieldFi yToken",
+        "symbol": "yUSD",
+        "decimals": 18,
+        "logoURI": "/images/tokens/1/0x1ce7d9942ff78c328a4181b9f3826fee6d845a97.svg",
+        "extensions": {
+            "underlying": "0x4F8E1426A9d10bddc11d26042ad270F16cCb95F2",
+            "protocol": "Yield.Fi",
+            "externalLink": "https://yield.fi/"
+        }
     }
 ]

@@ -1609,6 +1609,18 @@
         }
     },
     {
+        "address": "0x9f0df7799f6fdad409300080cff680f5a23df4b1",
+        "chainId": 146,
+        "name": "Wrapped OS",
+        "symbol": "wOS",
+        "decimals": 18,
+        "logoURI": "/images/tokens/146/0x9f0df7799f6fdad409300080cff680f5a23df4b1.svg",
+        "extensions": {
+            "underlying": "0xb1e25689D55734FD3ffFc939c4C3Eb52DFf8A794",
+            "protocol": "Origin Protocol"
+        }
+    },
+    {
         "address": "0xb1e25689d55734fd3fffc939c4c3eb52dff8a794",
         "chainId": 146,
         "name": "Origin Sonic",

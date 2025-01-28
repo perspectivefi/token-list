@@ -1619,5 +1619,16 @@
             "underlying": "0xb1e25689D55734FD3ffFc939c4C3Eb52DFf8A794",
             "protocol": "Origin Protocol"
         }
+    },
+    {
+        "address": "0xb1e25689d55734fd3fffc939c4c3eb52dff8a794",
+        "chainId": 146,
+        "name": "Origin Sonic",
+        "symbol": "OS",
+        "decimals": 18,
+        "logoURI": "/images/tokens/146/0xb1e25689d55734fd3fffc939c4c3eb52dff8a794.svg",
+        "extensions": {
+            "protocol": "Origin Protocol"
+        }
     }
 ]

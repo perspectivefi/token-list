@@ -1607,5 +1607,16 @@
             "underlying": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
             "protocol": "IPOR Fusion"
         }
+    },
+    {
+        "address": "0xb1e25689d55734fd3fffc939c4c3eb52dff8a794",
+        "chainId": 146,
+        "name": "Origin Sonic",
+        "symbol": "OS",
+        "decimals": 18,
+        "logoURI": "/images/tokens/146/0xb1e25689d55734fd3fffc939c4c3eb52dff8a794.svg",
+        "extensions": {
+            "protocol": "Origin Protocol"
+        }
     }
 ]

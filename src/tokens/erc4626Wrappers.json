@@ -843,5 +843,25 @@
                 "logoURI": "/images/tokens/146/0xe5da20f15420ad15de0fa650600afc998bbe3955.svg"
             }
         }
+    },
+    {
+        "address": "0x4DD254CC17A466dD8e850F68B9f9F1711390f992",
+        "chainId": 8453,
+        "name": "Spectra ERC4626 Wrapper: Static Aave Base WETH",
+        "symbol": "sw-stataBasWETH",
+        "decimals": 18,
+        "logoURI": "/images/tokens/8453/0x468973e3264f2aeba0417a8f2cd0ec397e738898.svg",
+        "extensions": {
+            "underlying": "0x4200000000000000000000000000000000000006",
+            "protocol": "Aave",
+            "vault": {
+                "chainId": 8453,
+                "address": "0x468973e3264F2aEba0417A8f2cD0Ec397E738898",
+                "symbol": "stataBasWETH",
+                "name": "Static Aave Base WETH",
+                "decimals": 18,
+                "logoURI": "/images/tokens/8453/0x468973e3264f2aeba0417a8f2cd0ec397e738898.svg"
+            }
+        }
     }
 ]

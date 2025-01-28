@@ -1630,5 +1630,17 @@
         "extensions": {
             "protocol": "Origin Protocol"
         }
+    },
+    {
+        "chainId": 8453,
+        "address": "0x468973e3264F2aEba0417A8f2cD0Ec397E738898",
+        "symbol": "stataBasWETH",
+        "name": "Static Aave Base WETH",
+        "decimals": 18,
+        "logoURI": "/images/tokens/8453/0x468973e3264f2aeba0417a8f2cd0ec397e738898.svg",
+        "extensions": {
+            "underlying": "0x4200000000000000000000000000000000000006",
+            "protocol": "Aave"
+        }
     }
 ]

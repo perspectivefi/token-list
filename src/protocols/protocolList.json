@@ -349,5 +349,15 @@
                 "name": "CRED"
             }
         ]
+    },
+    {
+        "ptAddress": "0xd5dbb81a92497205b15d5158c1bcc7f301fbec4e",
+        "chainId": 146,
+        "multipliers": [
+            {
+                "amount": 8,
+                "name": "Sonic Points"
+            }
+        ]
     }
 ]

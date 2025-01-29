@@ -359,5 +359,15 @@
                 "name": "Sonic Points"
             }
         ]
+    },
+    {
+        "ptAddress": "0xb4b8925c4cbce692f37c9d946883f2e330a042a9",
+        "chainId": 1,
+        "multipliers": [
+            {
+                "amount": 15,
+                "name": "Elixir Potions"
+            }
+        ]
     }
 ]

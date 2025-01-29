@@ -1654,5 +1654,13 @@
             "underlying": "0x4200000000000000000000000000000000000006",
             "protocol": "Aave"
         }
+    },
+    {
+        "address": "0x4f8e1426a9d10bddc11d26042ad270f16ccb95f2",
+        "chainId": 1,
+        "name": "YieldFi Stable Token",
+        "symbol": "sUSD",
+        "decimals": 18,
+        "logoURI": "/images/tokens/1/0x4f8e1426a9d10bddc11d26042ad270f16ccb95f2.svg"
     }
 ]

@@ -801,6 +801,10 @@
                 "name": "Wrapped stkscUSD",
                 "decimals": 6,
                 "logoURI": "/images/tokens/146/0x9fb76f7ce5fceaa2c42887ff441d46095e494206.svg"
+            },
+            "ibtRoutes": {
+                "withdraw": false,
+                "redeem": false
             }
         }
     },

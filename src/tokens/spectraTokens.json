@@ -770,14 +770,6 @@
     },
     {
         "chainId": 1,
-        "address": "0x62b9c7356a2dc64a1969e19c23e4f579f9810aa7",
-        "name": "Convex CRV",
-        "symbol": "cvxCRV",
-        "decimals": 18,
-        "logoURI": "/images/tokens/1/0x62b9c7356a2dc64a1969e19c23e4f579f9810aa7.svg"
-    },
-    {
-        "chainId": 1,
         "address": "0x2b95a1dcc3d405535f9ed33c219ab38e8d7e0884",
         "name": "Aladdin cvxCRV",
         "symbol": "aCRV",
@@ -1666,5 +1658,13 @@
             "underlying": "0xfCDecfe37463912C03A644128EB02A1147715E36",
             "protocol": "Jarvis Network"
         }
+    },
+    {
+        "address": "0x62b9c7356a2dc64a1969e19c23e4f579f9810aa7",
+        "chainId": 1,
+        "name": "Convex CRV",
+        "symbol": "cvxCRV",
+        "decimals": 18,
+        "logoURI": "/images/tokens/1/0x62b9c7356a2dc64a1969e19c23e4f579f9810aa7.png"
     }
 ]

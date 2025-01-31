@@ -790,14 +790,6 @@
     },
     {
         "chainId": 1,
-        "address": "0x66a1e37c9b0eaddca17d3662d6c05f4decf3e110",
-        "name": "Resolv USD",
-        "symbol": "USR",
-        "decimals": 18,
-        "logoURI": "/images/tokens/1/0x66a1e37c9b0eaddca17d3662d6c05f4decf3e110.svg"
-    },
-    {
-        "chainId": 1,
         "address": "0x1202f5c7b4b9e47a1a484e8b270be34dbbc75055",
         "name": "Wrapped stUSR",
         "symbol": "wstUSR",
@@ -1665,6 +1657,18 @@
         "extensions": {
             "underlying": "0xfCDecfe37463912C03A644128EB02A1147715E36",
             "protocol": "Jarvis Network"
+        }
+    },
+    {
+        "chainId": 1,
+        "address": "0x66a1e37c9b0eaddca17d3662d6c05f4decf3e110",
+        "name": "Resolv USD",
+        "symbol": "USR",
+        "decimals": 18,
+        "logoURI": "/images/tokens/1/0x66a1e37c9b0eaddca17d3662d6c05f4decf3e110.svg",
+        "extensions": {
+            "underlying": "0x66a1E37c9b0eAddca17d3662D6c05F4DECf3e110",
+            "protocol": "Resolv"
         }
     }
 ]

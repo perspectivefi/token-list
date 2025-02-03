@@ -1666,5 +1666,17 @@
             "underlying": "0x4F8E1426A9d10bddc11d26042ad270F16cCb95F2",
             "protocol": "YieldFi"
         }
+    },
+    {
+        "address": "0x89Cc2A57223fa803852b6B4E65c6E376D49909f9",
+        "chainId": 8453,
+        "name": "Super Jarvis Synthetic Euro",
+        "symbol": "sjEUR",
+        "decimals": 18,
+        "logoURI": "/images/tokens/8453/0x89cc2a57223fa803852b6b4e65c6e376d49909f9.svg",
+        "extensions": {
+            "underlying": "0xfCDecfe37463912C03A644128EB02A1147715E36",
+            "protocol": "Jarvis Network"
+        }
     }
 ]

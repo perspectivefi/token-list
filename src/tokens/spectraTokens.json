@@ -1662,5 +1662,49 @@
         "symbol": "sUSD",
         "decimals": 18,
         "logoURI": "/images/tokens/1/0x4f8e1426a9d10bddc11d26042ad270f16ccb95f2.svg"
+    },
+    {
+        "address": "0x1ce7d9942ff78c328a4181b9f3826fee6d845a97",
+        "chainId": 1,
+        "name": "YieldFi yToken",
+        "symbol": "yUSD",
+        "decimals": 18,
+        "logoURI": "/images/tokens/1/0x1ce7d9942ff78c328a4181b9f3826fee6d845a97.svg",
+        "extensions": {
+            "underlying": "0x4F8E1426A9d10bddc11d26042ad270F16cCb95F2",
+            "protocol": "YieldFi"
+        }
+    },
+    {
+        "address": "0x89Cc2A57223fa803852b6B4E65c6E376D49909f9",
+        "chainId": 8453,
+        "name": "Super Jarvis Synthetic Euro",
+        "symbol": "sjEUR",
+        "decimals": 18,
+        "logoURI": "/images/tokens/8453/0x89cc2a57223fa803852b6b4e65c6e376d49909f9.svg",
+        "extensions": {
+            "underlying": "0xfCDecfe37463912C03A644128EB02A1147715E36",
+            "protocol": "Jarvis Network"
+        }
+    },
+    {
+        "address": "0x455d5f11fea33a8fa9d3e285930b478b6bf85265",
+        "chainId": 146,
+        "name": "Staked Sonic ETH",
+        "symbol": "stkscETH",
+        "decimals": 18,
+        "logoURI": "/images/tokens/146/0x455d5f11fea33a8fa9d3e285930b478b6bf85265.svg"
+    },
+    {
+        "address": "0xe8a41c62bb4d5863c6eadc96792cfe90a1f37c47",
+        "chainId": 146,
+        "name": "Wrapped stkscETH",
+        "symbol": "wstkscETH",
+        "decimals": 18,
+        "logoURI": "/images/tokens/146/0xe8a41c62bb4d5863c6eadc96792cfe90a1f37c47.svg",
+        "extensions": {
+            "underlying": "0x455d5f11Fea33A8fa9D3e285930b478B6bF85265",
+            "protocol": "Rings"
+        }
     }
 ]

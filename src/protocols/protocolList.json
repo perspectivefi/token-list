@@ -359,5 +359,43 @@
                 "name": "Sonic Points"
             }
         ]
+    },
+    {
+        "ptAddress": "0xb4b8925c4cbce692f37c9d946883f2e330a042a9",
+        "chainId": 1,
+        "multipliers": [
+            {
+                "amount": 15,
+                "name": "Elixir Potions"
+            }
+        ]
+    },
+    {
+        "ptAddress": "0xb98b2c86243d742bd54c59b04976c519d0a93ba1",
+        "chainId": 1,
+        "multipliers": [
+            {
+                "amount": 60,
+                "name": "Resolv points"
+            }
+        ]
+    },
+    {
+        "ptAddress": "0x638884198c9f6974c6034e03cb5996808bebf267",
+        "chainId": 8453,
+        "multipliers": [
+            {
+                "amount": 3,
+                "name": "LUX Points"
+            },
+            {
+                "amount": 1,
+                "name": "Babylon Points"
+            },
+            {
+                "amount": 1,
+                "name": "Upshift Points"
+            }
+        ]
     }
 ]

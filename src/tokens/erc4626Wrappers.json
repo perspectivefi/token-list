@@ -801,6 +801,10 @@
                 "name": "Wrapped stkscUSD",
                 "decimals": 6,
                 "logoURI": "/images/tokens/146/0x9fb76f7ce5fceaa2c42887ff441d46095e494206.svg"
+            },
+            "ibtRoutes": {
+                "withdraw": false,
+                "redeem": false
             }
         }
     },
@@ -861,6 +865,26 @@
                 "name": "Static Aave Base WETH",
                 "decimals": 18,
                 "logoURI": "/images/tokens/8453/0x468973e3264f2aeba0417a8f2cd0ec397e738898.svg"
+            }
+        }
+    },
+    {
+        "address": "0x51C002aBe20bD7C5072cf96Ba979562E42700F20",
+        "chainId": 1,
+        "name": "Spectra ERC4626 Wrapper: Resolv USD",
+        "symbol": "sw-USR",
+        "decimals": 18,
+        "logoURI": "/images/tokens/1/0x66a1e37c9b0eaddca17d3662d6c05f4decf3e110.svg",
+        "extensions": {
+            "underlying": "0x66a1E37c9b0eAddca17d3662D6c05F4DECf3e110",
+            "protocol": "Resolv",
+            "vault": {
+                "chainId": 1,
+                "address": "0x66a1e37c9b0eaddca17d3662d6c05f4decf3e110",
+                "name": "Resolv USD",
+                "symbol": "USR",
+                "decimals": 18,
+                "logoURI": "/images/tokens/1/0x66a1e37c9b0eaddca17d3662d6c05f4decf3e110.svg"
             }
         }
     }

@@ -379,5 +379,23 @@
                 "name": "Resolv points"
             }
         ]
+    },
+    {
+        "ptAddress": "0x638884198c9f6974c6034e03cb5996808bebf267",
+        "chainId": 8453,
+        "multipliers": [
+            {
+                "amount": 3,
+                "name": "LUX Points"
+            },
+            {
+                "amount": 1,
+                "name": "Babylon Points"
+            },
+            {
+                "amount": 1,
+                "name": "Upshift Points"
+            }
+        ]
     }
 ]

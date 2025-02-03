@@ -1656,6 +1656,14 @@
         }
     },
     {
+        "address": "0x4f8e1426a9d10bddc11d26042ad270f16ccb95f2",
+        "chainId": 1,
+        "name": "YieldFi Stable Token",
+        "symbol": "sUSD",
+        "decimals": 18,
+        "logoURI": "/images/tokens/1/0x4f8e1426a9d10bddc11d26042ad270f16ccb95f2.svg"
+    },
+    {
         "address": "0x1ce7d9942ff78c328a4181b9f3826fee6d845a97",
         "chainId": 1,
         "name": "YieldFi yToken",

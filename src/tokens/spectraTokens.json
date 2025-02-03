@@ -1666,5 +1666,13 @@
             "underlying": "0xfCDecfe37463912C03A644128EB02A1147715E36",
             "protocol": "Jarvis Network"
         }
+    },
+    {
+        "address": "0x455d5f11fea33a8fa9d3e285930b478b6bf85265",
+        "chainId": 146,
+        "name": "Staked Sonic ETH",
+        "symbol": "stkscETH",
+        "decimals": 18,
+        "logoURI": "/images/tokens/146/0x455d5f11fea33a8fa9d3e285930b478b6bf85265.svg"
     }
 ]

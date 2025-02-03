@@ -1678,5 +1678,17 @@
             "underlying": "0xfCDecfe37463912C03A644128EB02A1147715E36",
             "protocol": "Jarvis Network"
         }
+    },
+    {
+        "address": "0xe8a41c62bb4d5863c6eadc96792cfe90a1f37c47",
+        "chainId": 146,
+        "name": "Wrapped stkscETH",
+        "symbol": "wstkscETH",
+        "decimals": 18,
+        "logoURI": "/images/tokens/146/0xe8a41c62bb4d5863c6eadc96792cfe90a1f37c47.svg",
+        "extensions": {
+            "underlying": "0x455d5f11Fea33A8fa9D3e285930b478B6bF85265",
+            "protocol": "Rings"
+        }
     }
 ]

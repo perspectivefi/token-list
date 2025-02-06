@@ -1727,5 +1727,13 @@
             "underlying": "0x183395DbD0B5e93323a7286D1973150697FFFCB3",
             "protocol": "Concentrator - Protocol f(x)"
         }
+    },
+    {
+        "address": "0x50c42deacd8fc9773493ed674b675be577f2634b",
+        "chainId": 146,
+        "name": "Wrapped Ether on Sonic",
+        "symbol": "WETH",
+        "decimals": 18,
+        "logoURI": "/images/tokens/146/0x50c42deacd8fc9773493ed674b675be577f2634b.svg"
     }
 ]

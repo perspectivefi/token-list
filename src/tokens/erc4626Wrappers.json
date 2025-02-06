@@ -909,6 +909,26 @@
         }
     },
     {
+        "address": "0x51BdbfCd7656e2C25Ad1BC8037F70572B7142eCC",
+        "chainId": 146,
+        "name": "Spectra ERC4626 Wrapper: Silo Finance Borrowable wS Deposit, SiloId: 22",
+        "symbol": "sw-bwS-22",
+        "decimals": 18,
+        "logoURI": "/images/tokens/146/0x112380065a2cb73a5a429d9ba7368cc5e8434595.svg",
+        "extensions": {
+            "underlying": "0x039e2fB66102314Ce7b64Ce5Ce3E5183bc94aD38",
+            "protocol": "Silo",
+            "vault": {
+                "chainId": 146,
+                "address": "0x112380065A2cb73A5A429d9Ba7368cc5e8434595",
+                "symbol": "bwS-22",
+                "name": "Silo Finance Borrowable wS Deposit, SiloId: 22",
+                "decimals": 18,
+                "logoURI": "/images/tokens/146/0x112380065a2cb73a5a429d9ba7368cc5e8434595.svg"
+            }
+        }
+    },
+    {
         "address": "0x3034780DE1eA0855AcaAD56259fd73532374Da22",
         "chainId": 146,
         "name": "Spectra ERC4626 Wrapper: Silo Finance Borrowable USDC.e Deposit, SiloId: 20",

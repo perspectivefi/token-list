@@ -1735,5 +1735,17 @@
         "symbol": "WETH",
         "decimals": 18,
         "logoURI": "/images/tokens/146/0x50c42deacd8fc9773493ed674b675be577f2634b.svg"
+    },
+    {
+        "chainId": 146,
+        "address": "0x322e1d5384aa4ED66AeCa770B95686271de61dc3",
+        "symbol": "bUSDC.e-20",
+        "name": "Silo Finance Borrowable USDC.e Deposit, SiloId: 20",
+        "decimals": 6,
+        "logoURI": "/images/tokens/146/0x322e1d5384aa4ed66aeca770b95686271de61dc3.svg",
+        "extensions": {
+            "underlying": "0x29219dd400f2Bf60E5a23d13Be72B486D4038894",
+            "protocol": "Silo"
+        }
     }
 ]

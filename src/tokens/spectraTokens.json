@@ -1709,6 +1709,14 @@
         }
     },
     {
+        "address": "0x183395dbd0b5e93323a7286d1973150697fffcb3",
+        "chainId": 1,
+        "name": "Convex FXN",
+        "symbol": "cvxFXN",
+        "decimals": 18,
+        "logoURI": "/images/tokens/1/0x183395dbd0b5e93323a7286d1973150697fffcb3.svg"
+    },
+    {
         "address": "0x00bac667a4ccf9089ab1db978238c555c4349545",
         "chainId": 1,
         "name": "Aladdin cvxFXN",

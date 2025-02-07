@@ -1774,6 +1774,14 @@
         "logoURI": "/images/tokens/146/0x29219dd400f2bf60e5a23d13be72b486d4038894.svg"
     },
     {
+        "address": "0xda67b4284609d2d48e5d10cfac411572727dc1ed",
+        "chainId": 1,
+        "name": "USN",
+        "symbol": "USN",
+        "decimals": 18,
+        "logoURI": "/images/tokens/1/0xda67b4284609d2d48e5d10cfac411572727dc1ed.png"
+    }
+    {
         "address": "0xe24a3dc889621612422a64e6388927901608b91d",
         "chainId": 1,
         "name": "Staked USN",

@@ -397,5 +397,15 @@
                 "name": "Upshift Points"
             }
         ]
+    },
+    {
+        "ptAddress": "0x780418fe9acdb46813620416374a520a44ef57e4",
+        "chainId": 146,
+        "multipliers": [
+            {
+                "amount": 8,
+                "name": "Sonic Points"
+            }
+        ]
     }
 ]

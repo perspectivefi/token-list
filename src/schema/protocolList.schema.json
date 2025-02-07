@@ -29,8 +29,7 @@
         "additionalProperties": false,
         "required": [
             "ptAddress",
-            "chainId",
-            "multipliers"
+            "chainId"
         ],
         "properties": {
             "ptAddress": {

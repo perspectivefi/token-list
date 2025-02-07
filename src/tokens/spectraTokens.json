@@ -1800,5 +1800,13 @@
         "symbol": "scETH",
         "decimals": 18,
         "logoURI": "/images/tokens/146/0x3bce5cb273f0f148010bbea2470e7b5df84c7812.svg"
+    },
+    {
+        "address": "0x4628f13651ead6793f8d838b34b8f8522fb0cc52",
+        "chainId": 1,
+        "name": "GHO/USR",
+        "symbol": "GHOUSR",
+        "decimals": 18,
+        "logoURI": "/images/tokens/1/0x4628f13651ead6793f8d838b34b8f8522fb0cc52.svg"
     }
 ]

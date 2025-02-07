@@ -1792,5 +1792,13 @@
             "underlying": "0xdA67B4284609d2d48e5d10cfAc411572727dc1eD",
             "protocol": "Noon"
         }
+    },
+    {
+        "address": "0x3bcE5CB273F0F148010BbEa2470e7b5df84C7812",
+        "chainId": 146,
+        "name": "Sonic ETH",
+        "symbol": "scETH",
+        "decimals": 18,
+        "logoURI": "/images/tokens/146/0x3bce5cb273f0f148010bbea2470e7b5df84c7812.svg"
     }
 ]

@@ -405,6 +405,14 @@
             {
                 "amount": 8,
                 "name": "Sonic Points"
+            },
+            {
+                "amount": 2,
+                "name": "Rings Points"
+            },
+            {
+                "amount": 3,
+                "name": "Veda Points"
             }
         ]
     }

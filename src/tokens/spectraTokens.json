@@ -1808,5 +1808,17 @@
         "symbol": "GHOUSR",
         "decimals": 18,
         "logoURI": "/images/tokens/1/0x4628f13651ead6793f8d838b34b8f8522fb0cc52.svg"
+    },
+    {
+        "address": "0xeadc18ca9363565e1c8bc5415db0110d7c91cde5",
+        "chainId": 1,
+        "name": "Curve GHO-USR yVault",
+        "symbol": "yvCurve-GHO-USR",
+        "decimals": 18,
+        "logoURI": "/images/tokens/1/0xeadc18ca9363565e1c8bc5415db0110d7c91cde5.svg",
+        "extensions": {
+            "underlying": "0x4628f13651eaD6793F8d838B34B8f8522Fb0cc52",
+            "protocol": "Yearn (Curve)"
+        }
     }
 ]

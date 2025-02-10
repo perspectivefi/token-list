@@ -1798,6 +1798,17 @@
         "logoURI": "/images/tokens/1/0x4628f13651ead6793f8d838b34b8f8522fb0cc52.svg"
     },
     {
+        "address": "0x657d9aba1dbb59e53f9f3ecaa878447dcfc96dcb",
+        "chainId": 1,
+        "name": "ynETH MAX",
+        "symbol": "ynETHx",
+        "decimals": 18,
+        "logoURI": "/images/tokens/1/0x657d9aba1dbb59e53f9f3ecaa878447dcfc96dcb.svg",
+        "extensions": {
+            "underlying": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
+        }
+    }
+    {
         "address": "0xe24a3dc889621612422a64e6388927901608b91d",
         "chainId": 1,
         "name": "Staked USN",

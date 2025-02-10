@@ -1,6 +1,6 @@
 {
   "name": "@perspectivefi/token-list",
-  "version": "1.11.26",
+  "version": "1.11.27",
   "description": "",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",

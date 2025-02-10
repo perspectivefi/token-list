@@ -328,7 +328,12 @@
     {
         "ptAddress": "0x4a977653c58cfd82d42fd706cf68a0c1b6d0ca56",
         "chainId": 1,
-        "multipliers": []
+        "multipliers": [
+            {
+                "amount": 30,
+                "name": "Resolv points"
+            }
+        ]
     },
     {
         "ptAddress": "0x328162108796142a8578ecdb24a2c79075ba79d5",
@@ -413,6 +418,34 @@
             {
                 "amount": 3,
                 "name": "Veda Points"
+            }
+        ]
+    },
+    {
+        "ptAddress": "0xc633ede2bc8b7c91d3c2dcc609c43c09b9cf8ad8",
+        "chainId": 146,
+        "multipliers": [
+            {
+                "amount": 8,
+                "name": "Sonic Points"
+            },
+            {
+                "amount": 2,
+                "name": "Silo Points"
+            }
+        ]
+    },
+    {
+        "ptAddress": "0x81ded44fc99605b60c6b0f637ef3774eeb2ba327",
+        "chainId": 146,
+        "multipliers": [
+            {
+                "amount": 8,
+                "name": "Sonic Points"
+            },
+            {
+                "amount": 2,
+                "name": "Silo Points"
             }
         ]
     }

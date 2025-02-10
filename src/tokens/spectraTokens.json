@@ -1782,18 +1782,6 @@
         "logoURI": "/images/tokens/1/0xda67b4284609d2d48e5d10cfac411572727dc1ed.png"
     },
     {
-        "address": "0xe24a3dc889621612422a64e6388927901608b91d",
-        "chainId": 1,
-        "name": "Staked USN",
-        "symbol": "sUSN",
-        "decimals": 18,
-        "logoURI": "/images/tokens/1/0xe24a3dc889621612422a64e6388927901608b91d.png",
-        "extensions": {
-            "underlying": "0xdA67B4284609d2d48e5d10cfAc411572727dc1eD",
-            "protocol": "Noon"
-        }
-    },
-    {
         "address": "0x3bcE5CB273F0F148010BbEa2470e7b5df84C7812",
         "chainId": 146,
         "name": "Sonic ETH",
@@ -1808,6 +1796,17 @@
         "symbol": "GHOUSR",
         "decimals": 18,
         "logoURI": "/images/tokens/1/0x4628f13651ead6793f8d838b34b8f8522fb0cc52.svg"
+    },
+    {
+        "address": "0xe24a3dc889621612422a64e6388927901608b91d",
+        "chainId": 1,
+        "name": "Staked USN",
+        "symbol": "sUSN",
+        "decimals": 18,
+        "logoURI": "/images/tokens/1/0xe24a3dc889621612422a64e6388927901608b91d.svg",
+        "extensions": {
+            "underlying": "0xdA67B4284609d2d48e5d10cfAc411572727dc1eD"
+        }
     },
     {
         "address": "0xeadc18ca9363565e1c8bc5415db0110d7c91cde5",

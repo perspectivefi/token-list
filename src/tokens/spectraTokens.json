@@ -1782,18 +1782,6 @@
         "logoURI": "/images/tokens/1/0xda67b4284609d2d48e5d10cfac411572727dc1ed.png"
     },
     {
-        "address": "0xe24a3dc889621612422a64e6388927901608b91d",
-        "chainId": 1,
-        "name": "Staked USN",
-        "symbol": "sUSN",
-        "decimals": 18,
-        "logoURI": "/images/tokens/1/0xe24a3dc889621612422a64e6388927901608b91d.png",
-        "extensions": {
-            "underlying": "0xdA67B4284609d2d48e5d10cfAc411572727dc1eD",
-            "protocol": "Noon"
-        }
-    },
-    {
         "address": "0x3bcE5CB273F0F148010BbEa2470e7b5df84C7812",
         "chainId": 146,
         "name": "Sonic ETH",
@@ -1818,6 +1806,29 @@
         "logoURI": "/images/tokens/1/0x657d9aba1dbb59e53f9f3ecaa878447dcfc96dcb.svg",
         "extensions": {
             "underlying": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
+        }
+    }
+    {
+        "address": "0xe24a3dc889621612422a64e6388927901608b91d",
+        "chainId": 1,
+        "name": "Staked USN",
+        "symbol": "sUSN",
+        "decimals": 18,
+        "logoURI": "/images/tokens/1/0xe24a3dc889621612422a64e6388927901608b91d.svg",
+        "extensions": {
+            "underlying": "0xdA67B4284609d2d48e5d10cfAc411572727dc1eD"
+        }
+    },
+    {
+        "address": "0xeadc18ca9363565e1c8bc5415db0110d7c91cde5",
+        "chainId": 1,
+        "name": "Curve GHO-USR yVault",
+        "symbol": "yvCurve-GHO-USR",
+        "decimals": 18,
+        "logoURI": "/images/tokens/1/0xeadc18ca9363565e1c8bc5415db0110d7c91cde5.svg",
+        "extensions": {
+            "underlying": "0x4628f13651eaD6793F8d838B34B8f8522Fb0cc52",
+            "protocol": "Yearn (Curve)"
         }
     }
 ]

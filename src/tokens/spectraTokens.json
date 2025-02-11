@@ -1829,5 +1829,13 @@
             "underlying": "0x455d5f11Fea33A8fa9D3e285930b478B6bF85265",
             "protocol": "Rings"
         }
+    },
+    {
+        "address": "0x6Bb7a212910682DCFdbd5BCBb3e28FB4E8da10Ee",
+        "chainId": 8453,
+        "name": "Gho Token",
+        "symbol": "GHO",
+        "decimals": 18,
+        "logoURI": "/images/tokens/8453/0x6bb7a212910682dcfdbd5bcbb3e28fb4e8da10ee.svg"
     }
 ]

@@ -1801,7 +1801,7 @@
         "name": "Staked USN",
         "symbol": "sUSN",
         "decimals": 18,
-        "logoURI": "/images/tokens/1/0xe24a3dc889621612422a64e6388927901608b91d.svg",
+        "logoURI": "/images/tokens/1/0xe24a3dc889621612422a64e6388927901608b91d.png",
         "extensions": {
             "underlying": "0xdA67B4284609d2d48e5d10cfAc411572727dc1eD"
         }

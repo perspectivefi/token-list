@@ -458,5 +458,23 @@
                 "name": "Resolv points"
             }
         ]
+    },
+    {
+        "ptAddress": "0x3a7ba84bbe869ed318e654dd9b6ff3cf6d531e91",
+        "chainId": 146,
+        "multipliers": [
+            {
+                "amount": 8,
+                "name": "Sonic Points"
+            },
+            {
+                "amount": 2,
+                "name": "Rings Points"
+            },
+            {
+                "amount": 3,
+                "name": "Veda Points"
+            }
+        ]
     }
 ]

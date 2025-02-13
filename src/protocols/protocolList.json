@@ -350,7 +350,7 @@
         "chainId": 1,
         "multipliers": [
             {
-                "amount": 40,
+                "amount": 50,
                 "name": "CRED"
             }
         ]
@@ -446,6 +446,16 @@
             {
                 "amount": 2,
                 "name": "Silo Points"
+            }
+        ]
+    },
+    {
+        "ptAddress": "0xd65c3fdbf811e3d7761155254550c45f6d3a0760",
+        "chainId": 1,
+        "multipliers": [
+            {
+                "amount": 30,
+                "name": "Resolv points"
             }
         ]
     }

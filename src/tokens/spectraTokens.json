@@ -1837,5 +1837,17 @@
         "symbol": "GHO",
         "decimals": 18,
         "logoURI": "/images/tokens/8453/0x6bb7a212910682dcfdbd5bcbb3e28fb4e8da10ee.svg"
+    },
+    {
+        "address": "0xef101508bf4dc6cf0f0a0c135f39a41fab4e4389",
+        "chainId": 1,
+        "name": "SuperETH",
+        "symbol": "ysWETH",
+        "decimals": 18,
+        "logoURI": "/images/tokens/1/0xef101508bf4dc6cf0f0a0c135f39a41fab4e4389.svg",
+        "extensions": {
+            "underlying": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+            "protocol": "Superform"
+        }
     }
 ]

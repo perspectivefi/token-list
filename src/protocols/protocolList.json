@@ -476,5 +476,23 @@
                 "name": "Veda Points"
             }
         ]
+    },
+    {
+        "ptAddress": "0x5ca220f0f44e7bc76c2d1968c5d4fd5381432890",
+        "chainId": 1,
+        "multipliers": {
+            "lp": [
+                {
+                    "amount": 2.5,
+                    "name": "Yield Crumbs"
+                }
+            ],
+            "yt": [
+                {
+                    "amount": 1,
+                    "name": "Yield Crumbs"
+                }
+            ]
+        }
     }
 ]

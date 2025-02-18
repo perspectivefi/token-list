@@ -477,6 +477,10 @@
                 "symbol": "auraECLP-paUSD-GYD-vault",
                 "decimals": 18
             },
+            "ibtRoutes": {
+                "wrap": false,
+                "unwrap": false
+            },
             "protocol": "Aura"
         }
     },

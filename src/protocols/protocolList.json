@@ -494,5 +494,15 @@
                 }
             ]
         }
+    },
+    {
+        "ptAddress": "0x34ee2e930f4f70a1070b4077ca1b01e0cb881dcd",
+        "chainId": 1,
+        "multipliers": [
+            {
+                "amount": 50,
+                "name": "CRED"
+            }
+        ]
     }
 ]

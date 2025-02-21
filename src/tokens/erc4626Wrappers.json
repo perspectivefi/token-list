@@ -949,6 +949,9 @@
                 "name": "Silo Finance Borrowable USDC.e Deposit, SiloId: 20",
                 "decimals": 6,
                 "logoURI": "/images/tokens/146/0x322e1d5384aa4ed66aeca770b95686271de61dc3.svg"
+            },
+            "ibtRoutes": {
+                "unwrap": false
             }
         }
     },

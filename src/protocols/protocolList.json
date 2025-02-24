@@ -380,7 +380,7 @@
         "chainId": 1,
         "multipliers": [
             {
-                "amount": 60,
+                "amount": 45,
                 "name": "Resolv points"
             }
         ]

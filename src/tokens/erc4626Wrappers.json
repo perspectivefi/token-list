@@ -765,6 +765,9 @@
                 "name": "Resolv Liquidity Provider Token",
                 "decimals": 18,
                 "logoURI": "/images/tokens/1/0x4956b52ae2ff65d74ca2d61207523288e4528f96.svg"
+            },
+            "ibtRoutes": {
+                "withdraw": false
             }
         }
     },

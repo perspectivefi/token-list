@@ -994,5 +994,25 @@
                 "logoURI": "/images/tokens/146/0xdb58c4db1a0f45dda3d2f8e44c3300bb6510c866.svg"
             }
         }
+    },
+    {
+        "address": "0x1C77c5B76f02eD1538D5Af95A3B1f88e55178D2f",
+        "chainId": 1,
+        "name": "Spectra ERC4626 Wrapper: Level USD",
+        "symbol": "sw-lvlUSD",
+        "decimals": 18,
+        "logoURI": "/images/tokens/1/0x7c1156e515aa1a2e851674120074968c905aaf37.svg",
+        "extensions": {
+            "underlying": "0x7C1156E515aA1A2E851674120074968C905aAF37",
+            "protocol": "Level",
+            "vault": {
+                "address": "0x7c1156e515aa1a2e851674120074968c905aaf37",
+                "chainId": 1,
+                "name": "Level USD",
+                "symbol": "lvlUSD",
+                "decimals": 18,
+                "logoURI": "/images/tokens/1/0x7c1156e515aa1a2e851674120074968c905aaf37.svg"
+            }
+        }
     }
 ]

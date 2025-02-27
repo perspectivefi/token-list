@@ -1409,7 +1409,11 @@
         "logoURI": "/images/tokens/1/0x4737d9b4592b40d51e110b94c9c043c6654067ae.svg",
         "extensions": {
             "underlying": "0x7C1156E515aA1A2E851674120074968C905aAF37",
-            "protocol": "Level"
+            "protocol": "Level",
+            "ibtRoutes": {
+                "withdraw": false,
+                "redeem": false
+            }
         }
     },
     {
@@ -1497,7 +1501,11 @@
         "extensions": {
             "underlying": "0x4D85bA8c3918359c78Ed09581E5bc7578ba932ba",
             "protocol": "Rings",
-            "externalLink": "https://app.rings.money/"
+            "externalLink": "https://app.rings.money/",
+            "ibtRoutes": {
+                "withdraw": false,
+                "redeem": false
+            }
         }
     },
     {
@@ -1820,7 +1828,11 @@
         "logoURI": "/images/tokens/146/0xe8a41c62bb4d5863c6eadc96792cfe90a1f37c47.svg",
         "extensions": {
             "underlying": "0x455d5f11Fea33A8fa9D3e285930b478B6bF85265",
-            "protocol": "Rings"
+            "protocol": "Rings",
+            "ibtRoutes": {
+                "withdraw": false,
+                "redeem": false
+            }
         }
     },
     {

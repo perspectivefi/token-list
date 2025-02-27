@@ -912,6 +912,10 @@
                 "name": "Wrapped stkscETH",
                 "decimals": 18,
                 "logoURI": "/images/tokens/146/0xe8a41c62bb4d5863c6eadc96792cfe90a1f37c47.svg"
+            },
+            "ibtRoutes": {
+                "withdraw": false,
+                "redeem": false
             }
         }
     },

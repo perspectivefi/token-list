@@ -1882,5 +1882,13 @@
             "underlying": "0x7C1156E515aA1A2E851674120074968C905aAF37",
             "protocol": "Level"
         }
+    },
+    {
+        "address": "0xbb30e76d9bb2cc9631f7fc5eb8e87b5aff32bfbd",
+        "chainId": 146,
+        "name": "Sonic BTC",
+        "symbol": "scBTC",
+        "decimals": 8,
+        "logoURI": "/images/tokens/146/0xbb30e76d9bb2cc9631f7fc5eb8e87b5aff32bfbd.svg"
     }
 ]

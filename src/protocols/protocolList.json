@@ -312,7 +312,7 @@
         "chainId": 1,
         "multipliers": [
             {
-                "amount": 45,
+                "amount": 30,
                 "name": "Resolv points"
             }
         ]
@@ -322,7 +322,7 @@
         "chainId": 1,
         "multipliers": [
             {
-                "amount": 30,
+                "amount": 15,
                 "name": "Resolv points"
             }
         ]
@@ -332,7 +332,7 @@
         "chainId": 1,
         "multipliers": [
             {
-                "amount": 20,
+                "amount": 10,
                 "name": "Resolv points"
             }
         ]

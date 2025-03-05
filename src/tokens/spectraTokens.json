@@ -1902,5 +1902,16 @@
             "underlying": "0xde17a000BA631c5d7c2Bd9FB692EFeA52D90DEE2",
             "protocol": "SmarDEX"
         }
+    },
+    {
+        "address": "0x8238884ec9668ef77b90c6dff4d1a9f4f4823bfe",
+        "chainId": 1,
+        "name": "OpenEden Open Dollar",
+        "symbol": "USDO",
+        "decimals": 18,
+        "logoURI": "/images/tokens/1/0x8238884ec9668ef77b90c6dff4d1a9f4f4823bfe.svg",
+        "extensions": {
+            "protocol": "OpenEden"
+        }
     }
 ]

@@ -224,20 +224,26 @@
     {
         "ptAddress": "0xbc30e564052a622d6b50170b73ff14ee49eeade0",
         "chainId": 1,
-        "multipliers": {
-            "lp": [
-                {
-                    "amount": 20,
-                    "name": "Level XP"
-                }
-            ],
-            "yt": [
-                {
-                    "amount": 15,
-                    "name": "Level XP"
-                }
-            ]
-        }
+        "multipliers": [
+            {
+                "amount": 20,
+                "name": "Level XP"
+            }
+        ]
+    },
+    {
+        "ptAddress": "0x331f8afb5d05ae381817b39893392b50a332a99c",
+        "chainId": 1,
+        "multipliers": [
+            {
+                "amount": 40,
+                "name": "Level XP"
+            },
+            {
+                "amount": 1,
+                "name": "Symbiotic Points"
+            }
+        ]
     },
     {
         "ptAddress": "0x7002383d2305b8f3b2b7786f50c13d132a22076d",

@@ -1439,22 +1439,6 @@
     },
     {
         "chainId": 1,
-        "address": "0x8E0789d39db454DBE9f4a77aCEF6dc7c69f6D552",
-        "symbol": "inwstETHs",
-        "name": "Inception Symbiotic Restaked wstETH",
-        "decimals": 18,
-        "logoURI": "/images/tokens/1/0x8e0789d39db454dbe9f4a77acef6dc7c69f6d552.svg",
-        "extensions": {
-            "protocol": "InceptionLRT",
-            "externalLink": "https://www.inceptionlrt.com/app/restaking/restake/?token=wstETH&chainId=1&inceptionToken=inwstETHs",
-            "ibtRoutes": {
-                "withdraw": false,
-                "redeem": false
-            }
-        }
-    },
-    {
-        "chainId": 1,
         "address": "0x4956b52aE2fF65D74CA2d61207523288e4528f96",
         "symbol": "RLP",
         "name": "Resolv Liquidity Provider Token",
@@ -1912,6 +1896,18 @@
         "logoURI": "/images/tokens/1/0x8238884ec9668ef77b90c6dff4d1a9f4f4823bfe.svg",
         "extensions": {
             "protocol": "OpenEden"
+        }
+    },
+    {
+        "chainId": 1,
+        "address": "0x8E0789d39db454DBE9f4a77aCEF6dc7c69f6D552",
+        "symbol": "inwstETHs",
+        "name": "Inception Symbiotic Restaked wstETH",
+        "decimals": 18,
+        "logoURI": "/images/tokens/1/0x8e0789d39db454dbe9f4a77acef6dc7c69f6d552.svg",
+        "extensions": {
+            "underlying": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+            "protocol": "InceptionLRT"
         }
     }
 ]

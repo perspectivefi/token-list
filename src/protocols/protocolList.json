@@ -502,5 +502,27 @@
                 "name": "CRED"
             }
         ]
+    },
+    {
+        "ptAddress": "0x716dc450e5208bd93bf471b941e562db811d4852",
+        "chainId": 1,
+        "multipliers": [
+            {
+                "amount": 2,
+                "name": "InceptionLRT Totems"
+            },
+            {
+                "amount": 1,
+                "name": "Symbiotic Points"
+            },
+            {
+                "amount": 1,
+                "name": "Mellow Points"
+            },
+            {
+                "amount": 1,
+                "name": "Turtle Club Points"
+            }
+        ]
     }
 ]

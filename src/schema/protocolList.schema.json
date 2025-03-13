@@ -39,6 +39,9 @@
             "chainId": {
                 "type": "integer"
             },
+            "defaultInput": {
+                "type": "string"
+            },
             "multipliers": {
                 "anyOf": [
                     {

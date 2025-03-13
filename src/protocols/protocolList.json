@@ -524,5 +524,24 @@
                 "name": "Turtle Club Points"
             }
         ]
+    },
+    {
+        "ptAddress": "0x7cf7e938312afed7e9d7885783e642b1e1f8618c",
+        "chainId": 1,
+        "defaultInput": "ibt",
+        "multipliers": {
+            "lp": [
+                {
+                    "amount": 40,
+                    "name": "Noon Points"
+                }
+            ],
+            "yt": [
+                {
+                    "amount": 20,
+                    "name": "Noon Points"
+                }
+            ]
+        }
     }
 ]

@@ -543,5 +543,23 @@
                 }
             ]
         }
+    },
+    {
+        "ptAddress": "0x3b660b2f136fddf98a081439de483d8712c16ca4",
+        "chainId": 1,
+        "multipliers": {
+            "lp": [
+                {
+                    "amount": 3,
+                    "name": "Bills points"
+                }
+            ],
+            "yt": [
+                {
+                    "amount": 10,
+                    "name": "Bills points"
+                }
+            ]
+        }
     }
 ]

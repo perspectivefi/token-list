@@ -562,5 +562,23 @@
                 }
             ]
         }
+    },
+    {
+        "ptAddress": "0xe6ad32b510b3591e9ea1d28dc619b826e241340d",
+        "chainId": 146,
+        "multipliers": [
+            {
+                "amount": 4,
+                "name": "Sonic Points"
+            },
+            {
+                "amount": 2,
+                "name": "Rings Points"
+            },
+            {
+                "amount": 3,
+                "name": "Veda Points"
+            }
+        ]
     }
 ]

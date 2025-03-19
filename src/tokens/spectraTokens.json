@@ -1917,5 +1917,16 @@
         "symbol": "USDN",
         "decimals": 18,
         "logoURI": "/images/tokens/1/0xde17a000ba631c5d7c2bd9fb692efea52d90dee2.svg"
+    },
+    {
+        "address": "0x00b174d66ada7d63789087f50a9b9e0e48446dc1",
+        "chainId": 8453,
+        "name": "Siloed Pinto",
+        "symbol": "sPINTO",
+        "decimals": 18,
+        "logoURI": "/images/tokens/8453/0x00b174d66ada7d63789087f50a9b9e0e48446dc1.svg",
+        "extensions": {
+            "underlying": "0xb170000aeeFa790fa61D6e837d1035906839a3c8"
+        }
     }
 ]

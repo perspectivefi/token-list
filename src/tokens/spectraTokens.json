@@ -1917,5 +1917,13 @@
         "symbol": "USDN",
         "decimals": 18,
         "logoURI": "/images/tokens/1/0xde17a000ba631c5d7c2bd9fb692efea52d90dee2.svg"
+    },
+    {
+        "address": "0xb170000aeefa790fa61d6e837d1035906839a3c8",
+        "chainId": 8453,
+        "name": "Pinto",
+        "symbol": "PINTO",
+        "decimals": 6,
+        "logoURI": "/images/tokens/8453/0xb170000aeefa790fa61d6e837d1035906839a3c8.png"
     }
 ]

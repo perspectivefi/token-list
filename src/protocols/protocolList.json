@@ -452,7 +452,7 @@
         "chainId": 1,
         "multipliers": [
             {
-                "amount": 45,
+                "amount": 30,
                 "name": "Resolv points"
             }
         ]

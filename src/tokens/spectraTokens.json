@@ -1928,5 +1928,13 @@
         "extensions": {
             "underlying": "0xb170000aeeFa790fa61D6e837d1035906839a3c8"
         }
+    },
+    {
+        "address": "0xb170000aeefa790fa61d6e837d1035906839a3c8",
+        "chainId": 8453,
+        "name": "Pinto",
+        "symbol": "PINTO",
+        "decimals": 6,
+        "logoURI": "/images/tokens/8453/0xb170000aeefa790fa61d6e837d1035906839a3c8.png"
     }
 ]

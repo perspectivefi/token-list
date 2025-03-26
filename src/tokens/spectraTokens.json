@@ -1960,5 +1960,13 @@
         "extensions": {
             "underlying": "0xde17a000BA631c5d7c2Bd9FB692EFeA52D90DEE2"
         }
+    },
+    {
+        "address": "0xFd4330b0312fdEEC6d4225075b82E00493FF2e3f",
+        "chainId": 8453,
+        "name": "SmarDex Token",
+        "symbol": "SDEX",
+        "decimals": 18,
+        "logoURI": "/images/tokens/8453/0xfd4330b0312fdeec6d4225075b82e00493ff2e3f.svg"
     }
 ]

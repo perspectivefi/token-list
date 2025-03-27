@@ -38,6 +38,12 @@
                 "type": "object",
                 "additionalProperties": false,
                 "properties": {
+                    "tags": {
+                        "type": "array",
+                        "items": {
+                            "type": "string"
+                        }
+                    },
                     "underlying": {
                         "type": "string",
                         "pattern": "^0x[a-fA-F0-9]{40}$"

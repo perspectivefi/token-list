@@ -2199,17 +2199,6 @@
         }
     },
     {
-        "address": "0x06a491e3efee37eb191d0434f54be6e42509f9d3",
-        "chainId": 1,
-        "name": "Spectra ERC4626 Wrapper: Wrapped Ultimate Synthetic Delta Neutral",
-        "symbol": "sw-WUSDN",
-        "decimals": 18,
-        "logoURI": "/images/tokens/1/0x06a491e3efee37eb191d0434f54be6e42509f9d3.svg",
-        "extensions": {
-            "underlying": "0xde17a000BA631c5d7c2Bd9FB692EFeA52D90DEE2"
-        }
-    },
-    {
         "address": "0xFd4330b0312fdEEC6d4225075b82E00493FF2e3f",
         "chainId": 8453,
         "name": "SmarDex Token",

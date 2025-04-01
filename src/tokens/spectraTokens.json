@@ -2299,5 +2299,18 @@
             "protocol": "Shadow",
             "externalLink": "https://www.shadow.so/"
         }
+    },
+    {
+        "address": "0x3333111A391cC08fa51353E9195526A70b333333",
+        "chainId": 146,
+        "name": "Shadow Liquid Staking Token",
+        "symbol": "x33",
+        "decimals": 18,
+        "logoURI": "/images/tokens/146/0x3333111a391cc08fa51353e9195526a70b333333.png",
+        "extensions": {
+            "underlying": "0x5050bc082FF4A74Fb6B0B04385dEfdDB114b2424",
+            "protocol": "Shadow",
+            "externalLink": "https://www.shadow.so/"
+        }
     }
 ]

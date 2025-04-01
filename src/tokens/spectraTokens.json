@@ -2205,5 +2205,17 @@
         "symbol": "SDEX",
         "decimals": 18,
         "logoURI": "/images/tokens/8453/0xfd4330b0312fdeec6d4225075b82e00493ff2e3f.svg"
+    },
+    {
+        "address": "0x5050bc082FF4A74Fb6B0B04385dEfdDB114b2424",
+        "chainId": 146,
+        "name": "xShadow",
+        "symbol": "xSHADOW",
+        "decimals": 18,
+        "logoURI": "/images/tokens/146/0x5050bc082ff4a74fb6b0b04385defddb114b2424.png",
+        "extensions": {
+            "protocol": "Shadow",
+            "externalLink": "https://www.shadow.so/"
+        }
     }
 ]

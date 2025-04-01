@@ -1021,26 +1021,6 @@
         }
     },
     {
-        "address": "0x06a491e3efee37eb191d0434f54be6e42509f9d3",
-        "chainId": 1,
-        "name": "Spectra ERC4626 Wrapper: Wrapped Ultimate Synthetic Delta Neutral",
-        "symbol": "sw-WUSDN",
-        "decimals": 18,
-        "logoURI": "/images/tokens/1/0x99999999999999cc837c997b882957dafdcb1af9.svg",
-        "extensions": {
-            "underlying": "0xde17a000BA631c5d7c2Bd9FB692EFeA52D90DEE2",
-            "protocol": "SmarDEX",
-            "vault": {
-                "chainId": 1,
-                "address": "0x99999999999999Cc837C997B882957daFdCb1Af9",
-                "symbol": "WUSDN",
-                "name": "Wrapped Ultimate Synthetic Delta Neutral",
-                "decimals": 18,
-                "logoURI": "/images/tokens/1/0x99999999999999cc837c997b882957dafdcb1af9.svg"
-            }
-        }
-    },
-    {
         "address": "0xa54A3f9E33cA1473477f05A94123D117AaA6002A",
         "chainId": 1,
         "name": "Spectra ERC4626 Wrapper: Inception Symbiotic Restaked wstETH",
@@ -1077,6 +1057,26 @@
                 "name": "BitFi Bitcoin",
                 "decimals": 8,
                 "logoURI": "/images/tokens/43111/0x623f2774d9f27b59bc6b954544487532ce79d9df.png"
+            }
+        }
+    },
+    {
+        "address": "0x06a491e3efee37eb191d0434f54be6e42509f9d3",
+        "chainId": 1,
+        "name": "Spectra ERC4626 Wrapper: Wrapped Ultimate Synthetic Delta Neutral",
+        "symbol": "sw-WUSDN",
+        "decimals": 18,
+        "logoURI": "/images/tokens/1/0x99999999999999cc837c997b882957dafdcb1af9.svg",
+        "extensions": {
+            "underlying": "0xde17a000BA631c5d7c2Bd9FB692EFeA52D90DEE2",
+            "protocol": "SmarDex",
+            "vault": {
+                "chainId": 1,
+                "address": "0x99999999999999Cc837C997B882957daFdCb1Af9",
+                "symbol": "WUSDN",
+                "name": "Wrapped Ultimate Synthetic Delta Neutral",
+                "decimals": 18,
+                "logoURI": "/images/tokens/1/0x99999999999999cc837c997b882957dafdcb1af9.svg"
             }
         }
     }

@@ -23,7 +23,9 @@
         "decimals": 18,
         "logoURI": "/images/tokens/1/0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee.svg",
         "extensions": {
-            "tags": ["eth"]
+            "tags": [
+                "eth"
+            ]
         }
     },
     {
@@ -34,7 +36,9 @@
         "decimals": 18,
         "logoURI": "/images/tokens/1/0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee.svg",
         "extensions": {
-            "tags": ["eth"]
+            "tags": [
+                "eth"
+            ]
         }
     },
     {
@@ -45,7 +49,9 @@
         "decimals": 18,
         "logoURI": "/images/tokens/8453/0x4200000000000000000000000000000000000006.svg",
         "extensions": {
-            "tags": ["eth"]
+            "tags": [
+                "eth"
+            ]
         }
     },
     {
@@ -56,7 +62,9 @@
         "decimals": 18,
         "logoURI": "/images/tokens/8453/0x4200000000000000000000000000000000000006.svg",
         "extensions": {
-            "tags": ["eth"]
+            "tags": [
+                "eth"
+            ]
         }
     },
     {
@@ -67,7 +75,9 @@
         "decimals": 18,
         "logoURI": "/images/tokens/42161/0x82af49447d8a07e3bd95bd0d56f35241523fbab1.svg",
         "extensions": {
-            "tags": ["eth"]
+            "tags": [
+                "eth"
+            ]
         }
     },
     {
@@ -78,7 +88,9 @@
         "decimals": 6,
         "logoURI": "/images/tokens/1/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48.svg",
         "extensions": {
-            "tags": ["stable"]
+            "tags": [
+                "stable"
+            ]
         }
     },
     {
@@ -236,7 +248,9 @@
                 "redeem": false
             },
             "protocol": "Karak",
-            "tags": ["eth"]
+            "tags": [
+                "eth"
+            ]
         }
     },
     {
@@ -248,7 +262,9 @@
         "logoURI": "/images/tokens/1/0x0022228a2cc5e7ef0274a7baa600d44da5ab5776.svg",
         "extensions": {
             "protocol": "Angle",
-            "tags": ["stable"]
+            "tags": [
+                "stable"
+            ]
         }
     },
     {
@@ -259,7 +275,9 @@
         "decimals": 18,
         "logoURI": "/images/tokens/42161/0x0000206329b97db379d5e1bf586bbdb969c63274.svg",
         "extensions": {
-            "tags": ["stable"]
+            "tags": [
+                "stable"
+            ]
         }
     },
     {
@@ -272,7 +290,9 @@
         "extensions": {
             "underlying": "0x0000206329b97db379d5e1bf586bbdb969c63274",
             "protocol": "Angle",
-            "tags": ["stable"]
+            "tags": [
+                "stable"
+            ]
         }
     },
     {
@@ -283,7 +303,9 @@
         "decimals": 18,
         "logoURI": "/images/tokens/1/0x0000206329b97db379d5e1bf586bbdb969c63274.svg",
         "extensions": {
-            "tags": ["stable"]
+            "tags": [
+                "stable"
+            ]
         }
     },
     {
@@ -294,7 +316,9 @@
         "decimals": 18,
         "logoURI": "/images/tokens/1/0x40d16fc0246ad3160ccc09b8d0d3a2cd28ae6c2f.svg",
         "extensions": {
-            "tags": ["stable"]
+            "tags": [
+                "stable"
+            ]
         }
     },
     {
@@ -329,7 +353,9 @@
         "decimals": 18,
         "logoURI": "/images/tokens/42161/0xda10009cbd5d07dd0cecc66161fc93d7c9000da1.svg",
         "extensions": {
-            "tags": ["stable"]
+            "tags": [
+                "stable"
+            ]
         }
     },
     {
@@ -368,7 +394,9 @@
         "decimals": 18,
         "logoURI": "/images/tokens/1/0x856c4efb76c1d1ae02e20ceb03a2a6a08b0b8dc3.png",
         "extensions": {
-            "tags": ["eth"]
+            "tags": [
+                "eth"
+            ]
         }
     },
     {
@@ -403,7 +431,9 @@
         "decimals": 18,
         "logoURI": "/images/tokens/1/0x5fd13359ba15a84b76f7f87568309040176167cd.svg",
         "extensions": {
-            "tags": ["eth"]
+            "tags": [
+                "eth"
+            ]
         }
     },
     {
@@ -442,7 +472,9 @@
         "decimals": 18,
         "logoURI": "/images/tokens/1/0x65d72aa8da931f047169112fcf34f52dbaae7d18.svg",
         "extensions": {
-            "tags": ["stable"]
+            "tags": [
+                "stable"
+            ]
         }
     },
     {
@@ -465,7 +497,9 @@
         "decimals": 6,
         "logoURI": "/images/tokens/42161/0xaf88d065e77c8cc2239327c5edb3a432268e5831.svg",
         "extensions": {
-            "tags": ["stable"]
+            "tags": [
+                "stable"
+            ]
         }
     },
     {
@@ -488,7 +522,9 @@
         "decimals": 8,
         "logoURI": "/images/tokens/42161/0x2f2a2543b76a4166549f7aab2e75bef0aefc5b0f.svg",
         "extensions": {
-            "tags": ["btc"]
+            "tags": [
+                "btc"
+            ]
         }
     },
     {
@@ -499,7 +535,9 @@
         "decimals": 8,
         "logoURI": "/images/tokens/1/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599.svg",
         "extensions": {
-            "tags": ["btc"]
+            "tags": [
+                "btc"
+            ]
         }
     },
     {
@@ -510,7 +548,9 @@
         "decimals": 18,
         "logoURI": "/images/tokens/42161/0x7dff72693f6a4149b17e7c6314655f6a9f7c8b33.svg",
         "extensions": {
-            "tags": ["stable"]
+            "tags": [
+                "stable"
+            ]
         }
     },
     {
@@ -557,7 +597,9 @@
         "symbol": "LP-WETH",
         "logoURI": "/images/tokens/42161/0xe62880cc6872c9e9fb1ddd73f400850fdabe798d.svg",
         "extensions": {
-            "tags": ["eth"]
+            "tags": [
+                "eth"
+            ]
         }
     },
     {
@@ -568,7 +610,9 @@
         "decimals": 18,
         "logoURI": "/images/tokens/42161/0x7c11f78ce78768518d743e81fdfa2f860c6b9a77.svg",
         "extensions": {
-            "tags": ["btc"]
+            "tags": [
+                "btc"
+            ]
         }
     },
     {
@@ -579,7 +623,9 @@
         "decimals": 18,
         "logoURI": "/images/tokens/10/0x64831f82e3543006413897c03f59518cecae02b4.svg",
         "extensions": {
-            "tags": ["eth"]
+            "tags": [
+                "eth"
+            ]
         }
     },
     {
@@ -622,7 +668,9 @@
         "decimals": 18,
         "logoURI": "/images/tokens/8453/0x04c0599ae5a44757c0af6f9ec3b93da8976c150a.svg",
         "extensions": {
-            "tags": ["eth"]
+            "tags": [
+                "eth"
+            ]
         }
     },
     {
@@ -677,7 +725,9 @@
         "decimals": 18,
         "logoURI": "/images/tokens/1/0xa1290d69c65a6fe4df752f95823fae25cb99e5a7.svg",
         "extensions": {
-            "tags": ["eth"]
+            "tags": [
+                "eth"
+            ]
         }
     },
     {
@@ -753,7 +803,9 @@
         "decimals": 6,
         "logoURI": "/images/tokens/42161/0xff970a61a04b1ca14834a43f5de4533ebddb5cc8.svg",
         "extensions": {
-            "tags": ["stable"]
+            "tags": [
+                "stable"
+            ]
         }
     },
     {
@@ -776,7 +828,9 @@
         "decimals": 6,
         "logoURI": "/images/tokens/42161/0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9.png",
         "extensions": {
-            "tags": ["stable"]
+            "tags": [
+                "stable"
+            ]
         }
     },
     {
@@ -831,7 +885,9 @@
         "decimals": 18,
         "logoURI": "/images/tokens/1/0x1a7e4e63778b4f12a199c062f3efdd288afcbce8.svg",
         "extensions": {
-            "tags": ["stable"]
+            "tags": [
+                "stable"
+            ]
         }
     },
     {
@@ -874,7 +930,9 @@
         "decimals": 18,
         "logoURI": "/images/tokens/1/0x66a1e37c9b0eaddca17d3662d6c05f4decf3e110.svg",
         "extensions": {
-            "tags": ["stable"]
+            "tags": [
+                "stable"
+            ]
         }
     },
     {
@@ -960,7 +1018,9 @@
         "decimals": 6,
         "logoURI": "/images/tokens/8453/0x833589fcd6edb6e08f4c7c32d4f71b54bda02913.svg",
         "extensions": {
-            "tags": ["stable"]
+            "tags": [
+                "stable"
+            ]
         }
     },
     {
@@ -984,7 +1044,9 @@
         "decimals": 18,
         "logoURI": "/images/tokens/8453/0x2ae3f1ec7f1f5012cfeab0185bfc7aa3cf0dec22.svg",
         "extensions": {
-            "tags": ["eth"]
+            "tags": [
+                "eth"
+            ]
         }
     },
     {
@@ -1089,7 +1151,9 @@
         "decimals": 18,
         "logoURI": "/images/tokens/8453/0xdbfefd2e8460a6ee4955a68582f85708baea60a3.svg",
         "extensions": {
-            "tags": ["eth"]
+            "tags": [
+                "eth"
+            ]
         }
     },
     {
@@ -1100,7 +1164,9 @@
         "decimals": 18,
         "logoURI": "/images/tokens/1/0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0.svg",
         "extensions": {
-            "tags": ["eth"]
+            "tags": [
+                "eth"
+            ]
         }
     },
     {
@@ -1295,7 +1361,9 @@
         "logoURI": "/images/tokens/1/0xf939e0a03fb07f59a73314e73794be0e57ac1b4e.svg",
         "extensions": {
             "protocol": "Curve",
-            "tags": ["stable"]
+            "tags": [
+                "stable"
+            ]
         }
     },
     {
@@ -1360,7 +1428,9 @@
         "extensions": {
             "protocol": "defi.money",
             "externalLink": "https://app.defi.money/earn/optimism",
-            "tags": ["stable"]
+            "tags": [
+                "stable"
+            ]
         }
     },
     {
@@ -1384,7 +1454,9 @@
         "decimals": 8,
         "logoURI": "/images/tokens/8453/0xecac9c5f704e954931349da37f60e39f515c11c1.svg",
         "extensions": {
-            "tags": ["btc"]
+            "tags": [
+                "btc"
+            ]
         }
     },
     {
@@ -1421,7 +1493,9 @@
         "decimals": 18,
         "logoURI": "/images/tokens/1/0x865377367054516e17014ccded1e7d814edc9ce4.svg",
         "extensions": {
-            "tags": ["stable"]
+            "tags": [
+                "stable"
+            ]
         }
     },
     {
@@ -1525,7 +1599,9 @@
         "decimals": 18,
         "logoURI": "/images/tokens/42161/0xf3527ef8de265eaa3716fb312c12847bfba66cef.svg",
         "extensions": {
-            "tags": ["stable"]
+            "tags": [
+                "stable"
+            ]
         }
     },
     {
@@ -1633,7 +1709,9 @@
         "decimals": 6,
         "logoURI": "/images/tokens/146/0xd3dce716f3ef535c5ff8d041c1a41c3bd89b97ae.svg",
         "extensions": {
-            "tags": ["stable"]
+            "tags": [
+                "stable"
+            ]
         }
     },
     {
@@ -1644,7 +1722,9 @@
         "decimals": 6,
         "logoURI": "/images/tokens/146/0x4d85ba8c3918359c78ed09581e5bc7578ba932ba.svg",
         "extensions": {
-            "tags": ["stable"]
+            "tags": [
+                "stable"
+            ]
         }
     },
     {
@@ -1655,7 +1735,9 @@
         "decimals": 18,
         "logoURI": "/images/tokens/1/0x15700b564ca08d9439c58ca5053166e8317aa138.svg",
         "extensions": {
-            "tags": ["stable"]
+            "tags": [
+                "stable"
+            ]
         }
     },
     {
@@ -1765,7 +1847,9 @@
         "decimals": 18,
         "logoURI": "/images/tokens/1/0x4f8e1426a9d10bddc11d26042ad270f16ccb95f2.svg",
         "extensions": {
-            "tags": ["stable"]
+            "tags": [
+                "stable"
+            ]
         }
     },
     {
@@ -1806,7 +1890,9 @@
         "decimals": 18,
         "logoURI": "/images/tokens/146/0x455d5f11fea33a8fa9d3e285930b478b6bf85265.svg",
         "extensions": {
-            "tags": ["eth"]
+            "tags": [
+                "eth"
+            ]
         }
     },
     {
@@ -1837,7 +1923,9 @@
         "decimals": 18,
         "logoURI": "/images/tokens/146/0x50c42deacd8fc9773493ed674b675be577f2634b.svg",
         "extensions": {
-            "tags": ["eth"]
+            "tags": [
+                "eth"
+            ]
         }
     },
     {
@@ -1871,7 +1959,9 @@
         "decimals": 6,
         "logoURI": "/images/tokens/146/0x29219dd400f2bf60e5a23d13be72b486d4038894.svg",
         "extensions": {
-            "tags": ["stable"]
+            "tags": [
+                "stable"
+            ]
         }
     },
     {
@@ -1882,7 +1972,9 @@
         "decimals": 18,
         "logoURI": "/images/tokens/1/0xda67b4284609d2d48e5d10cfac411572727dc1ed.png",
         "extensions": {
-            "tags": ["stable"]
+            "tags": [
+                "stable"
+            ]
         }
     },
     {
@@ -1893,7 +1985,9 @@
         "decimals": 18,
         "logoURI": "/images/tokens/146/0x3bce5cb273f0f148010bbea2470e7b5df84c7812.svg",
         "extensions": {
-            "tags": ["eth"]
+            "tags": [
+                "eth"
+            ]
         }
     },
     {
@@ -1904,7 +1998,9 @@
         "decimals": 18,
         "logoURI": "/images/tokens/1/0x4628f13651ead6793f8d838b34b8f8522fb0cc52.svg",
         "extensions": {
-            "tags": ["stable"]
+            "tags": [
+                "stable"
+            ]
         }
     },
     {
@@ -1965,7 +2061,9 @@
         "decimals": 18,
         "logoURI": "/images/tokens/8453/0x6bb7a212910682dcfdbd5bcbb3e28fb4e8da10ee.svg",
         "extensions": {
-            "tags": ["stable"]
+            "tags": [
+                "stable"
+            ]
         }
     },
     {
@@ -2012,7 +2110,9 @@
         "decimals": 8,
         "logoURI": "/images/tokens/146/0xbb30e76d9bb2cc9631f7fc5eb8e87b5aff32bfbd.svg",
         "extensions": {
-            "tags": ["btc"]
+            "tags": [
+                "btc"
+            ]
         }
     },
     {
@@ -2036,7 +2136,9 @@
         "logoURI": "/images/tokens/1/0x8238884ec9668ef77b90c6dff4d1a9f4f4823bfe.svg",
         "extensions": {
             "protocol": "OpenEden",
-            "tags": ["stable"]
+            "tags": [
+                "stable"
+            ]
         }
     },
     {
@@ -2059,7 +2161,9 @@
         "decimals": 18,
         "logoURI": "/images/tokens/1/0xde17a000ba631c5d7c2bd9fb692efea52d90dee2.svg",
         "extensions": {
-            "tags": ["stable"]
+            "tags": [
+                "stable"
+            ]
         }
     },
     {

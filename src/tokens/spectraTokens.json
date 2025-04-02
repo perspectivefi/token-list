@@ -2209,7 +2209,7 @@
     {
         "address": "0x65C9A641afCEB9C0E6034e558A319488FA0FA3be",
         "chainId": 1,
-        "name": " f(x) Stability Pool",
+        "name": "f(x) Stability Pool",
         "symbol": "fxSP",
         "decimals": 18,
         "logoURI": "/images/tokens/1/0x65c9a641afceb9c0e6034e558a319488fa0fa3be.png",

@@ -2256,5 +2256,16 @@
         "symbol": "hemiBTC",
         "decimals": 8,
         "logoURI": "/images/tokens/43111/0xaa40c0c7644e0b2b224509571e10ad20d9c4ef28.svg"
+    },
+    {
+        "address": "0xe4357bdae017726ee5e83db3443bcd269bbf125d",
+        "chainId": 1,
+        "name": "Staked iBTC",
+        "symbol": "siBTC",
+        "decimals": 8,
+        "logoURI": "/images/tokens/1/0xe4357bdae017726ee5e83db3443bcd269bbf125d.png",
+        "extensions": {
+            "underlying": "0x20157DBAbb84e3BBFE68C349d0d44E48AE7B5AD2"
+        }
     }
 ]

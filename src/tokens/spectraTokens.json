@@ -2216,5 +2216,17 @@
         "extensions": {
             "protocol": "f(x) protocol"
         }
+    },
+    {
+        "address": "0x7743e50f534a7f9f1791dde7dcd89f7783eefc39",
+        "chainId": 1,
+        "name": "f(x) USD Saving",
+        "symbol": "fxSAVE",
+        "decimals": 18,
+        "logoURI": "/images/tokens/1/0x7743e50f534a7f9f1791dde7dcd89f7783eefc39.png",
+        "extensions": {
+            "underlying": "0x65C9A641afCEB9C0E6034e558A319488FA0FA3be",
+            "protocol": "f(x) protocol"
+        }
     }
 ]

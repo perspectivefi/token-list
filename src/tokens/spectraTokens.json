@@ -2205,5 +2205,16 @@
         "symbol": "SDEX",
         "decimals": 18,
         "logoURI": "/images/tokens/8453/0xfd4330b0312fdeec6d4225075b82e00493ff2e3f.svg"
+    },
+    {
+        "address": "0x65C9A641afCEB9C0E6034e558A319488FA0FA3be",
+        "chainId": 1,
+        "name": " f(x) Stability Pool",
+        "symbol": "fxSP",
+        "decimals": 18,
+        "logoURI": "/images/tokens/1/0x65c9a641afceb9c0e6034e558a319488fa0fa3be.png",
+        "extensions": {
+            "protocol": "f(x) protocol"
+        }
     }
 ]

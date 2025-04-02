@@ -2267,5 +2267,17 @@
         "extensions": {
             "underlying": "0x20157DBAbb84e3BBFE68C349d0d44E48AE7B5AD2"
         }
+    },
+    {
+        "address": "0x0c6f294f441661503c237c2317712a0ecd8d2da1",
+        "chainId": 1,
+        "name": "Wrapped iBTC",
+        "symbol": "wiBTC",
+        "decimals": 8,
+        "logoURI": "/images/tokens/1/0x0c6f294f441661503c237c2317712a0ecd8d2da1.png",
+        "extensions": {
+            "underlying": "0x20157DBAbb84e3BBFE68C349d0d44E48AE7B5AD2",
+            "protocol": "BitSafe"
+        }
     }
 ]

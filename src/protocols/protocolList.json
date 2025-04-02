@@ -278,7 +278,7 @@
         "chainId": 1,
         "multipliers": [
             {
-                "amount": 2,
+                "amount": 3,
                 "name": "InceptionLRT Totems"
             },
             {

@@ -2279,5 +2279,13 @@
             "underlying": "0x20157DBAbb84e3BBFE68C349d0d44E48AE7B5AD2",
             "protocol": "BitSafe"
         }
+    },
+    {
+        "address": "0x20157dbabb84e3bbfe68c349d0d44e48ae7b5ad2",
+        "chainId": 1,
+        "name": "iBTC",
+        "symbol": "IBTC",
+        "decimals": 8,
+        "logoURI": "/images/tokens/1/0x20157dbabb84e3bbfe68c349d0d44e48ae7b5ad2.png"
     }
 ]

@@ -580,5 +580,23 @@
                 "name": "Veda Points"
             }
         ]
+    },
+    {
+        "ptAddress": "0x1155d1731b495bf22f016e13cafb6afa53bd8a28",
+        "chainId": 8453,
+        "multipliers": {
+            "lp": [
+                {
+                    "amount": 5,
+                    "name": "OpenEden Bills"
+                }
+            ],
+            "yt": [
+                {
+                    "amount": 10,
+                    "name": "OpenEden Bills"
+                }
+            ]
+        }
     }
 ]

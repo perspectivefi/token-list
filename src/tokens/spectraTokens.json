@@ -2236,5 +2236,17 @@
         "symbol": "USDO",
         "decimals": 18,
         "logoURI": "/images/tokens/8453/0xad55aebc9b8c03fc43cd9f62260391c13c23e7c0.svg"
+    },
+    {
+        "address": "0x83db73ef5192de4b6a4c92bd0141ba1a0dc87c65",
+        "chainId": 8453,
+        "name": "Compounding Open Dollar",
+        "symbol": "cUSDO",
+        "decimals": 18,
+        "logoURI": "/images/tokens/8453/0x83db73ef5192de4b6a4c92bd0141ba1a0dc87c65.svg",
+        "extensions": {
+            "underlying": "0xaD55aebc9b8c03FC43cd9f62260391c13c23e7c0",
+            "protocol": "OpenEden"
+        }
     }
 ]

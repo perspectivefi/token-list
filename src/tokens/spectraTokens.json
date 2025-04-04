@@ -2228,5 +2228,13 @@
             "underlying": "0x65C9A641afCEB9C0E6034e558A319488FA0FA3be",
             "protocol": "f(x) protocol"
         }
+    },
+    {
+        "address": "0xad55aebc9b8c03fc43cd9f62260391c13c23e7c0",
+        "chainId": 8453,
+        "name": "OpenEden Open Dollar",
+        "symbol": "USDO",
+        "decimals": 18,
+        "logoURI": "/images/tokens/8453/0xad55aebc9b8c03fc43cd9f62260391c13c23e7c0.svg"
     }
 ]

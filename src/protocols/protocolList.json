@@ -551,7 +551,7 @@
         "multipliers": {
             "lp": [
                 {
-                    "amount": 5,
+                    "amount": 10,
                     "name": "OpenEden Bills"
                 }
             ],

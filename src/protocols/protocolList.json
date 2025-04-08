@@ -598,5 +598,39 @@
                 }
             ]
         }
+    },
+    {
+        "ptAddress": "0x5f948b8a84036c22af2931b88b986bc16f119b66",
+        "chainId": 1,
+        "multipliers": {
+            "lp": [
+                {
+                    "amount": 12,
+                    "name": "iBTC Points"
+                },
+                {
+                    "amount": 1,
+                    "name": "Mellow Points"
+                },
+                {
+                    "amount": 1,
+                    "name": "Symbiotic Points"
+                }
+            ],
+            "yt": [
+                {
+                    "amount": 9,
+                    "name": "iBTC Points"
+                },
+                {
+                    "amount": 1,
+                    "name": "Mellow Points"
+                },
+                {
+                    "amount": 1,
+                    "name": "Symbiotic Points"
+                }
+            ]
+        }
     }
 ]

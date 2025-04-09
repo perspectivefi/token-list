@@ -2372,5 +2372,16 @@
         "symbol": "brBTC",
         "decimals": 8,
         "logoURI": "/images/tokens/43111/0x93919784c523f39cacaa98ee0a9d96c3f32b593e.svg"
+    },
+    {
+        "address": "0x2B0229fEB54Bad91B46B3E941092968f3454F835",
+        "chainId": 43111,
+        "name": "Spectra ERC4626 Wrapper: uniBTC",
+        "symbol": "sw-uniBTC",
+        "decimals": 8,
+        "logoURI": "/images/tokens/43111/0x2b0229feb54bad91b46b3e941092968f3454f835.svg",
+        "extensions": {
+            "underlying": "0xF9775085d726E782E83585033B58606f7731AB18"
+        }
     }
 ]

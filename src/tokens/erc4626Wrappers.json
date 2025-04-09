@@ -1086,7 +1086,7 @@
         "name": "Spectra ERC4626 Wrapper: Merlin BTC",
         "symbol": "sw-M-BTC",
         "decimals": 18,
-        "logoURI": "/images/tokens/43111/0x9bfa177621119e64cecbeabe184ab9993e2ef727.png",
+        "logoURI": "/images/tokens/43111/0x9bfa177621119e64cecbeabe184ab9993e2ef727.svg",
         "extensions": {
             "underlying": "0x9BFA177621119e64CecbEabE184ab9993E2ef727",
             "protocol": "Merlin",
@@ -1096,7 +1096,7 @@
                 "symbol": "M-BTC",
                 "name": "Merlin BTC",
                 "decimals": 18,
-                "logoURI": "/images/tokens/43111/0x9bfa177621119e64cecbeabe184ab9993e2ef727.png"
+                "logoURI": "/images/tokens/43111/0x9bfa177621119e64cecbeabe184ab9993e2ef727.svg"
             }
         }
     },
@@ -1106,7 +1106,7 @@
         "name": "Spectra ERC4626 Wrapper: uniBTC",
         "symbol": "sw-uniBTC",
         "decimals": 8,
-        "logoURI": "/images/tokens/43111/0xf9775085d726e782e83585033b58606f7731ab18.png",
+        "logoURI": "/images/tokens/43111/0xf9775085d726e782e83585033b58606f7731ab18.svg",
         "extensions": {
             "underlying": "0xF9775085d726E782E83585033B58606f7731AB18",
             "protocol": "Bedrock",
@@ -1116,7 +1116,7 @@
                 "symbol": "uniBTC",
                 "name": "uniBTC",
                 "decimals": 8,
-                "logoURI": "/images/tokens/43111/0xf9775085d726e782e83585033b58606f7731ab18.png"
+                "logoURI": "/images/tokens/43111/0xf9775085d726e782e83585033b58606f7731ab18.svg"
             }
         }
     },
@@ -1126,7 +1126,7 @@
         "name": "Spectra ERC4626 Wrapper: brBTC",
         "symbol": "sw-brBTC",
         "decimals": 8,
-        "logoURI": "/images/tokens/43111/0x93919784c523f39cacaa98ee0a9d96c3f32b593e.png",
+        "logoURI": "/images/tokens/43111/0x93919784c523f39cacaa98ee0a9d96c3f32b593e.svg",
         "extensions": {
             "underlying": "0x93919784C523f39CACaa98Ee0a9d96c3F32b593e",
             "protocol": "Bedrock",
@@ -1136,7 +1136,7 @@
                 "symbol": "brBTC",
                 "name": "brBTC",
                 "decimals": 8,
-                "logoURI": "/images/tokens/43111/0x93919784c523f39cacaa98ee0a9d96c3f32b593e.png"
+                "logoURI": "/images/tokens/43111/0x93919784c523f39cacaa98ee0a9d96c3f32b593e.svg"
             }
         }
     },
@@ -1146,7 +1146,7 @@
         "name": "Spectra ERC4626 Wrapper: Sumerian BTC",
         "symbol": "sw-suBTC",
         "decimals": 18,
-        "logoURI": "/images/tokens/43111/0xe85411c030fb32a9d8b14bbbc6cb19417391f711.png",
+        "logoURI": "/images/tokens/43111/0xe85411c030fb32a9d8b14bbbc6cb19417391f711.svg",
         "extensions": {
             "underlying": "0xe85411C030fB32A9D8b14Bbbc6CB19417391F711",
             "protocol": "summer.money",
@@ -1156,7 +1156,7 @@
                 "symbol": "suBTC",
                 "name": "Sumerian BTC",
                 "decimals": 18,
-                "logoURI": "/images/tokens/43111/0xe85411c030fb32a9d8b14bbbc6cb19417391f711.png"
+                "logoURI": "/images/tokens/43111/0xe85411c030fb32a9d8b14bbbc6cb19417391f711.svg"
             }
         }
     }

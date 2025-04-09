@@ -2347,17 +2347,6 @@
         }
     },
     {
-        "chainId": 43111,
-        "address": "0xe85411C030fB32A9D8b14Bbbc6CB19417391F711",
-        "symbol": "suBTC",
-        "name": "Sumerian BTC",
-        "decimals": 18,
-        "extensions": {
-            "underlying": "0xe85411C030fB32A9D8b14Bbbc6CB19417391F711",
-            "protocol": "summer.money"
-        }
-    },
-    {
         "address": "0xe81c0e9a183A89e249A56Acaf8f75862596a429f",
         "chainId": 43111,
         "name": "Spectra ERC4626 Wrapper: Sumerian BTC",
@@ -2367,5 +2356,13 @@
         "extensions": {
             "underlying": "0xe85411C030fB32A9D8b14Bbbc6CB19417391F711"
         }
+    },
+    {
+        "address": "0xe85411C030fB32A9D8b14Bbbc6CB19417391F711",
+        "chainId": 43111,
+        "name": "Sumerian BTC",
+        "symbol": "suBTC",
+        "decimals": 18,
+        "logoURI": "/images/tokens/43111/0xe85411c030fb32a9d8b14bbbc6cb19417391f711.svg"
     }
 ]

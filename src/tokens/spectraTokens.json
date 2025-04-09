@@ -2364,5 +2364,16 @@
         "symbol": "suBTC",
         "decimals": 18,
         "logoURI": "/images/tokens/43111/0xe85411c030fb32a9d8b14bbbc6cb19417391f711.svg"
+    },
+    {
+        "address": "0xA864cFdC7947420280D470815410771d2932C93e",
+        "chainId": 43111,
+        "name": "Spectra ERC4626 Wrapper: brBTC",
+        "symbol": "sw-brBTC",
+        "decimals": 8,
+        "logoURI": "/images/tokens/43111/0xa864cfdc7947420280d470815410771d2932c93e.svg",
+        "extensions": {
+            "underlying": "0x93919784C523f39CACaa98Ee0a9d96c3F32b593e"
+        }
     }
 ]

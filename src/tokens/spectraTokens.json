@@ -2312,5 +2312,16 @@
             "protocol": "Shadow",
             "externalLink": "https://www.shadow.so/"
         }
+    },
+    {
+        "chainId": 43111,
+        "address": "0x9BFA177621119e64CecbEabE184ab9993E2ef727",
+        "symbol": "M-BTC",
+        "name": "Merlin BTC",
+        "decimals": 18,
+        "extensions": {
+            "underlying": "0x9BFA177621119e64CecbEabE184ab9993E2ef727",
+            "protocol": "Merlin"
+        }
     }
 ]

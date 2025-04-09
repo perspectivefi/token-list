@@ -2336,17 +2336,6 @@
         }
     },
     {
-        "chainId": 43111,
-        "address": "0x93919784C523f39CACaa98Ee0a9d96c3F32b593e",
-        "symbol": "brBTC",
-        "name": "brBTC",
-        "decimals": 8,
-        "extensions": {
-            "underlying": "0x93919784C523f39CACaa98Ee0a9d96c3F32b593e",
-            "protocol": "Bedrock"
-        }
-    },
-    {
         "address": "0xe81c0e9a183A89e249A56Acaf8f75862596a429f",
         "chainId": 43111,
         "name": "Spectra ERC4626 Wrapper: Sumerian BTC",
@@ -2375,5 +2364,13 @@
         "extensions": {
             "underlying": "0x93919784C523f39CACaa98Ee0a9d96c3F32b593e"
         }
+    },
+    {
+        "address": "0x93919784C523f39CACaa98Ee0a9d96c3F32b593e",
+        "chainId": 43111,
+        "name": "brBTC",
+        "symbol": "brBTC",
+        "decimals": 8,
+        "logoURI": "/images/tokens/43111/0x93919784c523f39cacaa98ee0a9d96c3f32b593e.svg"
     }
 ]

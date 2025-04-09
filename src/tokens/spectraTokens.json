@@ -2312,5 +2312,16 @@
             "protocol": "Shadow",
             "externalLink": "https://www.shadow.so/"
         }
+    },
+    {
+        "chainId": 43111,
+        "address": "0xe85411C030fB32A9D8b14Bbbc6CB19417391F711",
+        "symbol": "suBTC",
+        "name": "Sumerian BTC",
+        "decimals": 18,
+        "extensions": {
+            "underlying": "0xe85411C030fB32A9D8b14Bbbc6CB19417391F711",
+            "protocol": "summer.money"
+        }
     }
 ]

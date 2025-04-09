@@ -2315,6 +2315,17 @@
     },
     {
         "chainId": 43111,
+        "address": "0xF9775085d726E782E83585033B58606f7731AB18",
+        "symbol": "uniBTC",
+        "name": "uniBTC",
+        "decimals": 8,
+        "extensions": {
+            "underlying": "0xF9775085d726E782E83585033B58606f7731AB18",
+            "protocol": "Bedrock"
+        }
+    },
+    {
+        "chainId": 43111,
         "address": "0x93919784C523f39CACaa98Ee0a9d96c3F32b593e",
         "symbol": "brBTC",
         "name": "brBTC",

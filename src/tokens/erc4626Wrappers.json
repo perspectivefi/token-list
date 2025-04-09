@@ -1081,6 +1081,24 @@
         }
     },
     {
+        "address": "0xFF909a1fAd2473Ac5E819eff6239BA70EC4d5215",
+        "chainId": 43111,
+        "name": "Spectra ERC4626 Wrapper: Merlin BTC",
+        "symbol": "sw-M-BTC",
+        "decimals": 18,
+        "extensions": {
+            "underlying": "0x9BFA177621119e64CecbEabE184ab9993E2ef727",
+            "protocol": "Merlin",
+            "vault": {
+                "chainId": 43111,
+                "address": "0x9BFA177621119e64CecbEabE184ab9993E2ef727",
+                "symbol": "M-BTC",
+                "name": "Merlin BTC",
+                "decimals": 18
+            }
+        }
+    },
+    {
         "address": "0x2B0229fEB54Bad91B46B3E941092968f3454F835",
         "chainId": 43111,
         "name": "Spectra ERC4626 Wrapper: uniBTC",
@@ -1097,7 +1115,7 @@
                 "decimals": 8
             }
         }
-    }
+    },
     {
         "address": "0xA864cFdC7947420280D470815410771d2932C93e",
         "chainId": 43111,

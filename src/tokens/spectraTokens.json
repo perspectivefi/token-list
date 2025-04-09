@@ -2312,5 +2312,16 @@
             "protocol": "Shadow",
             "externalLink": "https://www.shadow.so/"
         }
+    },
+    {
+        "chainId": 43111,
+        "address": "0x93919784C523f39CACaa98Ee0a9d96c3F32b593e",
+        "symbol": "brBTC",
+        "name": "brBTC",
+        "decimals": 8,
+        "extensions": {
+            "underlying": "0x93919784C523f39CACaa98Ee0a9d96c3F32b593e",
+            "protocol": "Bedrock"
+        }
     }
 ]

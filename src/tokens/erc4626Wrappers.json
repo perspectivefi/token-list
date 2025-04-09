@@ -1079,5 +1079,23 @@
                 "logoURI": "/images/tokens/43111/0x623f2774d9f27b59bc6b954544487532ce79d9df.png"
             }
         }
+    },
+    {
+        "address": "0xA864cFdC7947420280D470815410771d2932C93e",
+        "chainId": 43111,
+        "name": "Spectra ERC4626 Wrapper: brBTC",
+        "symbol": "sw-brBTC",
+        "decimals": 8,
+        "extensions": {
+            "underlying": "0x93919784C523f39CACaa98Ee0a9d96c3F32b593e",
+            "protocol": "Bedrock",
+            "vault": {
+                "chainId": 43111,
+                "address": "0x93919784C523f39CACaa98Ee0a9d96c3F32b593e",
+                "symbol": "brBTC",
+                "name": "brBTC",
+                "decimals": 8
+            }
+        }
     }
 ]

@@ -2325,17 +2325,6 @@
         }
     },
     {
-        "chainId": 43111,
-        "address": "0xF9775085d726E782E83585033B58606f7731AB18",
-        "symbol": "uniBTC",
-        "name": "uniBTC",
-        "decimals": 8,
-        "extensions": {
-            "underlying": "0xF9775085d726E782E83585033B58606f7731AB18",
-            "protocol": "Bedrock"
-        }
-    },
-    {
         "address": "0xe81c0e9a183A89e249A56Acaf8f75862596a429f",
         "chainId": 43111,
         "name": "Spectra ERC4626 Wrapper: Sumerian BTC",
@@ -2383,5 +2372,13 @@
         "extensions": {
             "underlying": "0xF9775085d726E782E83585033B58606f7731AB18"
         }
+    },
+    {
+        "address": "0xF9775085d726E782E83585033B58606f7731AB18",
+        "chainId": 43111,
+        "name": "uniBTC",
+        "symbol": "uniBTC",
+        "decimals": 8,
+        "logoURI": "/images/tokens/43111/0xf9775085d726e782e83585033b58606f7731ab18.svg"
     }
 ]

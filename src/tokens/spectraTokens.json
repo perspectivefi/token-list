@@ -2314,17 +2314,6 @@
         }
     },
     {
-        "chainId": 43111,
-        "address": "0x9BFA177621119e64CecbEabE184ab9993E2ef727",
-        "symbol": "M-BTC",
-        "name": "Merlin BTC",
-        "decimals": 18,
-        "extensions": {
-            "underlying": "0x9BFA177621119e64CecbEabE184ab9993E2ef727",
-            "protocol": "Merlin"
-        }
-    },
-    {
         "address": "0xe81c0e9a183A89e249A56Acaf8f75862596a429f",
         "chainId": 43111,
         "name": "Spectra ERC4626 Wrapper: Sumerian BTC",
@@ -2391,5 +2380,13 @@
         "extensions": {
             "underlying": "0x9BFA177621119e64CecbEabE184ab9993E2ef727"
         }
+    },
+    {
+        "address": "0x9BFA177621119e64CecbEabE184ab9993E2ef727",
+        "chainId": 43111,
+        "name": "Merlin BTC",
+        "symbol": "M-BTC",
+        "decimals": 18,
+        "logoURI": "/images/tokens/43111/0x9bfa177621119e64cecbeabe184ab9993e2ef727.svg"
     }
 ]

@@ -1098,4 +1098,40 @@
             }
         }
     }
+    {
+        "address": "0xA864cFdC7947420280D470815410771d2932C93e",
+        "chainId": 43111,
+        "name": "Spectra ERC4626 Wrapper: brBTC",
+        "symbol": "sw-brBTC",
+        "decimals": 8,
+        "extensions": {
+            "underlying": "0x93919784C523f39CACaa98Ee0a9d96c3F32b593e",
+            "protocol": "Bedrock",
+            "vault": {
+                "chainId": 43111,
+                "address": "0x93919784C523f39CACaa98Ee0a9d96c3F32b593e",
+                "symbol": "brBTC",
+                "name": "brBTC",
+                "decimals": 8
+            }
+        }
+    },
+    {
+        "address": "0xe81c0e9a183A89e249A56Acaf8f75862596a429f",
+        "chainId": 43111,
+        "name": "Spectra ERC4626 Wrapper: Sumerian BTC",
+        "symbol": "sw-suBTC",
+        "decimals": 18,
+        "extensions": {
+            "underlying": "0xe85411C030fB32A9D8b14Bbbc6CB19417391F711",
+            "protocol": "summer.money",
+            "vault": {
+                "chainId": 43111,
+                "address": "0xe85411C030fB32A9D8b14Bbbc6CB19417391F711",
+                "symbol": "suBTC",
+                "name": "Sumerian BTC",
+                "decimals": 18
+            }
+        }
+    }
 ]

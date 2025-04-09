@@ -2315,6 +2315,17 @@
     },
     {
         "chainId": 43111,
+        "address": "0x93919784C523f39CACaa98Ee0a9d96c3F32b593e",
+        "symbol": "brBTC",
+        "name": "brBTC",
+        "decimals": 8,
+        "extensions": {
+            "underlying": "0x93919784C523f39CACaa98Ee0a9d96c3F32b593e",
+            "protocol": "Bedrock"
+        }
+    },
+    {
+        "chainId": 43111,
         "address": "0xe85411C030fB32A9D8b14Bbbc6CB19417391F711",
         "symbol": "suBTC",
         "name": "Sumerian BTC",

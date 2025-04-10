@@ -232,6 +232,16 @@
         ]
     },
     {
+        "ptAddress": "0xe07a93d086ac848e8ef1cf647f201c7880cbdafe",
+        "chainId": 1,
+        "multipliers": [
+            {
+                "amount": 20,
+                "name": "Level XP"
+            }
+        ]
+    },
+    {
         "ptAddress": "0x331f8afb5d05ae381817b39893392b50a332a99c",
         "chainId": 1,
         "multipliers": [

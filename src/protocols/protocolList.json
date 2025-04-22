@@ -642,5 +642,23 @@
                 }
             ]
         }
+    },
+    {
+        "ptAddress": "0x52552d18c71487d17ad4a0de91185f7bfb222a55",
+        "chainId": 43111,
+        "multipliers": {
+            "lp": [
+                {
+                    "amount": 8,
+                    "name": "Hemi Points"
+                }
+            ],
+            "yt": [
+                {
+                    "amount": 10,
+                    "name": "Hemi Points"
+                }
+            ]
+        }
     }
 ]

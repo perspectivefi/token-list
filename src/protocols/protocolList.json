@@ -660,5 +660,15 @@
                 }
             ]
         }
+    },
+    {
+        "ptAddress": "0xd4e383ca1f274d06e727e68d5d22ed89c7d5ebe5",
+        "chainId": 8453,
+        "multipliers": [
+            {
+                "amount": 45,
+                "name": "Resolv points"
+            }
+        ]
     }
 ]

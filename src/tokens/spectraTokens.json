@@ -2255,7 +2255,12 @@
         "name": "Hemi Bitcoin",
         "symbol": "hemiBTC",
         "decimals": 8,
-        "logoURI": "/images/tokens/43111/0xaa40c0c7644e0b2b224509571e10ad20d9c4ef28.svg"
+        "logoURI": "/images/tokens/43111/0xaa40c0c7644e0b2b224509571e10ad20d9c4ef28.svg",
+        "extensions": {
+            "tags": [
+                "btc"
+            ]
+        }
     },
     {
         "address": "0xe4357bdae017726ee5e83db3443bcd269bbf125d",
@@ -2407,6 +2412,11 @@
         "name": "Balancer Aave GHO-USR",
         "symbol": "Aave GHO-USR",
         "decimals": 18,
-        "logoURI": "/images/tokens/8453/0x5b14ce8de84448e9a6f6af652af318472aa4fcaf.svg"
+        "logoURI": "/images/tokens/8453/0x5b14ce8de84448e9a6f6af652af318472aa4fcaf.svg",
+        "extensions": {
+            "tags": [
+                "stable"
+            ]
+        }
     }
 ]

@@ -680,5 +680,19 @@
                 "name": "Points"
             }
         ]
+    },
+    {
+        "ptAddress": "0x4ae0154f83427a5864e5de6513a47dac9e5d5a69",
+        "chainId": 1,
+        "multipliers": [
+            {
+                "amount": 1,
+                "name": "Ditto Points"
+            },
+            {
+                "amount": 1,
+                "name": "Mev-commit Points"
+            }
+        ]
     }
 ]

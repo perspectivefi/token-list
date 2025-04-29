@@ -670,5 +670,15 @@
                 "name": "Resolv points"
             }
         ]
+    },
+    {
+        "ptAddress": "0xd925f17fa5b99eaf56eb31459a74894109ea9f78",
+        "chainId": 1,
+        "multipliers": [
+            {
+                "amount": 50,
+                "name": "Points"
+            }
+        ]
     }
 ]

@@ -2074,6 +2074,7 @@
         "decimals": 18,
         "logoURI": "/images/tokens/1/0xef101508bf4dc6cf0f0a0c135f39a41fab4e4389.svg",
         "extensions": {
+            "aprEndpoint": "https://app.spectra.finance/api/ibt-apr/mainnet/0xef101508bf4dc6cf0f0a0c135f39a41fab4e4389",
             "underlying": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
             "protocol": "Superform"
         }

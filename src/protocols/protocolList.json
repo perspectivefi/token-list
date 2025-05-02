@@ -542,7 +542,7 @@
         "multipliers": {
             "lp": [
                 {
-                    "amount": 40,
+                    "amount": 20,
                     "name": "Noon Points"
                 }
             ],

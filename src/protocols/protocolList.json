@@ -310,6 +310,10 @@
             {
                 "amount": 1,
                 "name": "Mev-commit Points"
+            },
+            {
+                "amount": 1,
+                "name": "Human Network Points"
             }
         ]
     },

@@ -1191,7 +1191,7 @@
             "underlying": "0xd4aa386bfceeedd9de0875b3ba07f51808592e22",
             "protocol": "Impermax",
             "vault": {
-                "chainId": 8453,
+                "chainId": 146,
                 "address": "0xd4aa386bfceeedd9de0875b3ba07f51808592e22",
                 "symbol": "eliteRingsScUSD",
                 "name": "Eliteness.Network/eliteRingsScUSD",
@@ -1211,10 +1211,10 @@
             "underlying": "0x29219dd400f2bf60e5a23d13be72b486d4038894",
             "protocol": "Impermax",
             "vault": {
-                "chainId": 8453,
+                "chainId": 146,
                 "address": "0x29219dd400f2bf60e5a23d13be72b486d4038894",
-                "symbol": "eliteRingsScUSD",
-                "name": "Eliteness.Network/eliteRingsScUSD",
+                "symbol": "USDC",
+                "name": "USDC",
                 "decimals": 6,
                 "logoURI": "/images/tokens/146/0x29219dd400f2bf60e5a23d13be72b486d4038894.svg"
             }

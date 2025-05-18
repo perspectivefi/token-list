@@ -1159,5 +1159,65 @@
                 "logoURI": "/images/tokens/43111/0xe85411c030fb32a9d8b14bbbc6cb19417391f711.svg"
             }
         }
+    },
+    {
+        "address": "0xa39D400b57eD1772e9b3ec982AC433389ed2F16A",
+        "chainId": 8453,
+        "name": "Impermax Borrwable SPECTRA of Equalizer:vAMM-SPECTRA/USDC",
+        "symbol": "imxSPECTRA",
+        "decimals": 18,
+        "logoURI": "/images/tokens/8453/0xa39d400b57ed1772e9b3ec982ac433389ed2f16a.png",
+        "extensions": {
+            "underlying": "0xe85411C030fB32A9D8b14Bbbc6CB19417391F711",
+            "protocol": "Impermax",
+            "vault": {
+                "chainId": 8453,
+                "address": "0x64fcc3a02eeeba05ef701b7eed066c6ebd5d4e51",
+                "symbol": "SPECTRA",
+                "name": "Spectra",
+                "decimals": 18,
+                "logoURI": "/images/tokens/8453/0x64fcc3a02eeeba05ef701b7eed066c6ebd5d4e51.svg"
+            }
+        }
+    },
+    {
+        "address": "0xffa942079e238353423ab468acc10dc9343dccf0",
+        "chainId": 146,
+        "name": "Impermax Borrwable eliteRingsScUSD of Equalizer:sAMM-eliteRingsScUSD/USDC LP",
+        "symbol": "imxEliteRingsScUSD",
+        "decimals": 6,
+        "logoURI": "/images/tokens/146/0xffa942079e238353423ab468acc10dc9343dccf0.png",
+        "extensions": {
+            "underlying": "0xd4aa386bfceeedd9de0875b3ba07f51808592e22",
+            "protocol": "Impermax",
+            "vault": {
+                "chainId": 8453,
+                "address": "0xd4aa386bfceeedd9de0875b3ba07f51808592e22",
+                "symbol": "eliteRingsScUSD",
+                "name": "Eliteness.Network/eliteRingsScUSD",
+                "decimals": 6,
+                "logoURI": "/images/tokens/146/0xd4aa386bfceeedd9de0875b3ba07f51808592e22.png"
+            }
+        }
+    },
+    {
+        "address": "0xc7d31877e3b1d55ff48a6e3dcfa846fa3e00d083",
+        "chainId": 146,
+        "name": "Impermax Borrwable USDC of Equalizer:sAMM-eliteRingsScUSD/USDC LP",
+        "symbol": "imxUSDC",
+        "decimals": 6,
+        "logoURI": "/images/tokens/146/0xffa942079e238353423ab468acc10dc9343dccf0.png",
+        "extensions": {
+            "underlying": "0x29219dd400f2bf60e5a23d13be72b486d4038894",
+            "protocol": "Impermax",
+            "vault": {
+                "chainId": 8453,
+                "address": "0x29219dd400f2bf60e5a23d13be72b486d4038894",
+                "symbol": "eliteRingsScUSD",
+                "name": "Eliteness.Network/eliteRingsScUSD",
+                "decimals": 6,
+                "logoURI": "/images/tokens/146/0x29219dd400f2bf60e5a23d13be72b486d4038894.svg"
+            }
+        }
     }
 ]

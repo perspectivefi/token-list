@@ -2487,5 +2487,17 @@
             "underlying": "0xd4aA386bfCEEeDd9De0875B3BA07f51808592e22",
             "protocol": "Impermax (Equalizer)"
         }
+    },
+    {
+        "address": "0xc7d31877e3b1d55ff48a6e3dcfa846fa3e00d083",
+        "chainId": 146,
+        "name": "Impermax Borrwable USDC of Equalizer:sAMM-eliteRingsScUSD/USDC LP",
+        "symbol": "imxUSDC",
+        "decimals": 6,
+        "logoURI": "/images/tokens/146/0xc7d31877e3b1d55ff48a6e3dcfa846fa3e00d083.png",
+        "extensions": {
+            "underlying": "0x29219dd400f2Bf60E5a23d13Be72B486D4038894",
+            "protocol": "Impermax (Equalizer)"
+        }
     }
 ]

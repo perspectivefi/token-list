@@ -2455,5 +2455,17 @@
             "underlying": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
             "protocol": "Yield.Fi"
         }
+    },
+    {
+        "address": "0xffa942079e238353423ab468acc10dc9343dccf0",
+        "chainId": 146,
+        "name": "Impermax Borrwable eliteRingsScUSD of Equalizer:sAMM-eliteRingsScUSD/USDC LP",
+        "symbol": "imxEliteRingsScUSD",
+        "decimals": 6,
+        "logoURI": "/images/tokens/146/0xffa942079e238353423ab468acc10dc9343dccf0.png",
+        "extensions": {
+            "underlying": "0xd4aA386bfCEEeDd9De0875B3BA07f51808592e22",
+            "protocol": "Impermax (Equalizer)"
+        }
     }
 ]

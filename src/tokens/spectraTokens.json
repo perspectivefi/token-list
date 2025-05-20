@@ -2455,5 +2455,17 @@
             "underlying": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
             "protocol": "Yield.Fi"
         }
+    },
+    {
+        "address": "0xa39d400b57ed1772e9b3ec982ac433389ed2f16a",
+        "chainId": 8453,
+        "name": "Impermax Borrwable SPECTRA of Equalizer:vAMM-SPECTRA/USDC",
+        "symbol": "imxSPECTRA",
+        "decimals": 18,
+        "logoURI": "/images/tokens/8453/0xa39d400b57ed1772e9b3ec982ac433389ed2f16a.png",
+        "extensions": {
+            "underlying": "0x64FCC3A02eeEba05Ef701b7eed066c6ebD5d4E51",
+            "protocol": "Impermax (Equalizer)"
+        }
     }
 ]

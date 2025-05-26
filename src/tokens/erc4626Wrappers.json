@@ -1159,5 +1159,25 @@
                 "logoURI": "/images/tokens/43111/0xe85411c030fb32a9d8b14bbbc6cb19417391f711.svg"
             }
         }
+    },
+    {
+        "address": "0x46500Eb791fB63559A53e577e9f4b2794fca7e9f",
+        "chainId": 8453,
+        "name": "Spectra ERC4626 Wrapper: Seamless USDC Vault",
+        "symbol": "sw-smUSDC",
+        "decimals": 18,
+        "logoURI": "/images/tokens/8453/0x616a4e1db48e22028f6bbf20444cd3b8e3273738.svg",
+        "extensions": {
+            "underlying": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+            "protocol": "Morpho (Gauntlet)",
+            "vault": {
+                "chainId": 8453,
+                "address": "0x616a4E1db48e22028f6bbf20444Cd3b8e3273738",
+                "symbol": "smUSDC",
+                "name": "Seamless USDC Vault",
+                "decimals": 18,
+                "logoURI": "/images/tokens/8453/0x616a4e1db48e22028f6bbf20444cd3b8e3273738.svg"
+            }
+        }
     }
 ]

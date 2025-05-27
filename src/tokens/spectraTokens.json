@@ -2512,5 +2512,17 @@
             "protocol": "Morpho (Gauntlet)",
             "externalLink": "https://app.morpho.org/base/vault/0x616a4E1db48e22028f6bbf20444Cd3b8e3273738/seamless-usdc-vault"
         }
+    },
+    {
+        "address": "0x620082f33d442e5806122f71a72b12134f75ff2d",
+        "chainId": 1,
+        "name": "Curve lvlUSD-USDC yVault",
+        "symbol": "yvCurve-lvlUSD-USDC",
+        "decimals": 18,
+        "logoURI": "/images/tokens/1/0x620082f33d442e5806122f71a72b12134f75ff2d.svg",
+        "extensions": {
+            "underlying": "0x1220868672D5B10F3E1cB9Ab519E4d0B08545ea4",
+            "externalLink": "https://yearn.fi/vaults/1/0x620082F33D442E5806122f71a72b12134f75fF2d"
+        }
     }
 ]

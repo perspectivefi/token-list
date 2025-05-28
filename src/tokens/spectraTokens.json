@@ -2520,7 +2520,7 @@
         "symbol": "lvlUSDUSDC",
         "decimals": 18,
         "logoURI": "/images/tokens/1/0x1220868672d5b10f3e1cb9ab519e4d0b08545ea4.svg"
-    }
+    },
     {
         "address": "0x620082f33d442e5806122f71a72b12134f75ff2d",
         "chainId": 1,

@@ -692,5 +692,15 @@
                 "name": "Superform Points"
             }
         ]
+    },
+    {
+        "ptAddress": "0xd9444c83521cf9c8e4914c055d517a35dcc02e06",
+        "chainId": 1,
+        "multipliers": [
+            {
+                "amount": 30,
+                "name": "Shift Points"
+            }
+        ]
     }
 ]

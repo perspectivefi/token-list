@@ -2441,7 +2441,10 @@
         "decimals": 18,
         "logoURI": "/images/tokens/1/0xfa2b947eec368f42195f24f36d2af29f7c24cec2.svg",
         "extensions": {
-            "protocol": "Falcon"
+            "protocol": "Falcon",
+            "tags": [
+                "stable"
+            ]
         }
     },
     {

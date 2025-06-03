@@ -314,6 +314,14 @@
             {
                 "amount": 1,
                 "name": "Human Network Points"
+            },
+            {
+                "amount": 1,
+                "name": "Kalypso Points"
+            },
+            {
+                "amount": 1,
+                "name": "Radius Points"
             }
         ]
     },

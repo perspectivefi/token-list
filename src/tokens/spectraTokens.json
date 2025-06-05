@@ -2535,5 +2535,17 @@
             "underlying": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
             "protocol": "Yield.Fi"
         }
+    },
+    {
+        "address": "0xa83308d681ee69a4afad3d5768b4bfe441305e15",
+        "chainId": 1,
+        "name": "Curve slvlUSD-lvlUSD yVault",
+        "symbol": "yvCurve-slvlUSD-lvlUSD",
+        "decimals": 18,
+        "logoURI": "/images/tokens/1/0xa83308d681ee69a4afad3d5768b4bfe441305e15.svg",
+        "extensions": {
+            "underlying": "0xF244324FBB57f09F0606FF088bC894b051d632Eb",
+            "protocol": "Yearn (Level)"
+        }
     }
 ]

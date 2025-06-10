@@ -12,6 +12,7 @@ list is updated regularly as new tokens are added to the platform.
 -   [Spectra Tokens](src/tokens/spectraTokens.json)
 -   [Spectra ERC4626 Wrappers](src/tokens/erc4626Wrappers.json)
 -   [Protocols](src/protocols/protocolList.json)
+-   [Curators](src/curators/curatorList.json)
 
 ## How to add a token
 

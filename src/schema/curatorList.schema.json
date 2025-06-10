@@ -1,0 +1,30 @@
+{
+    "type": "array",
+    "uniqueItems": true,
+    "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+            "address",
+            "name",
+            "website",
+            "admin"
+        ],
+        "properties": {
+            "address": {
+                "type": "string",
+                "pattern": "^0x[a-fA-F0-9]{40}$"
+            },
+            "name": {
+                "type": "string"
+            },
+            "website": {
+                "type": "string"
+            },
+            "admin": {
+                "type": "string",
+                "pattern": "^0x[a-fA-F0-9]{40}$"
+            }
+        }
+    }
+}

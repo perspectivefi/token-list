@@ -710,5 +710,15 @@
                 "name": "Shift Points"
             }
         ]
+    },
+    {
+        "ptAddress": "0x306e6ec73df3200c62a304cb8d6944e7543fb487",
+        "chainId": 1,
+        "multipliers": [
+            {
+                "amount": 30,
+                "name": "Gem Multiplier"
+            }
+        ]
     }
 ]

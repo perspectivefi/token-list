@@ -720,5 +720,23 @@
                 "name": "Gem Multiplier"
             }
         ]
+    },
+    {
+        "ptAddress": "0x5e9c54241a3e540367e6e136ec67dde6f0591afc",
+        "chainId": 1,
+        "multipliers": {
+            "lp": [
+                {
+                    "amount": 12,
+                    "name": "OpenEden Bills"
+                }
+            ],
+            "yt": [
+                {
+                    "amount": 20,
+                    "name": "OpenEden Bills"
+                }
+            ]
+        }
     }
 ]

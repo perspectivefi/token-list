@@ -2590,5 +2590,18 @@
         "symbol": "satUSD",
         "decimals": 18,
         "logoURI": "/images/tokens/43111/0xb4818bb69478730ef4e33cc068dd94278e2766cb.svg"
+    },
+    {
+        "address": "0x1324285bb2ddadfc9bebc2f8fc5049d7985312c0",
+        "chainId": 43111,
+        "name": "satUSD_plus",
+        "symbol": "satUSD+",
+        "decimals": 18,
+        "logoURI": "/images/tokens/43111/0x1324285bb2ddadfc9bebc2f8fc5049d7985312c0.svg",
+        "extensions": {
+            "underlying": "0xb4818BB69478730EF4e33Cc068dD94278e2766cB",
+            "externalLink": "https://app.river.inc/staking",
+            "protocol": "River"
+        }
     }
 ]

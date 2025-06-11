@@ -2626,6 +2626,7 @@
         }
     },
     {
+        "address": "0xb4818bb69478730ef4e33cc068dd94278e2766cb",
         "chainId": 42161,
         "name": "Satoshi Stablecoin V2",
         "symbol": "satUSD",

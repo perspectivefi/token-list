@@ -2603,5 +2603,13 @@
             "externalLink": "https://app.river.inc/staking",
             "protocol": "River"
         }
+    },
+    {
+        "address": "0x70654aad8b7734dc319d0c3608ec7b32e03fa162",
+        "chainId": 8453,
+        "name": "Satoshi Stablecoin V2",
+        "symbol": "satUSD",
+        "decimals": 18,
+        "logoURI": "/images/tokens/8453/0x70654aad8b7734dc319d0c3608ec7b32e03fa162.svg"
     }
 ]

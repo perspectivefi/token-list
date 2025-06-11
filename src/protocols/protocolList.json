@@ -738,5 +738,15 @@
                 }
             ]
         }
+    },
+    {
+        "ptAddress": "0xc2a0786284cd47225812d07cd4298adc0e29196e",
+        "chainId": 1,
+        "multipliers": [
+            {
+                "amount": 2.5,
+                "name": "Yield.Fi Points"
+            }
+        ]
     }
 ]

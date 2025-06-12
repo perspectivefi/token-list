@@ -5,7 +5,7 @@
         "name": "Spectra ERC4626 Wrapper: sGHO",
         "symbol": "sw-sGHO",
         "decimals": 18,
-        "logoURI": "/images/tokens/1/0xa94ec39c91df334dcab55adaa8edd9c1daf67ca7.svg",
+        "logoURI": "/images/tokens/1/0x40d16fc0246ad3160ccc09b8d0d3a2cd28ae6c2f.svg",
         "extensions": {
             "aprEndpoint": "https://ibts.ddns.net/api/rewards/stkgho",
             "underlying": "0x40D16FC0246aD3160Ccc09B8D0D3A2cD28aE6C2f",

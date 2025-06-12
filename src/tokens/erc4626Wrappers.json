@@ -2,8 +2,8 @@
     {
         "chainId": 1,
         "address": "0xa94ec39c91DF334DCAb55aDaA8EdD9C1dAF67cA7",
-        "name": "Spectra ERC4626 Wrapper: stk GHO",
-        "symbol": "sw-stkGHO",
+        "name": "Spectra ERC4626 Wrapper: sGHO",
+        "symbol": "sw-sGHO",
         "decimals": 18,
         "logoURI": "/images/tokens/1/0xa94ec39c91df334dcab55adaa8edd9c1daf67ca7.svg",
         "extensions": {
@@ -12,10 +12,10 @@
             "vault": {
                 "chainId": 1,
                 "address": "0x1a88df1cfe15af22b3c4c783d4e6f7f9e0c1885d",
-                "name": "Aave stkGHO",
-                "symbol": "stkGHO",
+                "name": "Aave sGHO",
+                "symbol": "sGHO",
                 "decimals": 18,
-                "logoURI": "/images/tokens/1/0x1a88df1cfe15af22b3c4c783d4e6f7f9e0c1885d.svg"
+                "logoURI": "/images/tokens/1/0x40d16fc0246ad3160ccc09b8d0d3a2cd28ae6c2f.svg"
             },
             "ibtRoutes": {
                 "withdraw": false

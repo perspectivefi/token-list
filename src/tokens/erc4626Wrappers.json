@@ -20,7 +20,8 @@
             "ibtRoutes": {
                 "withdraw": false
             },
-            "protocol": "Aave"
+            "protocol": "Aave",
+            "displayMode": "ibt"
         }
     },
     {

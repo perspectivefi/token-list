@@ -2580,7 +2580,10 @@
         "decimals": 18,
         "logoURI": "/images/tokens/1/0x6440f144b7e50d6a8439336510312d2f54beb01d.svg",
         "extensions": {
-            "protocol": "Liquity V2"
+            "protocol": "Liquity V2",
+            "tags": [
+                "stable"
+            ]
         }
     },
     {
@@ -2657,6 +2660,19 @@
             "underlying": "0x85E30b8b263bC64d94b827ed450F2EdFEE8579dA",
             "protocol": "Asymmetry Finance",
             "externalLink": "https://www.asymmetry.finance/"
+        }
+    },
+    {
+        "address": "0xb64c1ae74a3e51ee6cc0792807744b9eccb17f4a",
+        "chainId": 146,
+        "name": "Liquid Staked RZR",
+        "symbol": "lstRZR",
+        "decimals": 18,
+        "logoURI": "/images/tokens/146/0xb64c1ae74a3e51ee6cc0792807744b9eccb17f4a.svg",
+        "extensions": {
+            "underlying": "0xb4444468e444f89e1c2CAc2F1D3ee7e336cBD1f5",
+            "protocol": "Rezerve.money",
+            "externalLink": "https://rezerve.money/"
         }
     }
 ]

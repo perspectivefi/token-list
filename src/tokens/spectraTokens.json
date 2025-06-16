@@ -2580,7 +2580,10 @@
         "decimals": 18,
         "logoURI": "/images/tokens/1/0x6440f144b7e50d6a8439336510312d2f54beb01d.svg",
         "extensions": {
-            "protocol": "Liquity V2"
+            "protocol": "Liquity V2",
+            "tags": [
+                "stable"
+            ]
         }
     },
     {

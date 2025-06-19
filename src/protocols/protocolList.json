@@ -748,5 +748,15 @@
                 "name": "Yield.Fi Points"
             }
         ]
+    },
+    {
+        "ptAddress": "0x5f0adcdccfa311e7b2f47df76445d9dcf577dcc8",
+        "chainId": 1,
+        "multipliers": [
+            {
+                "amount": 10,
+                "name": "Level XP"
+            }
+        ]
     }
 ]

@@ -758,5 +758,15 @@
                 "name": "Level XP"
             }
         ]
+    },
+    {
+        "ptAddress": "0xfa58b51c58212636160aab911e0ffa1e1d121e90",
+        "chainId": 1,
+        "multipliers": [
+            {
+                "amount": 30,
+                "name": "Resolv points"
+            }
+        ]
     }
 ]

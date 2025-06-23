@@ -2682,5 +2682,18 @@
         "symbol": "USDaf",
         "decimals": 18,
         "logoURI": "/images/tokens/1/0x85e30b8b263bc64d94b827ed450f2edfee8579da.svg"
+    },
+    {
+        "address": "0x482cce30cde09292279371956a3c7c57bbe125a9",
+        "chainId": 1,
+        "name": "Curve reUSD-scrvUSD yVault",
+        "symbol": "yvCurve-reUSD-scrvUSD",
+        "decimals": 18,
+        "logoURI": "/images/tokens/1/0x482cce30cde09292279371956a3c7c57bbe125a9.svg",
+        "extensions": {
+            "underlying": "0xc522A6606BBA746d7960404F22a3DB936B6F4F50",
+            "protocol": "Resupply",
+            "externalLink": "https://resupply.fi/"
+        }
     }
 ]

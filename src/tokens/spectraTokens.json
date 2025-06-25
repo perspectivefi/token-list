@@ -2706,5 +2706,40 @@
         "extensions": {
             "protocol": "Avant"
         }
+    },
+    {
+        "address": "0x06d47f3fb376649c3a9dafe069b3d6e35572219e",
+        "chainId": 43114,
+        "name": "Staked avUSD",
+        "symbol": "savUSD",
+        "decimals": 18,
+        "logoURI": "/images/tokens/43114/0x06d47f3fb376649c3a9dafe069b3d6e35572219e.svg",
+        "extensions": {
+            "underlying": "0x24dE8771bC5DdB3362Db529Fc3358F2df3A0E346",
+            "protocol": "Avant"
+        }
+    },
+    {
+        "address": "0x580d5e1399157fd0d58218b7a514b60974f2ab01",
+        "chainId": 43114,
+        "name": "Staked UTY",
+        "symbol": "yUTY",
+        "decimals": 18,
+        "logoURI": "/images/tokens/43114/0x580d5e1399157fd0d58218b7a514b60974f2ab01.png",
+        "extensions": {
+            "underlying": "0xDBc5192A6B6FfEe7451301bb4ec312f844F02B4A",
+            "protocol": "XSY.fi"
+        }
+    },
+    {
+        "address": "0xdbc5192a6b6ffee7451301bb4ec312f844f02b4a",
+        "chainId": 43114,
+        "name": "Unity",
+        "symbol": "UTY",
+        "decimals": 18,
+        "logoURI": "/images/tokens/43114/0xdbc5192a6b6ffee7451301bb4ec312f844f02b4a.png",
+        "extensions": {
+            "protocol": "XSY.fi"
+        }
     }
 ]

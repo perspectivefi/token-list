@@ -2671,7 +2671,6 @@
         "logoURI": "/images/tokens/1/0x85e30b8b263bc64d94b827ed450f2edfee8579da.svg"
     },
     {
-<<<<<<< feat/token-sUSDaf-1-1750676770
         "address": "0x0aBd93dA8387B5Ef0511a2859d85D84fe4519e94",
         "chainId": 1,
         "name": "Savings USDaf",
@@ -2683,7 +2682,8 @@
             "protocol": "Asymmetry Finance",
             "externalLink": "https://usdaf.asymmetry.finance/"
         }
-=======
+    },
+    {
         "address": "0x482cce30cde09292279371956a3c7c57bbe125a9",
         "chainId": 1,
         "name": "Curve reUSD-scrvUSD yVault",
@@ -2787,6 +2787,5 @@
         "symbol": "WBNB",
         "decimals": 18,
         "logoURI": "/images/tokens/56/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.svg"
->>>>>>> main
     }
 ]

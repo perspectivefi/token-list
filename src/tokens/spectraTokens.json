@@ -2692,7 +2692,7 @@
         "logoURI": "/images/tokens/146/0x67a298e5b65db2b4616e05c3b455e017275f53cb.svg",
         "extensions": {
             "underlying": "0xb4444468e444f89e1c2CAc2F1D3ee7e336cBD1f5",
-            "protocol": "Rezerve.Money",
+            "protocol": "Rezerve",
             "externalLink": "https://rezerve.money/"
         }
     },
@@ -2708,5 +2708,71 @@
             "protocol": "Origin Protocol",
             "externalLink": "https://www.originprotocol.com/"
         }
+    },
+    {
+        "address": "0x24de8771bc5ddb3362db529fc3358f2df3a0e346",
+        "chainId": 43114,
+        "name": "avUSD",
+        "symbol": "avUSD",
+        "decimals": 18,
+        "logoURI": "/images/tokens/43114/0x24de8771bc5ddb3362db529fc3358f2df3a0e346.svg",
+        "extensions": {
+            "protocol": "Avant"
+        }
+    },
+    {
+        "address": "0x06d47f3fb376649c3a9dafe069b3d6e35572219e",
+        "chainId": 43114,
+        "name": "Staked avUSD",
+        "symbol": "savUSD",
+        "decimals": 18,
+        "logoURI": "/images/tokens/43114/0x06d47f3fb376649c3a9dafe069b3d6e35572219e.svg",
+        "extensions": {
+            "underlying": "0x24dE8771bC5DdB3362Db529Fc3358F2df3A0E346",
+            "protocol": "Avant"
+        }
+    },
+    {
+        "address": "0x580d5e1399157fd0d58218b7a514b60974f2ab01",
+        "chainId": 43114,
+        "name": "Staked UTY",
+        "symbol": "yUTY",
+        "decimals": 18,
+        "logoURI": "/images/tokens/43114/0x580d5e1399157fd0d58218b7a514b60974f2ab01.png",
+        "extensions": {
+            "underlying": "0xDBc5192A6B6FfEe7451301bb4ec312f844F02B4A",
+            "protocol": "XSY.fi"
+        }
+    },
+    {
+        "address": "0xdbc5192a6b6ffee7451301bb4ec312f844f02b4a",
+        "chainId": 43114,
+        "name": "Unity",
+        "symbol": "UTY",
+        "decimals": 18,
+        "logoURI": "/images/tokens/43114/0xdbc5192a6b6ffee7451301bb4ec312f844f02b4a.png",
+        "extensions": {
+            "protocol": "XSY.fi"
+        }
+    },
+    {
+        "address": "0x32c830f5c34122c6afb8ae87aba541b7900a2c5f",
+        "chainId": 56,
+        "name": "ynBNB MAX",
+        "symbol": "ynBNBx",
+        "decimals": 18,
+        "logoURI": "/images/tokens/56/0x32c830f5c34122c6afb8ae87aba541b7900a2c5f.svg",
+        "extensions": {
+            "underlying": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+            "protocol": "YieldNest"
+        }
+    },
+    {
+        "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "chainId": 56,
+        "name": "Wrapped BNB",
+        "symbol": "WBNB",
+        "decimals": 18,
+        "logoURI": "/images/tokens/56/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.svg"
     }
 ]

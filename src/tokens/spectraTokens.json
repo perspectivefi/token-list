@@ -2797,11 +2797,40 @@
         "logoURI": "/images/tokens/8453/0xb4444468e444f89e1c2cac2f1d3ee7e336cbd1f5.svg"
     },
     {
+
         "address": "0x2a8e1e676ec238d8a992307b495b45b3feaa5e86",
         "chainId": 1,
         "name": "Origin Dollar",
         "symbol": "OUSD",
         "decimals": 18,
         "logoURI": "/images/tokens/1/0x2a8e1e676ec238d8a992307b495b45b3feaa5e86.svg"
+    },
+    {
+        "address": "0x68088C91446c7bEa49ea7Dbd3B96Ce62B272DC96",
+        "chainId": 43114,
+        "name": "Staked deUSD",
+        "symbol": "sdeUSD",
+        "decimals": 18,
+        "logoURI": "/images/tokens/43114/0x68088c91446c7bea49ea7dbd3b96ce62b272dc96.svg",
+        "extensions": {
+            "underlying": "0xB57B25851fE2311CC3fE511c8F10E868932e0680",
+            "protocol": "Elixir"
+        }
+    },
+    {
+        "address": "0xB57B25851fE2311CC3fE511c8F10E868932e0680",
+        "chainId": 43114,
+        "name": "deUSD",
+        "symbol": "deUSD",
+        "decimals": 18,
+        "logoURI": "/images/tokens/43114/0xb57b25851fe2311cc3fe511c8f10e868932e0680.svg"
+    },
+    {
+        "address": "0xb4444468e444f89e1c2cac2f1d3ee7e336cbd1f5",
+        "chainId": 146,
+        "name": "Rezerve.money",
+        "symbol": "RZR",
+        "decimals": 18,
+        "logoURI": "/images/tokens/146/0xb4444468e444f89e1c2cac2f1d3ee7e336cbd1f5.svg"
     }
 ]

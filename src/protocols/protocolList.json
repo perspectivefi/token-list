@@ -768,5 +768,23 @@
                 "name": "Resolv points"
             }
         ]
+    },
+    {
+        "ptAddress": "0x3bb97d02e57576bbc7df2afeb9350354e68aa629",
+        "chainId": 42161,
+        "multipliers": {
+            "lp": [
+                {
+                    "amount": 1.5,
+                    "name": "X-Points"
+                }
+            ],
+            "yt": [
+                {
+                    "amount": 3,
+                    "name": "X-Points"
+                }
+            ]
+        }
     }
 ]

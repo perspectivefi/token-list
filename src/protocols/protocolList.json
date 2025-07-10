@@ -786,5 +786,15 @@
                 }
             ]
         }
+    },
+    {
+        "ptAddress": "0x63948fb5d91f8863f7ea30ce3ba7e281983b7f03",
+        "chainId": 1,
+        "multipliers": [
+            {
+                "amount": 36,
+                "name": "Falcon Miles"
+            }
+        ]
     }
 ]

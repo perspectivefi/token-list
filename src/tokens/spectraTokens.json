@@ -2847,5 +2847,17 @@
             "underlying": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
             "protocol": "Stream Finance"
         }
+    },
+    {
+        "chainId": 1,
+        "address": "0xE2Fc85BfB48C4cF147921fBE110cf92Ef9f26F94",
+        "symbol": "xUSD",
+        "name": "Staked Stream USD",
+        "decimals": 6,
+        "logoURI": "/images/tokens/1/0xe2fc85bfb48c4cf147921fbe110cf92ef9f26f94.svg",
+        "extensions": {
+            "underlying": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+            "protocol": "Stream Finance"
+        }
     }
 ]

@@ -1202,5 +1202,25 @@
                 "logoURI": "/images/tokens/1/0x19ebd191f7a24ece672ba13a302212b5ef7f35cb.svg"
             }
         }
+    },
+    {
+        "address": "0xcBE00E807E49df75aA4d4557eBA083a34cC149DE",
+        "chainId": 1,
+        "name": "Spectra ERC4626 Wrapper: Staked Stream USD",
+        "symbol": "sw-xUSD",
+        "decimals": 6,
+        "logoURI": "/images/tokens/1/0xe2fc85bfb48c4cf147921fbe110cf92ef9f26f94.svg",
+        "extensions": {
+            "underlying": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+            "protocol": "Stream Finance",
+            "vault": {
+                "chainId": 1,
+                "address": "0xE2Fc85BfB48C4cF147921fBE110cf92Ef9f26F94",
+                "symbol": "xUSD",
+                "name": "Staked Stream USD",
+                "decimals": 6,
+                "logoURI": "/images/tokens/1/0xe2fc85bfb48c4cf147921fbe110cf92ef9f26f94.svg"
+            }
+        }
     }
 ]

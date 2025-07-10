@@ -2835,5 +2835,17 @@
         "symbol": "RZR",
         "decimals": 18,
         "logoURI": "/images/tokens/146/0xb4444468e444f89e1c2cac2f1d3ee7e336cbd1f5.svg"
+    },
+    {
+        "address": "0xcBE00E807E49df75aA4d4557eBA083a34cC149DE",
+        "chainId": 1,
+        "name": "Spectra ERC4626 Wrapper: Staked Stream USD",
+        "symbol": "sw-xUSD",
+        "decimals": 6,
+        "logoURI": "/images/tokens/1/0xcbe00e807e49df75aa4d4557eba083a34cc149de.svg",
+        "extensions": {
+            "underlying": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+            "protocol": "Stream Finance"
+        }
     }
 ]

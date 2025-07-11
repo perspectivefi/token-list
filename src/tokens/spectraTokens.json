@@ -2859,5 +2859,17 @@
             "underlying": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
             "protocol": "Stream Finance"
         }
+    },
+    {
+        "address": "0x24db057b19241eefb9b522e8627c293ed8f93af2",
+        "chainId": 56,
+        "name": "Staked YUSD",
+        "symbol": "sYUSD",
+        "decimals": 18,
+        "logoURI": "/images/tokens/56/0x24db057b19241eefb9b522e8627c293ed8f93af2.svg",
+        "extensions": {
+            "underlying": "0xAB3dBcD9B096C3fF76275038bf58eAC10D22C61f",
+            "protocol": "Aegis"
+        }
     }
 ]

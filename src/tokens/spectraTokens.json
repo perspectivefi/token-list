@@ -2879,5 +2879,17 @@
         "symbol": "YUSD",
         "decimals": 18,
         "logoURI": "/images/tokens/56/0xab3dbcd9b096c3ff76275038bf58eac10d22c61f.png"
+    },
+    {
+        "address": "0x24db057b19241eefb9b522e8627c293ed8f93af2",
+        "chainId": 56,
+        "name": "Staked YUSD",
+        "symbol": "sYUSD",
+        "decimals": 18,
+        "logoURI": "/images/tokens/56/0x24db057b19241eefb9b522e8627c293ed8f93af2.png",
+        "extensions": {
+            "underlying": "0xAB3dBcD9B096C3fF76275038bf58eAC10D22C61f",
+            "protocol": "Aegis"
+        }
     }
 ]

@@ -2859,5 +2859,13 @@
             "underlying": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
             "protocol": "Stream Finance"
         }
+    },
+    {
+        "address": "0xab3dbcd9b096c3ff76275038bf58eac10d22c61f",
+        "chainId": 56,
+        "name": "YUSD",
+        "symbol": "YUSD",
+        "decimals": 18,
+        "logoURI": "/images/tokens/56/0xab3dbcd9b096c3ff76275038bf58eac10d22c61f.svg"
     }
 ]

@@ -2320,34 +2320,12 @@
         }
     },
     {
-        "address": "0xe81c0e9a183A89e249A56Acaf8f75862596a429f",
-        "chainId": 43111,
-        "name": "Spectra ERC4626 Wrapper: Sumerian BTC",
-        "symbol": "sw-suBTC",
-        "decimals": 18,
-        "logoURI": "/images/tokens/43111/0xe81c0e9a183a89e249a56acaf8f75862596a429f.svg",
-        "extensions": {
-            "underlying": "0xe85411C030fB32A9D8b14Bbbc6CB19417391F711"
-        }
-    },
-    {
         "address": "0xe85411C030fB32A9D8b14Bbbc6CB19417391F711",
         "chainId": 43111,
         "name": "Sumerian BTC",
         "symbol": "suBTC",
         "decimals": 18,
         "logoURI": "/images/tokens/43111/0xe85411c030fb32a9d8b14bbbc6cb19417391f711.svg"
-    },
-    {
-        "address": "0xA864cFdC7947420280D470815410771d2932C93e",
-        "chainId": 43111,
-        "name": "Spectra ERC4626 Wrapper: brBTC",
-        "symbol": "sw-brBTC",
-        "decimals": 8,
-        "logoURI": "/images/tokens/43111/0xa864cfdc7947420280d470815410771d2932c93e.svg",
-        "extensions": {
-            "underlying": "0x93919784C523f39CACaa98Ee0a9d96c3F32b593e"
-        }
     },
     {
         "address": "0x93919784C523f39CACaa98Ee0a9d96c3F32b593e",
@@ -2358,34 +2336,12 @@
         "logoURI": "/images/tokens/43111/0x93919784c523f39cacaa98ee0a9d96c3f32b593e.svg"
     },
     {
-        "address": "0x2B0229fEB54Bad91B46B3E941092968f3454F835",
-        "chainId": 43111,
-        "name": "Spectra ERC4626 Wrapper: uniBTC",
-        "symbol": "sw-uniBTC",
-        "decimals": 8,
-        "logoURI": "/images/tokens/43111/0x2b0229feb54bad91b46b3e941092968f3454f835.svg",
-        "extensions": {
-            "underlying": "0xF9775085d726E782E83585033B58606f7731AB18"
-        }
-    },
-    {
         "address": "0xF9775085d726E782E83585033B58606f7731AB18",
         "chainId": 43111,
         "name": "uniBTC",
         "symbol": "uniBTC",
         "decimals": 8,
         "logoURI": "/images/tokens/43111/0xf9775085d726e782e83585033b58606f7731ab18.svg"
-    },
-    {
-        "address": "0xFF909a1fAd2473Ac5E819eff6239BA70EC4d5215",
-        "chainId": 43111,
-        "name": "Spectra ERC4626 Wrapper: Merlin BTC",
-        "symbol": "sw-M-BTC",
-        "decimals": 18,
-        "logoURI": "/images/tokens/43111/0xff909a1fad2473ac5e819eff6239ba70ec4d5215.svg",
-        "extensions": {
-            "underlying": "0x9BFA177621119e64CecbEabE184ab9993E2ef727"
-        }
     },
     {
         "address": "0x9BFA177621119e64CecbEabE184ab9993E2ef727",
@@ -2835,18 +2791,6 @@
         "symbol": "RZR",
         "decimals": 18,
         "logoURI": "/images/tokens/146/0xb4444468e444f89e1c2cac2f1d3ee7e336cbd1f5.svg"
-    },
-    {
-        "address": "0xcBE00E807E49df75aA4d4557eBA083a34cC149DE",
-        "chainId": 1,
-        "name": "Spectra ERC4626 Wrapper: Staked Stream USD",
-        "symbol": "sw-xUSD",
-        "decimals": 6,
-        "logoURI": "/images/tokens/1/0xcbe00e807e49df75aa4d4557eba083a34cc149de.svg",
-        "extensions": {
-            "underlying": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
-            "protocol": "Stream Finance"
-        }
     },
     {
         "chainId": 1,

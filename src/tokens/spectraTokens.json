@@ -2835,5 +2835,16 @@
             "underlying": "0xAB3dBcD9B096C3fF76275038bf58eAC10D22C61f",
             "protocol": "Aegis"
         }
+    },
+    {
+        "address": "0x203a662b0bd271a6ed5a60edfbd04bfce608fd36",
+        "chainId": 747474,
+        "name": "Vault Bridge USDC",
+        "symbol": "vbUSDC",
+        "decimals": 6,
+        "logoURI": "/images/tokens/747474/0x203a662b0bd271a6ed5a60edfbd04bfce608fd36.svg",
+        "extensions": {
+            "externalLink": "Yearn"
+        }
     }
 ]

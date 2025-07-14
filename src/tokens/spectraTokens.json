@@ -2883,5 +2883,17 @@
         "symbol": "vbUSDC",
         "decimals": 6,
         "logoURI": "/images/tokens/747474/0x203a662b0bd271a6ed5a60edfbd04bfce608fd36.svg"
+    },
+    {
+        "address": "0x80c34bd3a3569e126e7055831036aa7b212cb159",
+        "chainId": 747474,
+        "name": "vbUSDC yVault",
+        "symbol": "yvvbUSDC",
+        "decimals": 6,
+        "logoURI": "/images/tokens/747474/0x80c34bd3a3569e126e7055831036aa7b212cb159.svg",
+        "extensions": {
+            "underlying": "0x203A662b0BD271A6ed5a60EdFbd04bFce608FD36",
+            "protocol": "Yearn"
+        }
     }
 ]

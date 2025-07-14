@@ -2875,5 +2875,13 @@
             "underlying": "0x2DCa96907fde857dd3D816880A0df407eeB2D2F2",
             "protocol": "Yearn"
         }
+    },
+    {
+        "address": "0x203a662b0bd271a6ed5a60edfbd04bfce608fd36",
+        "chainId": 747474,
+        "name": "Vault Bridge USDC",
+        "symbol": "vbUSDC",
+        "decimals": 6,
+        "logoURI": "/images/tokens/747474/0x203a662b0bd271a6ed5a60edfbd04bfce608fd36.svg"
     }
 ]

@@ -2835,5 +2835,17 @@
             "underlying": "0xAB3dBcD9B096C3fF76275038bf58eAC10D22C61f",
             "protocol": "Aegis"
         }
+    },
+    {
+        "address": "0x80c34bd3a3569e126e7055831036aa7b212cb159",
+        "chainId": 747474,
+        "name": "vbUSDC yVault",
+        "symbol": "yvvbUSDC",
+        "decimals": 6,
+        "logoURI": "/images/tokens/747474/0x80c34bd3a3569e126e7055831036aa7b212cb159.svg",
+        "extensions": {
+            "underlying": "0x203A662b0BD271A6ed5a60EdFbd04bFce608FD36",
+            "protocol": "Yearn"
+        }
     }
 ]

@@ -1220,6 +1220,14 @@
                 "name": "Staked Stream USD",
                 "decimals": 6,
                 "logoURI": "/images/tokens/1/0xe2fc85bfb48c4cf147921fbe110cf92ef9f26f94.svg"
+            },
+            "ibtRoutes": {
+                "deposit": false,
+                "mint": false,
+                "withdraw": false,
+                "redeem": false,
+                "wrap": true,
+                "unwrap": true
             }
         }
     }

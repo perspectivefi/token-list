@@ -2835,5 +2835,13 @@
             "underlying": "0xAB3dBcD9B096C3fF76275038bf58eAC10D22C61f",
             "protocol": "Aegis"
         }
+    },
+    {
+        "address": "0x2dca96907fde857dd3d816880a0df407eeb2d2f2",
+        "chainId": 747474,
+        "name": "Vault Bridge USDT",
+        "symbol": "vbUSDT",
+        "decimals": 6,
+        "logoURI": "/images/tokens/747474/0x2dca96907fde857dd3d816880a0df407eeb2d2f2.svg"
     }
 ]

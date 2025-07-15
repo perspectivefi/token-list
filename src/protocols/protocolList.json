@@ -727,13 +727,13 @@
         "multipliers": {
             "lp": [
                 {
-                    "amount": 12,
+                    "amount": 5,
                     "name": "OpenEden Bills"
                 }
             ],
             "yt": [
                 {
-                    "amount": 20,
+                    "amount": 15,
                     "name": "OpenEden Bills"
                 }
             ]
@@ -794,6 +794,16 @@
             {
                 "amount": 36,
                 "name": "Falcon Miles"
+            }
+        ]
+    },
+    {
+        "ptAddress": "0x1c84661f96f96966c87960b8e62682fa49200a20",
+        "chainId": 56,
+        "multipliers": [
+            {
+                "amount": 5,
+                "name": "Aegis Points"
             }
         ]
     }

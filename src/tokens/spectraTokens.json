@@ -2895,5 +2895,18 @@
             "underlying": "0x203A662b0BD271A6ed5a60EdFbd04bFce608FD36",
             "protocol": "Yearn"
         }
+    },
+    {
+        "address": "0xe1e549c965a4a0514d9bf80161d32924b8694822",
+        "chainId": 43114,
+        "name": "EVK Vault edeUSD-3",
+        "symbol": "edeUSD-3",
+        "decimals": 18,
+        "logoURI": "/images/tokens/43114/0xe1e549c965a4a0514d9bf80161d32924b8694822.svg",
+        "extensions": {
+            "underlying": "0xB57B25851fE2311CC3fE511c8F10E868932e0680",
+            "protocol": "Euler (K3 Capital Cluster)",
+            "externalLink": "https://app.euler.finance/vault/0xe1e549c965a4a0514d9bf80161d32924b8694822?network=avalanche"
+        }
     }
 ]

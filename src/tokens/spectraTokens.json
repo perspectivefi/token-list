@@ -2921,5 +2921,17 @@
             "protocol": "Euler (K3 Capital Cluster)",
             "externalLink": "https://app.euler.finance/vault/0xb9CC370a8f19322FC4BF69Da80c6C39FF8F2dB90?network=avalanche"
         }
+    },
+    {
+        "address": "0x3322664dee30345024f62066145427a8e4e67703",
+        "chainId": 999,
+        "name": "Spectra ERC4626 Wrapper: beHYPE",
+        "symbol": "sw-beHYPE",
+        "decimals": 18,
+        "logoURI": "/images/tokens/999/0x3322664dee30345024f62066145427a8e4e67703.svg",
+        "extensions": {
+            "underlying": "0x5555555555555555555555555555555555555555",
+            "protocol": "Hyperbeat"
+        }
     }
 ]

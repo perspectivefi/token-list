@@ -2921,5 +2921,18 @@
             "protocol": "Euler (K3 Capital Cluster)",
             "externalLink": "https://app.euler.finance/vault/0xb9CC370a8f19322FC4BF69Da80c6C39FF8F2dB90?network=avalanche"
         }
+    },
+    {
+        "address": "0xb385afdf3a033ebd06dc182d83caf794bdea2ce1",
+        "chainId": 999,
+        "name": "Spectra ERC4626 Wrapper: Liquid HYPE Yield",
+        "symbol": "sw-liquidHYPE",
+        "decimals": 18,
+        "logoURI": "/images/tokens/999/0xb385afdf3a033ebd06dc182d83caf794bdea2ce1.svg",
+        "extensions": {
+            "underlying": "0x5555555555555555555555555555555555555555",
+            "protocol": "HyperBeat",
+            "externalLink": "https://app.hyperbeat.org/staking/behype"
+        }
     }
 ]

@@ -1230,5 +1230,25 @@
                 "unwrap": true
             }
         }
+    },
+    {
+        "address": "0xb385afdf3a033ebd06dc182d83caf794bdea2ce1",
+        "chainId": 999,
+        "name": "Spectra ERC4626 Wrapper: Liquid HYPE Yield",
+        "symbol": "sw-liquidHYPE",
+        "decimals": 18,
+        "logoURI": "/images/tokens/999/0x441794d6a8f9a3739f5d4e98a728937b33489d29.svg",
+        "extensions": {
+            "underlying": "0x5555555555555555555555555555555555555555",
+            "protocol": "HyperBeat",
+            "vault": {
+                "chainId": 999,
+                "address": "0x441794D6a8F9A3739F5D4E98a728937b33489D29",
+                "symbol": "liquidHYPE",
+                "name": "Liquid HYPE Yield",
+                "decimals": 18,
+                "logoURI": "/images/tokens/999/0x441794d6a8f9a3739f5d4e98a728937b33489d29.svg"
+            }
+        }
     }
 ]

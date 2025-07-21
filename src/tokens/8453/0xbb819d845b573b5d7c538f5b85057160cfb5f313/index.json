@@ -1,0 +1,12 @@
+{
+    "chainId": 8453,
+    "address": "0xbb819D845b573B5D7C538F5b85057160cfb5f313",
+    "name": "Morpho eUSD",
+    "symbol": "meUSD",
+    "decimals": 18,
+    "logoURI": "/images/tokens/8453/0xbb819d845b573b5d7c538f5b85057160cfb5f313.svg",
+    "extensions": {
+        "underlying": "0xCfA3Ef56d303AE4fAabA0592388F19d7C3399FB4",
+        "protocol": "Morpho"
+    }
+}

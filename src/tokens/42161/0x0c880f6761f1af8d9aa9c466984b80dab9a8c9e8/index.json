@@ -1,0 +1,8 @@
+{
+  "chainId": 42161,
+  "address": "0x0c880f6761f1af8d9aa9c466984b80dab9a8c9e8",
+  "name": "Pendle",
+  "symbol": "PENDLE",
+  "decimals": 18,
+  "logoURI": "/images/tokens/42161/0x0c880f6761f1af8d9aa9c466984b80dab9a8c9e8.svg"
+}

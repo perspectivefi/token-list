@@ -1,0 +1,12 @@
+{
+  "chainId": 1,
+  "address": "0xe1b4d34e8754600962cd944b535180bd758e6c2e",
+  "name": "Kelp Gain",
+  "symbol": "agETH",
+  "decimals": 18,
+  "logoURI": "/images/tokens/1/0xe1b4d34e8754600962cd944b535180bd758e6c2e.svg",
+  "extensions": {
+    "underlying": "0xa1290d69c65a6fe4df752f95823fae25cb99e5a7",
+    "protocol": "KelpDAO (Airdrop Gains)"
+  }
+}

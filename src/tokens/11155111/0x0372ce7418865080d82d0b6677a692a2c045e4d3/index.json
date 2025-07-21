@@ -1,0 +1,11 @@
+{
+  "chainId": 11155111,
+  "address": "0x0372cE7418865080D82d0B6677a692a2c045e4D3",
+  "name": "USDT",
+  "symbol": "USDT",
+  "decimals": 18,
+  "logoURI": "/images/tokens/11155111/0x0372ce7418865080d82d0b6677a692a2c045e4d3.svg",
+  "extensions": {
+    "faucetAddress": "0xBCCa8F90f220857Bd9f973f6DF3e0dBd667C8E19"
+  }
+}

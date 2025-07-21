@@ -1,0 +1,13 @@
+{
+  "address": "0x455d5f11fea33a8fa9d3e285930b478b6bf85265",
+  "chainId": 146,
+  "name": "Staked Sonic ETH",
+  "symbol": "stkscETH",
+  "decimals": 18,
+  "logoURI": "/images/tokens/146/0x455d5f11fea33a8fa9d3e285930b478b6bf85265.svg",
+  "extensions": {
+    "tags": [
+      "eth"
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "chainId": 1,
+  "address": "0xae2723263cf924c0dfb81974ada52b2e671d1df3",
+  "name": "Spectra ERC4626 Rewards: Kernel USD",
+  "symbol": "sr-kUSD",
+  "decimals": 18,
+  "logoURI": "/images/tokens/1/0x0bb9ab78aaf7179b7515e6753d89822b91e670c4.png",
+  "extensions": {
+    "underlying": "0x0bb9ab78aaf7179b7515e6753d89822b91e670c4",
+    "vault": {
+      "chainId": 1,
+      "address": "0x0bb9ab78aaf7179b7515e6753d89822b91e670c4",
+      "name": "Kernel USD",
+      "symbol": "kUSD",
+      "decimals": 18,
+      "logoURI": "/images/tokens/1/0x0bb9ab78aaf7179b7515e6753d89822b91e670c4.png"
+    },
+    "protocol": "Kernel"
+  }
+}

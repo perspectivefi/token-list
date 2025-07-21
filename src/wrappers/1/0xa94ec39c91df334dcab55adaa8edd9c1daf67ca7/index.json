@@ -1,0 +1,26 @@
+{
+  "chainId": 1,
+  "address": "0xa94ec39c91DF334DCAb55aDaA8EdD9C1dAF67cA7",
+  "name": "Spectra ERC4626 Wrapper: sGHO",
+  "symbol": "sw-sGHO",
+  "decimals": 18,
+  "logoURI": "/images/tokens/1/0x1a88df1cfe15af22b3c4c783d4e6f7f9e0c1885d.svg",
+  "extensions": {
+    "aprEndpoint": "https://ibts.ddns.net/api/rewards/stkgho",
+    "underlying": "0x40D16FC0246aD3160Ccc09B8D0D3A2cD28aE6C2f",
+    "vault": {
+      "chainId": 1,
+      "address": "0x1a88df1cfe15af22b3c4c783d4e6f7f9e0c1885d",
+      "name": "Aave sGHO",
+      "symbol": "sGHO",
+      "decimals": 18,
+      "logoURI": "/images/tokens/1/0x1a88df1cfe15af22b3c4c783d4e6f7f9e0c1885d.svg"
+    },
+    "ibtRoutes": {
+      "withdraw": false,
+      "redeem": false
+    },
+    "protocol": "Aave",
+    "displayMode": "ibt"
+  }
+}

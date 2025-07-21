@@ -1,0 +1,8 @@
+{
+  "chainId": 8453,
+  "address": "0xa43455d99eb63473cfa186b388c1bc2ea1b63924",
+  "name": "Volatile AMM - USDC/SPOT",
+  "symbol": "vAMM-USDC/SPOT",
+  "decimals": 18,
+  "logoURI": "/images/tokens/8453/0xa43455d99eb63473cfa186b388c1bc2ea1b63924.svg"
+}

@@ -1,0 +1,8 @@
+{
+  "chainId": 1,
+  "address": "0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+  "name": "Aave",
+  "symbol": "AAVE",
+  "decimals": 18,
+  "logoURI": "/images/tokens/1/0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9.webp"
+}

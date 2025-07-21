@@ -1,0 +1,12 @@
+{
+  "chainId": 1,
+  "address": "0x2fc1e74bc8a6d15fe768c10c2ede7d6d95ec27e9",
+  "name": "Tholgar Warlord Vault",
+  "symbol": "thWAR",
+  "decimals": 18,
+  "logoURI": "/images/tokens/1/0x2fc1e74bc8a6d15fe768c10c2ede7d6d95ec27e9.png",
+  "extensions": {
+    "underlying": "0xa8258deE2a677874a48F5320670A869D74f0cbC1",
+    "protocol": "Tholgar"
+  }
+}

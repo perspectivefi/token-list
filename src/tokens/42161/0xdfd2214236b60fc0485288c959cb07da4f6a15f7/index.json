@@ -1,0 +1,12 @@
+{
+  "chainId": 42161,
+  "address": "0xdfd2214236b60fc0485288c959cb07da4f6a15f7",
+  "name": "FARM_DAI",
+  "symbol": "fDAI",
+  "decimals": 18,
+  "logoURI": "/images/tokens/42161/0xdfd2214236b60fc0485288c959cb07da4f6a15f7.svg",
+  "extensions": {
+    "underlying": "0xda10009cbd5d07dd0cecc66161fc93d7c9000da1",
+    "protocol": "Harvest"
+  }
+}

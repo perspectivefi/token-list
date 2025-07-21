@@ -1,0 +1,13 @@
+{
+  "chainId": 8453,
+  "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+  "name": "Ether",
+  "symbol": "ETH",
+  "decimals": 18,
+  "logoURI": "/images/tokens/1/0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee.svg",
+  "extensions": {
+    "tags": [
+      "eth"
+    ]
+  }
+}

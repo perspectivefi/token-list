@@ -1,0 +1,13 @@
+{
+  "address": "0x7fe7de5d72633b981191eaee2ccaed95c77e79a9",
+  "chainId": 8453,
+  "name": "satUSD_plus",
+  "symbol": "satUSD+",
+  "decimals": 18,
+  "logoURI": "/images/tokens/8453/0x7fe7de5d72633b981191eaee2ccaed95c77e79a9.svg",
+  "extensions": {
+    "underlying": "0x70654AaD8B7734dc319d0C3608ec7B32e03FA162",
+    "externalLink": "https://app.river.inc/staking",
+    "protocol": "River"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "chainId": 42161,
+  "address": "0x85050bedc80ea28e53db5f80f165d87f29d2a1bc",
+  "decimals": 18,
+  "name": "FARM_GHO",
+  "symbol": "fGHO",
+  "logoURI": "/images/tokens/42161/0x85050bedc80ea28e53db5f80f165d87f29d2a1bc.svg",
+  "extensions": {
+    "underlying": "0x7dff72693f6a4149b17e7c6314655f6a9f7c8b33",
+    "protocol": "Harvest"
+  }
+}

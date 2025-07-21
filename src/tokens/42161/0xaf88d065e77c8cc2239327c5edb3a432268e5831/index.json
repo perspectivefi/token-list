@@ -1,0 +1,13 @@
+{
+  "chainId": 42161,
+  "address": "0xaf88d065e77c8cc2239327c5edb3a432268e5831",
+  "name": "USD Coin",
+  "symbol": "USDC",
+  "decimals": 6,
+  "logoURI": "/images/tokens/42161/0xaf88d065e77c8cc2239327c5edb3a432268e5831.svg",
+  "extensions": {
+    "tags": [
+      "stable"
+    ]
+  }
+}

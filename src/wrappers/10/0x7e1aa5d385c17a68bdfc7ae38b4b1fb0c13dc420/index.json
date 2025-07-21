@@ -1,0 +1,20 @@
+{
+  "chainId": 10,
+  "address": "0x7e1aa5d385c17a68bdfc7ae38b4b1fb0c13dc420",
+  "name": "Spectra ERC4626 Rewards: Reward Cow Velo Op ezETH-wstETH",
+  "symbol": "ezETH-wstETH [CLM Pool]",
+  "decimals": 18,
+  "logoURI": "/images/tokens/10/0x64831f82e3543006413897c03f59518cecae02b4.svg",
+  "extensions": {
+    "underlying": "0x823f2b0aa1d54c38fe149ee119c6d7845e93593d",
+    "vault": {
+      "chainId": 10,
+      "address": "0x64831f82e3543006413897c03f59518cecae02b4",
+      "name": "Reward Cow Velo Op ezETH-wstETH",
+      "symbol": "ezETH-wstETH [CLM Pool]",
+      "decimals": 18,
+      "logoURI": "/images/tokens/10/0x64831f82e3543006413897c03f59518cecae02b4.svg"
+    },
+    "protocol": "Beefy"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "address": "0xaa40c0c7644e0b2b224509571e10ad20d9c4ef28",
+  "chainId": 43111,
+  "name": "Hemi Bitcoin",
+  "symbol": "hemiBTC",
+  "decimals": 8,
+  "logoURI": "/images/tokens/43111/0xaa40c0c7644e0b2b224509571e10ad20d9c4ef28.svg",
+  "extensions": {
+    "tags": [
+      "btc"
+    ]
+  }
+}

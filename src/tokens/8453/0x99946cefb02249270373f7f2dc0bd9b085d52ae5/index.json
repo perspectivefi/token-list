@@ -1,0 +1,13 @@
+{
+  "chainId": 8453,
+  "address": "0x99946CEFb02249270373f7F2DC0bd9b085d52ae5",
+  "name": "FARM_cbETH",
+  "symbol": "fcbETH",
+  "decimals": 18,
+  "logoURI": "/images/tokens/8453/0x99946cefb02249270373f7f2dc0bd9b085d52ae5.svg",
+  "extensions": {
+    "underlying": "0x2ae3f1ec7f1f5012cfeab0185bfc7aa3cf0dec22",
+    "protocol": "Harvest (Moonwell)",
+    "externalLink": "https://app.harvest.finance/base/0x99946CEFb02249270373f7F2DC0bd9b085d52ae5"
+  }
+}

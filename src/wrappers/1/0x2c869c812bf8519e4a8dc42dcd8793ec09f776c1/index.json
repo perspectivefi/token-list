@@ -1,0 +1,20 @@
+{
+  "address": "0x2c869C812BF8519E4A8dc42dcd8793Ec09f776c1",
+  "chainId": 1,
+  "name": "Spectra ERC4626 Wrapper: Hinkal ETH",
+  "symbol": "sw-hETH",
+  "decimals": 18,
+  "logoURI": "/images/tokens/1/0x270b7748cdf8243bfe68face7230ef0fce695389.svg",
+  "extensions": {
+    "underlying": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "protocol": "Hinkal",
+    "vault": {
+      "chainId": 1,
+      "address": "0x270B7748CdF8243bFe68FaCE7230ef0fCE695389",
+      "symbol": "hETH",
+      "name": "Hinkal ETH",
+      "decimals": 18,
+      "logoURI": "/images/tokens/1/0x270b7748cdf8243bfe68face7230ef0fce695389.svg"
+    }
+  }
+}

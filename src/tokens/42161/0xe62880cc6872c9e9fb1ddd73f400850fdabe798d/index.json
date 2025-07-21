@@ -1,0 +1,13 @@
+{
+  "chainId": 42161,
+  "address": "0xe62880cc6872c9e9fb1ddd73f400850fdabe798d",
+  "decimals": 18,
+  "name": "Wombat Wrapped Ether Asset",
+  "symbol": "LP-WETH",
+  "logoURI": "/images/tokens/42161/0xe62880cc6872c9e9fb1ddd73f400850fdabe798d.svg",
+  "extensions": {
+    "tags": [
+      "eth"
+    ]
+  }
+}

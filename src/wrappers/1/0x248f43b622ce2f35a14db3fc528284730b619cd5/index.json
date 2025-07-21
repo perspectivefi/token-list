@@ -1,0 +1,24 @@
+{
+  "chainId": 1,
+  "address": "0x248f43B622cE2F35A14dB3FC528284730b619cD5",
+  "name": "Spectra ERC4626 Wrapper: Universal ETH",
+  "symbol": "sw-uniETH",
+  "decimals": 18,
+  "logoURI": "/images/tokens/1/0xf1376bcef0f78459c0ed0ba5ddce976f1ddf51f4.svg",
+  "extensions": {
+    "underlying": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "vault": {
+      "chainId": 1,
+      "address": "0xF1376bceF0f78459C0Ed0ba5ddce976F1ddF51F4",
+      "name": "Universal ETH",
+      "symbol": "uniETH",
+      "decimals": 18,
+      "logoURI": "/images/tokens/1/0xf1376bcef0f78459c0ed0ba5ddce976f1ddf51f4.svg"
+    },
+    "ibtRoutes": {
+      "withdraw": false,
+      "redeem": false
+    },
+    "protocol": "Bedrock"
+  }
+}

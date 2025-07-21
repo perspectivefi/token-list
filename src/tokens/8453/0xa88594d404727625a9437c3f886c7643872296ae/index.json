@@ -1,0 +1,12 @@
+{
+  "address": "0xa88594d404727625a9437c3f886c7643872296ae",
+  "chainId": 8453,
+  "name": "WELL",
+  "symbol": "WELL",
+  "decimals": 18,
+  "extensions": {
+    "protocol": "Harvest (ExtraFi - Lend)",
+    "externalLink": "https://app.harvest.finance/base/0x97c07792833b0DE228a2C33466729ED1D588B5F2"
+  },
+  "logoURI": "/images/tokens/8453/0xa88594d404727625a9437c3f886c7643872296ae.svg"
+}

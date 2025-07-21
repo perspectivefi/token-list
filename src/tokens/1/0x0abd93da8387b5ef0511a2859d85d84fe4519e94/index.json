@@ -1,0 +1,13 @@
+{
+  "address": "0x0aBd93dA8387B5Ef0511a2859d85D84fe4519e94",
+  "chainId": 1,
+  "name": "Savings USDaf",
+  "symbol": "sUSDaf",
+  "decimals": 18,
+  "logoURI": "/images/tokens/1/0x0abd93da8387b5ef0511a2859d85d84fe4519e94.svg",
+  "extensions": {
+    "underlying": "0x85E30b8b263bC64d94b827ed450F2EdFEE8579dA",
+    "protocol": "Asymmetry Finance",
+    "externalLink": "https://www.asymmetry.finance/"
+  }
+}

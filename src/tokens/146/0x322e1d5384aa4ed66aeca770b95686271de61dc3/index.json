@@ -1,0 +1,12 @@
+{
+  "address": "0x322e1d5384aa4ED66AeCa770B95686271de61dc3",
+  "chainId": 146,
+  "symbol": "bUSDC.e-20",
+  "name": "Silo Finance Borrowable USDC.e Deposit, SiloId: 20",
+  "decimals": 6,
+  "logoURI": "/images/tokens/146/0x322e1d5384aa4ed66aeca770b95686271de61dc3.svg",
+  "extensions": {
+    "underlying": "0x29219dd400f2Bf60E5a23d13Be72B486D4038894",
+    "protocol": "Silo"
+  }
+}

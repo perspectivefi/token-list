@@ -1,0 +1,12 @@
+{
+  "chainId": 1,
+  "address": "0x8668a15b7b023dc77b372a740fcb8939e15257cf",
+  "decimals": 18,
+  "name": "Asymmetry Finance afCVX",
+  "symbol": "afCVX",
+  "logoURI": "/images/tokens/1/0x8668a15b7b023dc77b372a740fcb8939e15257cf.svg",
+  "extensions": {
+    "underlying": "0x4e3fbd56cd56c3e72c1403e103b45db9da5b9d2b",
+    "protocol": "Asymmetry"
+  }
+}

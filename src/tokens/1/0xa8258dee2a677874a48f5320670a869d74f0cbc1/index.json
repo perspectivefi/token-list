@@ -1,0 +1,12 @@
+{
+  "chainId": 1,
+  "address": "0xa8258deE2a677874a48F5320670A869D74f0cbC1",
+  "name": "Warlord Token",
+  "symbol": "WAR",
+  "decimals": 18,
+  "logoURI": "/images/tokens/1/0xa8258dee2a677874a48f5320670a869d74f0cbc1.svg",
+  "extensions": {
+    "underlying": "0x2fc1E74BC8A6D15fE768c10C2EDe7D6d95ec27e9",
+    "protocol": "Paladin"
+  }
+}

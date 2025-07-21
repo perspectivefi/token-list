@@ -1,0 +1,12 @@
+{
+  "chainId": 42161,
+  "address": "0x2b70238022589f17e7b266bc753e74027d57009f",
+  "name": "FARM_WETH",
+  "symbol": "fWETH",
+  "decimals": 18,
+  "logoURI": "/images/tokens/42161/0x2b70238022589f17e7b266bc753e74027d57009f.svg",
+  "extensions": {
+    "underlying": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
+    "protocol": "Harvest (Lodestar)"
+  }
+}

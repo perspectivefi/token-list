@@ -1,0 +1,13 @@
+{
+  "chainId": 1,
+  "address": "0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0",
+  "name": "Wrapped stETH",
+  "symbol": "wstETH",
+  "decimals": 18,
+  "logoURI": "/images/tokens/1/0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0.svg",
+  "extensions": {
+    "tags": [
+      "eth"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "chainId": 11155111,
+  "address": "0xA7e2FCc6E2e9eA6e24D8e5f62586Cc6466244e2F",
+  "name": "BTC",
+  "symbol": "BTC",
+  "decimals": 18,
+  "logoURI": "/images/tokens/11155111/0xa7e2fcc6e2e9ea6e24d8e5f62586cc6466244e2f.png",
+  "extensions": {
+    "faucetAddress": "0xA62BA1b39bD9d95c29E3D30548Da425195dc2aa9"
+  }
+}

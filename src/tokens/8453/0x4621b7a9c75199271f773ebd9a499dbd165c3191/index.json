@@ -1,0 +1,12 @@
+{
+  "address": "0x4621b7a9c75199271f773ebd9a499dbd165c3191",
+  "chainId": 8453,
+  "name": "Dola USD Stablecoin",
+  "symbol": "DOLA",
+  "decimals": 18,
+  "extensions": {
+    "protocol": "Harvest (ExtraFi - Lend)",
+    "externalLink": "https://app.harvest.finance/base/0x3F227C9D9d6489A6258f4a8286Ee93AA98d5A2c3"
+  },
+  "logoURI": "/images/tokens/8453/0x4621b7a9c75199271f773ebd9a499dbd165c3191.svg"
+}

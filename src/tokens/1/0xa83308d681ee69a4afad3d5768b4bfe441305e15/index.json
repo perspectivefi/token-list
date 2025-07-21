@@ -1,0 +1,12 @@
+{
+  "address": "0xa83308d681ee69a4afad3d5768b4bfe441305e15",
+  "chainId": 1,
+  "name": "Curve slvlUSD-lvlUSD yVault",
+  "symbol": "yvCurve-slvlUSD-lvlUSD",
+  "decimals": 18,
+  "logoURI": "/images/tokens/1/0xa83308d681ee69a4afad3d5768b4bfe441305e15.svg",
+  "extensions": {
+    "underlying": "0xF244324FBB57f09F0606FF088bC894b051d632Eb",
+    "protocol": "Yearn (Level)"
+  }
+}

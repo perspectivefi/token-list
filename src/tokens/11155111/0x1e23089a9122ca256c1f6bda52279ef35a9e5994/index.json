@@ -1,0 +1,12 @@
+{
+  "chainId": 11155111,
+  "address": "0x1e23089A9122cA256C1f6bdA52279eF35A9e5994",
+  "name": "Spectra seUSDT",
+  "symbol": "seUSDT",
+  "decimals": 18,
+  "logoURI": "/images/tokens/11155111/0x1e23089a9122ca256c1f6bda52279ef35a9e5994.svg",
+  "extensions": {
+    "faucetAddress": "0x0A1C396a157AB6B3EDCf5BC4216784BAa4Ba2dd7",
+    "underlying": "0x1798A5257AD9984C6728431102995b5B9d6a14F5"
+  }
+}

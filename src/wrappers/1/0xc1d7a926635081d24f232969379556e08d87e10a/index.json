@@ -1,0 +1,22 @@
+{
+  "chainId": 1,
+  "address": "0xc1D7A926635081D24F232969379556e08d87e10A",
+  "name": "Spectra ERC4626 Wrapper: Gyroscope ECLP paUSD/GYD Aura Deposit Vault",
+  "symbol": "sw-auraECLP-paUSD-GYD-vault",
+  "decimals": 18,
+  "extensions": {
+    "underlying": "0xae2D97CbBc13B67988ECEd2abA0F6939655eD3De",
+    "vault": {
+      "chainId": 1,
+      "address": "0x01B8209e20B999eE3271A880fA0Ef17cd3eFB1F6",
+      "name": "Gyroscope ECLP paUSD/GYD Aura Deposit Vault",
+      "symbol": "auraECLP-paUSD-GYD-vault",
+      "decimals": 18
+    },
+    "ibtRoutes": {
+      "wrap": false,
+      "unwrap": false
+    },
+    "protocol": "Aura"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "address": "0x32c830f5c34122c6afb8ae87aba541b7900a2c5f",
+  "chainId": 56,
+  "name": "ynBNB MAX",
+  "symbol": "ynBNBx",
+  "decimals": 18,
+  "logoURI": "/images/tokens/56/0x32c830f5c34122c6afb8ae87aba541b7900a2c5f.svg",
+  "extensions": {
+    "underlying": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+    "protocol": "YieldNest"
+  }
+}

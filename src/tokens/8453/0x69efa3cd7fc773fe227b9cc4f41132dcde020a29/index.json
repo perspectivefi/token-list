@@ -1,0 +1,13 @@
+{
+  "address": "0x69efa3cd7fc773fe227b9cc4f41132dcde020a29",
+  "chainId": 8453,
+  "name": "Balancer GHO-USR yVault",
+  "symbol": "yvBal-GHO-USR",
+  "decimals": 18,
+  "logoURI": "/images/tokens/8453/0x69efa3cd7fc773fe227b9cc4f41132dcde020a29.svg",
+  "extensions": {
+    "underlying": "0x5b14ce8DE84448e9A6F6aF652af318472aA4FCAF",
+    "protocol": "Balancer",
+    "externalLink": "https://yearn.fi/v3/8453/0x69efa3cd7fc773fe227b9cc4f41132dcde020a29"
+  }
+}

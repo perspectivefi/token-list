@@ -1,0 +1,20 @@
+{
+  "chainId": 1,
+  "address": "0x04a40EF57eB9d6265b90367dDbBA17A6916a45DF",
+  "name": "Spectra ERC4626 Rewards: Kernel Staked ETH",
+  "symbol": "sr-ksETH",
+  "decimals": 18,
+  "logoURI": "/images/tokens/1/0x513d27c94c0d81eed9dc2a88b4531a69993187cf.png",
+  "extensions": {
+    "underlying": "0x513d27c94c0d81eed9dc2a88b4531a69993187cf",
+    "vault": {
+      "chainId": 1,
+      "address": "0x513d27c94c0d81eed9dc2a88b4531a69993187cf",
+      "name": "Kernel Staked ETH",
+      "symbol": "ksETH",
+      "decimals": 18,
+      "logoURI": "/images/tokens/1/0x513d27c94c0d81eed9dc2a88b4531a69993187cf.png"
+    },
+    "protocol": "Kernel"
+  }
+}

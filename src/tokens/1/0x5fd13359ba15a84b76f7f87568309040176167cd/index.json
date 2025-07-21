@@ -1,0 +1,13 @@
+{
+  "chainId": 1,
+  "address": "0x5fD13359Ba15A84B76f7F87568309040176167cd",
+  "name": "Amphor Restaked ETH",
+  "symbol": "amphrETH",
+  "decimals": 18,
+  "logoURI": "/images/tokens/1/0x5fd13359ba15a84b76f7f87568309040176167cd.svg",
+  "extensions": {
+    "tags": [
+      "eth"
+    ]
+  }
+}

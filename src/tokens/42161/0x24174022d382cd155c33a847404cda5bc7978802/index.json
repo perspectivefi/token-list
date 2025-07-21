@@ -1,0 +1,13 @@
+{
+  "chainId": 42161,
+  "address": "0x24174022D382CD155C33A847404cDA5Bc7978802",
+  "name": "Farm WBTC",
+  "symbol": "fWBTC",
+  "decimals": 8,
+  "logoURI": "/images/tokens/42161/0x24174022d382cd155c33a847404cda5bc7978802.svg",
+  "extensions": {
+    "negativeYield": true,
+    "underlying": "0x2f2a2543b76a4166549f7aab2e75bef0aefc5b0f",
+    "protocol": "Harvest"
+  }
+}

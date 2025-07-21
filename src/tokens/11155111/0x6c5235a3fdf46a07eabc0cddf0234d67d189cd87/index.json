@@ -1,0 +1,11 @@
+{
+  "chainId": 11155111,
+  "address": "0x6C5235a3FdF46A07EabC0CDDf0234D67D189CD87",
+  "name": "DAI",
+  "symbol": "DAI",
+  "decimals": 18,
+  "logoURI": "/images/tokens/11155111/0x6c5235a3fdf46a07eabc0cddf0234d67d189cd87.svg",
+  "extensions": {
+    "faucetAddress": "0x400455dd14e0B52b280A5178cA1329a267FaC5C6"
+  }
+}

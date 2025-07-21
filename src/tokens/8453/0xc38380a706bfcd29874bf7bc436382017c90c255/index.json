@@ -1,0 +1,13 @@
+{
+  "chainId": 8453,
+  "address": "0xc38380A706bfcD29874Bf7Bc436382017c90c255",
+  "name": "FARM_AERO",
+  "symbol": "fAERO",
+  "decimals": 18,
+  "logoURI": "/images/tokens/8453/0xc38380a706bfcd29874bf7bc436382017c90c255.svg",
+  "extensions": {
+    "underlying": "0x940181a94a35a4569e4529a3cdfb74e38fd98631",
+    "protocol": "Harvest (Moonwell)",
+    "externalLink": "https://app.harvest.finance/base/0xc38380A706bfcD29874Bf7Bc436382017c90c255"
+  }
+}

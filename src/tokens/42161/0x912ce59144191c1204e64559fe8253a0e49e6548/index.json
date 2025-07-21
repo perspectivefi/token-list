@@ -1,0 +1,8 @@
+{
+  "chainId": 42161,
+  "address": "0x912ce59144191c1204e64559fe8253a0e49e6548",
+  "name": "Arbitrum",
+  "symbol": "ARB",
+  "decimals": 18,
+  "logoURI": "/images/tokens/42161/0x912ce59144191c1204e64559fe8253a0e49e6548.png"
+}

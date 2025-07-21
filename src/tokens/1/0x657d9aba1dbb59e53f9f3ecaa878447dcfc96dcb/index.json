@@ -1,0 +1,11 @@
+{
+  "address": "0x657d9aba1dbb59e53f9f3ecaa878447dcfc96dcb",
+  "chainId": 1,
+  "name": "ynETH MAX",
+  "symbol": "ynETHx",
+  "decimals": 18,
+  "logoURI": "/images/tokens/1/0x657d9aba1dbb59e53f9f3ecaa878447dcfc96dcb.svg",
+  "extensions": {
+    "underlying": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
+  }
+}

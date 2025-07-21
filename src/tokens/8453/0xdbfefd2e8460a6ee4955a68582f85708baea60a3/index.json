@@ -1,0 +1,13 @@
+{
+  "address": "0xdbfefd2e8460a6ee4955a68582f85708baea60a3",
+  "chainId": 8453,
+  "name": "Super OETH",
+  "symbol": "superOETHb",
+  "decimals": 18,
+  "logoURI": "/images/tokens/8453/0xdbfefd2e8460a6ee4955a68582f85708baea60a3.svg",
+  "extensions": {
+    "tags": [
+      "eth"
+    ]
+  }
+}

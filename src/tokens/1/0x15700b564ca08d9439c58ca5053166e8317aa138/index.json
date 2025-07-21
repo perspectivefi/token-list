@@ -1,0 +1,13 @@
+{
+  "address": "0x15700b564ca08d9439c58ca5053166e8317aa138",
+  "chainId": 1,
+  "name": "deUSD",
+  "symbol": "deUSD",
+  "decimals": 18,
+  "logoURI": "/images/tokens/1/0x15700b564ca08d9439c58ca5053166e8317aa138.svg",
+  "extensions": {
+    "tags": [
+      "stable"
+    ]
+  }
+}

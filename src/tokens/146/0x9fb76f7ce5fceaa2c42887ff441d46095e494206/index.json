@@ -1,0 +1,17 @@
+{
+  "chainId": 146,
+  "address": "0x9fb76f7ce5FCeAA2C42887ff441D46095E494206",
+  "symbol": "wstkscUSD",
+  "name": "Wrapped stkscUSD",
+  "decimals": 6,
+  "logoURI": "/images/tokens/146/0x9fb76f7ce5fceaa2c42887ff441d46095e494206.svg",
+  "extensions": {
+    "underlying": "0x4D85bA8c3918359c78Ed09581E5bc7578ba932ba",
+    "protocol": "Rings",
+    "externalLink": "https://app.rings.money/",
+    "ibtRoutes": {
+      "withdraw": false,
+      "redeem": false
+    }
+  }
+}

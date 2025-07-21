@@ -1,0 +1,12 @@
+{
+  "address": "0x00bac667a4ccf9089ab1db978238c555c4349545",
+  "chainId": 1,
+  "name": "Aladdin cvxFXN",
+  "symbol": "aFXN",
+  "decimals": 18,
+  "logoURI": "/images/tokens/1/0x00bac667a4ccf9089ab1db978238c555c4349545.svg",
+  "extensions": {
+    "underlying": "0x183395DbD0B5e93323a7286D1973150697FFFCB3",
+    "protocol": "Concentrator - Protocol f(x)"
+  }
+}

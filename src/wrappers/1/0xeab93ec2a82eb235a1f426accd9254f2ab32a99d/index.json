@@ -1,0 +1,24 @@
+{
+  "chainId": 1,
+  "address": "0xeaB93Ec2A82eB235a1f426Accd9254f2aB32A99d",
+  "name": "Spectra ERC4626 Wrapper: Amphor Symbiotic LRT (WSTETH)",
+  "symbol": "sw-amphrLRT",
+  "decimals": 18,
+  "logoURI": "/images/tokens/1/0x06824c27c8a0dbde5f72f770ec82e3c0fd4dcec3.png",
+  "extensions": {
+    "underlying": "0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0",
+    "vault": {
+      "chainId": 1,
+      "address": "0x06824C27C8a0DbDe5F72f770eC82e3c0FD4DcEc3",
+      "name": "Amphor Symbiotic LRT (WSTETH)",
+      "symbol": "amphrLRT",
+      "decimals": 18,
+      "logoURI": "/images/tokens/1/0x06824c27c8a0dbde5f72f770ec82e3c0fd4dcec3.png"
+    },
+    "ibtRoutes": {
+      "withdraw": false,
+      "redeem": false
+    },
+    "protocol": "Amphor"
+  }
+}

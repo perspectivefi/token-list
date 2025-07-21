@@ -1,0 +1,20 @@
+{
+  "address": "0xc8695214586aABb3DB8CDce60Db1cdBa0d247D5F",
+  "chainId": 1,
+  "name": "Spectra ERC4626 Wrapper: EVK Vault eUSDC-19",
+  "symbol": "sw-eUSDC-19",
+  "decimals": 18,
+  "logoURI": "/images/tokens/1/0xcbc9b61177444a793b85442d3a953b90f6170b7d.svg",
+  "extensions": {
+    "underlying": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+    "protocol": "Euler (Resolv)",
+    "vault": {
+      "chainId": 1,
+      "address": "0xcBC9B61177444A793B85442D3a953B90f6170b7D",
+      "symbol": "eUSDC-19",
+      "name": "EVK Vault eUSDC-19",
+      "decimals": 6,
+      "logoURI": "/images/tokens/1/0xcbc9b61177444a793b85442d3a953b90f6170b7d.svg"
+    }
+  }
+}

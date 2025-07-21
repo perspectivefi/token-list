@@ -1,0 +1,13 @@
+{
+  "chainId": 42161,
+  "address": "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9",
+  "name": "Tether USD",
+  "symbol": "USDT",
+  "decimals": 6,
+  "logoURI": "/images/tokens/42161/0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9.png",
+  "extensions": {
+    "tags": [
+      "stable"
+    ]
+  }
+}

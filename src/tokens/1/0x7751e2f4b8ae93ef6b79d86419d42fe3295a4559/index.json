@@ -1,0 +1,11 @@
+{
+  "address": "0x7751e2f4b8ae93ef6b79d86419d42fe3295a4559",
+  "chainId": 1,
+  "name": "Wrapped USDL",
+  "symbol": "wUSDL",
+  "decimals": 18,
+  "logoURI": "/images/tokens/1/0x7751e2f4b8ae93ef6b79d86419d42fe3295a4559.svg",
+  "extensions": {
+    "underlying": "0xbdC7c08592Ee4aa51D06C27Ee23D5087D65aDbcD"
+  }
+}

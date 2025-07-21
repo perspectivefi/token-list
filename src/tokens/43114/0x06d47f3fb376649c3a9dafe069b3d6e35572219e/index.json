@@ -1,0 +1,12 @@
+{
+  "address": "0x06d47f3fb376649c3a9dafe069b3d6e35572219e",
+  "chainId": 43114,
+  "name": "Staked avUSD",
+  "symbol": "savUSD",
+  "decimals": 18,
+  "logoURI": "/images/tokens/43114/0x06d47f3fb376649c3a9dafe069b3d6e35572219e.svg",
+  "extensions": {
+    "underlying": "0x24dE8771bC5DdB3362Db529Fc3358F2df3A0E346",
+    "protocol": "Avant"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "chainId": 1,
+  "address": "0x8E0789d39db454DBE9f4a77aCEF6dc7c69f6D552",
+  "symbol": "inwstETHs",
+  "name": "Inception Symbiotic Restaked wstETH",
+  "decimals": 18,
+  "logoURI": "/images/tokens/1/0x8e0789d39db454dbe9f4a77acef6dc7c69f6d552.svg",
+  "extensions": {
+    "underlying": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "protocol": "InceptionLRT"
+  }
+}

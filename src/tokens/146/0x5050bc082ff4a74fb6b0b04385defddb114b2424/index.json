@@ -1,0 +1,12 @@
+{
+  "address": "0x5050bc082FF4A74Fb6B0B04385dEfdDB114b2424",
+  "chainId": 146,
+  "name": "xShadow",
+  "symbol": "xSHADOW",
+  "decimals": 18,
+  "logoURI": "/images/tokens/146/0x5050bc082ff4a74fb6b0b04385defddb114b2424.png",
+  "extensions": {
+    "protocol": "Shadow",
+    "externalLink": "https://www.shadow.so/"
+  }
+}

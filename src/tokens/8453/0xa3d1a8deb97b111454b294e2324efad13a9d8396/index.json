@@ -1,0 +1,12 @@
+{
+  "address": "0xa3d1a8deb97b111454b294e2324efad13a9d8396",
+  "chainId": 8453,
+  "name": "OVN",
+  "symbol": "OVN",
+  "decimals": 18,
+  "extensions": {
+    "protocol": "Harvest (ExtraFi - Lend)",
+    "externalLink": "https://app.harvest.finance/base/0x6a66697BB83b1660F58b618F85f37E413053D3A1?search=ovn"
+  },
+  "logoURI": "/images/tokens/8453/0xa3d1a8deb97b111454b294e2324efad13a9d8396.svg"
+}

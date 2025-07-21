@@ -1,0 +1,13 @@
+{
+  "chainId": 8453,
+  "address": "0x048b45e45ba6153f6badf05fcdc6154cf5e0e23a",
+  "name": "FARM_vAMM-USDC/SPOT",
+  "symbol": "fvAMM-USDC/SPOT",
+  "decimals": 18,
+  "logoURI": "/images/tokens/8453/0x048b45e45ba6153f6badf05fcdc6154cf5e0e23a.svg",
+  "extensions": {
+    "underlying": "0xa43455d99eb63473cfa186b388c1bc2ea1b63924",
+    "protocol": "Harvest (Aerodrome)",
+    "externalLink": "https://app.harvest.finance/base/0x048B45e45Ba6153F6bADF05FCdC6154cF5e0E23a"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "chainId": 1,
+  "address": "0xdcee70654261af21c44c093c300ed3bb97b78192",
+  "name": "Wrapped OETH",
+  "symbol": "WOETH",
+  "decimals": 18,
+  "logoURI": "/images/tokens/1/0xdcee70654261af21c44c093c300ed3bb97b78192.png",
+  "extensions": {
+    "underlying": "0x856c4Efb76C1D1AE02e20CEB03A2A6a08b0b8dC3",
+    "protocol": "Origin"
+  }
+}

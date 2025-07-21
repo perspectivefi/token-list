@@ -1,0 +1,20 @@
+{
+  "chainId": 1,
+  "address": "0xB10a1b53f11aA969bc79dc86948de489e5996f8D",
+  "name": "Spectra ERC4626 Rewards: Kernel Restaked ETH",
+  "symbol": "sr-krETH",
+  "decimals": 18,
+  "logoURI": "/images/tokens/1/0xf02c96dbbb92dc0325ad52b3f9f2b951f972bf00.png",
+  "extensions": {
+    "underlying": "0xf02c96dbbb92dc0325ad52b3f9f2b951f972bf00",
+    "vault": {
+      "chainId": 1,
+      "address": "0xf02c96dbbb92dc0325ad52b3f9f2b951f972bf00",
+      "name": "Kernel Restaked ETH",
+      "symbol": "krETH",
+      "decimals": 18,
+      "logoURI": "/images/tokens/1/0xf02c96dbbb92dc0325ad52b3f9f2b951f972bf00.png"
+    },
+    "protocol": "Kernel"
+  }
+}

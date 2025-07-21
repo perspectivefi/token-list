@@ -1,0 +1,16 @@
+{
+  "chainId": 42161,
+  "address": "0xd85e038593d7a098614721eae955ec2022b9b91b",
+  "name": "Gains Network DAI",
+  "symbol": "gDAI",
+  "decimals": 18,
+  "logoURI": "/images/tokens/42161/0xd85e038593d7a098614721eae955ec2022b9b91b.webp",
+  "extensions": {
+    "underlying": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
+    "protocol": "Gains",
+    "ibtRoutes": {
+      "withdraw": false,
+      "redeem": false
+    }
+  }
+}

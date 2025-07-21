@@ -1,0 +1,12 @@
+{
+  "address": "0xdcefd8c8fcc492630b943abcab3429f12ea9fea2",
+  "chainId": 8453,
+  "name": "Klima DAO",
+  "symbol": "KLIMA",
+  "decimals": 9,
+  "extensions": {
+    "protocol": "Harvest (ExtraFi - Lend)",
+    "externalLink": "https://app.harvest.finance/base/0xbe36B2367b081CDB3e657CeD2045729e5d8f89c4"
+  },
+  "logoURI": "/images/tokens/8453/0xdcefd8c8fcc492630b943abcab3429f12ea9fea2.svg"
+}

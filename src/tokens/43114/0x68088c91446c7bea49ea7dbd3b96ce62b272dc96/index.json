@@ -1,0 +1,12 @@
+{
+  "address": "0x68088C91446c7bEa49ea7Dbd3B96Ce62B272DC96",
+  "chainId": 43114,
+  "name": "Staked deUSD",
+  "symbol": "sdeUSD",
+  "decimals": 18,
+  "logoURI": "/images/tokens/43114/0x68088c91446c7bea49ea7dbd3b96ce62b272dc96.svg",
+  "extensions": {
+    "underlying": "0xB57B25851fE2311CC3fE511c8F10E868932e0680",
+    "protocol": "Elixir"
+  }
+}

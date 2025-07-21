@@ -1,0 +1,1207 @@
+[
+  {
+    "address": "0xb385afdf3a033ebd06dc182d83caf794bdea2ce1",
+    "chainId": 999,
+    "name": "Spectra ERC4626 Wrapper: Liquid HYPE Yield",
+    "symbol": "sw-liquidHYPE",
+    "decimals": 18,
+    "logoURI": "/images/tokens/999/0x441794d6a8f9a3739f5d4e98a728937b33489d29.svg",
+    "extensions": {
+      "underlying": "0x5555555555555555555555555555555555555555",
+      "protocol": "HyperBeat",
+      "vault": {
+        "chainId": 999,
+        "address": "0x441794D6a8F9A3739F5D4E98a728937b33489D29",
+        "symbol": "liquidHYPE",
+        "name": "Liquid HYPE Yield",
+        "decimals": 18,
+        "logoURI": "/images/tokens/999/0x441794d6a8f9a3739f5d4e98a728937b33489d29.svg"
+      }
+    }
+  },
+  {
+    "address": "0x7E32f4C44E22aB20df287f8a15eB6C0F54dA6E30",
+    "chainId": 8453,
+    "name": "Spectra ERC4626 Wrapper: Moonwell Flagship ETH",
+    "symbol": "sw-mwETH",
+    "decimals": 18,
+    "logoURI": "/images/tokens/8453/0xa0e430870c4604ccfc7b38ca7845b1ff653d0ff1.svg",
+    "extensions": {
+      "underlying": "0x4200000000000000000000000000000000000006",
+      "protocol": "Morpho (Moonwell)",
+      "vault": {
+        "chainId": 8453,
+        "address": "0xa0E430870c4604CcfC7B38Ca7845B1FF653D0ff1",
+        "symbol": "mwETH",
+        "name": "Moonwell Flagship ETH",
+        "decimals": 18,
+        "logoURI": "/images/tokens/8453/0xa0e430870c4604ccfc7b38ca7845b1ff653d0ff1.svg"
+      }
+    }
+  },
+  {
+    "address": "0x916cD56a5FBBeae186f488F4DB83b00C103B46e7",
+    "chainId": 8453,
+    "name": "Spectra ERC4626 Wrapper: 9Summits WETH Core",
+    "symbol": "sw-9SETHc",
+    "decimals": 18,
+    "logoURI": "/images/tokens/8453/0xf540d790413fcfaedac93518ae99eddace82cb78.svg",
+    "extensions": {
+      "underlying": "0x4200000000000000000000000000000000000006",
+      "protocol": "Morpho (9Summits)",
+      "vault": {
+        "chainId": 8453,
+        "address": "0xF540D790413FCFAedAC93518Ae99EdDacE82cb78",
+        "symbol": "9SETHc",
+        "name": "9Summits WETH Core",
+        "decimals": 18,
+        "logoURI": "/images/tokens/8453/0xf540d790413fcfaedac93518ae99eddace82cb78.svg"
+      }
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0xbDaBF94e061bC514A71d8061F90d22797Cb85269",
+    "name": "weETH [points only]",
+    "symbol": "weETH [points only]",
+    "decimals": 18,
+    "logoURI": "/images/tokens/8453/0x04c0599ae5a44757c0af6f9ec3b93da8976c150a.svg",
+    "extensions": {
+      "underlying": "0x04c0599ae5a44757c0af6f9ec3b93da8976c150a",
+      "vault": {
+        "chainId": 8453,
+        "address": "0x04c0599ae5a44757c0af6f9ec3b93da8976c150a",
+        "name": "Wrapped eETH",
+        "symbol": "weETH",
+        "decimals": 18,
+        "logoURI": "/images/tokens/8453/0x04c0599ae5a44757c0af6f9ec3b93da8976c150a.svg"
+      },
+      "protocol": "Ether.fi"
+    }
+  },
+  {
+    "address": "0x4DD254CC17A466dD8e850F68B9f9F1711390f992",
+    "chainId": 8453,
+    "name": "Spectra ERC4626 Wrapper: Static Aave Base WETH",
+    "symbol": "sw-stataBasWETH",
+    "decimals": 18,
+    "logoURI": "/images/tokens/8453/0x468973e3264f2aeba0417a8f2cd0ec397e738898.svg",
+    "extensions": {
+      "underlying": "0x4200000000000000000000000000000000000006",
+      "protocol": "Aave",
+      "vault": {
+        "chainId": 8453,
+        "address": "0x468973e3264F2aEba0417A8f2cD0Ec397E738898",
+        "symbol": "stataBasWETH",
+        "name": "Static Aave Base WETH",
+        "decimals": 18,
+        "logoURI": "/images/tokens/8453/0x468973e3264f2aeba0417a8f2cd0ec397e738898.svg"
+      }
+    }
+  },
+  {
+    "address": "0x270188c2f683731A5383dcc1663Ce9f3602b4F54",
+    "chainId": 8453,
+    "name": "Spectra ERC4626 Wrapper: Static Aave Base USDC",
+    "symbol": "sw-stataBasUSDC",
+    "decimals": 18,
+    "logoURI": "/images/tokens/8453/0x4ea71a20e655794051d1ee8b6e4a3269b13ccacc.svg",
+    "extensions": {
+      "underlying": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+      "protocol": "Aave",
+      "vault": {
+        "chainId": 8453,
+        "address": "0x4EA71A20e655794051D1eE8b6e4A3269B13ccaCc",
+        "symbol": "stataBasUSDC",
+        "name": "Static Aave Base USDC",
+        "decimals": 6,
+        "logoURI": "/images/tokens/8453/0x4ea71a20e655794051d1ee8b6e4a3269b13ccacc.svg"
+      }
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0xee26cB5553Af8229dc79025Db41Ce4dfF1e10241",
+    "name": "Spectra ERC4626 Rewards: Based ETH",
+    "symbol": "sr-bsdETH",
+    "decimals": 18,
+    "logoURI": "/images/tokens/42161/0x450bb6774dd8a756274e0ab4107953259d2ac541.svg",
+    "extensions": {
+      "underlying": "0x4200000000000000000000000000000000000006",
+      "vault": {
+        "chainId": 8453,
+        "address": "0xCb327b99fF831bF8223cCEd12B1338FF3aA322Ff",
+        "name": "Based ETH",
+        "symbol": "bsdETH",
+        "decimals": 18,
+        "logoURI": "/images/tokens/42161/0x450bb6774dd8a756274e0ab4107953259d2ac541.svg"
+      },
+      "protocol": "Reserve"
+    }
+  },
+  {
+    "address": "0x55076E45a3ab31c4D9f92F63f0b7801c74B986f8",
+    "chainId": 8453,
+    "name": "Spectra ERC4626 Wrapper: 9Summits WETH Core 1.1",
+    "symbol": "sw-9SETHcore",
+    "decimals": 18,
+    "logoURI": "/images/tokens/8453/0x5496b42ad0decebfab0db944d83260e60d54f667.svg",
+    "extensions": {
+      "underlying": "0x4200000000000000000000000000000000000006",
+      "protocol": "Morpho (9Summits)",
+      "vault": {
+        "chainId": 8453,
+        "address": "0x5496b42ad0deCebFab0db944D83260e60D54f667",
+        "symbol": "9SETHcore",
+        "name": "9Summits WETH Core 1.1",
+        "decimals": 18,
+        "logoURI": "/images/tokens/8453/0x5496b42ad0decebfab0db944d83260e60d54f667.svg"
+      }
+    }
+  },
+  {
+    "address": "0x948990Ea07e98c0ea0810c351563F6255c75f3A5",
+    "chainId": 8453,
+    "name": "Spectra ERC4626 Wrapper: Ionic Ecosystem USDC",
+    "symbol": "sw-ionicUSDC",
+    "decimals": 18,
+    "logoURI": "/images/tokens/8453/0x23479229e52ab6aad312d0b03df9f33b46753b5e.svg",
+    "extensions": {
+      "underlying": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+      "protocol": "Morpho (Ionic)",
+      "vault": {
+        "chainId": 8453,
+        "address": "0x23479229e52Ab6aaD312D0B03DF9F33B46753B5e",
+        "symbol": "ionicUSDC",
+        "name": "Ionic Ecosystem USDC",
+        "decimals": 18,
+        "logoURI": "/images/tokens/8453/0x23479229e52ab6aad312d0b03df9f33b46753b5e.svg"
+      }
+    }
+  },
+  {
+    "address": "0xBDE752ef69880c00a795D88438040b8f737Eb254",
+    "chainId": 8453,
+    "name": "Spectra ERC4626 Wrapper: Moonwell Flagship USDC",
+    "symbol": "sw-mwUSDC",
+    "decimals": 18,
+    "logoURI": "/images/tokens/8453/0xc1256ae5ff1cf2719d4937adb3bbccab2e00a2ca.svg",
+    "extensions": {
+      "underlying": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+      "protocol": "Morpho (Moonwell)",
+      "vault": {
+        "chainId": 8453,
+        "address": "0xc1256Ae5FF1cf2719D4937adb3bbCCab2E00A2Ca",
+        "symbol": "mwUSDC",
+        "name": "Moonwell Flagship USDC",
+        "decimals": 18,
+        "logoURI": "/images/tokens/8453/0xc1256ae5ff1cf2719d4937adb3bbccab2e00a2ca.svg"
+      }
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0xF54c0ac4026D80f3436078BDca41F9ca8a470D47",
+    "name": "Spectra ERC4626 Wrapper: Morpho eUSD",
+    "symbol": "sw-meUSD",
+    "decimals": 18,
+    "logoURI": "/images/tokens/8453/0xbb819d845b573b5d7c538f5b85057160cfb5f313.svg",
+    "extensions": {
+      "underlying": "0xCfA3Ef56d303AE4fAabA0592388F19d7C3399FB4",
+      "vault": {
+        "chainId": 8453,
+        "address": "0xbb819D845b573B5D7C538F5b85057160cfb5f313",
+        "name": "Morpho eUSD",
+        "symbol": "meUSD",
+        "decimals": 18,
+        "logoURI": "/images/tokens/8453/0xbb819d845b573b5d7c538f5b85057160cfb5f313.svg"
+      },
+      "protocol": "Morpho"
+    }
+  },
+  {
+    "address": "0x3bc95ec05907cdB326c5DA3C098AE4fB0808e57d",
+    "chainId": 8453,
+    "name": "Spectra ERC4626 Wrapper: Ionic Ecosystem WETH",
+    "symbol": "sw-ionicWETH",
+    "decimals": 18,
+    "logoURI": "/images/tokens/8453/0x5a32099837d89e3a794a44fb131cbbad41f87a8c.svg",
+    "extensions": {
+      "underlying": "0x4200000000000000000000000000000000000006",
+      "protocol": "Morpho (Ionic)",
+      "vault": {
+        "chainId": 8453,
+        "address": "0x5A32099837D89E3a794a44fb131CBbAD41f87a8C",
+        "symbol": "ionicWETH",
+        "name": "Ionic Ecosystem WETH",
+        "decimals": 18,
+        "logoURI": "/images/tokens/8453/0x5a32099837d89e3a794a44fb131cbbad41f87a8c.svg"
+      }
+    }
+  },
+  {
+    "address": "0x46500Eb791fB63559A53e577e9f4b2794fca7e9f",
+    "chainId": 8453,
+    "name": "Spectra ERC4626 Wrapper: Seamless USDC Vault",
+    "symbol": "sw-smUSDC",
+    "decimals": 18,
+    "logoURI": "/images/tokens/8453/0x616a4e1db48e22028f6bbf20444cd3b8e3273738.svg",
+    "extensions": {
+      "underlying": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+      "protocol": "Morpho (Seamless)",
+      "vault": {
+        "chainId": 8453,
+        "address": "0x616a4E1db48e22028f6bbf20444Cd3b8e3273738",
+        "symbol": "smUSDC",
+        "name": "Seamless USDC Vault",
+        "decimals": 18,
+        "logoURI": "/images/tokens/8453/0x616a4e1db48e22028f6bbf20444cd3b8e3273738.svg"
+      }
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0xa94ec39c91DF334DCAb55aDaA8EdD9C1dAF67cA7",
+    "name": "Spectra ERC4626 Wrapper: sGHO",
+    "symbol": "sw-sGHO",
+    "decimals": 18,
+    "logoURI": "/images/tokens/1/0x1a88df1cfe15af22b3c4c783d4e6f7f9e0c1885d.svg",
+    "extensions": {
+      "aprEndpoint": "https://ibts.ddns.net/api/rewards/stkgho",
+      "underlying": "0x40D16FC0246aD3160Ccc09B8D0D3A2cD28aE6C2f",
+      "vault": {
+        "chainId": 1,
+        "address": "0x1a88df1cfe15af22b3c4c783d4e6f7f9e0c1885d",
+        "name": "Aave sGHO",
+        "symbol": "sGHO",
+        "decimals": 18,
+        "logoURI": "/images/tokens/1/0x1a88df1cfe15af22b3c4c783d4e6f7f9e0c1885d.svg"
+      },
+      "ibtRoutes": {
+        "withdraw": false,
+        "redeem": false
+      },
+      "protocol": "Aave",
+      "displayMode": "ibt"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0x37F86e2FB8020fb8Dc53236FDae86f9122B56270",
+    "name": "Spectra ERC4626 Wrapper: Gauntlet USDC Core",
+    "symbol": "sw-gtUSDCcore",
+    "decimals": 18,
+    "logoURI": "/images/tokens/1/0x8eb67a509616cd6a7c1b3c8c21d48ff57df3d458.svg",
+    "extensions": {
+      "underlying": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+      "vault": {
+        "chainId": 1,
+        "address": "0x8eB67A509616cd6A7c1B3c8C21D48FF57df3d458",
+        "name": "Gauntlet USDC Core",
+        "symbol": "gtUSDCcore",
+        "decimals": 18,
+        "logoURI": "/images/tokens/1/0x8eb67a509616cd6a7c1b3c8c21d48ff57df3d458.svg"
+      },
+      "protocol": "Morpho"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0x1B56E30b6efD7cfDe46eE3E29B851b9094D5810B",
+    "name": "Spectra ERC4626 Wrapper: Usual Boosted USDC",
+    "symbol": "sw-USUALUSDC+",
+    "decimals": 18,
+    "logoURI": "/images/tokens/1/0xd63070114470f685b75b74d60eec7c1113d33a3d.svg",
+    "extensions": {
+      "underlying": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+      "vault": {
+        "chainId": 1,
+        "address": "0xd63070114470f685b75B74D60EEc7c1113d33a3D",
+        "name": "Usual Boosted USDC",
+        "symbol": "USUALUSDC+",
+        "decimals": 18,
+        "logoURI": "/images/tokens/1/0xd63070114470f685b75b74d60eec7c1113d33a3d.svg"
+      },
+      "protocol": "Morpho (Usual Boosted USDC)"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0x6e0dccf49D095F8ea8920A8aF03D236FA167B7E0",
+    "name": "Spectra ERC4626 Wrapper: ynETH",
+    "symbol": "sw-ynETH",
+    "decimals": 18,
+    "logoURI": "/images/tokens/1/0x09db87a538bd693e9d08544577d5ccfaa6373a48.svg",
+    "extensions": {
+      "underlying": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+      "vault": {
+        "chainId": 1,
+        "address": "0x09db87a538bd693e9d08544577d5ccfaa6373a48",
+        "name": "ynETH",
+        "symbol": "ynETH",
+        "decimals": 18,
+        "logoURI": "/images/tokens/1/0x09db87a538bd693e9d08544577d5ccfaa6373a48.svg"
+      },
+      "protocol": "YieldNest"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0xBDC1d4BbCa6429efAaA42c26e80f6a138F9c69d5",
+    "name": "Spectra ERC4626 Wrapper: Gauntlet LRT Core",
+    "symbol": "sw-gtLRTcore",
+    "decimals": 18,
+    "logoURI": "/images/tokens/1/0x4881ef0bf6d2365d3dd6499ccd7532bcdbce0658.svg",
+    "extensions": {
+      "underlying": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+      "vault": {
+        "chainId": 1,
+        "address": "0x4881Ef0BF6d2365D3dd6499ccd7532bcdBCE0658",
+        "name": "Gauntlet LRT Core",
+        "symbol": "gtLRTcore",
+        "decimals": 18,
+        "logoURI": "/images/tokens/1/0x4881ef0bf6d2365d3dd6499ccd7532bcdbce0658.svg"
+      },
+      "protocol": "Morpho"
+    }
+  },
+  {
+    "address": "0x4427855b3d9D0a3e931cD6BBdbE4E0F74D47eBB0",
+    "chainId": 1,
+    "name": "Spectra ERC4626 Wrapper: Coinshift USDL",
+    "symbol": "sw-csUSDL",
+    "decimals": 18,
+    "logoURI": "/images/tokens/1/0xbeefc011e94f43b8b7b455ebab290c7ab4e216f1.svg",
+    "extensions": {
+      "underlying": "0x7751E2F4b8ae93EF6B79d86419d42FE3295A4559",
+      "protocol": "Morpho (Coinshift)",
+      "vault": {
+        "chainId": 1,
+        "address": "0xbEeFc011e94f43b8B7b455eBaB290C7Ab4E216f1",
+        "symbol": "csUSDL",
+        "name": "Coinshift USDL",
+        "decimals": 18,
+        "logoURI": "/images/tokens/1/0xbeefc011e94f43b8b7b455ebab290c7ab4e216f1.svg"
+      }
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0x248f43B622cE2F35A14dB3FC528284730b619cD5",
+    "name": "Spectra ERC4626 Wrapper: Universal ETH",
+    "symbol": "sw-uniETH",
+    "decimals": 18,
+    "logoURI": "/images/tokens/1/0xf1376bcef0f78459c0ed0ba5ddce976f1ddf51f4.svg",
+    "extensions": {
+      "underlying": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+      "vault": {
+        "chainId": 1,
+        "address": "0xF1376bceF0f78459C0Ed0ba5ddce976F1ddF51F4",
+        "name": "Universal ETH",
+        "symbol": "uniETH",
+        "decimals": 18,
+        "logoURI": "/images/tokens/1/0xf1376bcef0f78459c0ed0ba5ddce976f1ddf51f4.svg"
+      },
+      "ibtRoutes": {
+        "withdraw": false,
+        "redeem": false
+      },
+      "protocol": "Bedrock"
+    }
+  },
+  {
+    "address": "0x51C002aBe20bD7C5072cf96Ba979562E42700F20",
+    "chainId": 1,
+    "name": "Spectra ERC4626 Wrapper: Resolv USD",
+    "symbol": "sw-USR",
+    "decimals": 18,
+    "logoURI": "/images/tokens/1/0x66a1e37c9b0eaddca17d3662d6c05f4decf3e110.svg",
+    "extensions": {
+      "underlying": "0x66a1E37c9b0eAddca17d3662D6c05F4DECf3e110",
+      "protocol": "Resolv",
+      "vault": {
+        "chainId": 1,
+        "address": "0x66a1e37c9b0eaddca17d3662d6c05f4decf3e110",
+        "name": "Resolv USD",
+        "symbol": "USR",
+        "decimals": 18,
+        "logoURI": "/images/tokens/1/0x66a1e37c9b0eaddca17d3662d6c05f4decf3e110.svg"
+      }
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0xae2723263cf924c0dfb81974ada52b2e671d1df3",
+    "name": "Spectra ERC4626 Rewards: Kernel USD",
+    "symbol": "sr-kUSD",
+    "decimals": 18,
+    "logoURI": "/images/tokens/1/0x0bb9ab78aaf7179b7515e6753d89822b91e670c4.png",
+    "extensions": {
+      "underlying": "0x0bb9ab78aaf7179b7515e6753d89822b91e670c4",
+      "vault": {
+        "chainId": 1,
+        "address": "0x0bb9ab78aaf7179b7515e6753d89822b91e670c4",
+        "name": "Kernel USD",
+        "symbol": "kUSD",
+        "decimals": 18,
+        "logoURI": "/images/tokens/1/0x0bb9ab78aaf7179b7515e6753d89822b91e670c4.png"
+      },
+      "protocol": "Kernel"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0x06c03069de266F58d10A0724a4f65C3D4feFfF4D",
+    "name": "Spectra ERC4626 Wrapper: Amphor Restaked ETH",
+    "symbol": "sw-amphrETH",
+    "decimals": 18,
+    "logoURI": "/images/tokens/1/0x5fd13359ba15a84b76f7f87568309040176167cd.svg",
+    "extensions": {
+      "underlying": "0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0",
+      "vault": {
+        "chainId": 1,
+        "address": "0x5fD13359Ba15A84B76f7F87568309040176167cd",
+        "name": "Amphor Restaked ETH",
+        "symbol": "amphrETH",
+        "decimals": 18,
+        "logoURI": "/images/tokens/1/0x5fd13359ba15a84b76f7f87568309040176167cd.svg"
+      },
+      "ibtRoutes": {
+        "withdraw": false,
+        "redeem": false
+      },
+      "protocol": "Mellow"
+    }
+  },
+  {
+    "address": "0x87FD322a24EaDDFa57fe9BB9B83aB67D236D2ceC",
+    "chainId": 1,
+    "name": "Spectra ERC4626 Wrapper: YieldFi yUSD",
+    "symbol": "sw-yUSD",
+    "decimals": 18,
+    "logoURI": "/images/tokens/1/0x19ebd191f7a24ece672ba13a302212b5ef7f35cb.svg",
+    "extensions": {
+      "underlying": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+      "protocol": "Yield.Fi",
+      "vault": {
+        "address": "0x19ebd191f7a24ece672ba13a302212b5ef7f35cb",
+        "chainId": 1,
+        "name": "YieldFi yUSD",
+        "symbol": "yUSD",
+        "decimals": 18,
+        "logoURI": "/images/tokens/1/0x19ebd191f7a24ece672ba13a302212b5ef7f35cb.svg"
+      }
+    }
+  },
+  {
+    "address": "0x06a491e3efee37eb191d0434f54be6e42509f9d3",
+    "chainId": 1,
+    "name": "Spectra ERC4626 Wrapper: Wrapped Ultimate Synthetic Delta Neutral",
+    "symbol": "sw-WUSDN",
+    "decimals": 18,
+    "logoURI": "/images/tokens/1/0x99999999999999cc837c997b882957dafdcb1af9.svg",
+    "extensions": {
+      "underlying": "0xde17a000BA631c5d7c2Bd9FB692EFeA52D90DEE2",
+      "protocol": "SMARDEX",
+      "vault": {
+        "chainId": 1,
+        "address": "0x99999999999999Cc837C997B882957daFdCb1Af9",
+        "symbol": "WUSDN",
+        "name": "Wrapped Ultimate Synthetic Delta Neutral",
+        "decimals": 18,
+        "logoURI": "/images/tokens/1/0x99999999999999cc837c997b882957dafdcb1af9.svg"
+      }
+    }
+  },
+  {
+    "address": "0x2c869C812BF8519E4A8dc42dcd8793Ec09f776c1",
+    "chainId": 1,
+    "name": "Spectra ERC4626 Wrapper: Hinkal ETH",
+    "symbol": "sw-hETH",
+    "decimals": 18,
+    "logoURI": "/images/tokens/1/0x270b7748cdf8243bfe68face7230ef0fce695389.svg",
+    "extensions": {
+      "underlying": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+      "protocol": "Hinkal",
+      "vault": {
+        "chainId": 1,
+        "address": "0x270B7748CdF8243bFe68FaCE7230ef0fCE695389",
+        "symbol": "hETH",
+        "name": "Hinkal ETH",
+        "decimals": 18,
+        "logoURI": "/images/tokens/1/0x270b7748cdf8243bfe68face7230ef0fce695389.svg"
+      }
+    }
+  },
+  {
+    "address": "0xa54A3f9E33cA1473477f05A94123D117AaA6002A",
+    "chainId": 1,
+    "name": "Spectra ERC4626 Wrapper: Inception Symbiotic Restaked wstETH",
+    "symbol": "sw-inwstETHs",
+    "decimals": 18,
+    "logoURI": "/images/tokens/1/0x8e0789d39db454dbe9f4a77acef6dc7c69f6d552.svg",
+    "extensions": {
+      "underlying": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+      "protocol": "InceptionLRT",
+      "vault": {
+        "chainId": 1,
+        "address": "0x8E0789d39db454DBE9f4a77aCEF6dc7c69f6D552",
+        "symbol": "inwstETHs",
+        "name": "Inception Symbiotic Restaked wstETH",
+        "decimals": 18,
+        "logoURI": "/images/tokens/1/0x8e0789d39db454dbe9f4a77acef6dc7c69f6d552.svg"
+      }
+    }
+  },
+  {
+    "address": "0x4eaFef6149C5B0c3E42fF444F79675B3E3125cb7",
+    "chainId": 1,
+    "name": "Spectra ERC4626 Wrapper: Resolv Liquidity Provider Token",
+    "symbol": "sw-RLP",
+    "decimals": 18,
+    "logoURI": "/images/tokens/1/0x4956b52ae2ff65d74ca2d61207523288e4528f96.svg",
+    "extensions": {
+      "protocol": "Resolv",
+      "underlying": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+      "vault": {
+        "chainId": 1,
+        "address": "0x4956b52aE2fF65D74CA2d61207523288e4528f96",
+        "symbol": "RLP",
+        "name": "Resolv Liquidity Provider Token",
+        "decimals": 18,
+        "logoURI": "/images/tokens/1/0x4956b52ae2ff65d74ca2d61207523288e4528f96.svg"
+      },
+      "ibtRoutes": {
+        "deposit": false,
+        "withdraw": false,
+        "redeem": false
+      }
+    }
+  },
+  {
+    "address": "0xd89Fc47AacBB31E2bF23EC599F593A4876D8c18C",
+    "chainId": 1,
+    "name": "Spectra ERC4626 Wrapper: Inception Symbiotic Restaked wstETH",
+    "symbol": "sw-inwstETHs",
+    "decimals": 18,
+    "logoURI": "/images/tokens/1/0x8e0789d39db454dbe9f4a77acef6dc7c69f6d552.svg",
+    "extensions": {
+      "protocol": "InceptionLRT",
+      "underlying": "0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0",
+      "vault": {
+        "chainId": 1,
+        "address": "0x8E0789d39db454DBE9f4a77aCEF6dc7c69f6D552",
+        "symbol": "inwstETHs",
+        "name": "Inception Symbiotic Restaked wstETH",
+        "decimals": 18,
+        "logoURI": "/images/tokens/1/0x8e0789d39db454dbe9f4a77acef6dc7c69f6d552.svg"
+      },
+      "ibtRoutes": {
+        "withdraw": false,
+        "redeem": false
+      }
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0xeaB93Ec2A82eB235a1f426Accd9254f2aB32A99d",
+    "name": "Spectra ERC4626 Wrapper: Amphor Symbiotic LRT (WSTETH)",
+    "symbol": "sw-amphrLRT",
+    "decimals": 18,
+    "logoURI": "/images/tokens/1/0x06824c27c8a0dbde5f72f770ec82e3c0fd4dcec3.png",
+    "extensions": {
+      "underlying": "0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0",
+      "vault": {
+        "chainId": 1,
+        "address": "0x06824C27C8a0DbDe5F72f770eC82e3c0FD4DcEc3",
+        "name": "Amphor Symbiotic LRT (WSTETH)",
+        "symbol": "amphrLRT",
+        "decimals": 18,
+        "logoURI": "/images/tokens/1/0x06824c27c8a0dbde5f72f770ec82e3c0fd4dcec3.png"
+      },
+      "ibtRoutes": {
+        "withdraw": false,
+        "redeem": false
+      },
+      "protocol": "Amphor"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0xB10a1b53f11aA969bc79dc86948de489e5996f8D",
+    "name": "Spectra ERC4626 Rewards: Kernel Restaked ETH",
+    "symbol": "sr-krETH",
+    "decimals": 18,
+    "logoURI": "/images/tokens/1/0xf02c96dbbb92dc0325ad52b3f9f2b951f972bf00.png",
+    "extensions": {
+      "underlying": "0xf02c96dbbb92dc0325ad52b3f9f2b951f972bf00",
+      "vault": {
+        "chainId": 1,
+        "address": "0xf02c96dbbb92dc0325ad52b3f9f2b951f972bf00",
+        "name": "Kernel Restaked ETH",
+        "symbol": "krETH",
+        "decimals": 18,
+        "logoURI": "/images/tokens/1/0xf02c96dbbb92dc0325ad52b3f9f2b951f972bf00.png"
+      },
+      "protocol": "Kernel"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0xc1D7A926635081D24F232969379556e08d87e10A",
+    "name": "Spectra ERC4626 Wrapper: Gyroscope ECLP paUSD/GYD Aura Deposit Vault",
+    "symbol": "sw-auraECLP-paUSD-GYD-vault",
+    "decimals": 18,
+    "extensions": {
+      "underlying": "0xae2D97CbBc13B67988ECEd2abA0F6939655eD3De",
+      "vault": {
+        "chainId": 1,
+        "address": "0x01B8209e20B999eE3271A880fA0Ef17cd3eFB1F6",
+        "name": "Gyroscope ECLP paUSD/GYD Aura Deposit Vault",
+        "symbol": "auraECLP-paUSD-GYD-vault",
+        "decimals": 18
+      },
+      "ibtRoutes": {
+        "wrap": false,
+        "unwrap": false
+      },
+      "protocol": "Aura"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0xBDE752ef69880c00a795D88438040b8f737Eb254",
+    "name": "Spectra ERC4626 Wrapper: uniBTC",
+    "symbol": "sw-uniBTC",
+    "decimals": 8,
+    "logoURI": "/images/tokens/1/0x004e9c3ef86bc1ca1f0bb5c7662861ee93350568.svg",
+    "extensions": {
+      "underlying": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+      "vault": {
+        "chainId": 1,
+        "address": "0x004E9C3EF86bc1ca1f0bB5C7662861Ee93350568",
+        "name": "uniBTC",
+        "symbol": "uniBTC",
+        "decimals": 8,
+        "logoURI": "/images/tokens/1/0x004e9c3ef86bc1ca1f0bb5c7662861ee93350568.svg"
+      },
+      "ibtRoutes": {
+        "withdraw": false,
+        "redeem": false
+      },
+      "protocol": "Bedrock"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0x04a40EF57eB9d6265b90367dDbBA17A6916a45DF",
+    "name": "Spectra ERC4626 Rewards: Kernel Staked ETH",
+    "symbol": "sr-ksETH",
+    "decimals": 18,
+    "logoURI": "/images/tokens/1/0x513d27c94c0d81eed9dc2a88b4531a69993187cf.png",
+    "extensions": {
+      "underlying": "0x513d27c94c0d81eed9dc2a88b4531a69993187cf",
+      "vault": {
+        "chainId": 1,
+        "address": "0x513d27c94c0d81eed9dc2a88b4531a69993187cf",
+        "name": "Kernel Staked ETH",
+        "symbol": "ksETH",
+        "decimals": 18,
+        "logoURI": "/images/tokens/1/0x513d27c94c0d81eed9dc2a88b4531a69993187cf.png"
+      },
+      "protocol": "Kernel"
+    }
+  },
+  {
+    "address": "0x2811B38F354d317716C0D35C3Cfb9825b6BAC642",
+    "chainId": 1,
+    "name": "Spectra ERC4626 Wrapper: Relend USDC",
+    "symbol": "sw-reUSDC",
+    "decimals": 18,
+    "logoURI": "/images/tokens/1/0x0f359fd18bda75e9c49bc027e7da59a4b01bf32a.svg",
+    "extensions": {
+      "underlying": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+      "protocol": "Morpho (Relend)",
+      "vault": {
+        "chainId": 1,
+        "address": "0x0F359FD18BDa75e9c49bC027E7da59a4b01BF32a",
+        "symbol": "reUSDC",
+        "name": "Relend USDC",
+        "decimals": 18,
+        "logoURI": "/images/tokens/1/0x0f359fd18bda75e9c49bc027e7da59a4b01bf32a.svg"
+      }
+    }
+  },
+  {
+    "address": "0x1C77c5B76f02eD1538D5Af95A3B1f88e55178D2f",
+    "chainId": 1,
+    "name": "Spectra ERC4626 Wrapper: Level USD",
+    "symbol": "sw-lvlUSD",
+    "decimals": 18,
+    "logoURI": "/images/tokens/1/0x7c1156e515aa1a2e851674120074968c905aaf37.svg",
+    "extensions": {
+      "underlying": "0x7C1156E515aA1A2E851674120074968C905aAF37",
+      "protocol": "Level",
+      "vault": {
+        "address": "0x7c1156e515aa1a2e851674120074968c905aaf37",
+        "chainId": 1,
+        "name": "Level USD",
+        "symbol": "lvlUSD",
+        "decimals": 18,
+        "logoURI": "/images/tokens/1/0x7c1156e515aa1a2e851674120074968c905aaf37.svg"
+      }
+    }
+  },
+  {
+    "address": "0xb7C5eb1271432f725a8f182DC00eaeE13982Bf46",
+    "chainId": 1,
+    "name": "Spectra ERC4626 Wrapper: Static RWA ZeroLend USDC",
+    "symbol": "sw-statz0RWAUSDC",
+    "decimals": 18,
+    "logoURI": "/images/tokens/1/0x942bed98560e9b2aa0d4ec76bbda7a7e55f6b2d6.svg",
+    "extensions": {
+      "underlying": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+      "protocol": "ZeroLend",
+      "vault": {
+        "chainId": 1,
+        "address": "0x942bed98560e9b2Aa0d4Ec76BbDa7a7E55f6B2D6",
+        "symbol": "statz0RWAUSDC",
+        "name": "Static RWA ZeroLend USDC",
+        "decimals": 6,
+        "logoURI": "/images/tokens/1/0x942bed98560e9b2aa0d4ec76bbda7a7e55f6b2d6.svg"
+      }
+    }
+  },
+  {
+    "address": "0xcBE00E807E49df75aA4d4557eBA083a34cC149DE",
+    "chainId": 1,
+    "name": "Spectra ERC4626 Wrapper: Staked Stream USD",
+    "symbol": "sw-xUSD",
+    "decimals": 6,
+    "logoURI": "/images/tokens/1/0xe2fc85bfb48c4cf147921fbe110cf92ef9f26f94.svg",
+    "extensions": {
+      "underlying": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      "protocol": "Stream Finance",
+      "vault": {
+        "chainId": 1,
+        "address": "0xE2Fc85BfB48C4cF147921fBE110cf92Ef9f26F94",
+        "symbol": "xUSD",
+        "name": "Staked Stream USD",
+        "decimals": 6,
+        "logoURI": "/images/tokens/1/0xe2fc85bfb48c4cf147921fbe110cf92ef9f26f94.svg"
+      },
+      "ibtRoutes": {
+        "deposit": false,
+        "mint": false,
+        "withdraw": false,
+        "redeem": false,
+        "wrap": true,
+        "unwrap": true
+      }
+    }
+  },
+  {
+    "address": "0x22cdf5fd02B76339126f79cC601a1Be6fE9c2701",
+    "chainId": 1,
+    "name": "Spectra ERC4626 Wrapper: ether.fi BTC",
+    "symbol": "sw-eBTC",
+    "decimals": 8,
+    "logoURI": "/images/tokens/1/0x657e8c867d8b37dcc18fa4caead9c45eb088c642.png",
+    "extensions": {
+      "underlying": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
+      "protocol": "ether.fi",
+      "vault": {
+        "chainId": 1,
+        "address": "0x657e8C867D8B37dCC18fA4Caead9C45EB088C642",
+        "symbol": "eBTC",
+        "name": "ether.fi BTC",
+        "decimals": 8,
+        "logoURI": "/images/tokens/1/0x657e8c867d8b37dcc18fa4caead9c45eb088c642.png"
+      }
+    }
+  },
+  {
+    "address": "0xc8695214586aABb3DB8CDce60Db1cdBa0d247D5F",
+    "chainId": 1,
+    "name": "Spectra ERC4626 Wrapper: EVK Vault eUSDC-19",
+    "symbol": "sw-eUSDC-19",
+    "decimals": 18,
+    "logoURI": "/images/tokens/1/0xcbc9b61177444a793b85442d3a953b90f6170b7d.svg",
+    "extensions": {
+      "underlying": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+      "protocol": "Euler (Resolv)",
+      "vault": {
+        "chainId": 1,
+        "address": "0xcBC9B61177444A793B85442D3a953B90f6170b7D",
+        "symbol": "eUSDC-19",
+        "name": "EVK Vault eUSDC-19",
+        "decimals": 6,
+        "logoURI": "/images/tokens/1/0xcbc9b61177444a793b85442d3a953b90f6170b7d.svg"
+      }
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0x1B56E30b6efD7cfDe46eE3E29B851b9094D5810B",
+    "name": "weETH [points only]",
+    "symbol": "weETH [points only]",
+    "decimals": 18,
+    "logoURI": "/images/tokens/10/0x5a7facb970d094b6c7ff1df0ea68d99e6e73cbff.svg",
+    "extensions": {
+      "underlying": "0x5a7facb970d094b6c7ff1df0ea68d99e6e73cbff",
+      "vault": {
+        "chainId": 10,
+        "address": "0x5a7facb970d094b6c7ff1df0ea68d99e6e73cbff",
+        "name": "Wrapped eETH",
+        "symbol": "weETH",
+        "decimals": 18,
+        "logoURI": "/images/tokens/10/0x5a7facb970d094b6c7ff1df0ea68d99e6e73cbff.svg"
+      },
+      "protocol": "Ether.fi"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0x6e0dccf49D095F8ea8920A8aF03D236FA167B7E0",
+    "name": "Spectra ERC4626 Wrapper: uniBTC",
+    "symbol": "sw-uniBTC",
+    "decimals": 8,
+    "logoURI": "/images/tokens/10/0x93919784c523f39cacaa98ee0a9d96c3f32b593e.svg",
+    "extensions": {
+      "underlying": "0x68f180fcCe6836688e9084f035309E29Bf0A2095",
+      "vault": {
+        "chainId": 10,
+        "address": "0x93919784C523f39CACaa98Ee0a9d96c3F32b593e",
+        "name": "uniBTC",
+        "symbol": "uniBTC",
+        "decimals": 8,
+        "logoURI": "/images/tokens/10/0x93919784c523f39cacaa98ee0a9d96c3f32b593e.svg"
+      },
+      "ibtRoutes": {
+        "withdraw": false,
+        "redeem": false
+      },
+      "protocol": "Bedrock"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0x7e1aa5d385c17a68bdfc7ae38b4b1fb0c13dc420",
+    "name": "Spectra ERC4626 Rewards: Reward Cow Velo Op ezETH-wstETH",
+    "symbol": "ezETH-wstETH [CLM Pool]",
+    "decimals": 18,
+    "logoURI": "/images/tokens/10/0x64831f82e3543006413897c03f59518cecae02b4.svg",
+    "extensions": {
+      "underlying": "0x823f2b0aa1d54c38fe149ee119c6d7845e93593d",
+      "vault": {
+        "chainId": 10,
+        "address": "0x64831f82e3543006413897c03f59518cecae02b4",
+        "name": "Reward Cow Velo Op ezETH-wstETH",
+        "symbol": "ezETH-wstETH [CLM Pool]",
+        "decimals": 18,
+        "logoURI": "/images/tokens/10/0x64831f82e3543006413897c03f59518cecae02b4.svg"
+      },
+      "protocol": "Beefy"
+    }
+  },
+  {
+    "chainId": 42161,
+    "address": "0x1C5Ecca381961D92b6aAF7bC1656C37021b0F1D9",
+    "name": "Spectra ERC4626 Wrapper: GM Wrapped Ether",
+    "symbol": "sw-gmWrapped Ether",
+    "decimals": 18,
+    "logoURI": "/images/tokens/42161/0x450bb6774dd8a756274e0ab4107953259d2ac541.svg",
+    "extensions": {
+      "underlying": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
+      "vault": {
+        "chainId": 42161,
+        "address": "0x450bb6774dd8a756274e0ab4107953259d2ac541",
+        "name": "GMX Market gmETH",
+        "symbol": "gmETH",
+        "decimals": 18,
+        "logoURI": "/images/tokens/42161/0x450bb6774dd8a756274e0ab4107953259d2ac541.svg"
+      },
+      "ibtRoutes": {
+        "deposit": false,
+        "mint": false,
+        "withdraw": false,
+        "redeem": false
+      },
+      "protocol": "GMX"
+    }
+  },
+  {
+    "chainId": 42161,
+    "address": "0x7E32f4C44E22aB20df287f8a15eB6C0F54dA6E30",
+    "name": "Spectra ERC4626 Wrapper: GM Wrapped BTC",
+    "symbol": "sw-gmWrapped BTC",
+    "decimals": 18,
+    "logoURI": "/images/tokens/42161/0x7c11f78ce78768518d743e81fdfa2f860c6b9a77.svg",
+    "extensions": {
+      "underlying": "0x2f2a2543B76A4166549F7aaB2e75Bef0aefC5B0f",
+      "vault": {
+        "chainId": 42161,
+        "address": "0x7C11F78Ce78768518D743E81Fdfa2F860C6b9A77",
+        "name": "GMX Market gmBTC",
+        "symbol": "gmBTC",
+        "decimals": 18,
+        "logoURI": "/images/tokens/42161/0x7c11f78ce78768518d743e81fdfa2f860c6b9a77.svg"
+      },
+      "ibtRoutes": {
+        "deposit": false,
+        "mint": false,
+        "withdraw": false,
+        "redeem": false
+      },
+      "protocol": "GMX"
+    }
+  },
+  {
+    "address": "0x916cD56a5FBBeae186f488F4DB83b00C103B46e7",
+    "chainId": 146,
+    "name": "Spectra ERC4626 Wrapper: Wrapped stkscETH",
+    "symbol": "sw-wstkscETH",
+    "decimals": 18,
+    "logoURI": "/images/tokens/146/0xe8a41c62bb4d5863c6eadc96792cfe90a1f37c47.svg",
+    "extensions": {
+      "underlying": "0x455d5f11Fea33A8fa9D3e285930b478B6bF85265",
+      "protocol": "Rings",
+      "vault": {
+        "chainId": 146,
+        "address": "0xE8a41c62BB4d5863C6eadC96792cFE90A1f37C47",
+        "symbol": "wstkscETH",
+        "name": "Wrapped stkscETH",
+        "decimals": 18,
+        "logoURI": "/images/tokens/146/0xe8a41c62bb4d5863c6eadc96792cfe90a1f37c47.svg"
+      },
+      "ibtRoutes": {
+        "withdraw": false,
+        "redeem": false
+      }
+    }
+  },
+  {
+    "address": "0x248f43B622cE2F35A14dB3FC528284730b619cD5",
+    "chainId": 146,
+    "name": "Spectra ERC4626 Wrapper: Beets Staked Sonic",
+    "symbol": "sw-stS",
+    "decimals": 18,
+    "logoURI": "/images/tokens/146/0xe5da20f15420ad15de0fa650600afc998bbe3955.svg",
+    "extensions": {
+      "underlying": "0x039e2fB66102314Ce7b64Ce5Ce3E5183bc94aD38",
+      "protocol": "Beets",
+      "vault": {
+        "chainId": 146,
+        "address": "0xE5DA20F15420aD15DE0fa650600aFc998bbE3955",
+        "symbol": "stS",
+        "name": "Beets Staked Sonic",
+        "decimals": 18,
+        "logoURI": "/images/tokens/146/0xe5da20f15420ad15de0fa650600afc998bbe3955.svg"
+      }
+    }
+  },
+  {
+    "address": "0x64FCC3A02eeEba05Ef701b7eed066c6ebD5d4E51",
+    "chainId": 146,
+    "name": "Spectra ERC4626 Wrapper: Wrapped stkscETH",
+    "symbol": "sw-wstkscETH",
+    "decimals": 18,
+    "logoURI": "/images/tokens/146/0xe8a41c62bb4d5863c6eadc96792cfe90a1f37c47.svg",
+    "extensions": {
+      "underlying": "0x455d5f11Fea33A8fa9D3e285930b478B6bF85265",
+      "protocol": "Rings",
+      "vault": {
+        "chainId": 146,
+        "address": "0xE8a41c62BB4d5863C6eadC96792cFE90A1f37C47",
+        "symbol": "wstkscETH",
+        "name": "Wrapped stkscETH",
+        "decimals": 18,
+        "logoURI": "/images/tokens/146/0xe8a41c62bb4d5863c6eadc96792cfe90a1f37c47.svg"
+      }
+    }
+  },
+  {
+    "address": "0x51BdbfCd7656e2C25Ad1BC8037F70572B7142eCC",
+    "chainId": 146,
+    "name": "Spectra ERC4626 Wrapper: Silo Finance Borrowable wS Deposit, SiloId: 22",
+    "symbol": "sw-bwS-22",
+    "decimals": 18,
+    "logoURI": "/images/tokens/146/0x112380065a2cb73a5a429d9ba7368cc5e8434595.svg",
+    "extensions": {
+      "underlying": "0x039e2fB66102314Ce7b64Ce5Ce3E5183bc94aD38",
+      "protocol": "Silo",
+      "vault": {
+        "chainId": 146,
+        "address": "0x112380065A2cb73A5A429d9Ba7368cc5e8434595",
+        "symbol": "bwS-22",
+        "name": "Silo Finance Borrowable wS Deposit, SiloId: 22",
+        "decimals": 18,
+        "logoURI": "/images/tokens/146/0x112380065a2cb73a5a429d9ba7368cc5e8434595.svg"
+      }
+    }
+  },
+  {
+    "address": "0xC4Dc44837CAf8A53Bb5fBcd4Be42089CA03a37F1",
+    "chainId": 146,
+    "name": "Spectra ERC4626 Wrapper: Wrapped stkscUSD",
+    "symbol": "sw-wstkscUSD",
+    "decimals": 6,
+    "logoURI": "/images/tokens/146/0x9fb76f7ce5fceaa2c42887ff441d46095e494206.svg",
+    "extensions": {
+      "underlying": "0x4D85bA8c3918359c78Ed09581E5bc7578ba932ba",
+      "protocol": "Rings",
+      "vault": {
+        "chainId": 146,
+        "address": "0x9fb76f7ce5FCeAA2C42887ff441D46095E494206",
+        "symbol": "wstkscUSD",
+        "name": "Wrapped stkscUSD",
+        "decimals": 6,
+        "logoURI": "/images/tokens/146/0x9fb76f7ce5fceaa2c42887ff441d46095e494206.svg"
+      },
+      "ibtRoutes": {
+        "withdraw": false,
+        "redeem": false
+      }
+    }
+  },
+  {
+    "address": "0x2c06c9D02a3455F1B22B9365EB76Bf558dB1B947",
+    "chainId": 146,
+    "name": "Spectra ERC4626 Wrapper: Wrapped stkscBTC",
+    "symbol": "sw-wstkscBTC",
+    "decimals": 8,
+    "logoURI": "/images/tokens/146/0xdb58c4db1a0f45dda3d2f8e44c3300bb6510c866.svg",
+    "extensions": {
+      "underlying": "0xD0851030C94433C261B405fEcbf1DEC5E15948d0",
+      "protocol": "Rings",
+      "vault": {
+        "chainId": 146,
+        "address": "0xDb58c4DB1a0f45DDA3d2F8e44C3300BB6510c866",
+        "symbol": "wstkscBTC",
+        "name": "Wrapped stkscBTC",
+        "decimals": 8,
+        "logoURI": "/images/tokens/146/0xdb58c4db1a0f45dda3d2f8e44c3300bb6510c866.svg"
+      }
+    }
+  },
+  {
+    "address": "0x3034780DE1eA0855AcaAD56259fd73532374Da22",
+    "chainId": 146,
+    "name": "Spectra ERC4626 Wrapper: Silo Finance Borrowable USDC.e Deposit, SiloId: 20",
+    "symbol": "sw-bUSDC.e-20",
+    "decimals": 18,
+    "logoURI": "/images/tokens/146/0x322e1d5384aa4ed66aeca770b95686271de61dc3.svg",
+    "extensions": {
+      "underlying": "0x29219dd400f2Bf60E5a23d13Be72B486D4038894",
+      "protocol": "Silo",
+      "vault": {
+        "chainId": 146,
+        "address": "0x322e1d5384aa4ED66AeCa770B95686271de61dc3",
+        "symbol": "bUSDC.e-20",
+        "name": "Silo Finance Borrowable USDC.e Deposit, SiloId: 20",
+        "decimals": 6,
+        "logoURI": "/images/tokens/146/0x322e1d5384aa4ed66aeca770b95686271de61dc3.svg"
+      }
+    }
+  },
+  {
+    "address": "0x7e32f4c44e22ab20df287f8a15eb6c0f54da6e30",
+    "chainId": 43111,
+    "name": "Spectra ERC4626 Wrapper: BitFi Bitcoin",
+    "symbol": "sw-bfBTC",
+    "decimals": 8,
+    "logoURI": "/images/tokens/43111/0x623f2774d9f27b59bc6b954544487532ce79d9df.png",
+    "extensions": {
+      "underlying": "0xAA40c0c7644e0b2B224509571e10ad20d9C4ef28",
+      "protocol": "BitFi",
+      "vault": {
+        "chainId": 43111,
+        "address": "0x623F2774d9f27B59bc6b954544487532CE79d9DF",
+        "symbol": "bfBTC",
+        "name": "BitFi Bitcoin",
+        "decimals": 8,
+        "logoURI": "/images/tokens/43111/0x623f2774d9f27b59bc6b954544487532ce79d9df.png"
+      }
+    }
+  },
+  {
+    "address": "0x2B0229fEB54Bad91B46B3E941092968f3454F835",
+    "chainId": 43111,
+    "name": "Spectra ERC4626 Wrapper: uniBTC",
+    "symbol": "sw-uniBTC",
+    "decimals": 8,
+    "logoURI": "/images/tokens/43111/0xf9775085d726e782e83585033b58606f7731ab18.svg",
+    "extensions": {
+      "underlying": "0xF9775085d726E782E83585033B58606f7731AB18",
+      "protocol": "Bedrock",
+      "vault": {
+        "chainId": 43111,
+        "address": "0xF9775085d726E782E83585033B58606f7731AB18",
+        "symbol": "uniBTC",
+        "name": "uniBTC",
+        "decimals": 8,
+        "logoURI": "/images/tokens/43111/0xf9775085d726e782e83585033b58606f7731ab18.svg"
+      }
+    }
+  },
+  {
+    "address": "0xA864cFdC7947420280D470815410771d2932C93e",
+    "chainId": 43111,
+    "name": "Spectra ERC4626 Wrapper: brBTC",
+    "symbol": "sw-brBTC",
+    "decimals": 8,
+    "logoURI": "/images/tokens/43111/0x93919784c523f39cacaa98ee0a9d96c3f32b593e.svg",
+    "extensions": {
+      "underlying": "0x93919784C523f39CACaa98Ee0a9d96c3F32b593e",
+      "protocol": "Bedrock",
+      "vault": {
+        "chainId": 43111,
+        "address": "0x93919784C523f39CACaa98Ee0a9d96c3F32b593e",
+        "symbol": "brBTC",
+        "name": "brBTC",
+        "decimals": 8,
+        "logoURI": "/images/tokens/43111/0x93919784c523f39cacaa98ee0a9d96c3f32b593e.svg"
+      }
+    }
+  },
+  {
+    "address": "0xFF909a1fAd2473Ac5E819eff6239BA70EC4d5215",
+    "chainId": 43111,
+    "name": "Spectra ERC4626 Wrapper: Merlin BTC",
+    "symbol": "sw-M-BTC",
+    "decimals": 18,
+    "logoURI": "/images/tokens/43111/0x9bfa177621119e64cecbeabe184ab9993e2ef727.svg",
+    "extensions": {
+      "underlying": "0x9BFA177621119e64CecbEabE184ab9993E2ef727",
+      "protocol": "Merlin",
+      "vault": {
+        "chainId": 43111,
+        "address": "0x9BFA177621119e64CecbEabE184ab9993E2ef727",
+        "symbol": "M-BTC",
+        "name": "Merlin BTC",
+        "decimals": 18,
+        "logoURI": "/images/tokens/43111/0x9bfa177621119e64cecbeabe184ab9993e2ef727.svg"
+      }
+    }
+  },
+  {
+    "address": "0xe81c0e9a183A89e249A56Acaf8f75862596a429f",
+    "chainId": 43111,
+    "name": "Spectra ERC4626 Wrapper: Sumerian BTC",
+    "symbol": "sw-suBTC",
+    "decimals": 18,
+    "logoURI": "/images/tokens/43111/0xe85411c030fb32a9d8b14bbbc6cb19417391f711.svg",
+    "extensions": {
+      "underlying": "0xe85411C030fB32A9D8b14Bbbc6CB19417391F711",
+      "protocol": "summer.money",
+      "vault": {
+        "chainId": 43111,
+        "address": "0xe85411C030fB32A9D8b14Bbbc6CB19417391F711",
+        "symbol": "suBTC",
+        "name": "Sumerian BTC",
+        "decimals": 18,
+        "logoURI": "/images/tokens/43111/0xe85411c030fb32a9d8b14bbbc6cb19417391f711.svg"
+      }
+    }
+  }
+]

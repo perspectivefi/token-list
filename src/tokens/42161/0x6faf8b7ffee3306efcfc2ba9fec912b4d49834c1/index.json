@@ -1,0 +1,12 @@
+{
+  "chainId": 42161,
+  "address": "0x6faf8b7ffee3306efcfc2ba9fec912b4d49834c1",
+  "name": "USDC-A yVault",
+  "symbol": "yvUSDC-A",
+  "decimals": 6,
+  "logoURI": "/images/tokens/42161/0x6faf8b7ffee3306efcfc2ba9fec912b4d49834c1.svg",
+  "extensions": {
+    "underlying": "0xaf88d065e77c8cc2239327c5edb3a432268e5831",
+    "protocol": "Yearn"
+  }
+}

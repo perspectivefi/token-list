@@ -1,0 +1,13 @@
+{
+  "chainId": 1,
+  "address": "0x33d7e5827eb62628c093d88ac2531ddac6f6e396",
+  "name": "FARM-APW/ETH",
+  "symbol": "FARM-APW/ETH",
+  "decimals": 18,
+  "logoURI": "/images/tokens/1/0x33d7e5827eb62628c093d88ac2531ddac6f6e396.svg",
+  "extensions": {
+    "underlying": "0x093254005743b7af89e24f645730ba2dd8441333",
+    "protocol": "Harvest (Balancer)",
+    "externalLink": "https://app.harvest.finance/ethereum/0x33D7E5827eB62628c093D88aC2531ddaC6f6E396"
+  }
+}

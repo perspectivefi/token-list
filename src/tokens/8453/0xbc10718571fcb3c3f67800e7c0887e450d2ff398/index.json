@@ -1,0 +1,12 @@
+{
+  "address": "0xbc10718571fcb3c3f67800e7c0887e450d2ff398",
+  "chainId": 8453,
+  "name": "Wrapped Senior ArcadiaV2 USD Coin",
+  "symbol": "wsrarcV2USDC",
+  "decimals": 6,
+  "logoURI": "/images/tokens/8453/0xbc10718571fcb3c3f67800e7c0887e450d2ff398.svg",
+  "extensions": {
+    "underlying": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+    "protocol": "Arcadia"
+  }
+}

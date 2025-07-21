@@ -1,0 +1,13 @@
+{
+  "address": "0x29219dd400f2bf60e5a23d13be72b486d4038894",
+  "chainId": 146,
+  "name": "USDC",
+  "symbol": "USDC",
+  "decimals": 6,
+  "logoURI": "/images/tokens/146/0x29219dd400f2bf60e5a23d13be72b486d4038894.svg",
+  "extensions": {
+    "tags": [
+      "stable"
+    ]
+  }
+}

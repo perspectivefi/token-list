@@ -1,0 +1,13 @@
+{
+  "chainId": 1,
+  "address": "0x65d72aa8da931f047169112fcf34f52dbaae7d18",
+  "name": "f(x) rUSD",
+  "symbol": "rUSD",
+  "decimals": 18,
+  "logoURI": "/images/tokens/1/0x65d72aa8da931f047169112fcf34f52dbaae7d18.svg",
+  "extensions": {
+    "tags": [
+      "stable"
+    ]
+  }
+}

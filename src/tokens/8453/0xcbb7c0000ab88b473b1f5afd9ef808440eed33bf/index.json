@@ -1,0 +1,12 @@
+{
+  "address": "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf",
+  "chainId": 8453,
+  "name": "Coinbase Wrapped BTC",
+  "symbol": "cbBTC",
+  "decimals": 8,
+  "extensions": {
+    "protocol": "Harvest (Moonwell)",
+    "externalLink": "https://app.harvest.finance/base/0xc5dc397B1dB51dA30dC9F3aC7084bBBA1EFbe249"
+  },
+  "logoURI": "/images/tokens/8453/0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf.svg"
+}

@@ -1,0 +1,12 @@
+{
+  "chainId": 11155111,
+  "address": "0x4Ef8941Ed563b1CA5D126b02fD4C0f103F7cd46c",
+  "name": "Spectra ETH",
+  "symbol": "sETH",
+  "decimals": 18,
+  "logoURI": "/images/tokens/11155111/0x4ef8941ed563b1ca5d126b02fd4c0f103f7cd46c.svg",
+  "extensions": {
+    "faucetAddress": "0xCc88435299eb800b5C34E3C68b309D3ed8FA820C",
+    "underlying": "0x7F1ca0535F6f44Dc443a1C67001920338e50DBeE"
+  }
+}

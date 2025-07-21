@@ -1,0 +1,11 @@
+{
+  "address": "0xdbc5192a6b6ffee7451301bb4ec312f844f02b4a",
+  "chainId": 43114,
+  "name": "Unity",
+  "symbol": "UTY",
+  "decimals": 18,
+  "logoURI": "/images/tokens/43114/0xdbc5192a6b6ffee7451301bb4ec312f844f02b4a.png",
+  "extensions": {
+    "protocol": "XSY.fi"
+  }
+}

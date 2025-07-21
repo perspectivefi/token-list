@@ -1,0 +1,12 @@
+{
+  "address": "0x60a3e35cc302bfa44cb288bc5a4f316fdb1adb42",
+  "chainId": 8453,
+  "name": "EURC",
+  "symbol": "EURC",
+  "decimals": 6,
+  "extensions": {
+    "protocol": "Harvest (Moonwell)",
+    "externalLink": "https://app.harvest.finance/base/0xc101921178b843fDcB6d512E4c30CF44e10FA51B?"
+  },
+  "logoURI": "/images/tokens/8453/0x60a3e35cc302bfa44cb288bc5a4f316fdb1adb42.svg"
+}

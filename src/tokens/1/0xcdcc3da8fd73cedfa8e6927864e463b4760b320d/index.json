@@ -1,0 +1,12 @@
+{
+  "chainId": 1,
+  "address": "0xcdcc3da8fd73cedfa8e6927864e463b4760b320d",
+  "name": "agETH-LP",
+  "symbol": "agETH-LP",
+  "decimals": 18,
+  "logoURI": "/images/tokens/1/0xcdcc3da8fd73cedfa8e6927864e463b4760b320d.svg",
+  "extensions": {
+    "underlying": "0x6010676bc2534652ad1ef5fa8073dcf9ad7ebfbe",
+    "protocol": "Pendle (Penpie)"
+  }
+}

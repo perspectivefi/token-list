@@ -1,0 +1,13 @@
+{
+  "chainId": 1,
+  "address": "0x856c4Efb76C1D1AE02e20CEB03A2A6a08b0b8dC3",
+  "name": "Origin Ether",
+  "symbol": "OETH",
+  "decimals": 18,
+  "logoURI": "/images/tokens/1/0x856c4efb76c1d1ae02e20ceb03a2a6a08b0b8dc3.png",
+  "extensions": {
+    "tags": [
+      "eth"
+    ]
+  }
+}

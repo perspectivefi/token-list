@@ -1,0 +1,13 @@
+{
+  "address": "0xde17a000ba631c5d7c2bd9fb692efea52d90dee2",
+  "chainId": 1,
+  "name": "Ultimate Synthetic Delta Neutral",
+  "symbol": "USDN",
+  "decimals": 18,
+  "logoURI": "/images/tokens/1/0xde17a000ba631c5d7c2bd9fb692efea52d90dee2.svg",
+  "extensions": {
+    "tags": [
+      "stable"
+    ]
+  }
+}

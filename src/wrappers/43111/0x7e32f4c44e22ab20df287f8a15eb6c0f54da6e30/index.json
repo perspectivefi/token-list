@@ -1,0 +1,20 @@
+{
+  "address": "0x7e32f4c44e22ab20df287f8a15eb6c0f54da6e30",
+  "chainId": 43111,
+  "name": "Spectra ERC4626 Wrapper: BitFi Bitcoin",
+  "symbol": "sw-bfBTC",
+  "decimals": 8,
+  "logoURI": "/images/tokens/43111/0x623f2774d9f27b59bc6b954544487532ce79d9df.png",
+  "extensions": {
+    "underlying": "0xAA40c0c7644e0b2B224509571e10ad20d9C4ef28",
+    "protocol": "BitFi",
+    "vault": {
+      "chainId": 43111,
+      "address": "0x623F2774d9f27B59bc6b954544487532CE79d9DF",
+      "symbol": "bfBTC",
+      "name": "BitFi Bitcoin",
+      "decimals": 8,
+      "logoURI": "/images/tokens/43111/0x623f2774d9f27b59bc6b954544487532ce79d9df.png"
+    }
+  }
+}

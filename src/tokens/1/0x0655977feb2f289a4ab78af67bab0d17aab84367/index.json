@@ -1,0 +1,13 @@
+{
+  "address": "0x0655977feb2f289a4ab78af67bab0d17aab84367",
+  "chainId": 1,
+  "name": "Savings crvUSD",
+  "symbol": "scrvUSD",
+  "decimals": 18,
+  "logoURI": "/images/tokens/1/0x0655977feb2f289a4ab78af67bab0d17aab84367.png",
+  "extensions": {
+    "underlying": "0xf939E0A03FB07F59A73314E73794Be0E57ac1b4E",
+    "protocol": "Curve",
+    "externalLink": "https://crvusd.curve.fi/#/ethereum/scrvUSD"
+  }
+}

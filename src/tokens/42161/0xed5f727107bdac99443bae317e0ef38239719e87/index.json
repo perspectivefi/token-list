@@ -1,0 +1,12 @@
+{
+  "chainId": 42161,
+  "address": "0xed5f727107bdac99443bae317e0ef38239719e87",
+  "name": "CIAN strategy pool",
+  "symbol": "ciWeETH",
+  "decimals": 18,
+  "logoURI": "/images/tokens/42161/0xed5f727107bdac99443bae317e0ef38239719e87.svg",
+  "extensions": {
+    "underlying": "0x04c0599ae5a44757c0af6f9ec3b93da8976c150a",
+    "protocol": "CIAN"
+  }
+}

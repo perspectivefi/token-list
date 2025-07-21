@@ -1,0 +1,26 @@
+{
+  "chainId": 42161,
+  "address": "0x1C5Ecca381961D92b6aAF7bC1656C37021b0F1D9",
+  "name": "Spectra ERC4626 Wrapper: GM Wrapped Ether",
+  "symbol": "sw-gmWrapped Ether",
+  "decimals": 18,
+  "logoURI": "/images/tokens/42161/0x450bb6774dd8a756274e0ab4107953259d2ac541.svg",
+  "extensions": {
+    "underlying": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
+    "vault": {
+      "chainId": 42161,
+      "address": "0x450bb6774dd8a756274e0ab4107953259d2ac541",
+      "name": "GMX Market gmETH",
+      "symbol": "gmETH",
+      "decimals": 18,
+      "logoURI": "/images/tokens/42161/0x450bb6774dd8a756274e0ab4107953259d2ac541.svg"
+    },
+    "ibtRoutes": {
+      "deposit": false,
+      "mint": false,
+      "withdraw": false,
+      "redeem": false
+    },
+    "protocol": "GMX"
+  }
+}

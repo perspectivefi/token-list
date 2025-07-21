@@ -1,0 +1,12 @@
+{
+  "chainId": 1,
+  "address": "0x37F86e2FB8020fb8Dc53236FDae86f9122B56270",
+  "name": "Gauntlet USDC Core",
+  "symbol": "gtUSDCcore",
+  "decimals": 18,
+  "logoURI": "/images/tokens/1/0x37f86e2fb8020fb8dc53236fdae86f9122b56270.svg",
+  "extensions": {
+    "underlying": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+    "protocol": "Gauntlet"
+  }
+}

@@ -13,8 +13,8 @@ jobs:
             - name: Validate Spectra Tokens
               uses: docker://orrosenblatt/validate-json-action:latest
               env:
-                  INPUT_SCHEMA: src/schema/spectraTokens.schema.json
-                  INPUT_JSONS: src/tokens/spectraTokens.json,src/tokens/erc4626Wrappers.json
+                  INPUT_SCHEMA: src/schema/token.schema.json
+                  INPUT_JSONS: src/tokens/**/*.json,src/wrappers/**/*.json
 
             - name: Validate Protocol List
               uses: docker://orrosenblatt/validate-json-action:latest

@@ -1,0 +1,20 @@
+{
+  "chainId": 10,
+  "address": "0x1B56E30b6efD7cfDe46eE3E29B851b9094D5810B",
+  "name": "weETH [points only]",
+  "symbol": "weETH [points only]",
+  "decimals": 18,
+  "logoURI": "/images/tokens/10/0x5a7facb970d094b6c7ff1df0ea68d99e6e73cbff.svg",
+  "extensions": {
+    "underlying": "0x5a7facb970d094b6c7ff1df0ea68d99e6e73cbff",
+    "vault": {
+      "chainId": 10,
+      "address": "0x5a7facb970d094b6c7ff1df0ea68d99e6e73cbff",
+      "name": "Wrapped eETH",
+      "symbol": "weETH",
+      "decimals": 18,
+      "logoURI": "/images/tokens/10/0x5a7facb970d094b6c7ff1df0ea68d99e6e73cbff.svg"
+    },
+    "protocol": "Ether.fi"
+  }
+}

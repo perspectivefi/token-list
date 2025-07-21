@@ -1,0 +1,12 @@
+{
+  "address": "0xb45ad160634c528Cc3D2926d9807104FA3157305",
+  "chainId": 1,
+  "name": "Staked Dola",
+  "symbol": "sDOLA",
+  "decimals": 18,
+  "logoURI": "/images/tokens/1/0xb45ad160634c528cc3d2926d9807104fa3157305.svg",
+  "extensions": {
+    "underlying": "0x865377367054516e17014CcdED1e7d814EDC9ce4",
+    "protocol": "Inverse Finance"
+  }
+}

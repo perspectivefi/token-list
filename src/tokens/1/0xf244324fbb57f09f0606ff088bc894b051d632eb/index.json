@@ -1,0 +1,12 @@
+{
+  "address": "0xf244324fbb57f09f0606ff088bc894b051d632eb",
+  "chainId": 1,
+  "name": "slvlUSD/lvlUSD",
+  "symbol": "s/lvlUSD",
+  "decimals": 18,
+  "logoURI": "/images/tokens/1/0xf244324fbb57f09f0606ff088bc894b051d632eb.svg",
+  "extensions": {
+    "underlying": "",
+    "protocol": "Yearn (Level)"
+  }
+}

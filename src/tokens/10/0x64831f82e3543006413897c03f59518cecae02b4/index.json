@@ -1,0 +1,13 @@
+{
+  "chainId": 10,
+  "address": "0x64831f82e3543006413897c03f59518cecae02b4",
+  "name": "Reward Cow Velo Op ezETH-wstETH",
+  "symbol": "ezETH-wstETH [CLM Pool]",
+  "decimals": 18,
+  "logoURI": "/images/tokens/10/0x64831f82e3543006413897c03f59518cecae02b4.svg",
+  "extensions": {
+    "tags": [
+      "eth"
+    ]
+  }
+}

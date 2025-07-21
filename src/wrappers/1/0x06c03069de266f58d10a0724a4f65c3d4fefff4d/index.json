@@ -1,0 +1,24 @@
+{
+  "chainId": 1,
+  "address": "0x06c03069de266F58d10A0724a4f65C3D4feFfF4D",
+  "name": "Spectra ERC4626 Wrapper: Amphor Restaked ETH",
+  "symbol": "sw-amphrETH",
+  "decimals": 18,
+  "logoURI": "/images/tokens/1/0x5fd13359ba15a84b76f7f87568309040176167cd.svg",
+  "extensions": {
+    "underlying": "0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0",
+    "vault": {
+      "chainId": 1,
+      "address": "0x5fD13359Ba15A84B76f7F87568309040176167cd",
+      "name": "Amphor Restaked ETH",
+      "symbol": "amphrETH",
+      "decimals": 18,
+      "logoURI": "/images/tokens/1/0x5fd13359ba15a84b76f7f87568309040176167cd.svg"
+    },
+    "ibtRoutes": {
+      "withdraw": false,
+      "redeem": false
+    },
+    "protocol": "Mellow"
+  }
+}

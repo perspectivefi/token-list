@@ -1,0 +1,20 @@
+{
+  "chainId": 8453,
+  "address": "0xee26cB5553Af8229dc79025Db41Ce4dfF1e10241",
+  "name": "Spectra ERC4626 Rewards: Based ETH",
+  "symbol": "sr-bsdETH",
+  "decimals": 18,
+  "logoURI": "/images/tokens/42161/0x450bb6774dd8a756274e0ab4107953259d2ac541.svg",
+  "extensions": {
+    "underlying": "0x4200000000000000000000000000000000000006",
+    "vault": {
+      "chainId": 8453,
+      "address": "0xCb327b99fF831bF8223cCEd12B1338FF3aA322Ff",
+      "name": "Based ETH",
+      "symbol": "bsdETH",
+      "decimals": 18,
+      "logoURI": "/images/tokens/42161/0x450bb6774dd8a756274e0ab4107953259d2ac541.svg"
+    },
+    "protocol": "Reserve"
+  }
+}

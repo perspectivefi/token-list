@@ -1,0 +1,20 @@
+{
+  "address": "0x87FD322a24EaDDFa57fe9BB9B83aB67D236D2ceC",
+  "chainId": 1,
+  "name": "Spectra ERC4626 Wrapper: YieldFi yUSD",
+  "symbol": "sw-yUSD",
+  "decimals": 18,
+  "logoURI": "/images/tokens/1/0x19ebd191f7a24ece672ba13a302212b5ef7f35cb.svg",
+  "extensions": {
+    "underlying": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+    "protocol": "Yield.Fi",
+    "vault": {
+      "address": "0x19ebd191f7a24ece672ba13a302212b5ef7f35cb",
+      "chainId": 1,
+      "name": "YieldFi yUSD",
+      "symbol": "yUSD",
+      "decimals": 18,
+      "logoURI": "/images/tokens/1/0x19ebd191f7a24ece672ba13a302212b5ef7f35cb.svg"
+    }
+  }
+}

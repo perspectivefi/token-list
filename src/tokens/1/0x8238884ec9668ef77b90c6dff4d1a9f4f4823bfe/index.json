@@ -1,0 +1,14 @@
+{
+  "address": "0x8238884ec9668ef77b90c6dff4d1a9f4f4823bfe",
+  "chainId": 1,
+  "name": "OpenEden Open Dollar",
+  "symbol": "USDO",
+  "decimals": 18,
+  "logoURI": "/images/tokens/1/0x8238884ec9668ef77b90c6dff4d1a9f4f4823bfe.svg",
+  "extensions": {
+    "protocol": "OpenEden",
+    "tags": [
+      "stable"
+    ]
+  }
+}

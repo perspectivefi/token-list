@@ -1,0 +1,16 @@
+{
+  "address": "0x580d5e1399157fd0d58218b7a514b60974f2ab01",
+  "chainId": 43114,
+  "name": "Staked UTY",
+  "symbol": "yUTY",
+  "decimals": 18,
+  "logoURI": "/images/tokens/43114/0x580d5e1399157fd0d58218b7a514b60974f2ab01.png",
+  "extensions": {
+    "underlying": "0xDBc5192A6B6FfEe7451301bb4ec312f844F02B4A",
+    "protocol": "XSY.fi",
+    "ibtRoutes": {
+      "redeem": false,
+      "withdraw": false
+    }
+  }
+}

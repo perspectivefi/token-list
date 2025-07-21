@@ -1,0 +1,12 @@
+{
+  "chainId": 42161,
+  "address": "0xc76387330f1614d7e10e045cfcc7c9f7ff2adc1f",
+  "name": "FARM_PENDLE",
+  "symbol": "fPENDLE",
+  "decimals": 18,
+  "logoURI": "/images/tokens/42161/0xc76387330f1614d7e10e045cfcc7c9f7ff2adc1f.svg",
+  "extensions": {
+    "underlying": "0x0c880f6761f1af8d9aa9c466984b80dab9a8c9e8",
+    "protocol": "Harvest (Lodestar)"
+  }
+}

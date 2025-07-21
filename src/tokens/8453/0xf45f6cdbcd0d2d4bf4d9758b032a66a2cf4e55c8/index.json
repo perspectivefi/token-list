@@ -1,0 +1,8 @@
+{
+  "chainId": 8453,
+  "address": "0xf45f6cdbcd0d2d4bf4d9758b032a66a2cf4e55c8",
+  "name": "Stable AMM - USDC/STAR",
+  "symbol": "sAMM-USDC/STAR",
+  "decimals": 18,
+  "logoURI": "/images/tokens/8453/0xf45f6cdbcd0d2d4bf4d9758b032a66a2cf4e55c8.svg"
+}

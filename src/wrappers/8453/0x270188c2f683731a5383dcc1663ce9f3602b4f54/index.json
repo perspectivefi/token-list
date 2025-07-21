@@ -1,0 +1,20 @@
+{
+  "address": "0x270188c2f683731A5383dcc1663Ce9f3602b4F54",
+  "chainId": 8453,
+  "name": "Spectra ERC4626 Wrapper: Static Aave Base USDC",
+  "symbol": "sw-stataBasUSDC",
+  "decimals": 18,
+  "logoURI": "/images/tokens/8453/0x4ea71a20e655794051d1ee8b6e4a3269b13ccacc.svg",
+  "extensions": {
+    "underlying": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+    "protocol": "Aave",
+    "vault": {
+      "chainId": 8453,
+      "address": "0x4EA71A20e655794051D1eE8b6e4A3269B13ccaCc",
+      "symbol": "stataBasUSDC",
+      "name": "Static Aave Base USDC",
+      "decimals": 6,
+      "logoURI": "/images/tokens/8453/0x4ea71a20e655794051d1ee8b6e4a3269b13ccacc.svg"
+    }
+  }
+}

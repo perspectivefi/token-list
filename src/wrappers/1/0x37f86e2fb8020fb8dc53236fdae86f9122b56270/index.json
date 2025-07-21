@@ -1,0 +1,20 @@
+{
+  "chainId": 1,
+  "address": "0x37F86e2FB8020fb8Dc53236FDae86f9122B56270",
+  "name": "Spectra ERC4626 Wrapper: Gauntlet USDC Core",
+  "symbol": "sw-gtUSDCcore",
+  "decimals": 18,
+  "logoURI": "/images/tokens/1/0x8eb67a509616cd6a7c1b3c8c21d48ff57df3d458.svg",
+  "extensions": {
+    "underlying": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+    "vault": {
+      "chainId": 1,
+      "address": "0x8eB67A509616cd6A7c1B3c8C21D48FF57df3d458",
+      "name": "Gauntlet USDC Core",
+      "symbol": "gtUSDCcore",
+      "decimals": 18,
+      "logoURI": "/images/tokens/1/0x8eb67a509616cd6a7c1b3c8c21d48ff57df3d458.svg"
+    },
+    "protocol": "Morpho"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "chainId": 11155111,
+  "address": "0x4711BE390EcE629254192393fEE52595A4d733C9",
+  "name": "Spectra BTC",
+  "symbol": "sBTC",
+  "decimals": 18,
+  "logoURI": "/images/tokens/11155111/0x4711be390ece629254192393fee52595a4d733c9.png",
+  "extensions": {
+    "faucetAddress": "0xA62BA1b39bD9d95c29E3D30548Da425195dc2aa9",
+    "underlying": "0xA7e2FCc6E2e9eA6e24D8e5f62586Cc6466244e2F"
+  }
+}

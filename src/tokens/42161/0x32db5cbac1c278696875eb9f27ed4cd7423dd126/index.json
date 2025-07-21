@@ -1,0 +1,12 @@
+{
+  "chainId": 42161,
+  "address": "0x32db5cbac1c278696875eb9f27ed4cd7423dd126",
+  "name": "FARM_ARB",
+  "symbol": "fARB",
+  "decimals": 18,
+  "logoURI": "/images/tokens/42161/0x32db5cbac1c278696875eb9f27ed4cd7423dd126.svg",
+  "extensions": {
+    "underlying": "0x912ce59144191c1204e64559fe8253a0e49e6548",
+    "protocol": "Harvest (Lodestar)"
+  }
+}

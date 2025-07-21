@@ -1,0 +1,24 @@
+{
+  "chainId": 10,
+  "address": "0x6e0dccf49D095F8ea8920A8aF03D236FA167B7E0",
+  "name": "Spectra ERC4626 Wrapper: uniBTC",
+  "symbol": "sw-uniBTC",
+  "decimals": 8,
+  "logoURI": "/images/tokens/10/0x93919784c523f39cacaa98ee0a9d96c3f32b593e.svg",
+  "extensions": {
+    "underlying": "0x68f180fcCe6836688e9084f035309E29Bf0A2095",
+    "vault": {
+      "chainId": 10,
+      "address": "0x93919784C523f39CACaa98Ee0a9d96c3F32b593e",
+      "name": "uniBTC",
+      "symbol": "uniBTC",
+      "decimals": 8,
+      "logoURI": "/images/tokens/10/0x93919784c523f39cacaa98ee0a9d96c3f32b593e.svg"
+    },
+    "ibtRoutes": {
+      "withdraw": false,
+      "redeem": false
+    },
+    "protocol": "Bedrock"
+  }
+}

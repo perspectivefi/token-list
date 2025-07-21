@@ -1,0 +1,13 @@
+{
+  "chainId": 42161,
+  "address": "0x7C11F78Ce78768518D743E81Fdfa2F860C6b9A77",
+  "name": "GMX Market gmBTC",
+  "symbol": "gmBTC",
+  "decimals": 18,
+  "logoURI": "/images/tokens/42161/0x7c11f78ce78768518d743e81fdfa2f860c6b9a77.svg",
+  "extensions": {
+    "tags": [
+      "btc"
+    ]
+  }
+}

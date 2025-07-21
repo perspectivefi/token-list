@@ -1,0 +1,12 @@
+{
+  "chainId": 8453,
+  "address": "0x0b0193fad49de45f5e2b0a9f5d6bc3bb7d281688",
+  "name": "FARM_WETH",
+  "symbol": "fWETH",
+  "decimals": 18,
+  "logoURI": "/images/tokens/8453/0x0b0193fad49de45f5e2b0a9f5d6bc3bb7d281688.svg",
+  "extensions": {
+    "underlying": "0x4200000000000000000000000000000000000006",
+    "protocol": "Harvest (Moonwell)"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "address": "0xe4357bdae017726ee5e83db3443bcd269bbf125d",
+  "chainId": 1,
+  "name": "Staked iBTC",
+  "symbol": "siBTC",
+  "decimals": 8,
+  "logoURI": "/images/tokens/1/0xe4357bdae017726ee5e83db3443bcd269bbf125d.png",
+  "extensions": {
+    "underlying": "0x20157DBAbb84e3BBFE68C349d0d44E48AE7B5AD2"
+  }
+}

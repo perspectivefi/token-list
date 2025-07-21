@@ -1,0 +1,13 @@
+{
+  "chainId": 8453,
+  "address": "0x5A32099837D89E3a794a44fb131CBbAD41f87a8C",
+  "symbol": "ionicWETH",
+  "name": "Ionic Ecosystem WETH",
+  "decimals": 18,
+  "logoURI": "/images/tokens/8453/0x5a32099837d89e3a794a44fb131cbbad41f87a8c.svg",
+  "extensions": {
+    "underlying": "0x4200000000000000000000000000000000000006",
+    "protocol": "Morpho (Ionic)",
+    "externalLink": "https://app.morpho.org/vault?vault=0x5A32099837D89E3a794a44fb131CBbAD41f87a8C&network=base"
+  }
+}

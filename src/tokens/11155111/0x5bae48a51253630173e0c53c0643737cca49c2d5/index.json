@@ -1,0 +1,13 @@
+{
+  "chainId": 11155111,
+  "address": "0x5bae48a51253630173e0c53C0643737Cca49c2D5",
+  "name": "Spectra DAI",
+  "symbol": "sDAI",
+  "decimals": 18,
+  "logoURI": "/images/tokens/11155111/0x5bae48a51253630173e0c53c0643737cca49c2d5.svg",
+  "extensions": {
+    "aprEndpoint": "https://mock.endpoint.com/ibt-apr",
+    "faucetAddress": "0x400455dd14e0B52b280A5178cA1329a267FaC5C6",
+    "underlying": "0x6C5235a3FdF46A07EabC0CDDf0234D67D189CD87"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "chainId": 8453,
+  "address": "0x284c60490212DB0dc0b8F93503d35744f8053381",
+  "name": "FARM_vAMM-GENOME/WETH",
+  "symbol": "fvAMM-GENOME/WETH",
+  "decimals": 18,
+  "logoURI": "/images/tokens/8453/0x284c60490212db0dc0b8f93503d35744f8053381.svg",
+  "extensions": {
+    "underlying": "0x963ceee215e5b0b1dcb221c3ba398de66abc73d9",
+    "protocol": "Harvest (Aerodrome)",
+    "externalLink": "https://app.harvest.finance/base/0x284c60490212DB0dc0b8F93503d35744f8053381"
+  }
+}

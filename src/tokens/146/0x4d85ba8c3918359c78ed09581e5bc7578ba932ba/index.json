@@ -1,0 +1,13 @@
+{
+  "address": "0x4D85bA8c3918359c78Ed09581E5bc7578ba932ba",
+  "chainId": 146,
+  "name": "Staked Sonic USD",
+  "symbol": "stkscUSD",
+  "decimals": 6,
+  "logoURI": "/images/tokens/146/0x4d85ba8c3918359c78ed09581e5bc7578ba932ba.svg",
+  "extensions": {
+    "tags": [
+      "stable"
+    ]
+  }
+}

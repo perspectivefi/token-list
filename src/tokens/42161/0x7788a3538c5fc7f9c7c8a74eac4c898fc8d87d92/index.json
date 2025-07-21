@@ -1,0 +1,13 @@
+{
+  "address": "0x7788A3538C5fc7F9c7C8A74EAC4c898fC8d87d92",
+  "chainId": 42161,
+  "name": "Staked USDX",
+  "symbol": "sUSDX",
+  "decimals": 18,
+  "logoURI": "/images/tokens/42161/0x7788a3538c5fc7f9c7c8a74eac4c898fc8d87d92.svg",
+  "extensions": {
+    "underlying": "0xf3527ef8dE265eAa3716FB312c12847bFBA66Cef",
+    "protocol": "USDX",
+    "externalLink": "https://usdx.money"
+  }
+}

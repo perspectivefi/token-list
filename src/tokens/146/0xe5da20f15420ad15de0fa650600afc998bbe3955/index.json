@@ -1,0 +1,13 @@
+{
+  "chainId": 146,
+  "address": "0xE5DA20F15420aD15DE0fa650600aFc998bbE3955",
+  "symbol": "stS",
+  "name": "Beets Staked Sonic",
+  "decimals": 18,
+  "logoURI": "/images/tokens/146/0xe5da20f15420ad15de0fa650600afc998bbe3955.svg",
+  "extensions": {
+    "underlying": "0x039e2fB66102314Ce7b64Ce5Ce3E5183bc94aD38",
+    "protocol": "Beets",
+    "externalLink": "https://beets.fi/stake"
+  }
+}

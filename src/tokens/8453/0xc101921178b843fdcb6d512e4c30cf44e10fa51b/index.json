@@ -1,0 +1,12 @@
+{
+  "address": "0xc101921178b843fdcb6d512e4c30cf44e10fa51b",
+  "chainId": 8453,
+  "name": "FARM_EURC",
+  "symbol": "fEURC",
+  "decimals": 6,
+  "logoURI": "/images/tokens/8453/0xc101921178b843fdcb6d512e4c30cf44e10fa51b.svg",
+  "extensions": {
+    "underlying": "0x60a3E35Cc302bFA44Cb288Bc5a4F316Fdb1adb42",
+    "protocol": "Harvest (Moonwell)"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "chainId": 1,
+  "address": "0x07D1718fF05a8C53C8F05aDAEd57C0d672945f9a",
+  "name": "Aladdin rUSD",
+  "symbol": "arUSD",
+  "decimals": 18,
+  "logoURI": "/images/tokens/1/0x07d1718ff05a8c53c8f05adaed57c0d672945f9a.svg",
+  "extensions": {
+    "underlying": "0x65d72aa8da931f047169112fcf34f52dbaae7d18",
+    "protocol": "f(x) protocol"
+  }
+}

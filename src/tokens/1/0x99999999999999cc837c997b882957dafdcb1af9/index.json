@@ -1,0 +1,12 @@
+{
+  "chainId": 1,
+  "address": "0x99999999999999Cc837C997B882957daFdCb1Af9",
+  "symbol": "WUSDN",
+  "name": "Wrapped Ultimate Synthetic Delta Neutral",
+  "decimals": 18,
+  "logoURI": "/images/tokens/1/0x99999999999999cc837c997b882957dafdcb1af9.svg",
+  "extensions": {
+    "underlying": "0xde17a000BA631c5d7c2Bd9FB692EFeA52D90DEE2",
+    "protocol": "SMARDEX"
+  }
+}

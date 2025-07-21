@@ -1,0 +1,13 @@
+{
+  "chainId": 8453,
+  "address": "0xF540D790413FCFAedAC93518Ae99EdDacE82cb78",
+  "symbol": "9SETHc",
+  "name": "9Summits WETH Core",
+  "decimals": 18,
+  "logoURI": "/images/tokens/8453/0xf540d790413fcfaedac93518ae99eddace82cb78.svg",
+  "extensions": {
+    "underlying": "0x4200000000000000000000000000000000000006",
+    "protocol": "Morpho (9Summits)",
+    "externalLink": "https://app.morpho.org/vault?vault=0xf540d790413fcfaedac93518ae99eddace82cb78&network=base"
+  }
+}

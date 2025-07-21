@@ -1,0 +1,12 @@
+{
+  "chainId": 42161,
+  "address": "0x02Ab76B19944BdEc4d4c612468bB6aF3AC76B15D",
+  "decimals": 18,
+  "name": "FARM_LP-WETH",
+  "symbol": "fLP-WETH",
+  "logoURI": "/images/tokens/42161/0x02ab76b19944bdec4d4c612468bb6af3ac76b15d.svg",
+  "extensions": {
+    "underlying": "0xe62880cc6872c9e9fb1ddd73f400850fdabe798d",
+    "protocol": "Harvest"
+  }
+}

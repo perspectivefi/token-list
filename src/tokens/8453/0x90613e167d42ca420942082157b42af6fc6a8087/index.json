@@ -1,0 +1,13 @@
+{
+  "chainId": 8453,
+  "address": "0x90613e167D42CA420942082157B42AF6fc6a8087",
+  "name": "FARM_USDC",
+  "symbol": "fUSDC",
+  "decimals": 6,
+  "logoURI": "/images/tokens/8453/0x90613e167d42ca420942082157b42af6fc6a8087.svg",
+  "extensions": {
+    "underlying": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+    "protocol": "Harvest (Moonwell)",
+    "externalLink": "https://app.harvest.finance/base/0x90613e167D42CA420942082157B42AF6fc6a8087"
+  }
+}

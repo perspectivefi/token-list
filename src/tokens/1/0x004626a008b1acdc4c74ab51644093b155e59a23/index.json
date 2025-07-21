@@ -1,0 +1,12 @@
+{
+  "chainId": 1,
+  "address": "0x004626a008b1acdc4c74ab51644093b155e59a23",
+  "name": "Staked agEUR",
+  "symbol": "stEUR",
+  "decimals": 18,
+  "logoURI": "/images/tokens/1/0x004626a008b1acdc4c74ab51644093b155e59a23.svg",
+  "extensions": {
+    "underlying": "0x1a7e4e63778b4f12a199c062f3efdd288afcbce8",
+    "protocol": "Angle"
+  }
+}

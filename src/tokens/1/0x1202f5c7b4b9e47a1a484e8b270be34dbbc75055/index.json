@@ -1,0 +1,12 @@
+{
+  "chainId": 1,
+  "address": "0x1202f5c7b4b9e47a1a484e8b270be34dbbc75055",
+  "name": "Wrapped stUSR",
+  "symbol": "wstUSR",
+  "decimals": 18,
+  "logoURI": "/images/tokens/1/0x1202f5c7b4b9e47a1a484e8b270be34dbbc75055.svg",
+  "extensions": {
+    "underlying": "0x66a1e37c9b0eaddca17d3662d6c05f4decf3e110",
+    "protocol": "Resolv"
+  }
+}

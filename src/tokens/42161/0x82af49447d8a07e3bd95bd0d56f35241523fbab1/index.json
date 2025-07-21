@@ -1,0 +1,13 @@
+{
+  "chainId": 42161,
+  "address": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
+  "name": "Wrapped Ether",
+  "symbol": "wETH",
+  "decimals": 18,
+  "logoURI": "/images/tokens/42161/0x82af49447d8a07e3bd95bd0d56f35241523fbab1.svg",
+  "extensions": {
+    "tags": [
+      "eth"
+    ]
+  }
+}

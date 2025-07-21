@@ -1,0 +1,12 @@
+{
+  "chainId": 42161,
+  "address": "0x2ec0160246461f0ce477887dde2c931ee8233de7",
+  "name": "FARM_USDC",
+  "symbol": "fUSDC",
+  "decimals": 6,
+  "logoURI": "/images/tokens/42161/0x2ec0160246461f0ce477887dde2c931ee8233de7.svg",
+  "extensions": {
+    "underlying": "0xff970a61a04b1ca14834a43f5de4533ebddb5cc8",
+    "protocol": "Harvest (Lodestar)"
+  }
+}

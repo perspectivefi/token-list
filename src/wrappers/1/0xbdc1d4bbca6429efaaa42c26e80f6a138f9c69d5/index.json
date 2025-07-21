@@ -1,0 +1,20 @@
+{
+  "chainId": 1,
+  "address": "0xBDC1d4BbCa6429efAaA42c26e80f6a138F9c69d5",
+  "name": "Spectra ERC4626 Wrapper: Gauntlet LRT Core",
+  "symbol": "sw-gtLRTcore",
+  "decimals": 18,
+  "logoURI": "/images/tokens/1/0x4881ef0bf6d2365d3dd6499ccd7532bcdbce0658.svg",
+  "extensions": {
+    "underlying": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "vault": {
+      "chainId": 1,
+      "address": "0x4881Ef0BF6d2365D3dd6499ccd7532bcdBCE0658",
+      "name": "Gauntlet LRT Core",
+      "symbol": "gtLRTcore",
+      "decimals": 18,
+      "logoURI": "/images/tokens/1/0x4881ef0bf6d2365d3dd6499ccd7532bcdbce0658.svg"
+    },
+    "protocol": "Morpho"
+  }
+}

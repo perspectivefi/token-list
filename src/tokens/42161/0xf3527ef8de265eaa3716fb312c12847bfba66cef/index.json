@@ -1,0 +1,13 @@
+{
+  "address": "0xf3527ef8dE265eAa3716FB312c12847bFBA66Cef",
+  "chainId": 42161,
+  "name": "USDX",
+  "symbol": "USDX",
+  "decimals": 18,
+  "logoURI": "/images/tokens/42161/0xf3527ef8de265eaa3716fb312c12847bfba66cef.svg",
+  "extensions": {
+    "tags": [
+      "stable"
+    ]
+  }
+}

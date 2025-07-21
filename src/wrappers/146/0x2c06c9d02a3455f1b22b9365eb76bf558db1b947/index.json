@@ -1,0 +1,20 @@
+{
+  "address": "0x2c06c9D02a3455F1B22B9365EB76Bf558dB1B947",
+  "chainId": 146,
+  "name": "Spectra ERC4626 Wrapper: Wrapped stkscBTC",
+  "symbol": "sw-wstkscBTC",
+  "decimals": 8,
+  "logoURI": "/images/tokens/146/0xdb58c4db1a0f45dda3d2f8e44c3300bb6510c866.svg",
+  "extensions": {
+    "underlying": "0xD0851030C94433C261B405fEcbf1DEC5E15948d0",
+    "protocol": "Rings",
+    "vault": {
+      "chainId": 146,
+      "address": "0xDb58c4DB1a0f45DDA3d2F8e44C3300BB6510c866",
+      "symbol": "wstkscBTC",
+      "name": "Wrapped stkscBTC",
+      "decimals": 8,
+      "logoURI": "/images/tokens/146/0xdb58c4db1a0f45dda3d2f8e44c3300bb6510c866.svg"
+    }
+  }
+}

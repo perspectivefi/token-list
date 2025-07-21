@@ -1,33 +1,33 @@
 name: Package update
 on:
-  push:
-    branches:
-      - 'main'
+    push:
+        branches:
+            - "main"
 
 jobs:
-  deploy:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
+    deploy:
+        runs-on: ubuntu-latest
+        steps:
+            - uses: actions/checkout@v4
 
-      - uses: actions/setup-node@v4
-        with:
-          node-version: '20.x'
-          registry-url: 'https://npm.pkg.github.com'
-          scope: '@perspectivefi'
+            - uses: actions/setup-node@v4
+              with:
+                  node-version: "20.x"
+                  registry-url: "https://npm.pkg.github.com"
+                  scope: "@perspectivefi"
 
-      - name: Install modules
-        run: yarn
+            - name: Install modules
+              run: yarn
 
-      - name: Automated Version Bump
-        uses: 'phips28/gh-action-bump-version@master'
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+            - name: Automated Version Bump
+              uses: "phips28/gh-action-bump-version@master"
+              env:
+                  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Build
-        run: yarn build
+            - name: Build
+              run: yarn build
 
-      - name: Publish
-        run: npm publish --access public
-        env:
-          NODE_AUTH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+            - name: Publish
+              run: npm publish --access public
+              env:
+                  NODE_AUTH_TOKEN: ${{ secrets.GITHUB_TOKEN }}

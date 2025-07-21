@@ -1,0 +1,11 @@
+{
+  "chainId": 11155111,
+  "address": "0x7F1ca0535F6f44Dc443a1C67001920338e50DBeE",
+  "name": "ETH",
+  "symbol": "ETH",
+  "decimals": 18,
+  "logoURI": "/images/tokens/11155111/0x7f1ca0535f6f44dc443a1c67001920338e50dbee.svg",
+  "extensions": {
+    "faucetAddress": "0xCc88435299eb800b5C34E3C68b309D3ed8FA820C"
+  }
+}

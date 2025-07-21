@@ -1,0 +1,11 @@
+{
+  "chainId": 11155111,
+  "address": "0x14Ed4B6D2FCcE4301D19f52171Db9dA20FB04308",
+  "name": "eUSDC",
+  "symbol": "eUSDC",
+  "decimals": 6,
+  "logoURI": "/images/tokens/11155111/0x14ed4b6d2fcce4301d19f52171db9da20fb04308.png",
+  "extensions": {
+    "faucetAddress": "0x7Dc0CAB183F58c8885312a7ffdA418c57148802D"
+  }
+}

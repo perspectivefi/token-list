@@ -1,0 +1,13 @@
+{
+  "address": "0xda67b4284609d2d48e5d10cfac411572727dc1ed",
+  "chainId": 1,
+  "name": "USN",
+  "symbol": "USN",
+  "decimals": 18,
+  "logoURI": "/images/tokens/1/0xda67b4284609d2d48e5d10cfac411572727dc1ed.png",
+  "extensions": {
+    "tags": [
+      "stable"
+    ]
+  }
+}

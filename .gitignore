@@ -6,4 +6,4 @@
 
 refactor*.ts
 
-/build
+src/**/build.json

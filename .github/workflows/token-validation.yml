@@ -10,20 +10,26 @@ jobs:
               with:
                   ref: ${{ github.head_ref }}
 
-            - name: Validate Spectra Tokens
-              uses: docker://orrosenblatt/validate-json-action:latest
+            - name: Validate Tokens
+              uses: nhalstead/validate-json-action@0.1.3
               env:
                   INPUT_SCHEMA: src/schema/token.schema.json
-                  INPUT_JSONS: src/tokens/**/*.json,src/wrappers/**/*.json
+                  INPUT_JSONS: src/tokens/*.json
+
+            - name: Validate Wrappers
+              uses: nhalstead/validate-json-action@0.1.3
+              env:
+                  INPUT_SCHEMA: src/schema/token.schema.json
+                  INPUT_JSONS: src/wrappers/*.json
 
             - name: Validate Protocol List
-              uses: docker://orrosenblatt/validate-json-action:latest
+              uses: nhalstead/validate-json-action@0.1.3
               env:
                   INPUT_SCHEMA: src/schema/protocolList.schema.json
                   INPUT_JSONS: src/protocols/protocolList.json
 
             - name: Validate Curator List
-              uses: docker://orrosenblatt/validate-json-action:latest
+              uses: nhalstead/validate-json-action@0.1.3
               env:
                   INPUT_SCHEMA: src/schema/curatorList.schema.json
-                  INPUT_JSONS: src/protocols/curatorList.json
+                  INPUT_JSONS: src/curators/curatorList.json

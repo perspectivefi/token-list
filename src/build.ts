@@ -14,10 +14,10 @@ export default function build(type: 'tokens' | 'wrappers') {
                 tokenList.push(tokenData);
                 if (type === "tokens" && tokenData.logoURI) {
                     const logoExtension = tokenData.logoURI.split(".").pop()
-                    fs.mkdirSync(path.join(__dirname, "images/tokens", chainId), { recursive: true });
+                    fs.mkdirSync(path.join(__dirname, "../build/images/tokens", chainId), { recursive: true });
                     fs.copyFileSync(
                         path.join(tokensDir, chainId, address, `logo.${logoExtension}`),
-                        path.join(path.join(__dirname, "images/tokens"), chainId, `${address.toLowerCase()}.${logoExtension}`)
+                        path.join(path.join(__dirname, "../build/images/tokens"), chainId, `${address.toLowerCase()}.${logoExtension}`)
                     )
                 }
             })

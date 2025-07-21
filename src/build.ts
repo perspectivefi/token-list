@@ -27,5 +27,7 @@ export default function build(type: 'tokens' | 'wrappers') {
     fs.writeFileSync(buildFilePath, JSON.stringify(tokenList, null, 2));
 }
 
+console.log("* Building token list...");
 build('tokens')
+console.log("* Building wrapper list...");
 build('wrappers')

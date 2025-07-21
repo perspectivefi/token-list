@@ -2653,19 +2653,6 @@
         }
     },
     {
-        "address": "0x67a298e5b65db2b4616e05c3b455e017275f53cb",
-        "chainId": 146,
-        "name": "Liquid Staked Rezerve.money",
-        "symbol": "lstRZR",
-        "decimals": 18,
-        "logoURI": "/images/tokens/146/0x67a298e5b65db2b4616e05c3b455e017275f53cb.svg",
-        "extensions": {
-            "underlying": "0xb4444468e444f89e1c2CAc2F1D3ee7e336cBD1f5",
-            "protocol": "Rezerve",
-            "externalLink": "https://rezerve.money/"
-        }
-    },
-    {
         "address": "0xd2af830e8cbdfed6cc11bab697bb25496ed6fa62",
         "chainId": 1,
         "name": "Wrapped OUSD",
@@ -2933,6 +2920,18 @@
             "underlying": "0x5555555555555555555555555555555555555555",
             "protocol": "HyperBeat",
             "externalLink": "https://app.hyperbeat.org/staking/behype"
+        }
+    },
+    {
+        "address": "0x67a298e5b65db2b4616e05c3b455e017275f53cb",
+        "chainId": 146,
+        "name": "Liquid Staked Rezerve.money",
+        "symbol": "lstRZR",
+        "decimals": 18,
+        "logoURI": "/images/tokens/146/0x67a298e5b65db2b4616e05c3b455e017275f53cb.png",
+        "extensions": {
+            "underlying": "0xb4444468e444f89e1c2CAc2F1D3ee7e336cBD1f5",
+            "protocol": "Rezerve"
         }
     }
 ]

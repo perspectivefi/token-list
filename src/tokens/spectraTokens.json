@@ -2772,14 +2772,6 @@
         "logoURI": "/images/tokens/43114/0xb57b25851fe2311cc3fe511c8f10e868932e0680.svg"
     },
     {
-        "address": "0xb4444468e444f89e1c2cac2f1d3ee7e336cbd1f5",
-        "chainId": 146,
-        "name": "Rezerve.money",
-        "symbol": "RZR",
-        "decimals": 18,
-        "logoURI": "/images/tokens/146/0xb4444468e444f89e1c2cac2f1d3ee7e336cbd1f5.svg"
-    },
-    {
         "chainId": 1,
         "address": "0xE2Fc85BfB48C4cF147921fBE110cf92Ef9f26F94",
         "symbol": "xUSD",
@@ -2933,5 +2925,13 @@
             "underlying": "0xb4444468e444f89e1c2CAc2F1D3ee7e336cBD1f5",
             "protocol": "Rezerve"
         }
+    },
+    {
+        "address": "0xb4444468e444f89e1c2cac2f1d3ee7e336cbd1f5",
+        "chainId": 146,
+        "name": "Rezerve.money",
+        "symbol": "RZR",
+        "decimals": 18,
+        "logoURI": "/images/tokens/146/0xb4444468e444f89e1c2cac2f1d3ee7e336cbd1f5.png"
     }
 ]

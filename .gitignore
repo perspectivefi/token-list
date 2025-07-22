@@ -3,6 +3,7 @@
 
 # Build files
 /dist
+/src/images/tokens
 
 refactor*.ts
 

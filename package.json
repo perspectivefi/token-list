@@ -6,7 +6,7 @@
     "types": "./dist/index.d.ts",
     "files": [
         "dist",
-        "dist/images"
+        "src/images"
     ],
     "keywords": [
         "spectra",

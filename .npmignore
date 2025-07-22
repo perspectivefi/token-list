@@ -1,6 +1,9 @@
 /.idea
 /node_modules
 
+# Build files
+/dist
+
 refactor*.ts
 
 src/**/build.json

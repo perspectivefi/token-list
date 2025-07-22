@@ -7,7 +7,7 @@
     "logoURI": "/images/tokens/999/0x441794d6a8f9a3739f5d4e98a728937b33489d29.svg",
     "extensions": {
         "underlying": "0x5555555555555555555555555555555555555555",
-        "protocol": "HyperBeat",
+        "protocol": "Hyperbeat",
         "externalLink": "https://app.hyperbeat.org/staking/behype"
     }
 }

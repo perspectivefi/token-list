@@ -806,5 +806,15 @@
                 "name": "Aegis Points"
             }
         ]
+    },
+    {
+        "ptAddress": "0xdf552f68ccd78739f5460c82f48f690c2b4f6838",
+        "chainId": 999,
+        "multipliers": [
+            {
+                "amount": 30,
+                "name": "Resolv points"
+            }
+        ]
     }
 ]

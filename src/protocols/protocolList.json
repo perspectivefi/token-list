@@ -822,7 +822,6 @@
         "chainId": 999,
         "multipliers": [
             {
-                "amount": null,
                 "name": "Hyperbeat Hearts"
             }
         ]

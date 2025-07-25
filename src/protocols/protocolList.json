@@ -9,11 +9,11 @@
             },
             {
                 "amount": 2,
-                "name": "Ether.fi Points"
+                "name": "Ether.fi points"
             },
             {
                 "amount": 1,
-                "name": "EigenLayer Points"
+                "name": "EigenLayer points"
             }
         ]
     },
@@ -33,15 +33,15 @@
         "multipliers": [
             {
                 "amount": 3,
-                "name": "FX Points"
+                "name": "FX points"
             },
             {
                 "amount": 6,
-                "name": "Ether.fi Points"
+                "name": "Ether.fi points"
             },
             {
                 "amount": 2,
-                "name": "EigenLayer Points"
+                "name": "EigenLayer points"
             }
         ]
     },
@@ -51,11 +51,11 @@
         "multipliers": [
             {
                 "amount": 2,
-                "name": "Mellow Points"
+                "name": "Mellow points"
             },
             {
                 "amount": 1,
-                "name": "Symbiotic Points"
+                "name": "Symbiotic points"
             }
         ]
     },
@@ -69,7 +69,7 @@
             },
             {
                 "amount": 1,
-                "name": "EigenLayer Points"
+                "name": "EigenLayer points"
             }
         ]
     },
@@ -79,23 +79,23 @@
         "multipliers": [
             {
                 "amount": 1,
-                "name": "Amphor Points"
+                "name": "Amphor points"
             },
             {
                 "amount": 1,
-                "name": "Mellow Points"
+                "name": "Mellow points"
             },
             {
                 "amount": 1,
-                "name": "Symbiotic Points"
+                "name": "Symbiotic points"
             },
             {
                 "amount": 1,
-                "name": "Zircuit L2 Points"
+                "name": "Zircuit L2 points"
             },
             {
                 "amount": 1,
-                "name": "Swell L2 Points"
+                "name": "Swell L2 points"
             }
         ]
     },
@@ -172,11 +172,11 @@
             },
             {
                 "amount": 3,
-                "name": "Karak Points"
+                "name": "Karak points"
             },
             {
                 "amount": 1,
-                "name": "EigenLayer Points"
+                "name": "EigenLayer points"
             },
             {
                 "amount": 3.5,
@@ -217,7 +217,7 @@
             },
             {
                 "amount": 1,
-                "name": "EigenLayer Points"
+                "name": "EigenLayer points"
             }
         ]
     },
@@ -251,7 +251,7 @@
             },
             {
                 "amount": 1,
-                "name": "Symbiotic Points"
+                "name": "Symbiotic points"
             }
         ]
     },
@@ -261,15 +261,15 @@
         "multipliers": [
             {
                 "amount": 12,
-                "name": "Sonic Points"
+                "name": "Sonic points"
             },
             {
                 "amount": 2,
-                "name": "Rings Points"
+                "name": "Rings points"
             },
             {
                 "amount": 3,
-                "name": "Veda Points"
+                "name": "Veda points"
             }
         ]
     },
@@ -279,7 +279,7 @@
         "multipliers": [
             {
                 "amount": 8,
-                "name": "Sonic Points"
+                "name": "Sonic points"
             }
         ]
     },
@@ -293,35 +293,35 @@
             },
             {
                 "amount": 1,
-                "name": "Symbiotic Points"
+                "name": "Symbiotic points"
             },
             {
                 "amount": 2,
-                "name": "Mellow Points"
+                "name": "Mellow points"
             },
             {
                 "amount": 1,
-                "name": "Turtle Club Points"
+                "name": "Turtle Club points"
             },
             {
                 "amount": 1,
-                "name": "Ditto Points"
+                "name": "Ditto points"
             },
             {
                 "amount": 1,
-                "name": "Mev-commit Points"
+                "name": "Mev-commit points"
             },
             {
                 "amount": 1,
-                "name": "Human Network Points"
+                "name": "Human Network points"
             },
             {
                 "amount": 1,
-                "name": "Kalypso Points"
+                "name": "Kalypso points"
             },
             {
                 "amount": 1,
-                "name": "Radius Points"
+                "name": "Radius points"
             }
         ]
     },
@@ -389,7 +389,7 @@
         "multipliers": [
             {
                 "amount": 8,
-                "name": "Sonic Points"
+                "name": "Sonic points"
             }
         ]
     },
@@ -419,15 +419,15 @@
         "multipliers": [
             {
                 "amount": 3,
-                "name": "LUX Points"
+                "name": "LUX points"
             },
             {
                 "amount": 1,
-                "name": "Babylon Points"
+                "name": "Babylon points"
             },
             {
                 "amount": 1,
-                "name": "Upshift Points"
+                "name": "Upshift points"
             }
         ]
     },
@@ -437,15 +437,15 @@
         "multipliers": [
             {
                 "amount": 8,
-                "name": "Sonic Points"
+                "name": "Sonic points"
             },
             {
                 "amount": 2,
-                "name": "Rings Points"
+                "name": "Rings points"
             },
             {
                 "amount": 3,
-                "name": "Veda Points"
+                "name": "Veda points"
             }
         ]
     },
@@ -455,11 +455,11 @@
         "multipliers": [
             {
                 "amount": 8,
-                "name": "Sonic Points"
+                "name": "Sonic points"
             },
             {
                 "amount": 2,
-                "name": "Silo Points"
+                "name": "Silo points"
             }
         ]
     },
@@ -469,11 +469,11 @@
         "multipliers": [
             {
                 "amount": 8,
-                "name": "Sonic Points"
+                "name": "Sonic points"
             },
             {
                 "amount": 2,
-                "name": "Silo Points"
+                "name": "Silo points"
             }
         ]
     },
@@ -493,15 +493,15 @@
         "multipliers": [
             {
                 "amount": 8,
-                "name": "Sonic Points"
+                "name": "Sonic points"
             },
             {
                 "amount": 2,
-                "name": "Rings Points"
+                "name": "Rings points"
             },
             {
                 "amount": 3,
-                "name": "Veda Points"
+                "name": "Veda points"
             }
         ]
     },
@@ -543,15 +543,15 @@
             },
             {
                 "amount": 1,
-                "name": "Symbiotic Points"
+                "name": "Symbiotic points"
             },
             {
                 "amount": 1,
-                "name": "Mellow Points"
+                "name": "Mellow points"
             },
             {
                 "amount": 1,
-                "name": "Turtle Club Points"
+                "name": "Turtle Club points"
             }
         ]
     },
@@ -563,13 +563,13 @@
             "lp": [
                 {
                     "amount": 20,
-                    "name": "Noon Points"
+                    "name": "Noon points"
                 }
             ],
             "yt": [
                 {
                     "amount": 20,
-                    "name": "Noon Points"
+                    "name": "Noon points"
                 }
             ]
         }
@@ -599,15 +599,15 @@
         "multipliers": [
             {
                 "amount": 4,
-                "name": "Sonic Points"
+                "name": "Sonic points"
             },
             {
                 "amount": 2,
-                "name": "Rings Points"
+                "name": "Rings points"
             },
             {
                 "amount": 3,
-                "name": "Veda Points"
+                "name": "Veda points"
             }
         ]
     },
@@ -636,29 +636,29 @@
             "lp": [
                 {
                     "amount": 12,
-                    "name": "iBTC Points"
+                    "name": "iBTC points"
                 },
                 {
                     "amount": 1,
-                    "name": "Mellow Points"
+                    "name": "Mellow points"
                 },
                 {
                     "amount": 1,
-                    "name": "Symbiotic Points"
+                    "name": "Symbiotic points"
                 }
             ],
             "yt": [
                 {
                     "amount": 9,
-                    "name": "iBTC Points"
+                    "name": "iBTC points"
                 },
                 {
                     "amount": 1,
-                    "name": "Mellow Points"
+                    "name": "Mellow points"
                 },
                 {
                     "amount": 1,
-                    "name": "Symbiotic Points"
+                    "name": "Symbiotic points"
                 }
             ]
         }
@@ -670,13 +670,13 @@
             "lp": [
                 {
                     "amount": 8,
-                    "name": "Hemi Points"
+                    "name": "Hemi points"
                 }
             ],
             "yt": [
                 {
                     "amount": 10,
-                    "name": "Hemi Points"
+                    "name": "Hemi points"
                 }
             ]
         }
@@ -697,7 +697,7 @@
         "multipliers": [
             {
                 "amount": 50,
-                "name": "Superform Points"
+                "name": "Superform points"
             }
         ]
     },
@@ -707,7 +707,7 @@
         "multipliers": [
             {
                 "amount": 30,
-                "name": "Shift Points"
+                "name": "Shift points"
             }
         ]
     },
@@ -745,7 +745,7 @@
         "multipliers": [
             {
                 "amount": 2.5,
-                "name": "Yield.Fi Points"
+                "name": "Yield.Fi points"
             }
         ]
     },
@@ -803,7 +803,7 @@
         "multipliers": [
             {
                 "amount": 5,
-                "name": "Aegis Points"
+                "name": "Aegis points"
             }
         ]
     },
@@ -823,6 +823,39 @@
         "multipliers": [
             {
                 "name": "Hyperbeat Hearts"
+            },
+            {
+                "name": "Ether.fi points"
+            }
+        ]
+    },
+    {
+        "ptAddress": "0xe09783233df89eb507851c7567a5903a943744e8",
+        "chainId": 999,
+        "multipliers": [
+            {
+                "name": "Hyperbeat Hearts"
+            },
+            {
+                "name": "Hypurrfi points"
+            },
+            {
+                "name": "Hyperswap points"
+            },
+            {
+                "name": "Sats points"
+            },
+            {
+                "name": "Resolv points"
+            },
+            {
+                "name": "Felix points"
+            },
+            {
+                "name": "Hyperlend points"
+            },
+            {
+                "name": "Ether.fi points"
             }
         ]
     }

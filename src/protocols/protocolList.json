@@ -816,14 +816,5 @@
                 "name": "Resolv points"
             }
         ]
-    },
-    {
-        "ptAddress": "0xe850283fe71d3a4758b4affafc6372c3f0de12ef",
-        "chainId": 999,
-        "multipliers": [
-            {
-                "name": "Hyperbeat Hearts"
-            }
-        ]
     }
 ]

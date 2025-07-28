@@ -1,0 +1,18 @@
+{
+    "address": "0x71c70906a3758b08334e0731d589886dadf53033",
+    "chainId": 999,
+    "name": "Spectra ERC4626 Wrapper: Kinetiq Staked HYPE",
+    "symbol": "sw-kHYPE",
+    "decimals": 18,
+    "logoURI": "/images/tokens/999/0xfd739d4e423301ce9385c1fb8850539d657c296d.svg",
+    "extensions": {
+        "vault": {
+            "chainId": 999,
+            "address": "0xfD739d4e423301CE9385c1fb8850539D657C296D",
+            "symbol": "kHYPE",
+            "name": "Kinetiq Staked HYPE",
+            "decimals": 18,
+            "logoURI": "/images/tokens/999/0xfd739d4e423301ce9385c1fb8850539d657c296d.svg"
+        }
+    }
+}

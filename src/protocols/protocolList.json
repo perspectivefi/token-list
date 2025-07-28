@@ -855,5 +855,14 @@
                 "name": "Hyperlend points"
             }
         ]
+    },
+    {
+        "ptAddress": "0x9577da597ebec8dfe3fb835d56fe447d2efa9d04",
+        "chainId": 999,
+        "multipliers": [
+            {
+                "name": "kPoints"
+            }
+        ]
     }
 ]

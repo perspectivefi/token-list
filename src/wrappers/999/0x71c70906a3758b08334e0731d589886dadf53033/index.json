@@ -8,6 +8,7 @@
     "extensions": {
         "underlying": "0x5555555555555555555555555555555555555555",
         "protocol": "Kinetiq",
+        "aprEndpoint": "https://app.spectra.finance/api/ibt-apr/hyperevm/0x71c70906a3758b08334e0731d589886dadf53033",
         "externalLink": "https://kinetiq.xyz/khype",
         "vault": {
             "chainId": 999,

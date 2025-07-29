@@ -861,7 +861,7 @@
         "chainId": 999,
         "multipliers": [
             {
-                "name": "kPoints"
+                "name": "Kinetiq kPoints"
             }
         ]
     }

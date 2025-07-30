@@ -1,0 +1,8 @@
+{
+    "address": "0x4ecf61a6c2fab8a047ceb3b3b263b401763e9d49",
+    "chainId": 42161,
+    "name": "US Nerite Dollar",
+    "symbol": "USND",
+    "decimals": 18,
+    "logoURI": "/images/tokens/42161/0x4ecf61a6c2fab8a047ceb3b3b263b401763e9d49.svg"
+}

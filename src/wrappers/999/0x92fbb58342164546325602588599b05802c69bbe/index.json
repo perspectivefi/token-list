@@ -6,6 +6,8 @@
     "decimals": 18,
     "logoURI": "/images/tokens/999/0x0a3d8466f5de586fa5f6de117301e2f90bcc5c48.svg",
     "extensions": {
+        "protocol": "Resolv",
+        "underlying": "0x0aD339d66BF4AeD5ce31c64Bc37B3244b6394A77",
         "vault": {
             "chainId": 999,
             "address": "0x0a3d8466F5dE586FA5F6DE117301e2f90bCC5c48",
@@ -13,6 +15,11 @@
             "name": "Resolv Liquidity Provider Token",
             "decimals": 18,
             "logoURI": "/images/tokens/999/0x0a3d8466f5de586fa5f6de117301e2f90bcc5c48.svg"
+        },
+        "ibtRoutes": {
+            "deposit": false,
+            "withdraw": false,
+            "redeem": false
         }
     }
 }

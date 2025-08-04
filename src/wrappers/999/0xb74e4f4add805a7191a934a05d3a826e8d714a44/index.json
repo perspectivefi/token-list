@@ -6,6 +6,8 @@
     "decimals": 18,
     "logoURI": "/images/tokens/999/0xe6829d9a7ee3040e1276fa75293bde931859e8fa.svg",
     "extensions": {
+        "protocol": "mETH",
+        "underlying": "0xBe6727B535545C67d5cAa73dEa54865B92CF7907",
         "vault": {
             "chainId": 999,
             "address": "0xE6829d9a7eE3040e1276Fa75293Bde931859e8fA",
@@ -13,6 +15,11 @@
             "name": "cmETH",
             "decimals": 18,
             "logoURI": "/images/tokens/999/0xe6829d9a7ee3040e1276fa75293bde931859e8fa.svg"
+        },
+        "ibtRoutes": {
+            "deposit": false,
+            "withdraw": false,
+            "redeem": false
         }
     }
 }

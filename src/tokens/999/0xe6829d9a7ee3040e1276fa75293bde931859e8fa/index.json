@@ -1,0 +1,9 @@
+{
+    "chainId": 999,
+    "address": "0xE6829d9a7eE3040e1276Fa75293Bde931859e8fA",
+    "symbol": "cmETH",
+    "name": "cmETH",
+    "decimals": 18,
+    "logoURI": "/images/tokens/999/0xe6829d9a7ee3040e1276fa75293bde931859e8fa.svg",
+    "extensions": {}
+}

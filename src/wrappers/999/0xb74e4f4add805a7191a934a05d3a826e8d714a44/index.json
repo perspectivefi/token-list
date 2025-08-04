@@ -1,0 +1,18 @@
+{
+    "address": "0xB74E4f4Add805A7191a934a05d3a826e8d714A44",
+    "chainId": 999,
+    "name": "Spectra ERC4626 Wrapper: cmETH",
+    "symbol": "sw-cmETH",
+    "decimals": 18,
+    "logoURI": "/images/tokens/999/0xe6829d9a7ee3040e1276fa75293bde931859e8fa.svg",
+    "extensions": {
+        "vault": {
+            "chainId": 999,
+            "address": "0xE6829d9a7eE3040e1276Fa75293Bde931859e8fA",
+            "symbol": "cmETH",
+            "name": "cmETH",
+            "decimals": 18,
+            "logoURI": "/images/tokens/999/0xe6829d9a7ee3040e1276fa75293bde931859e8fa.svg"
+        }
+    }
+}

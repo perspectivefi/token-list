@@ -888,5 +888,25 @@
                 "name": "Kinetiq kPoints"
             }
         ]
+    },
+    {
+        "ptAddress": "0x6e3c684f1a1d5ca444077815c546131ee2c34878",
+        "chainId": 1,
+        "multipliers": [
+            {
+                "amount": 50,
+                "name": "Superform points"
+            }
+        ]
+    },
+    {
+        "ptAddress": "0x06f195a135fb53adb5439de9efacbc36fe0bb9aa",
+        "chainId": 1,
+        "multipliers": [
+            {
+                "amount": 50,
+                "name": "Superform points"
+            }
+        ]
     }
 ]

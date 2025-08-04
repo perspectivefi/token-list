@@ -1,0 +1,18 @@
+{
+    "address": "0x92fbB58342164546325602588599B05802C69bBe",
+    "chainId": 999,
+    "name": "Spectra ERC4626 Wrapper: Resolv Liquidity Provider Token",
+    "symbol": "sw-RLP",
+    "decimals": 18,
+    "logoURI": "/images/tokens/999/0x0a3d8466f5de586fa5f6de117301e2f90bcc5c48.svg",
+    "extensions": {
+        "vault": {
+            "chainId": 999,
+            "address": "0x0a3d8466F5dE586FA5F6DE117301e2f90bCC5c48",
+            "symbol": "RLP",
+            "name": "Resolv Liquidity Provider Token",
+            "decimals": 18,
+            "logoURI": "/images/tokens/999/0x0a3d8466f5de586fa5f6de117301e2f90bcc5c48.svg"
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "address": "0x79Ffb1cAa21Ba491200A68498117a639E3E8df80",
+    "chainId": 999,
+    "name": "Spectra ERC4626 Wrapper: Wrapped HLP",
+    "symbol": "sw-WHLP",
+    "decimals": 6,
+    "logoURI": "/images/tokens/999/0x1359b05241ca5076c9f59605214f4f84114c0de8.png",
+    "extensions": {
+        "underlying": "0xb50A96253aBDF803D85efcDce07Ad8becBc52BD5",
+        "protocol": "Looping Collective",
+        "vault": {
+            "chainId": 999,
+            "address": "0x1359b05241cA5076c9F59605214f4F84114c0dE8",
+            "symbol": "WHLP",
+            "name": "Wrapped HLP",
+            "decimals": 6,
+            "logoURI": "/images/tokens/999/0x1359b05241ca5076c9f59605214f4f84114c0de8.png"
+        }
+    }
+}

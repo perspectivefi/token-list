@@ -1,0 +1,13 @@
+{
+    "chainId": 999,
+    "address": "0x1359b05241cA5076c9F59605214f4F84114c0dE8",
+    "symbol": "WHLP",
+    "name": "Wrapped HLP",
+    "decimals": 6,
+    "logoURI": "/images/tokens/999/0x1359b05241ca5076c9f59605214f4f84114c0de8.png",
+    "extensions": {
+        "underlying": "0xb50A96253aBDF803D85efcDce07Ad8becBc52BD5",
+        "protocol": "Looping Collective",
+        "externalLink": "https://www.stakingrewards.com/stake-app?input=hyper-usd&type=liquid-staking&output=wrapped-hlp&best-deal=true"
+    }
+}

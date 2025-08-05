@@ -4,7 +4,7 @@
     "name": "Spectra ERC4626 Wrapper: Looped HYPE",
     "symbol": "sw-LHYPE",
     "decimals": 18,
-    "logoURI": "/images/tokens/999/0x5748ae796ae46a4f1348a1693de4b50560485562.png",
+    "logoURI": "/images/tokens/999/0x5748ae796ae46a4f1348a1693de4b50560485562.svg",
     "extensions": {
         "underlying": "0x5555555555555555555555555555555555555555",
         "protocol": "Looping Collective",
@@ -14,7 +14,7 @@
             "symbol": "LHYPE",
             "name": "Looped HYPE",
             "decimals": 18,
-            "logoURI": "/images/tokens/999/0x5748ae796ae46a4f1348a1693de4b50560485562.png"
+            "logoURI": "/images/tokens/999/0x5748ae796ae46a4f1348a1693de4b50560485562.svg"
         }
     }
 }

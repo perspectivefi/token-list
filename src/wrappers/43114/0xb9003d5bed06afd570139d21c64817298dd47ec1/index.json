@@ -1,0 +1,20 @@
+{
+    "address": "0xB9003d5bEd06afD570139d21c64817298DD47eC1",
+    "chainId": 43114,
+    "name": "Spectra ERC4626 Wrapper: EVK Vault esdeUSD-3",
+    "symbol": "sw-esdeUSD-3",
+    "decimals": 18,
+    "logoURI": "/images/tokens/43114/0xb9cc370a8f19322fc4bf69da80c6c39ff8f2db90.svg",
+    "extensions": {
+        "underlying": "0xB57B25851fE2311CC3fE511c8F10E868932e0680",
+        "protocol": "Euler (Elixir)",
+        "vault": {
+            "address": "0xb9cc370a8f19322fc4bf69da80c6c39ff8f2db90",
+            "chainId": 43114,
+            "name": "EVK Vault esdeUSD-3",
+            "symbol": "esdeUSD-3",
+            "decimals": 18,
+            "logoURI": "/images/tokens/43114/0xb9cc370a8f19322fc4bf69da80c6c39ff8f2db90.svg"
+        }
+    }
+}

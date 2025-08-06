@@ -908,5 +908,47 @@
                 "name": "Superform points"
             }
         ]
+    },
+    {
+        "ptAddress": "0x7a97d37d12250ce3eb8f8b4be87528a041df36c5",
+        "chainId": 999,
+        "multipliers": [
+            {
+                "name": "Hyperlend points"
+            },
+            {
+                "name": "Felix points"
+            },
+            {
+                "name": "Hypurrfi points"
+            },
+            {
+                "name": "Kinetiq kPoints"
+            },
+            {
+                "name": "LOOP points"
+            },
+            {
+                "name": "Loyalty Rewards"
+            },
+            {
+                "name": "Early Adopter Rewards"
+            }
+        ]
+    },
+    {
+        "ptAddress": "0x802e3ba8f695a2604762f13b9aac8f110fca7090",
+        "chainId": 999,
+        "multipliers": [
+            {
+                "name": "LOOP points"
+            },
+            {
+                "name": "Loyalty Rewards"
+            },
+            {
+                "name": "Early Adopter Rewards"
+            }
+        ]
     }
 ]

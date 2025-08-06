@@ -8,6 +8,7 @@
     "extensions": {
         "underlying": "0xB57B25851fE2311CC3fE511c8F10E868932e0680",
         "protocol": "Euler (Elixir)",
+        "aprEndpoint": "https://app.spectra.finance/api/ibt-apr/merkl-opportunity/3887770439974897543",
         "vault": {
             "address": "0xb9cc370a8f19322fc4bf69da80c6c39ff8f2db90",
             "chainId": 43114,

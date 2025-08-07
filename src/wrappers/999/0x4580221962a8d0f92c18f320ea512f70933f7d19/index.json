@@ -8,7 +8,6 @@
     "extensions": {
         "underlying": "0x5555555555555555555555555555555555555555",
         "protocol": "Looping Collective",
-        "aprEndpoint": "https://app.spectra.finance/api/ibt-apr/hyperevm/0x4580221962a8d0f92c18f320ea512f70933f7d19",
         "vault": {
             "chainId": 999,
             "address": "0x5748ae796AE46A4F1348a1693de4b50560485562",

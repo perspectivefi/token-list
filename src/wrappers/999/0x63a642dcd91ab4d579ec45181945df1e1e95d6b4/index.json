@@ -8,7 +8,6 @@
     "extensions": {
         "underlying": "0xB8CE59FC3717ada4C02eaDF9682A9e934F625ebb",
         "protocol": "Hyperbeat",
-        "aprEndpoint": "https://app.spectra.finance/api/ibt-apr/hyperevm/0x63a642dcd91ab4d579ec45181945df1e1e95d6b4",
         "externalLink": "https://app.hyperbeat.org/vaults/usdt",
         "vault": {
             "chainId": 999,

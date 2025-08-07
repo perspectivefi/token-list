@@ -950,5 +950,35 @@
                 "name": "Early Adopter Rewards"
             }
         ]
+    },
+    {
+        "ptAddress": "0xe7158a6221ac13c5921aed6e3af00d417b0f3094",
+        "chainId": 999,
+        "multipliers": [
+            {
+                "amount": 30,
+                "name": "Resolv points"
+            }
+        ]
+    },
+    {
+        "ptAddress": "0x40defb4b2a451c7bad7c256132085ac4348c3b4c",
+        "chainId": 999,
+        "multipliers": [
+            {
+                "amount": 40,
+                "name": "Powder Boost"
+            }
+        ]
+    },
+    {
+        "ptAddress": "0x3133bc64900e078dacd314a27e739f5d5ede30ae",
+        "chainId": 1,
+        "multipliers": [
+            {
+                "amount": 15,
+                "name": "Gems"
+            }
+        ]
     }
 ]

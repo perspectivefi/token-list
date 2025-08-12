@@ -980,5 +980,15 @@
                 "name": "Gems"
             }
         ]
+    },
+    {
+        "ptAddress": "0xdb37a52034e617dc5b1b6739da9b648fd7213a13",
+        "chainId": 43114,
+        "multipliers": [
+            {
+                "amount": 15,
+                "name": "Elixir Potions"
+            }
+        ]
     }
 ]

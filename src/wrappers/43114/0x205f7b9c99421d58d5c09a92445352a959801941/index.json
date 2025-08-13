@@ -1,0 +1,18 @@
+{
+    "address": "0x205F7B9c99421d58D5c09a92445352a959801941",
+    "chainId": 43114,
+    "name": "Spectra ERC4626 Wrapper: Re Protocol Deposit Token",
+    "symbol": "sw-reUSD",
+    "decimals": 18,
+    "logoURI": "/images/tokens/43114/0x180af87b47bf272b2df59dccf2d76a6eafa625bf.svg",
+    "extensions": {
+        "vault": {
+            "chainId": 43114,
+            "address": "0x180aF87b47Bf272B2df59dccf2D76a6eaFa625Bf",
+            "symbol": "reUSD",
+            "name": "Re Protocol Deposit Token",
+            "decimals": 18,
+            "logoURI": "/images/tokens/43114/0x180af87b47bf272b2df59dccf2d76a6eafa625bf.svg"
+        }
+    }
+}

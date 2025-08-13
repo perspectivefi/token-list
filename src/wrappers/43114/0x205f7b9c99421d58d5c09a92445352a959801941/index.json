@@ -6,6 +6,8 @@
     "decimals": 18,
     "logoURI": "/images/tokens/43114/0x180af87b47bf272b2df59dccf2d76a6eafa625bf.svg",
     "extensions": {
+        "underlying": "0x180aF87b47Bf272B2df59dccf2D76a6eaFa625Bf",
+        "protocol": "Re Protocol",
         "vault": {
             "chainId": 43114,
             "address": "0x180aF87b47Bf272B2df59dccf2D76a6eaFa625Bf",

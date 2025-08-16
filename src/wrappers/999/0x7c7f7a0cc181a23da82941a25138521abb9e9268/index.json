@@ -1,0 +1,20 @@
+{
+    "address": "0x7C7F7A0Cc181A23dA82941A25138521abb9E9268",
+    "chainId": 999,
+    "name": "Spectra ERC4626 Wrapper: Hyperbeat VLP",
+    "symbol": "sw-wVLP",
+    "decimals": 18,
+    "logoURI": "/images/tokens/999/0xd66d69c288d9a6fd735d7be8b2e389970fc4fd42.svg",
+    "extensions": {
+        "externalLink": "https://app.hyperbeat.org/vaults/wvlp",
+        "underlying": "0xB8CE59FC3717ada4C02eaDF9682A9e934F625ebb",
+        "vault": {
+            "chainId": 999,
+            "address": "0xD66d69c288d9a6FD735d7bE8b2e389970fC4fD42",
+            "symbol": "wVLP",
+            "name": "Hyperbeat VLP",
+            "decimals": 18,
+            "logoURI": "/images/tokens/999/0xd66d69c288d9a6fd735d7be8b2e389970fc4fd42.svg"
+        }
+    }
+}

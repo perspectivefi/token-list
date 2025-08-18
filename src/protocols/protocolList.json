@@ -1008,5 +1008,14 @@
                 }
             ]
         }
+    },
+    {
+        "ptAddress": "0x738077c380a8adbcdc046b20fbbdb39ce87e5c8a",
+        "chainId": 999,
+        "multipliers": [
+            {
+                "name": "Hyperbeat Hearts"
+            }
+        ]
     }
 ]

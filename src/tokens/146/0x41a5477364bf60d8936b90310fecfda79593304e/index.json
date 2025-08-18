@@ -1,0 +1,12 @@
+{
+    "address": "0x41a5477364bf60d8936b90310fecfda79593304e",
+    "chainId": 146,
+    "name": "Staked dUSD",
+    "symbol": "sdUSD",
+    "decimals": 18,
+    "logoURI": "/images/tokens/146/0x41a5477364bf60d8936b90310fecfda79593304e.svg",
+    "extensions": {
+        "underlying": "0x53a6aBb52B2F968fA80dF6A894e4f1b1020DA975",
+        "protocol": "dTRINITY"
+    }
+}

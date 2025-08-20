@@ -843,7 +843,7 @@
                 "name": "Hyperbeat Hearts"
             },
             {
-                "name": "Hyperbeat Hearts bonus of 500k until Oct 30 on this pool and its extension"
+                "name": "An additional 2.5million Hearts will be allocated proportionately to TVL across hbUSDT and beHYPE pools."
             },
             {
                 "name": "Ether.fi points"
@@ -858,7 +858,7 @@
                 "name": "Hyperbeat Hearts"
             },
             {
-                "name": "Hyperbeat Hearts bonus of 500k until Oct 30 on this pool and its extension"
+                "name": "An additional 2.5million Hearts will be allocated proportionately to TVL across hbUSDT and beHYPE pools."
             },
             {
                 "name": "Hypurrfi points"
@@ -1015,6 +1015,51 @@
         "multipliers": [
             {
                 "name": "Hyperbeat Hearts"
+            }
+        ]
+    },
+    {
+        "ptAddress": "0x72cba05d7d155366b65d95522ee964de819e84f8",
+        "chainId": 999,
+        "multipliers": [
+            {
+                "name": "Hyperbeat Hearts"
+            },
+            {
+                "name": "An additional 2.5million Hearts will be allocated proportionately to TVL across hbUSDT and beHYPE pools."
+            },
+            {
+                "name": "Ether.fi points"
+            }
+        ]
+    },
+    {
+        "ptAddress": "0xa78fb3bed7287d1da861d7f83963e13a35290362",
+        "chainId": 999,
+        "multipliers": [
+            {
+                "name": "Hyperbeat Hearts"
+            },
+            {
+                "name": "An additional 2.5million Hearts will be allocated proportionately to TVL across hbUSDT and beHYPE pools."
+            },
+            {
+                "name": "Hypurrfi points"
+            },
+            {
+                "name": "Hyperswap points"
+            },
+            {
+                "name": "Sats points"
+            },
+            {
+                "name": "Resolv points"
+            },
+            {
+                "name": "Felix points"
+            },
+            {
+                "name": "Hyperlend points"
             }
         ]
     }

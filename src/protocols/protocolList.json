@@ -843,7 +843,7 @@
                 "name": "Hyperbeat Hearts"
             },
             {
-                "name": "An additional 2.5million Hearts will be allocated proportionately to TVL across hbUSDT and beHYPE pools."
+                "name": "An additional 2.5 million Hearts will be allocated proportionately to TVL across hbUSDT and beHYPE pools."
             },
             {
                 "name": "Ether.fi points"
@@ -858,7 +858,7 @@
                 "name": "Hyperbeat Hearts"
             },
             {
-                "name": "An additional 2.5million Hearts will be allocated proportionately to TVL across hbUSDT and beHYPE pools."
+                "name": "An additional 2.5 million Hearts will be allocated proportionately to TVL across hbUSDT and beHYPE pools."
             },
             {
                 "name": "Hypurrfi points"
@@ -877,6 +877,9 @@
             },
             {
                 "name": "Hyperlend points"
+            },
+            {
+                "name": "Theo points"
             }
         ]
     },
@@ -1026,7 +1029,7 @@
                 "name": "Hyperbeat Hearts"
             },
             {
-                "name": "An additional 2.5million Hearts will be allocated proportionately to TVL across hbUSDT and beHYPE pools."
+                "name": "An additional 2.5 million Hearts will be allocated proportionately to TVL across hbUSDT and beHYPE pools."
             },
             {
                 "name": "Ether.fi points"
@@ -1041,7 +1044,7 @@
                 "name": "Hyperbeat Hearts"
             },
             {
-                "name": "An additional 2.5million Hearts will be allocated proportionately to TVL across hbUSDT and beHYPE pools."
+                "name": "An additional 2.5 million Hearts will be allocated proportionately to TVL across hbUSDT and beHYPE pools."
             },
             {
                 "name": "Hypurrfi points"
@@ -1060,6 +1063,9 @@
             },
             {
                 "name": "Hyperlend points"
+            },
+            {
+                "name": "Theo points"
             }
         ]
     }

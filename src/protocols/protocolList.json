@@ -959,7 +959,7 @@
         "chainId": 999,
         "multipliers": [
             {
-                "amount": 30,
+                "amount": 45,
                 "name": "Resolv points"
             }
         ]

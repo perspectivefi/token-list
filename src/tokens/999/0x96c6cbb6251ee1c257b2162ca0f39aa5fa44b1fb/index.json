@@ -1,0 +1,13 @@
+{
+    "address": "0x96C6cBB6251Ee1c257b2162ca0f39AA5Fa44B1FB",
+    "chainId": 999,
+    "name": "Hyperbeat Ultra HYPE",
+    "symbol": "hbHYPE",
+    "decimals": 18,
+    "logoURI": "/images/tokens/999/0x96c6cbb6251ee1c257b2162ca0f39aa5fa44b1fb.svg",
+    "extensions": {
+        "underlying": "0x5555555555555555555555555555555555555555",
+        "protocol": "Hyperbeat",
+        "externalLink": "https://app.hyperbeat.org/vaults/hype"
+    }
+}

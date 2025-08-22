@@ -1068,5 +1068,38 @@
                 "name": "Theo points"
             }
         ]
+    },
+    {
+        "ptAddress": "0xc436e9849f6493384751984d099958aced03bbfe",
+        "chainId": 999,
+        "multipliers": [
+            {
+                "name": "Hyperbeat Hearts"
+            },
+            {
+                "name": "An additional 2.5 million Hearts will be allocated proportionately to TVL across hbUSDT, beHYPE and hbHYPE pools."
+            },
+            {
+                "name": "Hypurrfi points"
+            },
+            {
+                "name": "Hyperswap points"
+            },
+            {
+                "name": "Timeswap points"
+            },
+            {
+                "name": "Silhouette points"
+            },
+            {
+                "name": "Upshift points"
+            },
+            {
+                "name": "Kinetiq kPoints"
+            },
+            {
+                "name": "Felix points"
+            }
+        ]
     }
 ]

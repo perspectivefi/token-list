@@ -1,0 +1,11 @@
+{
+    "address": "0x93fec6639717b6215a48e5a72a162c50dcc40d68",
+    "chainId": 747474,
+    "name": "AUSD yVault",
+    "symbol": "AUSD",
+    "decimals": 6,
+    "logoURI": "/images/tokens/747474/0x93fec6639717b6215a48e5a72a162c50dcc40d68.svg",
+    "extensions": {
+        "underlying": "0x00000000eFE302BEAA2b3e6e1b18d08D69a9012a"
+    }
+}

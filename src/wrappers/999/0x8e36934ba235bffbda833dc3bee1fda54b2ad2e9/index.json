@@ -1,0 +1,24 @@
+{
+    "address": "0x8E36934BA235bFFbda833Dc3BeE1FDa54b2aD2E9",
+    "chainId": 999,
+    "name": "Spectra ERC4626 Wrapper: Delta Neutral HYPE",
+    "symbol": "sw-dnHYPE",
+    "decimals": 18,
+    "logoURI": "/images/tokens/999/0x949a7250bb55eb79bc6bcc97fcd1c473db3e6f29.svg",
+    "extensions": {
+        "underlying": "0x5555555555555555555555555555555555555555",
+        "protocol": "Hyperbeat",
+        "externalLink": "https://app.hyperbeat.org/vaults/dnhype",
+        "vault": {
+            "chainId": 999,
+            "address": "0x949a7250Bb55Eb79BC6bCC97fCd1C473DB3e6F29",
+            "symbol": "dnHYPE",
+            "name": "Delta Neutral HYPE",
+            "decimals": 18,
+            "logoURI": "/images/tokens/999/0x949a7250bb55eb79bc6bcc97fcd1c473db3e6f29.svg",
+            "extensions": {
+                "externalLink": "https://app.hyperbeat.org/vaults/dnhype"
+            }
+        }
+    }
+}

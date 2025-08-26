@@ -4,9 +4,5 @@
     "symbol": "dnHYPE",
     "name": "Delta Neutral HYPE",
     "decimals": 18,
-    "logoURI": "/images/tokens/999/0x949a7250bb55eb79bc6bcc97fcd1c473db3e6f29.svg",
-    "extensions": {
-        "protocol": "Hyperbeat",
-        "externalLink": "https://app.hyperbeat.org/vaults/dnhype"
-    }
+    "logoURI": "/images/tokens/999/0x949a7250bb55eb79bc6bcc97fcd1c473db3e6f29.svg"
 }

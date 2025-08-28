@@ -1,8 +1,8 @@
 {
-  "address": "0xab3dbcd9b096c3ff76275038bf58eac10d22c61f",
-  "chainId": 56,
-  "name": "YUSD",
-  "symbol": "YUSD",
-  "decimals": 18,
-  "logoURI": "/images/tokens/56/0xab3dbcd9b096c3ff76275038bf58eac10d22c61f.png"
+    "address": "0xab3dbcd9b096c3ff76275038bf58eac10d22c61f",
+    "chainId": 56,
+    "name": "YUSD",
+    "symbol": "YUSD",
+    "decimals": 18,
+    "logoURI": "/images/tokens/56/0xab3dbcd9b096c3ff76275038bf58eac10d22c61f.svg"
 }

@@ -3,7 +3,7 @@
     "chainId": 43114,
     "name": "Spectra ERC4626 Wrapper: MEV USDC",
     "symbol": "sw-mevUSDC",
-    "decimals": 18,
+    "decimals": 12,
     "logoURI": "/images/tokens/43114/0x4dc1ce9b9f9ef00c144bfad305f16c62293dc0e8.svg",
     "extensions": {
         "underlying": "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",

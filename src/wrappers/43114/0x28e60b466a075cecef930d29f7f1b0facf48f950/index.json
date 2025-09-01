@@ -1,0 +1,19 @@
+{
+    "address": "0x28e60B466a075CeCeF930d29f7f1b0FAcf48F950",
+    "chainId": 43114,
+    "name": "Spectra ERC4626 Wrapper: MEV USDC",
+    "symbol": "sw-mevUSDC",
+    "decimals": 18,
+    "logoURI": "/images/tokens/43114/0x4dc1ce9b9f9ef00c144bfad305f16c62293dc0e8.svg",
+    "extensions": {
+        "underlying": "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
+        "vault": {
+            "chainId": 43114,
+            "address": "0x4dc1ce9b9f9EF00c144BfAD305f16c62293dC0E8",
+            "symbol": "mevUSDC",
+            "name": "MEV USDC",
+            "decimals": 6,
+            "logoURI": "/images/tokens/43114/0x4dc1ce9b9f9ef00c144bfad305f16c62293dc0e8.svg"
+        }
+    }
+}

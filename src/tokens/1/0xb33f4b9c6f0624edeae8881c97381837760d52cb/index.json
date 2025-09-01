@@ -1,0 +1,12 @@
+{
+    "address": "0xb33f4b9c6f0624edeae8881c97381837760d52cb",
+    "chainId": 1,
+    "name": "Liquid Staked Rezerve.money",
+    "symbol": "lstRZR",
+    "decimals": 18,
+    "logoURI": "/images/tokens/1/0xb33f4b9c6f0624edeae8881c97381837760d52cb.svg",
+    "extensions": {
+        "underlying": "0xb4444468e444f89e1c2CAc2F1D3ee7e336cBD1f5",
+        "protocol": "Rezerve"
+    }
+}

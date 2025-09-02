@@ -16,6 +16,10 @@
             "name": "Hyperbeat VLP",
             "decimals": 18,
             "logoURI": "/images/tokens/999/0xd66d69c288d9a6fd735d7be8b2e389970fc4fd42.svg"
+        },
+        "ibtRoutes": {
+            "withdraw": false,
+            "redeem": false
         }
     }
 }

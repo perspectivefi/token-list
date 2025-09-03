@@ -1101,5 +1101,14 @@
                 "name": "Felix points"
             }
         ]
+    },
+    {
+        "ptAddress": "0x2100e0afda657099bdacaf2ecb7ddc9f3688649f",
+        "chainId": 999,
+        "multipliers": [
+            {
+                "name": "Hyperbeat Hearts"
+            }
+        ]
     }
 ]

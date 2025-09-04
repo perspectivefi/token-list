@@ -1,0 +1,13 @@
+{
+    "address": "0x27d8c7273fd3fcc6956a0b370ce5fd4a7fc65c18",
+    "chainId": 8453,
+    "name": "Seamless WETH Vault",
+    "symbol": "smWETH",
+    "decimals": 18,
+    "logoURI": "/images/tokens/8453/0x27d8c7273fd3fcc6956a0b370ce5fd4a7fc65c18.svg",
+    "extensions": {
+        "underlying": "0x4200000000000000000000000000000000000006",
+        "protocol": "Morpho Seamless (Gauntlet)",
+        "externalLink": "https://app.morpho.org/base/vault/0x27D8c7273fd3fcC6956a0B370cE5Fd4A7fc65c18/seamless-weth-vault"
+    }
+}

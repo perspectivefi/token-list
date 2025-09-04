@@ -1,0 +1,13 @@
+{
+    "chainId": 43114,
+    "address": "0x1f8E769B5B6010B2C2BBCd68629EA1a0a0Eda7E3",
+    "symbol": "mevBTC",
+    "name": "MEV BTC",
+    "decimals": 8,
+    "logoURI": "/images/tokens/43114/0x1f8e769b5b6010b2c2bbcd68629ea1a0a0eda7e3.svg",
+    "extensions": {
+        "underlying": "0x152b9d0FdC40C096757F570A51E494bd4b943E50",
+        "protocol": "Silo",
+        "externalLink": "https://v2.silo.finance/vaults/avalanche/0x1f8E769B5B6010B2C2BBCd68629EA1a0a0Eda7E3?action=deposit"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "address": "0x9D5f6734eF2B744Cc36787edc56A1ffeA3A76D83",
+    "chainId": 999,
+    "name": "Spectra ERC4626 Wrapper: hyperbeat x ether.fi HYPE",
+    "symbol": "sw-beHYPE",
+    "decimals": 18,
+    "logoURI": "/images/tokens/999/0xd8fc8f0b03eba61f64d08b0bef69d80916e5dda9.svg",
+    "extensions": {
+        "vault": {
+            "chainId": 999,
+            "address": "0xd8FC8F0b03eBA61F64D08B0bef69d80916E5DdA9",
+            "symbol": "beHYPE",
+            "name": "hyperbeat x ether.fi HYPE",
+            "decimals": 18,
+            "logoURI": "/images/tokens/999/0xd8fc8f0b03eba61f64d08b0bef69d80916e5dda9.svg"
+        }
+    }
+}

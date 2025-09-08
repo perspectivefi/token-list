@@ -6,6 +6,9 @@
     "decimals": 18,
     "logoURI": "/images/tokens/999/0xd8fc8f0b03eba61f64d08b0bef69d80916e5dda9.svg",
     "extensions": {
+        "underlying": "0x5555555555555555555555555555555555555555",
+        "protocol": "Hyperbeat",
+        "externalLink": "https://app.hyperbeat.org/staking/behype",
         "vault": {
             "chainId": 999,
             "address": "0xd8FC8F0b03eBA61F64D08B0bef69d80916E5DdA9",

@@ -830,7 +830,7 @@
         "chainId": 999,
         "multipliers": [
             {
-                "amount": 45,
+                "amount": 60,
                 "name": "Resolv points"
             }
         ]
@@ -959,7 +959,7 @@
         "chainId": 999,
         "multipliers": [
             {
-                "amount": 45,
+                "amount": 30,
                 "name": "Resolv points"
             }
         ]

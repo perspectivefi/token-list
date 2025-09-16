@@ -1,0 +1,18 @@
+{
+    "address": "0xB9003d5bEd06afD570139d21c64817298DD47eC1",
+    "chainId": 747474,
+    "name": "Spectra ERC4626 Wrapper: Katana miUSD",
+    "symbol": "sw-kmiUSD",
+    "decimals": 18,
+    "logoURI": "/images/tokens/747474/0x184cfda782ce61366010cab23294fb22fa6189f5.png",
+    "extensions": {
+        "vault": {
+            "chainId": 747474,
+            "address": "0x184cFdA782CE61366010CAB23294fb22fa6189F5",
+            "symbol": "kmiUSD",
+            "name": "Katana miUSD",
+            "decimals": 18,
+            "logoURI": "/images/tokens/747474/0x184cfda782ce61366010cab23294fb22fa6189f5.png"
+        }
+    }
+}

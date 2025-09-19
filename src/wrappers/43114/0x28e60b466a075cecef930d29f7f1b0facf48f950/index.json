@@ -7,6 +7,8 @@
     "logoURI": "/images/tokens/43114/0x4dc1ce9b9f9ef00c144bfad305f16c62293dc0e8.svg",
     "extensions": {
         "underlying": "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
+        "protocol": "Silo",
+        "aprEndpoint": "https://app.spectra.finance/api/ibt-apr/merkl-opportunity/3099273976119375939",
         "externalLink": "https://v2.silo.finance/vaults/avalanche/0x4dc1ce9b9f9EF00c144BfAD305f16c62293dC0E8?action=deposit",
         "vault": {
             "chainId": 43114,

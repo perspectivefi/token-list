@@ -1119,5 +1119,15 @@
                 "name": "Hyperbeat Hearts"
             }
         ]
+    },
+    {
+        "ptAddress": "0x6ec27e68c1e34140572b9db9e82b150ecd0737e8",
+        "chainId": 146,
+        "multipliers": [
+            {
+                "amount": 50,
+                "name": "dT points"
+            }
+        ]
     }
 ]

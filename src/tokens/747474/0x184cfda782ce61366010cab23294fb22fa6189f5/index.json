@@ -4,5 +4,10 @@
     "symbol": "kmiUSD",
     "name": "Katana miUSD",
     "decimals": 18,
-    "logoURI": "/images/tokens/747474/0x184cfda782ce61366010cab23294fb22fa6189f5.png"
+    "logoURI": "/images/tokens/747474/0x184cfda782ce61366010cab23294fb22fa6189f5.png",
+    "extensions": {
+        "tags": [
+            "stable"
+        ]
+    }
 }

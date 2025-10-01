@@ -4,5 +4,10 @@
     "name": "MiUSD",
     "symbol": "MiUSD",
     "decimals": 6,
-    "logoURI": "/images/tokens/747474/0xc31f7450be8b7c61f93bee3108116b0a6f0f0354.svg"
+    "logoURI": "/images/tokens/747474/0xc31f7450be8b7c61f93bee3108116b0a6f0f0354.svg",
+    "extensions": {
+        "tags": [
+            "stable"
+        ]
+    }
 }

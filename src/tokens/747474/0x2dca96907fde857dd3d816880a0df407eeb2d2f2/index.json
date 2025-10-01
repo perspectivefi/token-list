@@ -1,8 +1,13 @@
 {
-  "address": "0x2dca96907fde857dd3d816880a0df407eeb2d2f2",
-  "chainId": 747474,
-  "name": "Vault Bridge USDT",
-  "symbol": "vbUSDT",
-  "decimals": 6,
-  "logoURI": "/images/tokens/747474/0x2dca96907fde857dd3d816880a0df407eeb2d2f2.svg"
+    "address": "0x2dca96907fde857dd3d816880a0df407eeb2d2f2",
+    "chainId": 747474,
+    "name": "Vault Bridge USDT",
+    "symbol": "vbUSDT",
+    "decimals": 6,
+    "logoURI": "/images/tokens/747474/0x2dca96907fde857dd3d816880a0df407eeb2d2f2.svg",
+    "extensions": {
+        "tags": [
+            "stable"
+        ]
+    }
 }

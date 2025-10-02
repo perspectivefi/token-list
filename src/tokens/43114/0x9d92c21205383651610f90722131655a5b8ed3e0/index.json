@@ -1,0 +1,12 @@
+{
+    "address": "0x9d92c21205383651610f90722131655a5b8ed3e0",
+    "chainId": 999,
+    "name": "Staked USDp",
+    "symbol": "sUSDp",
+    "decimals": 18,
+    "logoURI": "/images/tokens/999/0x9d92c21205383651610f90722131655a5b8ed3e0.svg",
+    "extensions": {
+        "underlying": "0x9ee1963f05553ef838604dd39403be21cef26aa4",
+        "protocol": "Parallel Protocol"
+    }
+}

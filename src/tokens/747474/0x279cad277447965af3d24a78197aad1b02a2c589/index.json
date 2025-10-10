@@ -6,7 +6,6 @@
     "decimals": 6,
     "logoURI": "/images/tokens/747474/0x279cad277447965af3d24a78197aad1b02a2c589.png",
     "extensions": {
-        "underlying": "0x203A662b0BD271A6ed5a60EdFbd04bFce608FD36",
         "protocol": "Lucidly",
         "externalLink": "https://app.lucidly.finance/"
     }

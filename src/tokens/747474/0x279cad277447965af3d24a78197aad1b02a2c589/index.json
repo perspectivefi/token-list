@@ -1,0 +1,12 @@
+{
+    "chainId": 747474,
+    "address": "0x279CAD277447965AF3d24a78197aad1B02a2c589",
+    "symbol": "syUSD",
+    "name": "Stable Yield USD",
+    "decimals": 6,
+    "logoURI": "/images/tokens/747474/0x279cad277447965af3d24a78197aad1b02a2c589.png",
+    "extensions": {
+        "protocol": "Lucidly",
+        "externalLink": "https://app.lucidly.finance/"
+    }
+}

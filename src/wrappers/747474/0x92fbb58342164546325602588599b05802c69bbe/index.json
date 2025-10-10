@@ -1,0 +1,20 @@
+{
+    "address": "0x92fbB58342164546325602588599B05802C69bBe",
+    "chainId": 747474,
+    "name": "Spectra ERC4626 Wrapper: Stable Yield USD",
+    "symbol": "sw-syUSD",
+    "decimals": 6,
+    "logoURI": "/images/tokens/747474/0x279cad277447965af3d24a78197aad1b02a2c589.png",
+    "extensions": {
+        "underlying": "0x203A662b0BD271A6ed5a60EdFbd04bFce608FD36",
+        "protocol": "Lucidly",
+        "vault": {
+            "chainId": 747474,
+            "address": "0x279CAD277447965AF3d24a78197aad1B02a2c589",
+            "symbol": "syUSD",
+            "name": "Stable Yield USD",
+            "decimals": 6,
+            "logoURI": "/images/tokens/747474/0x279cad277447965af3d24a78197aad1b02a2c589.png"
+        }
+    }
+}

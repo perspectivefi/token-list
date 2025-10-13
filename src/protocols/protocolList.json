@@ -810,7 +810,7 @@
         "chainId": 1,
         "multipliers": [
             {
-                "amount": 36,
+                "amount": 18,
                 "name": "Falcon Miles"
             }
         ]

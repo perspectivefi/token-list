@@ -997,20 +997,12 @@
     {
         "ptAddress": "0x62b0e206a178aa7e5866149dd076ddf5d106c805",
         "chainId": 43114,
-        "multipliers": {
-            "lp": [
-                {
-                    "amount": 2,
-                    "name": "Re points"
-                }
-            ],
-            "yt": [
-                {
-                    "amount": 1.3,
-                    "name": "Re points"
-                }
-            ]
-        }
+        "multipliers": [
+            {
+                "amount": 30,
+                "name": "Re points"
+            }
+        ]
     },
     {
         "ptAddress": "0x738077c380a8adbcdc046b20fbbdb39ce87e5c8a",

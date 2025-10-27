@@ -8,6 +8,7 @@
     "extensions": {
         "underlying": "0x5Ac32E4c756bD57630eAdF216668Ba16fA4635a2",
         "protocol": "Treehouse",
+        "externalLink": "https://app.treehouse.finance/vault/tavax",
         "vault": {
             "chainId": 43114,
             "address": "0x14A84F1a61cCd7D1BE596A6cc11FE33A36Bc1646",

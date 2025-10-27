@@ -1,0 +1,20 @@
+{
+    "address": "0x4c916ad137b97b03ab5f105cea77c5d5f98a2a09",
+    "chainId": 43114,
+    "name": "Spectra ERC4626 Wrapper: Treehouse AVAX",
+    "symbol": "sw-tAVAX",
+    "decimals": 18,
+    "logoURI": "/images/tokens/43114/0x14a84f1a61ccd7d1be596a6cc11fe33a36bc1646.svg",
+    "extensions": {
+        "underlying": "0x5Ac32E4c756bD57630eAdF216668Ba16fA4635a2",
+        "protocol": "Treehouse",
+        "vault": {
+            "chainId": 43114,
+            "address": "0x14A84F1a61cCd7D1BE596A6cc11FE33A36Bc1646",
+            "symbol": "tAVAX",
+            "name": "Treehouse AVAX",
+            "decimals": 18,
+            "logoURI": "/images/tokens/43114/0x14a84f1a61ccd7d1be596a6cc11fe33a36bc1646.svg"
+        }
+    }
+}

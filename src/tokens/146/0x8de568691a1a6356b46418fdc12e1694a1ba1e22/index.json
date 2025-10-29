@@ -1,0 +1,12 @@
+{
+  "address": "0x8de568691a1a6356b46418fdc12e1694a1ba1e22",
+  "chainId": 146,
+  "name": "Wrapped Staked eliteRingsScUSD",
+  "symbol": "wstkEliteRingsScUSD",
+  "decimals": 6,
+  "logoURI": "/images/tokens/146/0x8de568691a1a6356b46418fdc12e1694a1ba1e22.png",
+  "extensions": {
+    "underlying": "0xd4aA386bfCEEeDd9De0875B3BA07f51808592e22",
+    "protocol": "Eliteness (Trevee)"
+  }
+}

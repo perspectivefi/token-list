@@ -1,0 +1,12 @@
+{
+  "address": "0x5b8ce6d591c914a56cb019b3decb63ede22708c8",
+  "chainId": 56,
+  "name": "Staked eTHENA",
+  "symbol": "stakeTHENA",
+  "decimals": 18,
+  "logoURI": "/images/tokens/56/0x5b8ce6d591c914a56cb019b3decb63ede22708c8.png",
+  "extensions": {
+    "underlying": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+    "protocol": "Eliteness (Thena)"
+  }
+}

@@ -1131,5 +1131,14 @@
                 "name": "Drops"
             }
         ]
+    },
+    {
+        "ptAddress": "0x41bd53030b11e7233b963de98e5a1138870ab8a4",
+        "chainId": 43114,
+        "multipliers": [
+            {
+                "name": "100% Nut boost"
+            }
+        ]
     }
 ]

@@ -1,8 +1,8 @@
 {
     "address": "0x9ee1963f05553ef838604dd39403be21cef26aa4",
-    "chainId": 999,
+    "chainId": 43114,
     "name": "USDp",
     "symbol": "USDp",
     "decimals": 18,
-    "logoURI": "/images/tokens/999/0x9ee1963f05553ef838604dd39403be21cef26aa4.svg"
+    "logoURI": "/images/tokens/43114/0x9ee1963f05553ef838604dd39403be21cef26aa4.svg"
 }

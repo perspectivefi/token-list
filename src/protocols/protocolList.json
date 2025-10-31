@@ -1121,5 +1121,15 @@
                 "name": "dT points"
             }
         ]
+    },
+    {
+        "ptAddress": "0xd6d16996a200d76f1cd47f23a8386e700fd38c29",
+        "chainId": 747474,
+        "multipliers": [
+            {
+                "amount": 3,
+                "name": "Drops"
+            }
+        ]
     }
 ]

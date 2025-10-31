@@ -1,0 +1,20 @@
+{
+    "address": "0xFE2bd89aA29919D6bc3a9FdAF85963bEaA458cF3",
+    "chainId": 43114,
+    "name": "Spectra ERC4626 Wrapper: Staked YUSD",
+    "symbol": "sw-sYUSD",
+    "decimals": 18,
+    "logoURI": "/images/tokens/43114/0x539e46827c37a3ef11c7ce521cc56b4d59e602e3.svg",
+    "extensions": {
+        "underlying": "0xca2671Dcd031a72359f456C212F62A9bDa737cD7",
+        "protocol": "Aegis",
+        "vault": {
+            "chainId": 43114,
+            "address": "0x539e46827c37A3ef11c7cE521CC56B4d59E602e3",
+            "symbol": "sYUSD",
+            "name": "Staked YUSD",
+            "decimals": 18,
+            "logoURI": "/images/tokens/43114/0x539e46827c37a3ef11c7ce521cc56b4d59e602e3.svg"
+        }
+    }
+}

@@ -4,9 +4,5 @@
     "symbol": "sYUSD",
     "name": "Staked YUSD",
     "decimals": 18,
-    "logoURI": "/images/tokens/43114/0x539e46827c37a3ef11c7ce521cc56b4d59e602e3.svg",
-    "extensions": {
-        "underlying": "0xca2671Dcd031a72359f456C212F62A9bDa737cD7",
-        "protocol": "Aegis"
-    }
+    "logoURI": "/images/tokens/43114/0x539e46827c37a3ef11c7ce521cc56b4d59e602e3.svg"
 }

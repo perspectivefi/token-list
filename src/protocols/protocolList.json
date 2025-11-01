@@ -1135,10 +1135,19 @@
     {
         "ptAddress": "0x41bd53030b11e7233b963de98e5a1138870ab8a4",
         "chainId": 43114,
-        "multipliers": [
-            {
-                "name": "100% Nut boost"
-            }
-        ]
+        "multipliers": {
+            "yt": [
+                {
+                    "amount": 2,
+                    "name": "Nuts"
+                }
+            ],
+            "lp": [
+                {
+                    "amount": 1,
+                    "name": "Nuts - Applied to tAVAX side of the pool"
+                }
+            ]
+        }
     }
 ]

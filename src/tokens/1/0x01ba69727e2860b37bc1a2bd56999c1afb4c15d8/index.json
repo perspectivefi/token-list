@@ -1,0 +1,12 @@
+{
+    "address": "0x01ba69727e2860b37bc1a2bd56999c1afb4c15d8",
+    "chainId": 1,
+    "name": "YieldNest RWA MAX",
+    "symbol": "ynRWAx",
+    "decimals": 18,
+    "logoURI": "/images/tokens/1/0x01ba69727e2860b37bc1a2bd56999c1afb4c15d8.svg",
+    "extensions": {
+        "underlying": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+        "protocol": "YieldNest"
+    }
+}

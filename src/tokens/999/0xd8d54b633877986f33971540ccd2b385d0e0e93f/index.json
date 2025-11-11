@@ -1,0 +1,12 @@
+{
+    "address": "0xd8d54b633877986f33971540ccd2b385d0e0e93f",
+    "chainId": 999,
+    "name": "Peaches USDT",
+    "symbol": "wpUSDT",
+    "decimals": 6,
+    "logoURI": "/images/tokens/999/0xd8d54b633877986f33971540ccd2b385d0e0e93f.png",
+    "extensions": {
+        "underlying": "0xB8CE59FC3717ada4C02eaDF9682A9e934F625ebb",
+        "protocol": "Lucky Peaches"
+    }
+}

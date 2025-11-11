@@ -1,0 +1,13 @@
+{
+    "chainId": 999,
+    "address": "0xb88339cb7199b77e23db6e890353e22632ba630f",
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "decimals": 6,
+    "logoURI": "/images/tokens/999/0xb88339cb7199b77e23db6e890353e22632ba630f.svg",
+    "extensions": {
+        "tags": [
+            "stable"
+        ]
+    }
+}

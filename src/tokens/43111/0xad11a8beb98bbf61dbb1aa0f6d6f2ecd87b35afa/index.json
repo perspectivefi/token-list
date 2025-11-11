@@ -1,0 +1,13 @@
+{
+    "chainId": 43111,
+    "address": "0xad11a8beb98bbf61dbb1aa0f6d6f2ecd87b35afa",
+    "name": "Bridged USDC (Stargate)",
+    "symbol": "USDC.e",
+    "decimals": 6,
+    "logoURI": "/images/tokens/43111/0xad11a8beb98bbf61dbb1aa0f6d6f2ecd87b35afa.svg",
+    "extensions": {
+        "tags": [
+            "stable"
+        ]
+    }
+}

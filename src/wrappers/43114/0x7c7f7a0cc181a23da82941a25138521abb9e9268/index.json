@@ -1,0 +1,20 @@
+{
+    "address": "0x7C7F7A0Cc181A23dA82941A25138521abb9E9268",
+    "chainId": 43114,
+    "name": "Spectra ERC4626 Wrapper: avBTC MAX",
+    "symbol": "sw-avBTCx",
+    "decimals": 18,
+    "logoURI": "/images/tokens/43114/0xa7c10c510df4b1702e1f36451dd29d7c3edc760c.svg",
+    "extensions": {
+        "underlying": "0xfd2c2A98009d0cBed715882036e43d26C4289053",
+        "protocol": "Avant",
+        "vault": {
+            "chainId": 43114,
+            "address": "0xa7C10C510df4B1702E1F36451dd29D7C3EDC760C",
+            "symbol": "avBTCx",
+            "name": "avBTC MAX",
+            "decimals": 18,
+            "logoURI": "/images/tokens/43114/0xa7c10c510df4b1702e1f36451dd29d7c3edc760c.svg"
+        }
+    }
+}

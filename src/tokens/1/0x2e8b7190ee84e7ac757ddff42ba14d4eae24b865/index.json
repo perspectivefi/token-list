@@ -1,0 +1,13 @@
+{
+    "chainId": 1,
+    "address": "0x2E8b7190eE84E7AC757Ddff42Ba14d4EAe24B865",
+    "symbol": "avETHx",
+    "name": "avETH MAX",
+    "decimals": 18,
+    "logoURI": "/images/tokens/1/0x2e8b7190ee84e7ac757ddff42ba14d4eae24b865.svg",
+    "extensions": {
+        "underlying": "0x9469470C9878bf3d6d0604831d9A3A366156f7EE",
+        "protocol": "Avant",
+        "externalLink": "https://app.avantprotocol.com/products"
+    }
+}

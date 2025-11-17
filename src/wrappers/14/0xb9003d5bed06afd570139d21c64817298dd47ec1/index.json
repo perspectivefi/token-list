@@ -1,0 +1,20 @@
+{
+    "address": "0xB9003d5bEd06afD570139d21c64817298DD47eC1",
+    "chainId": 14,
+    "name": "Spectra ERC4626 Wrapper: Staked FLR",
+    "symbol": "sw-sFLR",
+    "decimals": 18,
+    "logoURI": "/images/tokens/14/0x12e605bc104e93b45e1ad99f9e555f659051c2bb.svg",
+    "extensions": {
+        "underlying": "0x1D80c49BbBCd1C0911346656B529DF9E5c2F783d",
+        "protocol": "Sceptre",
+        "vault": {
+            "chainId": 14,
+            "address": "0x12e605bc104e93B45e1aD99F9e555f659051c2BB",
+            "symbol": "sFLR",
+            "name": "Staked FLR",
+            "decimals": 18,
+            "logoURI": "/images/tokens/14/0x12e605bc104e93b45e1ad99f9e555f659051c2bb.svg"
+        }
+    }
+}

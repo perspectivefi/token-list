@@ -1,13 +1,10 @@
 # Spectra Token List
 
-A comprehensive token registry for the Spectra Finance ecosystem, providing standardized metadata for tokens, ERC4626 wrappers and protocolsacross multiple networks.
+A comprehensive token registry for the Spectra Finance ecosystem, providing standardized metadata for tokens, ERC4626 wrappers and protocols across multiple networks.
 
 **App**: https://app.spectra.finance  
 **Package**: `@perspectivefi/token-list`
 
-## 📋 Table of Contents
-
--   [Overview](#overview)
 -   [Installation](#installation)
 -   [Usage](#usage)
 -   [Data Structure](#data-structure)
@@ -18,16 +15,6 @@ A comprehensive token registry for the Spectra Finance ecosystem, providing stan
 -   [Schema Validation](#schema-validation)
 -   [Supported Networks](#supported-networks)
 -   [Development](#development)
-
-## 📖 Overview
-
-This repository maintains curated lists of:
-
--   **Tokens**: Interest-bearing tokens (IBTs) and yield tokens supported by Spectra
--   **ERC4626 Wrappers**: Standardized vault tokens following the ERC4626 specification
--   **Protocols**: Protocol configurations including yield multipliers and rewards
-
-All data is structured, validated against JSON schemas, and automatically compiled into optimized build files for consumption by the Spectra platform and other applications.
 
 ## Installation
 
@@ -44,26 +31,7 @@ import {
     spectraTokens,
     erc4626Wrappers,
     protocolList,
-    curatorList,
 } from "@perspectivefi/token-list"
-
-// Get all tokens
-console.log(
-    spectraTokens,
-)
-
-// Filter tokens by chain ID
-const ethereumTokens =
-    spectraTokens.filter(
-        (token) =>
-            token.chainId ===
-            1,
-    )
-
-// Access protocol configurations
-console.log(
-    protocolList,
-)
 ```
 
 ## Data Structure
@@ -107,14 +75,13 @@ We welcome contributions! Please follow the guidelines below for adding new toke
 
 #### Optional Extensions
 
-| Field           | Type     | Description                                       |
-| --------------- | -------- | ------------------------------------------------- |
-| `tags`          | string[] | Token categories (`["stable", "liquid-staking"]`) |
-| `underlying`    | string   | Underlying asset address                          |
-| `protocol`      | string   | Associated protocol name                          |
-| `aprEndpoint`   | string   | API endpoint for APR data                         |
-| `faucetAddress` | string   | Testnet faucet address                            |
-| `ibtRoutes`     | object   | Available IBT operations                          |
+| Field         | Type     | Description                                       |
+| ------------- | -------- | ------------------------------------------------- |
+| `tags`        | string[] | Token categories (`["stable", "liquid-staking"]`) |
+| `underlying`  | string   | Underlying asset address                          |
+| `protocol`    | string   | Associated protocol name                          |
+| `aprEndpoint` | string   | API endpoint for APR data                         |
+| `ibtRoutes`   | object   | Available IBT operations                          |
 
 #### Steps to Add a Token
 
@@ -237,12 +204,11 @@ Protocols define yield multipliers and reward configurations for principal token
 
 #### Protocol Structure
 
-| Field          | Type         | Description                                    |
-| -------------- | ------------ | ---------------------------------------------- |
-| `ptAddress`    | string       | Principal token address                        |
-| `chainId`      | number       | Network chain ID                               |
-| `multipliers`  | array/object | Reward multiplier configuration                |
-| `defaultInput` | string       | Default input type (`"ibt"` or `"underlying"`) |
+| Field         | Type         | Description                     |
+| ------------- | ------------ | ------------------------------- |
+| `ptAddress`   | string       | Principal token address         |
+| `chainId`     | number       | Network chain ID                |
+| `multipliers` | array/object | Reward multiplier configuration |
 
 #### Multiplier Types
 

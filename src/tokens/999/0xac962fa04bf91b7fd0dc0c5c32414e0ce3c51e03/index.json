@@ -1,0 +1,12 @@
+{
+    "chainId": 999,
+    "address": "0xAc962FA04BF91B7fd0DC0c5C32414E0Ce3C51E03",
+    "symbol": "xHYPE",
+    "name": "xHYPE",
+    "decimals": 18,
+    "logoURI": "/images/tokens/999/0xac962fa04bf91b7fd0dc0c5c32414e0ce3c51e03.svg",
+    "extensions": {
+        "protocol": "liminal.money",
+        "externalLink": "https://liminal.money/app/tokenized/xHYPE"
+    }
+}

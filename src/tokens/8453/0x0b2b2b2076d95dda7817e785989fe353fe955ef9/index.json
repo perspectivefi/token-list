@@ -1,0 +1,12 @@
+{
+    "chainId": 8453,
+    "address": "0x0B2b2B2076d95dda7817e785989fE353fe955ef9",
+    "symbol": "sUSDai",
+    "name": "Staked USDai",
+    "decimals": 18,
+    "logoURI": "/images/tokens/8453/0x0b2b2b2076d95dda7817e785989fe353fe955ef9.svg",
+    "extensions": {
+        "protocol": "USD.AI",
+        "externalLink": "https://app.usd.ai/"
+    }
+}

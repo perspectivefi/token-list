@@ -1159,5 +1159,15 @@
                 "name": "Upshift points"
             }
         ]
+    },
+    {
+        "ptAddress": "0x7369a801a2699d6760a4c8c0b02e0bbdbfab0350",
+        "chainId": 8453,
+        "multipliers": [
+            {
+                "amount": 12,
+                "name": "Allo points"
+            }
+        ]
     }
 ]

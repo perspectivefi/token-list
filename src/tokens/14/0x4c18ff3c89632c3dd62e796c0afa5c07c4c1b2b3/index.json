@@ -1,0 +1,12 @@
+{
+    "address": "0x4C18Ff3C89632c3Dd62E796c0aFA5c07c4c1B2b3",
+    "chainId": 14,
+    "name": "Firelight stXRP",
+    "symbol": "stXRP",
+    "decimals": 6,
+    "logoURI": "/images/tokens/14/0x4c18ff3c89632c3dd62e796c0afa5c07c4c1b2b3.svg",
+    "extensions": {
+        "underlying": "0xAd552A648C74D49E10027AB8a618A3ad4901c5bE",
+        "protocol": "Firelight"
+    }
+}

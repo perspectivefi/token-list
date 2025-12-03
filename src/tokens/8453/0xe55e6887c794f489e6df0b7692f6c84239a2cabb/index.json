@@ -1,0 +1,12 @@
+{
+    "address": "0xe55e6887c794f489e6df0b7692f6c84239a2cabb",
+    "chainId": 8453,
+    "name": "Spectra ERC4626 Wrapper: Staked USDai",
+    "symbol": "sw-sUSDai",
+    "decimals": 18,
+    "logoURI": "/images/tokens/8453/0xe55e6887c794f489e6df0b7692f6c84239a2cabb.svg",
+    "extensions": {
+        "underlying": "0x0A1a1A107E45b7Ced86833863f482BC5f4ed82EF",
+        "protocol": "usd.ai"
+    }
+}

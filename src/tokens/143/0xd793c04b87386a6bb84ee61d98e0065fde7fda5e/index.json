@@ -1,0 +1,12 @@
+{
+    "address": "0xD793c04B87386A6bb84ee61D98e0065FdE7fdA5E",
+    "chainId": 143,
+    "name": "sAUSD",
+    "symbol": "sAUSD",
+    "decimals": 6,
+    "logoURI": "/images/tokens/143/0xd793c04b87386a6bb84ee61d98e0065fde7fda5e.svg",
+    "extensions": {
+        "underlying": "0x00000000eFE302BEAA2b3e6e1b18d08D69a9012a",
+        "protocol": "Upshift (Savings AUSD)"
+    }
+}

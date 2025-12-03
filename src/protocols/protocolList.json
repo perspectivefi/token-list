@@ -1149,5 +1149,15 @@
                 }
             ]
         }
+    },
+    {
+        "ptAddress": "0x1f65edfd864ed4045bbe03597a514f54bc87bea5",
+        "chainId": 143,
+        "multipliers": [
+            {
+                "amount": 5,
+                "name": "Upshift points"
+            }
+        ]
     }
 ]

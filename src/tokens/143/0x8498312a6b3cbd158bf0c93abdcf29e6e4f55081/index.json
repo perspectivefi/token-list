@@ -1,0 +1,13 @@
+{
+    "chainId": 143,
+    "address": "0x8498312A6B3CbD158bf0c93AbdCF29E6e4F55081",
+    "symbol": "gMON",
+    "name": "gMON",
+    "decimals": 18,
+    "logoURI": "/images/tokens/143/0x8498312a6b3cbd158bf0c93abdcf29e6e4f55081.svg",
+    "extensions": {
+        "underlying": "0x3bd359C1119dA7Da1D913D1C4D2B7c461115433A",
+        "protocol": "Magma",
+        "externalLink": "https://www.magmastaking.xyz/"
+    }
+}

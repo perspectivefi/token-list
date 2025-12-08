@@ -1,0 +1,19 @@
+{
+    "address": "0x28e60B466a075CeCeF930d29f7f1b0FAcf48F950",
+    "chainId": 143,
+    "name": "Spectra ERC4626 Wrapper: earnAUSD",
+    "symbol": "sw-earnAUSD",
+    "decimals": 6,
+    "logoURI": "/images/tokens/143/0x103222f020e98bba0ad9809a011fdf8e6f067496.svg",
+    "extensions": {
+        "protocol": "Upshift",
+        "vault": {
+            "chainId": 143,
+            "address": "0x103222f020e98Bba0AD9809A011FDF8e6F067496",
+            "symbol": "earnAUSD",
+            "name": "earnAUSD",
+            "decimals": 6,
+            "logoURI": "/images/tokens/143/0x103222f020e98bba0ad9809a011fdf8e6f067496.svg"
+        }
+    }
+}

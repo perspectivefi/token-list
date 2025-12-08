@@ -1,0 +1,12 @@
+{
+    "chainId": 143,
+    "address": "0x103222f020e98Bba0AD9809A011FDF8e6F067496",
+    "symbol": "earnAUSD",
+    "name": "earnAUSD",
+    "decimals": 6,
+    "logoURI": "/images/tokens/143/0x103222f020e98bba0ad9809a011fdf8e6f067496.svg",
+    "extensions": {
+        "protocol": "Upshift",
+        "externalLink": "https://app.upshift.finance/pools/143/0x36eDbF0C834591BFdfCaC0Ef9605528c75c406aA"
+    }
+}

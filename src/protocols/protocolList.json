@@ -1161,6 +1161,16 @@
         ]
     },
     {
+        "ptAddress": "0x0912e731d4e9ea505e1d66c3a03cbc946ed7abef",
+        "chainId": 143,
+        "multipliers": [
+            {
+                "amount": 5,
+                "name": "Upshift points"
+            }
+        ]
+    },
+    {
         "ptAddress": "0x7369a801a2699d6760a4c8c0b02e0bbdbfab0350",
         "chainId": 8453,
         "multipliers": [

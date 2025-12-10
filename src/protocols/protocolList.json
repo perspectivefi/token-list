@@ -1179,5 +1179,25 @@
                 "name": "Allo points"
             }
         ]
+    },
+    {
+        "ptAddress": "0xf55cd205c744cd08003875a94caecbd3cad1d1fb",
+        "chainId": 43114,
+        "multipliers": [
+            {
+                "amount": 5,
+                "name": "Aegis points"
+            }
+        ]
+    },
+    {
+        "ptAddress": "0xc94a1223d8ea03c07e0aa8167b1169c689d080a7",
+        "chainId": 747474,
+        "multipliers": [
+            {
+                "amount": 5,
+                "name": "Aegis points"
+            }
+        ]
     }
 ]

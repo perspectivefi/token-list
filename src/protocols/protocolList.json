@@ -1129,6 +1129,10 @@
             {
                 "amount": 3,
                 "name": "Drops"
+            },
+            {
+                "amount": 12,
+                "name": "InfiniFi points"
             }
         ]
     },

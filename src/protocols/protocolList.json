@@ -1203,5 +1203,15 @@
                 "name": "Aegis points"
             }
         ]
+    },
+    {
+        "ptAddress": "0x097dd93bf92bf9018ff194195ddfcfb2c359335e",
+        "chainId": 14,
+        "multipliers": [
+            {
+                "amount": 1,
+                "name": "Firelight points"
+            }
+        ]
     }
 ]

@@ -1,0 +1,13 @@
+{
+    "address": "0xd1573de52fff44dd92d275e20fdab0296ccff141",
+    "chainId": 1,
+    "name": "STAK",
+    "symbol": "STAK",
+    "decimals": 18,
+    "logoURI": "/images/tokens/1/0xd1573de52fff44dd92d275e20fdab0296ccff141.svg",
+    "extensions": {
+        "underlying": "0xFFd3b4D343A8964a5C3c1caAc20f319C41A97BFF",
+        "protocol": "YieldNest",
+        "externalLink": "https://app.yieldnest.finance/token/STAK"
+    }
+}

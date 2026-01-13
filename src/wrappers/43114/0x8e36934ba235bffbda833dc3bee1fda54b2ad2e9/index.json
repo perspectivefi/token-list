@@ -1,0 +1,19 @@
+{
+    "address": "0x8E36934BA235bFFbda833Dc3BeE1FDa54b2aD2E9",
+    "chainId": 43114,
+    "name": "Spectra ERC4626 Wrapper: Wrapped eETH",
+    "symbol": "sw-weETH",
+    "decimals": 18,
+    "logoURI": "/images/tokens/43114/0xa3d68b74bf0528fdd07263c60d6488749044914b.svg",
+    "extensions": {
+        "protocol": "Ether.fi",
+        "vault": {
+            "chainId": 43114,
+            "address": "0xA3D68b74bF0528fdD07263c60d6488749044914b",
+            "symbol": "weETH",
+            "name": "Wrapped eETH",
+            "decimals": 18,
+            "logoURI": "/images/tokens/43114/0xa3d68b74bf0528fdd07263c60d6488749044914b.svg"
+        }
+    }
+}

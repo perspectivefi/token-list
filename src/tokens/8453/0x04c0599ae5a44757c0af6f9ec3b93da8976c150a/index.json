@@ -1,13 +1,11 @@
 {
-  "chainId": 8453,
-  "address": "0x04C0599Ae5A44757c0af6F9eC3b93da8976c150A",
-  "name": "Wrapped eETH",
-  "symbol": "weETH",
-  "decimals": 18,
-  "logoURI": "/images/tokens/8453/0x04c0599ae5a44757c0af6f9ec3b93da8976c150a.svg",
-  "extensions": {
-    "tags": [
-      "eth"
-    ]
-  }
+    "chainId": 8453,
+    "address": "0x04C0599Ae5A44757c0af6F9eC3b93da8976c150A",
+    "name": "Wrapped eETH",
+    "symbol": "weETH",
+    "decimals": 18,
+    "logoURI": "/images/tokens/8453/0x04c0599ae5a44757c0af6f9ec3b93da8976c150a.svg",
+    "extensions": {
+        "protocol": "Ether.fi"
+    }
 }

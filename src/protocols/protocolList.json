@@ -1045,6 +1045,24 @@
         }
     },
     {
+        "ptAddress": "0xae814abf803aaf847bbf354aa01bc88f4d81693e",
+        "chainId": 43114,
+        "multipliers": {
+            "yt": [
+                {
+                    "amount": 2,
+                    "name": "Nuts"
+                }
+            ],
+            "lp": [
+                {
+                    "amount": 2,
+                    "name": "Nuts - Applied to tAVAX side of the pool"
+                }
+            ]
+        }
+    },
+    {
         "ptAddress": "0x1f65edfd864ed4045bbe03597a514f54bc87bea5",
         "chainId": 143,
         "multipliers": [

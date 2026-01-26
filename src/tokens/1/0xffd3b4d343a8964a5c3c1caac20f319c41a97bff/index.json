@@ -1,0 +1,11 @@
+{
+    "address": "0xffd3b4d343a8964a5c3c1caac20f319c41a97bff",
+    "chainId": 1,
+    "name": "ynRWAx/ynUSDx",
+    "symbol": "yn-RWA/USD",
+    "decimals": 18,
+    "logoURI": "/images/tokens/1/0xffd3b4d343a8964a5c3c1caac20f319c41a97bff.svg",
+    "extensions": {
+        "externalLink": "https://app.yieldnest.finance/token/STAK"
+    }
+}

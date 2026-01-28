@@ -1121,5 +1121,41 @@
                 "name": "Firelight points"
             }
         ]
+    },
+    {
+        "ptAddress": "0xb66a5502ab560a672aa2f1d38dad5670200d14c8",
+        "chainId": 43114,
+        "multipliers": {
+            "yt": [
+                {
+                    "amount": 30,
+                    "name": "Avant points"
+                }
+            ],
+            "lp": [
+                {
+                    "amount": 20,
+                    "name": "Avant points"
+                }
+            ]
+        }
+    },
+    {
+        "ptAddress": "0x1ef7122c2e150e34db0d2a8d6ae200b7e4b20a68",
+        "chainId": 43114,
+        "multipliers": {
+            "yt": [
+                {
+                    "amount": 60,
+                    "name": "Avant points"
+                }
+            ],
+            "lp": [
+                {
+                    "amount": 40,
+                    "name": "Avant points"
+                }
+            ]
+        }
     }
 ]

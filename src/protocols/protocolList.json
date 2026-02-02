@@ -1137,6 +1137,16 @@
         ]
     },
     {
+        "ptAddress": "0x04304b039ae6c02acd9830e1bb0e8f529cb9a2a6",
+        "chainId": 14,
+        "multipliers": [
+            {
+                "amount": 1,
+                "name": "Firelight points"
+            }
+        ]
+    },
+    {
         "ptAddress": "0xb66a5502ab560a672aa2f1d38dad5670200d14c8",
         "chainId": 43114,
         "multipliers": {

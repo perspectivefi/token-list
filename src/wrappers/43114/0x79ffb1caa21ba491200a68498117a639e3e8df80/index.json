@@ -15,6 +15,12 @@
             "name": "avUSD MAX",
             "decimals": 18,
             "logoURI": "/images/tokens/43114/0xdd1cdfa52e7d8474d434cd016fd346701db6b3b9.svg"
+        },
+        "ibtRoutes": {
+            "deposit": false,
+            "mint": false,
+            "withdraw": false,
+            "redeem": false
         }
     }
 }

@@ -1181,5 +1181,23 @@
                 }
             ]
         }
+    },
+    {
+        "ptAddress": "0xbf5419095edccf25e594e5ae84550a5082f7e7ae",
+        "chainId": 43114,
+        "multipliers": {
+            "yt": [
+                {
+                    "amount": 3,
+                    "name": "Avant points"
+                }
+            ],
+            "lp": [
+                {
+                    "amount": 2,
+                    "name": "Avant points"
+                }
+            ]
+        }
     }
 ]

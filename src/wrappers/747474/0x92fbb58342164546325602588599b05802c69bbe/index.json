@@ -15,6 +15,10 @@
             "name": "Stable Yield USD",
             "decimals": 6,
             "logoURI": "/images/tokens/747474/0x279cad277447965af3d24a78197aad1b02a2c589.png"
+        },
+        "ibtRoutes": {
+            "withdraw": false,
+            "redeem": false
         }
     }
 }

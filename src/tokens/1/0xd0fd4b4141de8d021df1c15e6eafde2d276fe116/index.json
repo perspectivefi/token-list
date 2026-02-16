@@ -1,0 +1,11 @@
+{
+    "address": "0xd0fd4b4141de8d021df1c15e6eafde2d276fe116",
+    "chainId": 1,
+    "name": "Stake DAO pmUSD/frxUSD Vault",
+    "symbol": "sd-pmfrxUSD-vault",
+    "decimals": 18,
+    "logoURI": "/images/tokens/1/0xd0fd4b4141de8d021df1c15e6eafde2d276fe116.svg",
+    "extensions": {
+        "underlying": "0xBf5047039F2980C21eB5692c790BAd8A9533b900"
+    }
+}

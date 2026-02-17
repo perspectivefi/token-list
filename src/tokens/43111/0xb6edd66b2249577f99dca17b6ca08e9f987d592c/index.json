@@ -1,0 +1,13 @@
+{
+    "address": "0xb6edd66b2249577f99dca17b6ca08e9f987d592c",
+    "chainId": 43111,
+    "name": "Static Ploutos Market Hemi USDCe",
+    "symbol": "statLHemiUSDCe",
+    "decimals": 6,
+    "logoURI": "/images/tokens/43111/0xb6edd66b2249577f99dca17b6ca08e9f987d592c.png",
+    "extensions": {
+        "underlying": "0xad11a8BEb98bbf61dbb1aa0F6d6F2ECD87b35afA",
+        "protocol": "Ploutos",
+        "externalLink": "https://app.ploutos.money/reserve-overview/?underlyingAsset=0xad11a8beb98bbf61dbb1aa0f6d6f2ecd87b35afa&marketName=proto_hemi_v3"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "address": "0x070313a96f757f449f49a90aa38cdde8aad64711",
+    "chainId": 1,
+    "name": "Static Ploutos Market Ethereum USDT",
+    "symbol": "statLEthereumUSDT",
+    "decimals": 6,
+    "logoURI": "/images/tokens/1/0x070313a96f757f449f49a90aa38cdde8aad64711.png",
+    "extensions": {
+        "underlying": "0xdAC17F958D2ee523a2206206994597C13D831ec7"
+    }
+}

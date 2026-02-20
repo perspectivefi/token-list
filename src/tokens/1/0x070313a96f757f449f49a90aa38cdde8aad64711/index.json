@@ -6,6 +6,8 @@
     "decimals": 6,
     "logoURI": "/images/tokens/1/0x070313a96f757f449f49a90aa38cdde8aad64711.png",
     "extensions": {
-        "underlying": "0xdAC17F958D2ee523a2206206994597C13D831ec7"
+        "underlying": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+        "protocol": "Ploutos",
+        "aprEndpoint": "https://app.spectra.finance/api/ibt-apr/merkl-opportunity/1611518952098910808"
     }
 }

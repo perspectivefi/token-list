@@ -1,0 +1,11 @@
+{
+    "address": "0x924d24c238db7ecae2aa3a19430239ed684bde4a",
+    "chainId": 1,
+    "name": "WMoo StakeDao WBTC-cbBTC-hemiBTC",
+    "symbol": "wmooStakeDaoWBTC-cbBTC-hemiBTC",
+    "decimals": 18,
+    "logoURI": "/images/tokens/1/0x924d24c238db7ecae2aa3a19430239ed684bde4a.svg",
+    "extensions": {
+        "underlying": "0x66039342C66760874047c36943B1e2d8300363BB"
+    }
+}

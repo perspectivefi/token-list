@@ -90,6 +90,10 @@
                         }
                     }
                 },
+                "depositCapSignature": {
+                    "type": "string",
+                    "description": "Human-readable ABI signature for the deposit cap method (e.g. 'function depositLimit() view returns (uint256)')"
+                },
                 "vault": {
                     "type": "object",
                     "additionalProperties": false,

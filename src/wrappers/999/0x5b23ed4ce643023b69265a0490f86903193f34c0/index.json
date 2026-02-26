@@ -1,0 +1,19 @@
+{
+    "address": "0x5b23ed4ce643023b69265A0490F86903193f34c0",
+    "chainId": 999,
+    "name": "Spectra ERC4626 Wrapper: HypeZion bullHYPE",
+    "symbol": "sw-bullHYPE",
+    "decimals": 18,
+    "logoURI": "/images/tokens/999/0x12cf926c3884dda144e18e11e2659c0675cf20ea.png",
+    "extensions": {
+        "underlying": "0x12cF926C3884dda144e18E11e2659c0675cF20eA",
+        "vault": {
+            "chainId": 999,
+            "address": "0x12cF926C3884dda144e18E11e2659c0675cF20eA",
+            "symbol": "bullHYPE",
+            "name": "HypeZion bullHYPE",
+            "decimals": 18,
+            "logoURI": "/images/tokens/999/0x12cf926c3884dda144e18e11e2659c0675cf20ea.png"
+        }
+    }
+}

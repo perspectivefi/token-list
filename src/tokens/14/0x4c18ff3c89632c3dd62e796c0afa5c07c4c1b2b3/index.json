@@ -9,6 +9,10 @@
         "displayMode": "ibt",
         "underlying": "0xAd552A648C74D49E10027AB8a618A3ad4901c5bE",
         "protocol": "Firelight",
-        "depositCapSignature": "function depositLimit() view returns (uint256)"
+        "depositCapSignature": "function depositLimit() view returns (uint256)",
+        "ibtRoutes": {
+            "withdraw": false,
+            "redeem": false
+        }
     }
 }

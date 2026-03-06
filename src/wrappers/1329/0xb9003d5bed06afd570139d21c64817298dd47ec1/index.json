@@ -4,16 +4,18 @@
     "name": "Spectra ERC4626 Wrapper: Splashing SEI",
     "symbol": "sw-spSEI",
     "decimals": 18,
-    "logoURI": "/images/tokens/1329/0xc257361320f4514d91c05f461006ce6a0300e2d2.png",
+    "logoURI": "/images/tokens/1329/0xc257361320f4514d91c05f461006ce6a0300e2d2.svg",
     "extensions": {
+        "underlying": "0xE30feDd158A2e3b13e9badaeABaFc5516e95e8C7",
         "protocol": "Splashing",
+        "exeternalLink": "https://www.splashing.xyz",
         "vault": {
             "chainId": 1329,
             "address": "0xC257361320F4514D91c05F461006CE6a0300E2d2",
             "symbol": "spSEI",
             "name": "Splashing SEI",
             "decimals": 18,
-            "logoURI": "/images/tokens/1329/0xc257361320f4514d91c05f461006ce6a0300e2d2.png"
+            "logoURI": "/images/tokens/1329/0xc257361320f4514d91c05f461006ce6a0300e2d2.svg"
         }
     }
 }

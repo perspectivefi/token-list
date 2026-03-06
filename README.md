@@ -258,35 +258,36 @@ Protocols define yield multipliers and reward configurations for principal token
 
 1. **Create Branch**
 
-    ```bash
-    git checkout -b chore/protocol-<PROTOCOL_NAME>-<CHAIN_ID>
-    ```
+```bash
+git checkout -b chore/protocol-<PROTOCOL_NAME>-<CHAIN_ID>
+```
 
 2. **Edit Protocol List** (`src/protocols/protocolList.json`)
 
-    ```json
-    [
-        {
-            "ptAddress": "0x6def54ae7e38992a7d1ab60d279483ba7f7b0aeb",
-            "chainId": 1,
-            "multipliers": [
-                {
-                    "amount": 1.5,
-                    "name": "Karak XP"
-                },
-                {
-                    "amount": 3,
-                    "name": "Ether.fi Points"
-                }
-            ]
-        }
-    ]
-    ```
+```json
+[
+    {
+        "ptAddress": "0x6def54ae7e38992a7d1ab60d279483ba7f7b0aeb",
+        "chainId": 1,
+        "multipliers": [
+            {
+                "amount": 1.5,
+                "name": "Karak XP"
+            },
+            {
+                "amount": 3,
+                "name": "Ether.fi Points"
+            }
+        ]
+    }
+]
+```
 
 3. **Commit Changes**
-    ```bash
-    git commit -m "chore: add <PROTOCOL_NAME>, chainId: <CHAIN_ID>"
-    ```
+
+```bash
+git commit -m "chore: add <PROTOCOL_NAME>, chainId: <CHAIN_ID>"
+```
 
 ## 🔍 Schema Validation
 

@@ -1131,7 +1131,7 @@
         "chainId": 14,
         "multipliers": [
             {
-                "amount": 1,
+                "amount": 2,
                 "name": "Firelight points"
             }
         ]
@@ -1141,7 +1141,7 @@
         "chainId": 14,
         "multipliers": [
             {
-                "amount": 1,
+                "amount": 2,
                 "name": "Firelight points"
             }
         ]

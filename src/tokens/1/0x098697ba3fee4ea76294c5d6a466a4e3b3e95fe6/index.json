@@ -1,0 +1,14 @@
+{
+    "chainId": 1,
+    "address": "0x098697ba3fee4ea76294c5d6a466a4e3b3e95fe6",
+    "name": "USP Piku",
+    "symbol": "USP",
+    "decimals": 18,
+    "logoURI": "/images/tokens/1/0x098697ba3fee4ea76294c5d6a466a4e3b3e95fe6.svg",
+    "extensions": {
+        "underlying": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+        "tags": [
+            "stable"
+        ]
+    }
+}

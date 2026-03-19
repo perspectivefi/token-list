@@ -1,0 +1,20 @@
+{
+    "address": "0x286bd1fb9a99d7fce19757c631002ea2ed8e7da2",
+    "chainId": 1,
+    "name": "Spectra ERC4626 Wrapper: USPC Vault",
+    "symbol": "sw-USPC",
+    "decimals": 6,
+    "logoURI": "/images/tokens/1/0xbf4e3fbe8b60062a00c7a6b1d97d0d49c2971a19.svg",
+    "extensions": {
+        "underlying": "0xdc807c3a618B6B1248481783def7ED76700B9eC6",
+        "protocol": "Coinshift",
+        "vault": {
+            "chainId": 1,
+            "address": "0xbF4e3fbE8B60062A00C7a6B1D97d0d49c2971A19",
+            "symbol": "USPC",
+            "name": "USPC Vault",
+            "decimals": 6,
+            "logoURI": "/images/tokens/1/0xbf4e3fbe8b60062a00c7a6b1d97d0d49c2971a19.svg"
+        }
+    }
+}

@@ -15,6 +15,12 @@
             "name": "USPC Vault",
             "decimals": 6,
             "logoURI": "/images/tokens/1/0xbf4e3fbe8b60062a00c7a6b1d97d0d49c2971a19.svg"
+        },
+        "ibtRoutes": {
+            "deposit": false,
+            "mint": false,
+            "withdraw": false,
+            "redeem": false
         }
     }
 }

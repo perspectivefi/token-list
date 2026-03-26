@@ -8,6 +8,7 @@
     "extensions": {
         "underlying": "0x24dE8771bC5DdB3362Db529Fc3358F2df3A0E346",
         "protocol": "Avant",
+        "aprEndpoint": "https://app.spectra.finance/api/ibt-apr/merkl-opportunity/5959130281909053404",
         "vault": {
             "chainId": 43114,
             "address": "0xDd1cDFA52E7D8474d434cd016fd346701db6B3B9",

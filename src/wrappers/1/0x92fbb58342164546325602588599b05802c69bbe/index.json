@@ -7,7 +7,7 @@
     "logoURI": "/images/tokens/1/0xb8a451107a9f87fde481d4d686247d6e43ed715e.svg",
     "extensions": {
         "underlying": "0xae7ab96520DE3A18E5e111B5EaAb095312D7fE84",
-        "protocol": "IPOR Fusion",
+        "protocol": "Fusion",
         "vault": {
             "chainId": 1,
             "address": "0xB8a451107A9f87FDe481D4D686247D6e43Ed715e",

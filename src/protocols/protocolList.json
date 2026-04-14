@@ -1199,5 +1199,15 @@
                 }
             ]
         }
+    },
+    {
+        "ptAddress": "0xf43529e9ab81b5f4b188511eb3ed1bf9bbac2181",
+        "chainId": 1,
+        "multipliers": [
+            {
+                "amount": 10,
+                "name": "Fusion points"
+            }
+        ]
     }
 ]

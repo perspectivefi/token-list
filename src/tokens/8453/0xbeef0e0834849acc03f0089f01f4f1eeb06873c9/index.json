@@ -8,6 +8,12 @@
     "extensions": {
         "underlying": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
         "protocol": "Morpho",
-        "externalLink": "https://app.morpho.org/base/vault/0xbeef0e0834849aCC03f0089F01f4F1Eeb06873C9/steakhouse-prime-usdc"
+        "externalLink": "https://app.morpho.org/base/vault/0xbeef0e0834849aCC03f0089F01f4F1Eeb06873C9/steakhouse-prime-usdc",
+        "ibtRoutes": {
+            "deposit": true,
+            "mint": true,
+            "withdraw": true,
+            "redeem": true
+        }
     }
 }

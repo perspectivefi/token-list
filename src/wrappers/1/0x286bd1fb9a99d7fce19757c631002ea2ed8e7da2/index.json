@@ -8,6 +8,7 @@
     "extensions": {
         "underlying": "0xdc807c3a618B6B1248481783def7ED76700B9eC6",
         "protocol": "Coinshift",
+        "displayMode": "ibt",
         "vault": {
             "chainId": 1,
             "address": "0xbF4e3fbE8B60062A00C7a6B1D97d0d49c2971A19",

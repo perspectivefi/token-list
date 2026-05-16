@@ -1041,6 +1041,20 @@
         ]
     },
     {
+        "ptAddress": "0xdd3fe7335557e54bc4fc08e5eb80353d045cd461",
+        "chainId": 747474,
+        "multipliers": [
+            {
+                "amount": 3,
+                "name": "Drops"
+            },
+            {
+                "amount": 3,
+                "name": "InfiniFi points"
+            }
+        ]
+    },
+    {
         "ptAddress": "0x41bd53030b11e7233b963de98e5a1138870ab8a4",
         "chainId": 43114,
         "multipliers": {

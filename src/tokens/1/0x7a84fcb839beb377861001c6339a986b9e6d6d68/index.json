@@ -1,0 +1,13 @@
+{
+    "address": "0x7a84fcb839beb377861001c6339a986b9e6d6d68",
+    "chainId": 1,
+    "name": "Coinshift rlUSD vault",
+    "symbol": "TMKR-RLUSD",
+    "decimals": 18,
+    "logoURI": "/images/tokens/1/0x7a84fcb839beb377861001c6339a986b9e6d6d68.svg",
+    "extensions": {
+        "underlying": "0x8292Bb45bf1Ee4d140127049757C2E0fF06317eD",
+        "protocol": "TermMax",
+        "externalLink": "https://app.termmax.ts.finance/earn/eth/0x7a84fcb839beb377861001c6339a986b9e6d6d68?chain=eth&persistChain=1"
+    }
+}

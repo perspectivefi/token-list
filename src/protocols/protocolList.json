@@ -1223,5 +1223,25 @@
                 "name": "Fusion points"
             }
         ]
+    },
+    {
+        "ptAddress": "0x91bada8de2119aaab49bf1d5e3daafd707b088a6",
+        "chainId": 14,
+        "multipliers": [
+            {
+                "amount": 2,
+                "name": "Firelight points"
+            }
+        ]
+    },
+    {
+        "ptAddress": "0xa7cb1fa9aab0157f0380b29e48dfe2b305171181",
+        "chainId": 14,
+        "multipliers": [
+            {
+                "amount": 2,
+                "name": "Firelight points"
+            }
+        ]
     }
 ]

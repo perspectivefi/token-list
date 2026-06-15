@@ -1,0 +1,19 @@
+{
+    "address": "0x4580221962A8D0F92c18F320eA512f70933f7D19",
+    "chainId": 1329,
+    "name": "Spectra ERC4626 Wrapper: Takara USDT0",
+    "symbol": "sw-tUSDT0",
+    "decimals": 6,
+    "logoURI": "/images/tokens/1329/0xa82a40324dbf7b57e87bd07c9e1d722e9754be9b.svg",
+    "extensions": {
+        "protocol": "Takara",
+        "vault": {
+            "chainId": 1329,
+            "address": "0xA82a40324DBf7B57E87bD07C9e1D722E9754be9B",
+            "symbol": "tUSDT0",
+            "name": "Takara USDT0",
+            "decimals": 6,
+            "logoURI": "/images/tokens/1329/0xa82a40324dbf7b57e87bd07c9e1d722e9754be9b.svg"
+        }
+    }
+}

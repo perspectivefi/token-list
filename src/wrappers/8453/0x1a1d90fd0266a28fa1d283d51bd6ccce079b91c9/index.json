@@ -1,0 +1,20 @@
+{
+    "address": "0x1a1d90fD0266A28fa1d283D51BD6CCCe079B91C9",
+    "chainId": 8453,
+    "name": "Spectra ERC4626 Wrapper: Base cbETH Loooper",
+    "symbol": "sw-CSCBETHLL",
+    "decimals": 18,
+    "logoURI": "/images/tokens/8453/0x5900c3b72458f12967dc1bef35b92d271f5cdbc1.png",
+    "extensions": {
+        "underlying": "0x4200000000000000000000000000000000000006",
+        "protocol": "Ipor",
+        "vault": {
+            "chainId": 8453,
+            "address": "0x5900C3b72458F12967DC1bef35b92d271F5cDBc1",
+            "symbol": "CSCBETHLL",
+            "name": "Base cbETH Loooper",
+            "decimals": 20,
+            "logoURI": "/images/tokens/8453/0x5900c3b72458f12967dc1bef35b92d271f5cdbc1.png"
+        }
+    }
+}

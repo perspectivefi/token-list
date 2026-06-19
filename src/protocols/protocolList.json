@@ -1243,5 +1243,21 @@
                 "name": "Firelight points"
             }
         ]
+    },
+    {
+        "ptAddress": "0x316f61a5b02118b37230814e008b547de671e505",
+        "chainId": 1,
+        "multipliers": {
+            "yt": [
+                {
+                    "name": "15 Tangent Points/day per YT unit"
+                }
+            ],
+            "lp": [
+                {
+                    "name": "15 Tangent Points/day per $"
+                }
+            ]
+        }
     }
 ]

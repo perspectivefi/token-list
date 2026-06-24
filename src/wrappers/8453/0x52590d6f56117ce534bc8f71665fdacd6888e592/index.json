@@ -1,0 +1,17 @@
+{
+    "address": "0x52590D6F56117cE534bc8F71665FdACd6888E592",
+    "chainId": 8453,
+    "name": "Spectra ERC4626 Wrapper: Compounding Staked DIEM",
+    "symbol": "sw-csDIEM",
+    "decimals": 18,
+    "extensions": {
+        "underlying": "0x8065228a8156590A8BFca30678394e9db91f80Ee",
+        "vault": {
+            "chainId": 8453,
+            "address": "0x78B8726929911044748374178CB2D417A54319e5",
+            "symbol": "csDIEM",
+            "name": "Compounding Staked DIEM",
+            "decimals": 24
+        }
+    }
+}

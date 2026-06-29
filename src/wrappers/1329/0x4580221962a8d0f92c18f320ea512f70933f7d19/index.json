@@ -7,6 +7,7 @@
     "logoURI": "/images/tokens/1329/0xa82a40324dbf7b57e87bd07c9e1d722e9754be9b.svg",
     "extensions": {
         "protocol": "Takara",
+        "aprEndpoint": "https://app.spectra.finance/api/ibt-apr/sei/0x4580221962A8D0F92c18F320eA512f70933f7D19",
         "vault": {
             "chainId": 1329,
             "address": "0xA82a40324DBf7B57E87bD07C9e1D722E9754be9B",

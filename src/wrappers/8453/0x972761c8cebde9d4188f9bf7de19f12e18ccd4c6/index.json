@@ -7,7 +7,7 @@
     "logoURI": "/images/tokens/8453/0xe883426b4fc84a7f5cc86415cabbef43e73a4cc8.png",
     "extensions": {
         "underlying": "0x2Ae3F1Ec7F1F5012CFEab0185bfc7aa3cf0DEc22",
-        "protocol": "Ipor",
+        "protocol": "IPOR Fusion",
         "vault": {
             "chainId": 8453,
             "address": "0xe883426B4fc84A7f5cc86415CAbBef43E73a4CC8",

@@ -7,7 +7,7 @@
     "logoURI": "/images/tokens/8453/0x5900c3b72458f12967dc1bef35b92d271f5cdbc1.png",
     "extensions": {
         "underlying": "0x4200000000000000000000000000000000000006",
-        "protocol": "Ipor",
-        "externalLink": "https://app.ipor.io/fusion/base/0x17d0f109ee895bad0b68aa104aa72bd0b003ad8e"
+        "protocol": "IPOR Fusion",
+        "externalLink": "https://app.ipor.io/fusion/base/0x5900c3b72458f12967dc1bef35b92d271f5cdbc1"
     }
 }

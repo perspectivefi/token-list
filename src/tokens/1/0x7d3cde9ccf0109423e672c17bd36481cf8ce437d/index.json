@@ -1,0 +1,11 @@
+{
+    "address": "0x7d3cde9ccf0109423e672c17bd36481cf8ce437d",
+    "chainId": 1,
+    "name": "Stake DAO pmUSD/crvUSD Vault",
+    "symbol": "sd-pmcrvUSD-vault",
+    "decimals": 18,
+    "logoURI": "/images/tokens/1/0x7d3cde9ccf0109423e672c17bd36481cf8ce437d.svg",
+    "extensions": {
+        "underlying": "0xEcb0F0d68C19BdAaDAEbE24f6752A4Db34e2c2cb"
+    }
+}

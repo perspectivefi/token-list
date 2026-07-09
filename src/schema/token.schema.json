@@ -6,8 +6,7 @@
         "address",
         "name",
         "symbol",
-        "decimals",
-        "logoURI"
+        "decimals"
     ],
     "properties": {
         "chainId": {
@@ -26,7 +25,7 @@
         "decimals": {
             "type": "integer",
             "minimum": 1,
-            "maximum": 18
+            "maximum": 255
         },
         "logoURI": {
             "type": "string"
@@ -87,6 +86,9 @@
                         },
                         "unwrap": {
                             "type": "boolean"
+                        },
+                        "wrap": {
+                            "type": "boolean"
                         }
                     }
                 },
@@ -114,12 +116,18 @@
                         "decimals": {
                             "type": "integer",
                             "minimum": 1,
-                            "maximum": 18
+                            "maximum": 255
                         },
                         "logoURI": {
                             "type": "string"
+                        },
+                        "extensions": {
+                            "type": "object"
                         }
                     }
+                },
+                "displayMode": {
+                    "type": "string"
                 }
             }
         }

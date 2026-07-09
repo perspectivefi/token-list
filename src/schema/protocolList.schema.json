@@ -6,7 +6,6 @@
                 "type": "object",
                 "additionalProperties": false,
                 "required": [
-                    "amount",
                     "name"
                 ],
                 "properties": {
@@ -45,17 +44,17 @@
             "multipliers": {
                 "anyOf": [
                     {
-                        "$ref": "multiplierArray"
+                        "$ref": "#/$defs/multiplierArray"
                     },
                     {
                         "type": "object",
                         "additionalProperties": false,
                         "properties": {
                             "lp": {
-                                "$ref": "multiplierArray"
+                                "$ref": "#/$defs/multiplierArray"
                             },
                             "yt": {
-                                "$ref": "multiplierArray"
+                                "$ref": "#/$defs/multiplierArray"
                             }
                         }
                     }

@@ -7,8 +7,6 @@ jobs:
         steps:
             - name: Checkout
               uses: actions/checkout@v4
-              with:
-                  ref: ${{ github.head_ref }}
 
             - name: Validate Tokens
               uses: nhalstead/validate-json-action@0.1.3

@@ -19,9 +19,11 @@ jobs:
                   node-version: "22"
                   registry-url: "https://registry.npmjs.org"
 
-            # Ensure npm 11.5.1 or later is installed
+            # npm >= 11.5.1 is required for trusted publishing.
+            # Pinned to 11.x: npm 12 rejects the -iwr flag used by
+            # gh-action-bump-version (phips28/gh-action-bump-version#index.js).
             - name: Update npm
-              run: npm install -g npm@latest
+              run: npm install -g npm@11
             - run: npm ci
 
             - name: Automated Version Bump

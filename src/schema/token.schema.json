@@ -15,7 +15,7 @@
         },
         "address": {
             "type": "string",
-            "pattern": "^0x[a-fA-F0-9]{40}$"
+            "pattern": "^(0x[a-fA-F0-9]{40}|C[A-Z2-7]{55})$"
         },
         "name": {
             "type": "string"
@@ -43,7 +43,7 @@
                 },
                 "underlying": {
                     "type": "string",
-                    "pattern": "^0x[a-fA-F0-9]{40}$"
+                    "pattern": "^(0x[a-fA-F0-9]{40}|C[A-Z2-7]{55})$"
                 },
                 "protocol": {
                     "type": "string"

@@ -1,0 +1,12 @@
+{
+    "chainId": 1500000000,
+    "address": "CCECATRPUHLMFTIUQDQQPOU5GLXQGJYGBJHKSFMWJYOFEIFNN3MOQWU3",
+    "name": "Spectra Wrapped Blend EURC",
+    "symbol": "sw-EURC",
+    "decimals": 7,
+    "extensions": {
+        "underlying": "CDTKPWPLOURQA2SGTKTUQOWRCBZEORB4BWBOMJ3D3ZTQQSGE5F6JBQLV",
+        "protocol": "Blend"
+    },
+    "logoURI": "/images/tokens/1500000000/ccecatrpuhlmftiuqdqqpou5glxqgjygbjhksfmwjyofeifnn3moqwu3.svg"
+}

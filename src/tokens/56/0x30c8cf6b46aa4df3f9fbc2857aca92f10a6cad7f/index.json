@@ -1,0 +1,11 @@
+{
+    "address": "0x30c8cf6b46aa4df3f9fbc2857aca92f10a6cad7f",
+    "chainId": 56,
+    "name": "Eliteness.Network",
+    "symbol": "ELITE",
+    "decimals": 18,
+    "logoURI": "/images/tokens/56/0x30c8cf6b46aa4df3f9fbc2857aca92f10a6cad7f.png",
+    "extensions": {
+        "protocol": "Eliteness"
+    }
+}

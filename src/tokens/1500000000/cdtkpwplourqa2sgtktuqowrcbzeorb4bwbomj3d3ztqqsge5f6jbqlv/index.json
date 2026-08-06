@@ -1,0 +1,13 @@
+{
+    "chainId": 1500000000,
+    "address": "CDTKPWPLOURQA2SGTKTUQOWRCBZEORB4BWBOMJ3D3ZTQQSGE5F6JBQLV",
+    "name": "EURC",
+    "symbol": "EURC",
+    "decimals": 7,
+    "extensions": {
+        "tags": [
+            "stable"
+        ]
+    },
+    "logoURI": "/images/tokens/1500000000/cdtkpwplourqa2sgtktuqowrcbzeorb4bwbomj3d3ztqqsge5f6jbqlv.svg"
+}

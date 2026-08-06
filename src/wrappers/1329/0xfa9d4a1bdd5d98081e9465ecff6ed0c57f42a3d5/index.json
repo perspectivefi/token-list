@@ -1,0 +1,19 @@
+{
+    "address": "0xfa9D4A1BDd5D98081E9465ecFF6ed0C57F42A3d5",
+    "chainId": 1329,
+    "name": "Spectra ERC4626 Wrapper: Tether USD",
+    "symbol": "sw-tUSDT",
+    "decimals": 6,
+    "logoURI": "/images/tokens/1329/0xc68351b9b3638a6f4a3ae100bd251e227bbd7479.svg",
+    "extensions": {
+        "protocol": "Takara",
+        "vault": {
+            "chainId": 1329,
+            "address": "0xc68351B9B3638A6f4A3Ae100Bd251e227BbD7479",
+            "symbol": "tUSDT",
+            "name": "Tether USD",
+            "decimals": 6,
+            "logoURI": "/images/tokens/1329/0xc68351b9b3638a6f4a3ae100bd251e227bbd7479.svg"
+        }
+    }
+}

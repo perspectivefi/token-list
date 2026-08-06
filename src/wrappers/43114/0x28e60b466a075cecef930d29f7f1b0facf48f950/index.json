@@ -17,6 +17,10 @@
             "name": "MEV USDC",
             "decimals": 6,
             "logoURI": "/images/tokens/43114/0x4dc1ce9b9f9ef00c144bfad305f16c62293dc0e8.svg"
+        },
+        "ibtRoutes": {
+            "withdraw": false,
+            "redeem": false
         }
     }
 }

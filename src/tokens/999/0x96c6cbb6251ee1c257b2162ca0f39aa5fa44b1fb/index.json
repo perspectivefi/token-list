@@ -8,6 +8,10 @@
     "extensions": {
         "underlying": "0x5555555555555555555555555555555555555555",
         "protocol": "Hyperbeat",
-        "externalLink": "https://app.hyperbeat.org/vaults/hype"
+        "externalLink": "https://app.hyperbeat.org/vaults/hype",
+        "ibtRoutes": {
+            "withdraw": false,
+            "redeem": false
+        }
     }
 }

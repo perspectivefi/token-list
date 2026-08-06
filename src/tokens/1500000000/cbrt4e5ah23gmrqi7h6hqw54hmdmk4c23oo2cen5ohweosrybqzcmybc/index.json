@@ -1,0 +1,12 @@
+{
+    "chainId": 1500000000,
+    "address": "CBRT4E5AH23GMRQI7H6HQW54HMDMK4C23OO2CEN5OHWEOSRYBQZCMYBC",
+    "name": "Spectra Wrapped Blend USDC",
+    "symbol": "sw-USDC",
+    "decimals": 7,
+    "extensions": {
+        "underlying": "CCW67TSZV3SSS2HXMBQ5JFGCKJNXKZM7UQUWUZPUTHXSTZLEO7SJMI75",
+        "protocol": "Blend"
+    },
+    "logoURI": "/images/tokens/1500000000/cbrt4e5ah23gmrqi7h6hqw54hmdmk4c23oo2cen5ohweosrybqzcmybc.svg"
+}

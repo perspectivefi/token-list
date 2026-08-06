@@ -1,0 +1,11 @@
+{
+    "chainId": 1329,
+    "address": "0xA82a40324DBf7B57E87bD07C9e1D722E9754be9B",
+    "symbol": "tUSDT0",
+    "name": "Takara USDT0",
+    "decimals": 6,
+    "logoURI": "/images/tokens/1329/0xa82a40324dbf7b57e87bd07c9e1d722e9754be9b.svg",
+    "extensions": {
+        "protocol": "Takara"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "address": "0x4c145259DFB7A29a219c7b4fE39a761fFA846DcD",
+    "chainId": 1329,
+    "name": "Spectra ERC4626 Wrapper: USD Coin",
+    "symbol": "sw-tUSDC",
+    "decimals": 6,
+    "logoURI": "/images/tokens/1329/0xc3c9e322f4aae352ace79d0e62ade3563fb86e87.png",
+    "extensions": {
+        "protocol": "Takara",
+        "vault": {
+            "chainId": 1329,
+            "address": "0xC3c9e322F4aAe352ace79D0E62ADe3563fB86e87",
+            "symbol": "tUSDC",
+            "name": "USD Coin",
+            "decimals": 6,
+            "logoURI": "/images/tokens/1329/0xc3c9e322f4aae352ace79d0e62ade3563fb86e87.png"
+        }
+    }
+}

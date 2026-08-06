@@ -8,7 +8,7 @@
     "extensions": {
         "underlying": "0xE30feDd158A2e3b13e9badaeABaFc5516e95e8C7",
         "protocol": "Splashing",
-        "exeternalLink": "https://www.splashing.xyz",
+        "externalLink": "https://www.splashing.xyz",
         "vault": {
             "chainId": 1329,
             "address": "0xC257361320F4514D91c05F461006CE6a0300E2d2",

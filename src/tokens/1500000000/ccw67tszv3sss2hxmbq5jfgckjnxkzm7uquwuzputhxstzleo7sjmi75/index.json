@@ -1,0 +1,13 @@
+{
+    "chainId": 1500000000,
+    "address": "CCW67TSZV3SSS2HXMBQ5JFGCKJNXKZM7UQUWUZPUTHXSTZLEO7SJMI75",
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "decimals": 7,
+    "extensions": {
+        "tags": [
+            "stable"
+        ]
+    },
+    "logoURI": "/images/tokens/1500000000/ccw67tszv3sss2hxmbq5jfgckjnxkzm7uquwuzputhxstzleo7sjmi75.svg"
+}

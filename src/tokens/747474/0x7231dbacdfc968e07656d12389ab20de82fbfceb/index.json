@@ -1,0 +1,12 @@
+{
+    "address": "0x7231dbacdfc968e07656d12389ab20de82fbfceb",
+    "chainId": 747474,
+    "name": "Autocompounding vKAT",
+    "symbol": "avKAT",
+    "decimals": 18,
+    "logoURI": "/images/tokens/747474/0x7231dbacdfc968e07656d12389ab20de82fbfceb.png",
+    "extensions": {
+        "underlying": "0x7F1f4b4b29f5058fA32CC7a97141b8D7e5ABDC2d",
+        "externalLink": "https://app.katana.network/stake"
+    }
+}

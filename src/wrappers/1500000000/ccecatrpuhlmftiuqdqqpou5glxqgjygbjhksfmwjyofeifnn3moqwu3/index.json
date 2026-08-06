@@ -1,0 +1,25 @@
+{
+    "chainId": 1500000000,
+    "address": "CCECATRPUHLMFTIUQDQQPOU5GLXQGJYGBJHKSFMWJYOFEIFNN3MOQWU3",
+    "name": "Spectra Wrapped Blend EURC",
+    "symbol": "sw-EURC",
+    "decimals": 7,
+    "logoURI": "/images/tokens/1500000000/cdtkpwplourqa2sgtktuqowrcbzeorb4bwbomj3d3ztqqsge5f6jbqlv.svg",
+    "extensions": {
+        "underlying": "CDTKPWPLOURQA2SGTKTUQOWRCBZEORB4BWBOMJ3D3ZTQQSGE5F6JBQLV",
+        "protocol": "Blend",
+        "vault": {
+            "chainId": 1500000000,
+            "address": "CDTKPWPLOURQA2SGTKTUQOWRCBZEORB4BWBOMJ3D3ZTQQSGE5F6JBQLV",
+            "name": "EURC",
+            "symbol": "EURC",
+            "decimals": 7,
+            "logoURI": "/images/tokens/1500000000/cdtkpwplourqa2sgtktuqowrcbzeorb4bwbomj3d3ztqqsge5f6jbqlv.svg"
+        },
+        "ibtRoutes": {
+            "wrap": true,
+            "unwrap": false,
+            "redeem": true
+        }
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "chainId": 8453,
+    "address": "0x17d0f109EE895bAD0b68AA104AA72bd0b003AD8E",
+    "symbol": "CSETHLO",
+    "name": "Base ETH Lending Optimizer",
+    "decimals": 20,
+    "logoURI": "/images/tokens/8453/0x17d0f109ee895bad0b68aa104aa72bd0b003ad8e.png",
+    "extensions": {
+        "underlying": "0x4200000000000000000000000000000000000006",
+        "protocol": "IPOR Fusion",
+        "externalLink": "https://app.ipor.io/fusion/base/0x17d0f109ee895bad0b68aa104aa72bd0b003ad8e"
+    }
+}

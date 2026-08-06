@@ -1,0 +1,11 @@
+{
+    "chainId": 1329,
+    "address": "0xd1E6a6F58A29F64ab2365947ACb53EfEB6Cc05e0",
+    "symbol": "tnUSDC",
+    "name": "Takara Native USDC",
+    "decimals": 6,
+    "logoURI": "/images/tokens/1329/0xd1e6a6f58a29f64ab2365947acb53efeb6cc05e0.png",
+    "extensions": {
+        "protocol": "Takara"
+    }
+}

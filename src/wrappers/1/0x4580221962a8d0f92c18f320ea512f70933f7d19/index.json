@@ -1,0 +1,19 @@
+{
+    "address": "0x4580221962A8D0F92c18F320eA512f70933f7D19",
+    "chainId": 1,
+    "name": "Spectra ERC4626 Wrapper: Staked avUSD",
+    "symbol": "sw-savUSD",
+    "decimals": 18,
+    "logoURI": "/images/tokens/1/0xb8d89678e75a973e74698c976716308abb8a46a4.svg",
+    "extensions": {
+        "protocol": "Avant",
+        "vault": {
+            "chainId": 1,
+            "address": "0xb8D89678E75a973E74698c976716308abB8a46A4",
+            "symbol": "savUSD",
+            "name": "Staked avUSD",
+            "decimals": 18,
+            "logoURI": "/images/tokens/1/0xb8d89678e75a973e74698c976716308abb8a46a4.svg"
+        }
+    }
+}

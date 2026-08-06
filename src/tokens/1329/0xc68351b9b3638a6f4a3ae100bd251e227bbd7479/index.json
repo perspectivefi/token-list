@@ -1,0 +1,12 @@
+{
+    "chainId": 1329,
+    "address": "0xc68351B9B3638A6f4A3Ae100Bd251e227BbD7479",
+    "symbol": "tUSDT",
+    "name": "Tether USD",
+    "decimals": 6,
+    "logoURI": "/images/tokens/1329/0xc68351b9b3638a6f4a3ae100bd251e227bbd7479.svg",
+    "extensions": {
+        "protocol": "Takara",
+        "externalLink": "https://app.takaralend.com/market/USDC"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "address": "0xbe49dd45d9d28f2380cbee3e57a8243e736e4552",
+    "chainId": 8453,
+    "name": "Microsoft Carry Trade",
+    "symbol": "MSFTCT",
+    "decimals": 10,
+    "logoURI": "/images/tokens/8453/0xbe49dd45d9d28f2380cbee3e57a8243e736e4552.png",
+    "extensions": {
+        "underlying": "0xbe49dd45d9d28f2380cbee3e57a8243e736e4552",
+        "protocol": "Fusion | TAU Labs"
+    }
+}

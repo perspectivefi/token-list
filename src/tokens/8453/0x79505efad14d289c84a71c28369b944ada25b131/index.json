@@ -1,0 +1,12 @@
+{
+    "address": "0x79505efad14d289c84a71c28369b944ada25b131",
+    "chainId": 8453,
+    "name": "Coinbase Carry Trade",
+    "symbol": "COINCT",
+    "decimals": 10,
+    "logoURI": "/images/tokens/8453/0x79505efad14d289c84a71c28369b944ada25b131.png",
+    "extensions": {
+        "underlying": "0xb200000000000000000000c85a31389D71F3ecfb",
+        "protocol": "Fusion | TAU Labs"
+    }
+}

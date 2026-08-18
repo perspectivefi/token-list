@@ -1,0 +1,12 @@
+{
+    "address": "0xfb132f4c6d9dcf4f80483ea7d96c5a5dccfcfe83",
+    "chainId": 8453,
+    "name": "Nvidia Carry Trade",
+    "symbol": "NVDACT",
+    "decimals": 10,
+    "logoURI": "/images/tokens/8453/0xfb132f4c6d9dcf4f80483ea7d96c5a5dccfcfe83.png",
+    "extensions": {
+        "underlying": "0xb20000000000000000000078ee7ce2fE4908108C",
+        "protocol": "Fusion | TAU Labs"
+    }
+}

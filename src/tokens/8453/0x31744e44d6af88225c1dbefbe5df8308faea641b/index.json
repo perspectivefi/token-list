@@ -1,0 +1,12 @@
+{
+    "address": "0x31744e44d6af88225c1dbefbe5df8308faea641b",
+    "chainId": 8453,
+    "name": "Apple Carry Trade",
+    "symbol": "AAPLCT",
+    "decimals": 10,
+    "logoURI": "/images/tokens/8453/0x31744e44d6af88225c1dbefbe5df8308faea641b.png",
+    "extensions": {
+        "underlying": "0xb200000000000000000000C2e324d24d7eEcd1fb",
+        "protocol": "Fusion | TAU Labs"
+    }
+}

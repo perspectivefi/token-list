@@ -6,7 +6,7 @@
     "decimals": 10,
     "logoURI": "/images/tokens/8453/0xbe49dd45d9d28f2380cbee3e57a8243e736e4552.png",
     "extensions": {
-        "underlying": "0xbe49dd45d9d28f2380cbee3e57a8243e736e4552",
+        "underlying": "0xB200000000000000000000Ab99cFa739E253872B",
         "protocol": "Fusion | TAU Labs"
     }
 }

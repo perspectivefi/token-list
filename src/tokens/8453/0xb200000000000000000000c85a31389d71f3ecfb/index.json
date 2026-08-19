@@ -1,0 +1,13 @@
+{
+    "address": "0xb200000000000000000000c85a31389D71F3ecfb",
+    "chainId": 8453,
+    "name": "Coinbase Global Inc.",
+    "symbol": "COINc",
+    "decimals": 8,
+    "logoURI": "/images/tokens/8453/0xb200000000000000000000c85a31389d71f3ecfb.svg",
+    "extensions": {
+        "tags": [
+            "stock"
+        ]
+    }
+}

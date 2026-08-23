@@ -1,0 +1,11 @@
+{
+    "chainId": 1500000000,
+    "address": "CC6TRAPQD3NK7THUKWPV5SL2JHKQGNXZVB6S6MVYFSLRWAKEFUWZKZ7J",
+    "name": "earnXLM",
+    "symbol": "earnXLM",
+    "decimals": 13,
+    "extensions": {
+        "underlying": "CAS3J7GYLGXMF6TDJBBYYSE3HQ6BBSMLNUQ34T6TZMYMW2EVH34XOWMA"
+    },
+    "logoURI": "/images/tokens/1500000000/cc6trapqd3nk7thukwpv5sl2jhkqgnxzvb6s6mvyfslrwakefuwzkz7j.svg"
+}

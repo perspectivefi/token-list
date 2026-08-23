@@ -1,0 +1,11 @@
+{
+    "chainId": 1500000000,
+    "address": "CCL3WITWFFXIHV2I52ECV5DPIEOFSTU3PBPR53ILPLF2IP5KHECXRUTY",
+    "name": "earnUSDC",
+    "symbol": "earnUSDC",
+    "decimals": 13,
+    "extensions": {
+        "underlying": "CCW67TSZV3SSS2HXMBQ5JFGCKJNXKZM7UQUWUZPUTHXSTZLEO7SJMI75"
+    },
+    "logoURI": "/images/tokens/1500000000/ccl3witwffxihv2i52ecv5dpieofstu3pbpr53ilplf2ip5khecxruty.svg"
+}

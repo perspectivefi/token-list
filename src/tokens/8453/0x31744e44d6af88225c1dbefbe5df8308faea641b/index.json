@@ -7,6 +7,7 @@
     "logoURI": "/images/tokens/8453/0x31744e44d6af88225c1dbefbe5df8308faea641b.png",
     "extensions": {
         "underlying": "0xb200000000000000000000C2e324d24d7eEcd1fb",
-        "protocol": "Fusion | TAU Labs"
+        "protocol": "Fusion | TAU Labs",
+        "aprEndpoint": "https://api.spectra.finance/ibt-apr/merkl-opportunity/4729216327318977332"
     }
 }

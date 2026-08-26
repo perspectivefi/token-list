@@ -1,0 +1,11 @@
+{
+    "address": "0x6e182eb501800c555bd5e662e6d350d627f504d8",
+    "chainId": 143,
+    "name": "Curvance AUSD",
+    "symbol": "cAUSD",
+    "decimals": 6,
+    "logoURI": "/images/tokens/143/0x6e182eb501800c555bd5e662e6d350d627f504d8.svg",
+    "extensions": {
+        "underlying": "0x00000000eFE302BEAA2b3e6e1b18d08D69a9012a"
+    }
+}

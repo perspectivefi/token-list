@@ -1,0 +1,11 @@
+{
+    "address": "0xbeeffea75cfc4128ebe10c8d7ae22016d215060d",
+    "chainId": 143,
+    "name": "Steakhouse High Yield AUSD",
+    "symbol": "bbqAUSD",
+    "decimals": 18,
+    "logoURI": "/images/tokens/143/0xbeeffea75cfc4128ebe10c8d7ae22016d215060d.svg",
+    "extensions": {
+        "underlying": "0x00000000eFE302BEAA2b3e6e1b18d08D69a9012a"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "address": "0xD14359C2aDdb2194Cc7319084B7B2a1aC006Ec5A",
+    "chainId": 8453,
+    "name": "FARM_NVDAc",
+    "symbol": "fNVDAc",
+    "decimals": 8,
+    "logoURI": "/images/tokens/8453/0xd14359c2addb2194cc7319084b7b2a1ac006ec5a.svg",
+    "extensions": {
+        "underlying": "0xb20000000000000000000078ee7ce2fE4908108C",
+        "protocol": "NVDAc Autocompounder | Harvest",
+        "externalLink": "https://app.harvest.finance/base/0xD14359C2aDdb2194Cc7319084B7B2a1aC006Ec5A"
+    }
+}

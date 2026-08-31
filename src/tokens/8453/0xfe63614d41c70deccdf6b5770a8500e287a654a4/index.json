@@ -1,0 +1,13 @@
+{
+    "address": "0xfE63614d41C70DeccdF6b5770A8500e287A654A4",
+    "chainId": 8453,
+    "name": "FARM_METAc",
+    "symbol": "fMETAc",
+    "decimals": 8,
+    "logoURI": "/images/tokens/8453/0xfe63614d41c70deccdf6b5770a8500e287a654a4.svg",
+    "extensions": {
+        "underlying": "0xb2000000000000000000008bC8786B856E61707C",
+        "protocol": "METAc Autocompounder | Harvest",
+        "externalLink": "https://app.harvest.finance/base/0xfE63614d41C70DeccdF6b5770A8500e287A654A4"
+    }
+}

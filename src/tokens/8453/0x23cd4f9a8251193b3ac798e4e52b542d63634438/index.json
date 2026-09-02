@@ -1,0 +1,13 @@
+{
+    "address": "0x23cd4F9A8251193b3AC798E4E52B542d63634438",
+    "chainId": 8453,
+    "name": "FARM_GOOGLc",
+    "symbol": "fGOOGLc",
+    "decimals": 8,
+    "logoURI": "/images/tokens/8453/0x23cd4f9a8251193b3ac798e4e52b542d63634438.svg",
+    "extensions": {
+        "underlying": "0xb2000000000000000000002D0BA3164cc74f58B7",
+        "protocol": "Harvest",
+        "externalLink": "https://app.harvest.finance/base/0x23cd4F9A8251193b3AC798E4E52B542d63634438"
+    }
+}

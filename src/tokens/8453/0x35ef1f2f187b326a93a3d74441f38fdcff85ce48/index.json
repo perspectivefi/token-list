@@ -1,0 +1,13 @@
+{
+    "address": "0x35eF1F2F187b326A93a3D74441F38fDcfF85Ce48",
+    "chainId": 8453,
+    "name": "FARM_AAPLc",
+    "symbol": "fAAPLc",
+    "decimals": 8,
+    "logoURI": "/images/tokens/8453/0x35ef1f2f187b326a93a3d74441f38fdcff85ce48.svg",
+    "extensions": {
+        "underlying": "0xb200000000000000000000C2e324d24d7eEcd1fb",
+        "protocol": "Harvest",
+        "externalLink": "https://app.harvest.finance/base/0x35eF1F2F187b326A93a3D74441F38fDcfF85Ce48"
+    }
+}

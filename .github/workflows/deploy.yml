@@ -35,6 +35,11 @@ jobs:
             - run: npm publish
 
             - name: Trigger Token API Deployment
-              run: curl -X POST $VERCEL_DEPLOY_HOOK
+              # --fail-with-body: a hook error (e.g. Vercel's
+              # incorrect_git_source_info when the project's git integration
+              # breaks) must FAIL the run — it returned 200-shaped errors
+              # silently for a week while tokens.spectra.finance served a
+              # stale dataset (no fSTOCK icons, 2026-09-08).
+              run: curl --fail-with-body -X POST $VERCEL_DEPLOY_HOOK
               env:
                   VERCEL_DEPLOY_HOOK: ${{ secrets.VERCEL_DEPLOY_HOOK }}

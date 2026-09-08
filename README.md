@@ -295,3 +295,9 @@ All token data is validated against JSON schemas located in `src/schema/`:
 
 -   `token.schema.json` - Token metadata validation
 -   `protocolList.schema.json` - Protocol configuration validation
+
+## Token API deployment
+
+Merges to `main` run `.github/workflows/deploy.yml`: version bump, `npm publish`, then a POST to the `VERCEL_DEPLOY_HOOK` repo secret, which redeploys the Token API (`tokens.spectra.finance` — serves `/all` and `/images/**`; the Spectra API compiles token logos from it, NOT from the npm package).
+
+If the Vercel project's git integration is ever reconnected, its deploy hooks are invalidated: create a new Deploy Hook (project Settings → Git → Deploy Hooks, branch `main`) and update the `VERCEL_DEPLOY_HOOK` secret. The CI step uses `curl --fail-with-body`, so a dead hook fails the run loudly (2026-09-08: a silently dead hook left the Token API a week stale).

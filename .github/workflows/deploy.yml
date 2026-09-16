@@ -11,6 +11,8 @@ permissions:
 jobs:
     deploy:
         runs-on: ubuntu-latest
+        # publish + up to 30 min of registry propagation + hook
+        timeout-minutes: 45
         steps:
             - uses: actions/checkout@v4
 
@@ -33,6 +35,34 @@ jobs:
 
             - run: npm run build --if-present
             - run: npm publish
+
+            - name: Wait until npm serves the published version
+              # `npm publish` returns before the registry serves the new
+              # version ("Your package is being processed and may take a few
+              # minutes to become available"). The Token API build installs
+              # `@perspectivefi/token-list@latest`, so firing the hook too
+              # early makes it rebuild on the PREVIOUS version and go live
+              # stale with a green run. Historically the registry served new
+              # versions within ~40s of the run start; on 2026-09-16 it took
+              # 20 minutes (1.26.101) while the hook fired 3s after publish.
+              # Poll the same abbreviated packument pnpm reads until its
+              # `latest` dist-tag is the version this run just published.
+              run: |
+                  name=$(node -p "require('./package.json').name")
+                  version=$(node -p "require('./package.json').version")
+                  url="https://registry.npmjs.org/$(printf '%s' "$name" | sed 's#/#%2F#')"
+                  for i in $(seq 1 90); do
+                      latest=$(curl -sf -H 'Accept: application/vnd.npm.install-v1+json' "$url" \
+                          | node -pe "JSON.parse(require('fs').readFileSync(0, 'utf8'))['dist-tags'].latest" 2>/dev/null || true)
+                      if [ "$latest" = "$version" ]; then
+                          echo "npm serves ${name}@${version} as latest after ~$((i * 20))s"
+                          exit 0
+                      fi
+                      echo "npm latest is '${latest:-unavailable}', waiting for ${version} (${i}/90)"
+                      sleep 20
+                  done
+                  echo "::error::npm still does not serve ${name}@${version} as latest after 30 minutes. The Token API deploy hook was NOT fired. Once 'npm view ${name} version' prints ${version}, redeploy the Token API (Vercel > token-list-api > Redeploy, or POST the VERCEL_DEPLOY_HOOK); do not re-run this job — it would try to publish ${version} again."
+                  exit 1
 
             - name: Trigger Token API Deployment
               # --fail-with-body: a hook error (e.g. Vercel's

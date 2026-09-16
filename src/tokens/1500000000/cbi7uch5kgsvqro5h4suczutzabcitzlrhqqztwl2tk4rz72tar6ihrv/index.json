@@ -1,0 +1,11 @@
+{
+    "chainId": 1500000000,
+    "address": "CBI7UCH5KGSVQRO5H4SUCZUTZABCITZLRHQQZTWL2TK4RZ72TAR6IHRV",
+    "name": "JTRSY deRWA",
+    "symbol": "deJTRSY",
+    "decimals": 18,
+    "extensions": {
+        "protocol": "Centrifuge"
+    },
+    "logoURI": "/images/tokens/1500000000/cbi7uch5kgsvqro5h4suczutzabcitzlrhqqztwl2tk4rz72tar6ihrv.png"
+}

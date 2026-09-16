@@ -1,0 +1,28 @@
+{
+    "chainId": 1500000000,
+    "address": "CAHPZLEH6O6WJPICJAVRLCTYCAYDN52F4SM6IX3XJKWYSAASSHGZEZBO",
+    "name": "Spectra Wrapped deJTRSY",
+    "symbol": "sw-deJTRSY",
+    "decimals": 18,
+    "logoURI": "/images/tokens/1500000000/cahpzleh6o6wjpicjavrlctycaydn52f4sm6ix3xjkwysaasshgzezbo.png",
+    "extensions": {
+        "underlying": "CCW67TSZV3SSS2HXMBQ5JFGCKJNXKZM7UQUWUZPUTHXSTZLEO7SJMI75",
+        "protocol": "Centrifuge",
+        "vault": {
+            "chainId": 1500000000,
+            "address": "CBI7UCH5KGSVQRO5H4SUCZUTZABCITZLRHQQZTWL2TK4RZ72TAR6IHRV",
+            "name": "JTRSY deRWA",
+            "symbol": "deJTRSY",
+            "decimals": 18,
+            "logoURI": "/images/tokens/1500000000/cbi7uch5kgsvqro5h4suczutzabcitzlrhqqztwl2tk4rz72tar6ihrv.png"
+        },
+        "ibtRoutes": {
+            "deposit": false,
+            "mint": false,
+            "withdraw": false,
+            "redeem": false,
+            "wrap": true,
+            "unwrap": true
+        }
+    }
+}

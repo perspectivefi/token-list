@@ -1,0 +1,12 @@
+{
+    "chainId": 1500000000,
+    "address": "CAHPZLEH6O6WJPICJAVRLCTYCAYDN52F4SM6IX3XJKWYSAASSHGZEZBO",
+    "name": "Spectra Wrapped deJTRSY",
+    "symbol": "sw-deJTRSY",
+    "decimals": 18,
+    "extensions": {
+        "underlying": "CCW67TSZV3SSS2HXMBQ5JFGCKJNXKZM7UQUWUZPUTHXSTZLEO7SJMI75",
+        "protocol": "Centrifuge"
+    },
+    "logoURI": "/images/tokens/1500000000/cahpzleh6o6wjpicjavrlctycaydn52f4sm6ix3xjkwysaasshgzezbo.png"
+}

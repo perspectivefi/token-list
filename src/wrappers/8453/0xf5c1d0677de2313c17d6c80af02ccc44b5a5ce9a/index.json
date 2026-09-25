@@ -1,0 +1,18 @@
+{
+    "address": "0xf5C1D0677De2313C17d6C80Af02ccc44B5A5ce9A",
+    "chainId": 8453,
+    "name": "Spectra ERC4626 Wrapper: Space Exploration Technologies Corp.",
+    "symbol": "sw-SPCXc",
+    "decimals": 18,
+    "logoURI": "/images/tokens/8453/0xb2000000000000000000007b9fcbd005511acbd5.png",
+    "extensions": {
+        "vault": {
+            "chainId": 8453,
+            "address": "0xb2000000000000000000007b9fcbd005511aCBd5",
+            "symbol": "SPCXc",
+            "name": "Space Exploration Technologies Corp.",
+            "decimals": 8,
+            "logoURI": "/images/tokens/8453/0xb2000000000000000000007b9fcbd005511acbd5.png"
+        }
+    }
+}

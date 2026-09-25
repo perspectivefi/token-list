@@ -1,0 +1,18 @@
+{
+    "address": "0xBA83673307D6cD7e2DA778B8C3Fb2ee4be5035cb",
+    "chainId": 8453,
+    "name": "Spectra ERC4626 Wrapper: Strategy Inc.",
+    "symbol": "sw-MSTRc",
+    "decimals": 18,
+    "logoURI": "/images/tokens/8453/0xb2000000000000000000004884b426556b92883d.png",
+    "extensions": {
+        "vault": {
+            "chainId": 8453,
+            "address": "0xb2000000000000000000004884b426556b92883d",
+            "symbol": "MSTRc",
+            "name": "Strategy Inc.",
+            "decimals": 8,
+            "logoURI": "/images/tokens/8453/0xb2000000000000000000004884b426556b92883d.png"
+        }
+    }
+}

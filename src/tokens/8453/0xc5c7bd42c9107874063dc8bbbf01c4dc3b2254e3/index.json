@@ -1,0 +1,13 @@
+{
+    "address": "0xC5c7bD42c9107874063dC8bbBf01c4DC3B2254e3",
+    "chainId": 8453,
+    "name": "Space Exploration Technologies Corp.",
+    "symbol": "SPCXc",
+    "decimals": 18,
+    "logoURI": "/images/tokens/8453/0xc5c7bd42c9107874063dc8bbbf01c4dc3b2254e3.png",
+    "extensions": {
+        "tags": [
+            "stock"
+        ]
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "address": "0x129bd5232605F8E71F63bBb6bdaFc50326FFE953",
+    "chainId": 8453,
+    "name": "Tesla Inc.",
+    "symbol": "TSLAc",
+    "decimals": 18,
+    "logoURI": "/images/tokens/8453/0x129bd5232605f8e71f63bbb6bdafc50326ffe953.png",
+    "extensions": {
+        "tags": [
+            "stock"
+        ]
+    }
+}

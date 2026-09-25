@@ -1,0 +1,13 @@
+{
+    "address": "0xb1CaF74F8ef9059209A88EE3CB95b1e0571bE0e4",
+    "chainId": 8453,
+    "name": "Microsoft Corporation",
+    "symbol": "MSFTc",
+    "decimals": 18,
+    "logoURI": "/images/tokens/8453/0xb1caf74f8ef9059209a88ee3cb95b1e0571be0e4.svg",
+    "extensions": {
+        "tags": [
+            "stock"
+        ]
+    }
+}

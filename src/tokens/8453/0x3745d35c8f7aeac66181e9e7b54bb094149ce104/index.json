@@ -1,0 +1,13 @@
+{
+    "address": "0x3745d35C8f7aEAC66181e9e7B54Bb094149Ce104",
+    "chainId": 8453,
+    "name": "Alphabet Inc.",
+    "symbol": "GOOGLc",
+    "decimals": 18,
+    "logoURI": "/images/tokens/8453/0x3745d35c8f7aeac66181e9e7b54bb094149ce104.png",
+    "extensions": {
+        "tags": [
+            "stock"
+        ]
+    }
+}

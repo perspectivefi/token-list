@@ -1,0 +1,13 @@
+{
+    "address": "0x3852283C467694897460CcaF5308b10d66D6F82B",
+    "chainId": 8453,
+    "name": "NVIDIA Corporation",
+    "symbol": "NVDAc",
+    "decimals": 18,
+    "logoURI": "/images/tokens/8453/0x3852283c467694897460ccaf5308b10d66d6f82b.svg",
+    "extensions": {
+        "tags": [
+            "stock"
+        ]
+    }
+}

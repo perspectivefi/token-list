@@ -1,0 +1,13 @@
+{
+    "address": "0x9C013628fEc5F7B6B92468d2a40dD33E101D33Bb",
+    "chainId": 8453,
+    "name": "Amazon.com Inc.",
+    "symbol": "AMZNc",
+    "decimals": 18,
+    "logoURI": "/images/tokens/8453/0x9c013628fec5f7b6b92468d2a40dd33e101d33bb.png",
+    "extensions": {
+        "tags": [
+            "stock"
+        ]
+    }
+}

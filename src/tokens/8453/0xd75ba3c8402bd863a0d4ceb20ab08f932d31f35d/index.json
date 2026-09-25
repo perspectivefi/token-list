@@ -1,0 +1,13 @@
+{
+    "address": "0xd75ba3c8402Bd863a0D4CEB20aB08f932d31F35d",
+    "chainId": 8453,
+    "name": "Meta Platforms Inc.",
+    "symbol": "METAc",
+    "decimals": 18,
+    "logoURI": "/images/tokens/8453/0xd75ba3c8402bd863a0d4ceb20ab08f932d31f35d.png",
+    "extensions": {
+        "tags": [
+            "stock"
+        ]
+    }
+}

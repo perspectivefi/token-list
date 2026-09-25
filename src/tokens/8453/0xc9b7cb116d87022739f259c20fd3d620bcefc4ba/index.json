@@ -1,0 +1,13 @@
+{
+    "address": "0xc9B7cb116D87022739f259C20fd3d620bcefC4ba",
+    "chainId": 8453,
+    "name": "Strategy Inc.",
+    "symbol": "MSTRc",
+    "decimals": 18,
+    "logoURI": "/images/tokens/8453/0xc9b7cb116d87022739f259c20fd3d620bcefc4ba.png",
+    "extensions": {
+        "tags": [
+            "stock"
+        ]
+    }
+}

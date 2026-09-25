@@ -1,0 +1,13 @@
+{
+    "address": "0x9ECa049Abd0C1F0fCe8f8457A8Cb40Ea2232b76D",
+    "chainId": 8453,
+    "name": "Sandisk Corporation",
+    "symbol": "SNDKc",
+    "decimals": 18,
+    "logoURI": "/images/tokens/8453/0x9eca049abd0c1f0fce8f8457a8cb40ea2232b76d.png",
+    "extensions": {
+        "tags": [
+            "stock"
+        ]
+    }
+}

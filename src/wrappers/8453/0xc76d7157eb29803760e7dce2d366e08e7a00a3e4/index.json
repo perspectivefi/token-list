@@ -1,0 +1,18 @@
+{
+    "address": "0xC76d7157Eb29803760E7dcE2d366e08e7a00a3e4",
+    "chainId": 8453,
+    "name": "Spectra ERC4626 Wrapper: NVIDIA Corporation",
+    "symbol": "sw-NVDAc",
+    "decimals": 18,
+    "logoURI": "/images/tokens/8453/0xb20000000000000000000078ee7ce2fe4908108c.png",
+    "extensions": {
+        "vault": {
+            "address": "0xb20000000000000000000078ee7ce2fE4908108C",
+            "chainId": 8453,
+            "name": "NVIDIA Corporation",
+            "symbol": "NVDAc",
+            "decimals": 8,
+            "logoURI": "/images/tokens/8453/0xb20000000000000000000078ee7ce2fe4908108c.png"
+        }
+    }
+}

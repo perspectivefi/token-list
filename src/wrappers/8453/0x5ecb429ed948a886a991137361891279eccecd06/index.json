@@ -1,0 +1,18 @@
+{
+    "address": "0x5EcB429ED948a886a991137361891279ECCeCd06",
+    "chainId": 8453,
+    "name": "Spectra ERC4626 Wrapper: Meta Platforms Inc.",
+    "symbol": "sw-METAc",
+    "decimals": 18,
+    "logoURI": "/images/tokens/8453/0xb2000000000000000000008bc8786b856e61707c.png",
+    "extensions": {
+        "vault": {
+            "address": "0xb2000000000000000000008bC8786B856E61707C",
+            "chainId": 8453,
+            "name": "Meta Platforms Inc.",
+            "symbol": "METAc",
+            "decimals": 8,
+            "logoURI": "/images/tokens/8453/0xb2000000000000000000008bc8786b856e61707c.png"
+        }
+    }
+}

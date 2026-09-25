@@ -4,10 +4,5 @@
     "name": "Meta Platforms Inc.",
     "symbol": "METAc",
     "decimals": 8,
-    "logoURI": "/images/tokens/8453/0xb2000000000000000000008bc8786b856e61707c.svg",
-    "extensions": {
-        "tags": [
-            "stock"
-        ]
-    }
+    "logoURI": "/images/tokens/8453/0xb2000000000000000000008bc8786b856e61707c.png"
 }

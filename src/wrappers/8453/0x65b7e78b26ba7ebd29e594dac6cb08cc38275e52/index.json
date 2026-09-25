@@ -1,0 +1,18 @@
+{
+    "address": "0x65b7e78B26ba7ebD29E594Dac6cb08cc38275E52",
+    "chainId": 8453,
+    "name": "Spectra ERC4626 Wrapper: Tesla Inc.",
+    "symbol": "sw-TSLAc",
+    "decimals": 18,
+    "logoURI": "/images/tokens/8453/0xb2000000000000000000001e800a7f5189430cd0.png",
+    "extensions": {
+        "vault": {
+            "chainId": 8453,
+            "address": "0xb2000000000000000000001e800a7f5189430cD0",
+            "symbol": "TSLAc",
+            "name": "Tesla Inc.",
+            "decimals": 8,
+            "logoURI": "/images/tokens/8453/0xb2000000000000000000001e800a7f5189430cd0.png"
+        }
+    }
+}

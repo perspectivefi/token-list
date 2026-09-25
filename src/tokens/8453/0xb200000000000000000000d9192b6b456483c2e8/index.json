@@ -4,5 +4,10 @@
     "symbol": "AMZNc",
     "name": "Amazon.com Inc.",
     "decimals": 8,
-    "logoURI": "/images/tokens/8453/0xb200000000000000000000d9192b6b456483c2e8.png"
+    "logoURI": "/images/tokens/8453/0xb200000000000000000000d9192b6b456483c2e8.png",
+    "extensions": {
+        "tags": [
+            "stock"
+        ]
+    }
 }

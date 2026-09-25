@@ -4,5 +4,10 @@
     "symbol": "TSLAc",
     "name": "Tesla Inc.",
     "decimals": 8,
-    "logoURI": "/images/tokens/8453/0xb2000000000000000000001e800a7f5189430cd0.png"
+    "logoURI": "/images/tokens/8453/0xb2000000000000000000001e800a7f5189430cd0.png",
+    "extensions": {
+        "tags": [
+            "stock"
+        ]
+    }
 }

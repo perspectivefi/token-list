@@ -4,10 +4,5 @@
     "name": "Microsoft Corporation",
     "symbol": "MSFTc",
     "decimals": 8,
-    "logoURI": "/images/tokens/8453/0xb200000000000000000000ab99cfa739e253872b.svg",
-    "extensions": {
-        "tags": [
-            "stock"
-        ]
-    }
+    "logoURI": "/images/tokens/8453/0xb200000000000000000000ab99cfa739e253872b.png"
 }

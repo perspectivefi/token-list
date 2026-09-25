@@ -1,0 +1,18 @@
+{
+    "address": "0xEe27a80a62CF4d2aFA517dB48E589909d113EcaB",
+    "chainId": 8453,
+    "name": "Spectra ERC4626 Wrapper: Amazon.com Inc.",
+    "symbol": "sw-AMZNc",
+    "decimals": 18,
+    "logoURI": "/images/tokens/8453/0xb200000000000000000000d9192b6b456483c2e8.png",
+    "extensions": {
+        "vault": {
+            "chainId": 8453,
+            "address": "0xb200000000000000000000d9192b6B456483C2E8",
+            "symbol": "AMZNc",
+            "name": "Amazon.com Inc.",
+            "decimals": 8,
+            "logoURI": "/images/tokens/8453/0xb200000000000000000000d9192b6b456483c2e8.png"
+        }
+    }
+}

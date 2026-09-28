@@ -61,6 +61,10 @@
                 "negativeYield": {
                     "type": "boolean"
                 },
+                "reported": {
+                    "type": "boolean",
+                    "description": "Reported by users (illiquid or insolvent vault, suspected hack...). The app warns on every market built on this token, directly or through a Spectra wrapper of it. Report-based, not an audit. Remove the key to lift the warning."
+                },
                 "tokenOut": {
                     "type": "string",
                     "pattern": "^0x[a-fA-F0-9]{40}$"

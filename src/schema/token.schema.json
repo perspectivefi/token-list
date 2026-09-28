@@ -63,7 +63,7 @@
                 },
                 "reported": {
                     "type": "boolean",
-                    "description": "Reported by users (illiquid or insolvent vault, suspected hack...). The app warns on every market built on this token, directly or through a Spectra wrapper of it. Report-based, not an audit. Remove the key to lift the warning."
+                    "description": "Reported by users (illiquid or insolvent vault, suspected hack...). Set it on the token's own entry, not inside a wrapper's extensions.vault: the app warns on every market built on the token, directly or through a Spectra wrapper of it. Report-based and non-exhaustive, not an audit. Remove the key to lift the warning."
                 },
                 "tokenOut": {
                     "type": "string",

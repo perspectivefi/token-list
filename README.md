@@ -82,6 +82,7 @@ We welcome contributions! Please follow the guidelines below for adding new toke
 | `protocol`    | string   | Associated protocol name                          |
 | `aprEndpoint` | string   | API endpoint for APR data                         |
 | `ibtRoutes`   | object   | Available IBT operations                          |
+| `reported`    | boolean  | Reported by users: the app warns on its markets   |
 
 #### Steps to Add a Token
 

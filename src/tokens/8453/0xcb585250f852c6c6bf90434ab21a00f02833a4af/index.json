@@ -1,0 +1,8 @@
+{
+  "chainId": 8453,
+  "address": "0xcb585250f852c6c6bf90434ab21a00f02833a4af",
+  "name": "Coinbase Wrapped XRP",
+  "symbol": "cbXRP",
+  "decimals": 6,
+  "logoURI": "/images/tokens/8453/0xcb585250f852c6c6bf90434ab21a00f02833a4af.png"
+}

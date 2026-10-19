@@ -1,0 +1,13 @@
+{
+    "address": "0xE78285A51f51916F2311B7017Db036D8351F3Cf9",
+    "chainId": 8453,
+    "name": "FARM_WETH",
+    "symbol": "fWETH",
+    "decimals": 18,
+    "logoURI": "/images/tokens/8453/0xe78285a51f51916f2311b7017db036d8351f3cf9.svg",
+    "extensions": {
+        "underlying": "0x4200000000000000000000000000000000000006",
+        "protocol": "Harvest | Looping",
+        "externalLink": "https://app.harvest.finance/base/0xE78285A51f51916F2311B7017Db036D8351F3Cf9"
+    }
+}

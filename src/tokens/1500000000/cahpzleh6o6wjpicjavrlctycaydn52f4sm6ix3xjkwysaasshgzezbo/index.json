@@ -14,7 +14,8 @@
             "symbol": "deJTRSY",
             "decimals": 18,
             "logoURI": "/images/tokens/1500000000/cbi7uch5kgsvqro5h4suczutzabcitzlrhqqztwl2tk4rz72tar6ihrv.png"
-        }
+        },
+        "yieldSourceId": "0x00010000000000040000000000000001"
     },
     "logoURI": "/images/tokens/1500000000/cahpzleh6o6wjpicjavrlctycaydn52f4sm6ix3xjkwysaasshgzezbo.png"
 }

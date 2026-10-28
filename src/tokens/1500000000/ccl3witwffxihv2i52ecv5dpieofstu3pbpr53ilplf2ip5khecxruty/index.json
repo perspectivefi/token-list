@@ -5,7 +5,8 @@
     "symbol": "earnUSDC",
     "decimals": 13,
     "extensions": {
-        "underlying": "CCW67TSZV3SSS2HXMBQ5JFGCKJNXKZM7UQUWUZPUTHXSTZLEO7SJMI75"
+        "underlying": "CCW67TSZV3SSS2HXMBQ5JFGCKJNXKZM7UQUWUZPUTHXSTZLEO7SJMI75",
+        "protocol": "Upshift"
     },
     "logoURI": "/images/tokens/1500000000/ccl3witwffxihv2i52ecv5dpieofstu3pbpr53ilplf2ip5khecxruty.svg"
 }

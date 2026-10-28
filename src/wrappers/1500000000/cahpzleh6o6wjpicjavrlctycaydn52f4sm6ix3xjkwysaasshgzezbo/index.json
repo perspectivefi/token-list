@@ -23,6 +23,7 @@
             "redeem": false,
             "wrap": true,
             "unwrap": true
-        }
+        },
+        "yieldSourceId": "0x00010000000000040000000000000001"
     }
 }

@@ -1,0 +1,10 @@
+{
+    "chainId": 999,
+    "address": "0x92fD6861Ea6f535976bE4Eed65cA79b2a4e28fa9",
+    "symbol": "wpUSDC",
+    "name": "Peaches USD",
+    "decimals": 6,
+    "extensions": {
+        "reported": true
+    }
+}

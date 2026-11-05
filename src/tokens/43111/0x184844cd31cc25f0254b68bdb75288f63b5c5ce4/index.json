@@ -1,0 +1,10 @@
+{
+    "chainId": 43111,
+    "address": "0x184844CD31CC25F0254b68Bdb75288F63b5c5Ce4",
+    "symbol": "wapUSDC",
+    "name": "Peaches USD",
+    "decimals": 6,
+    "extensions": {
+        "reported": true
+    }
+}

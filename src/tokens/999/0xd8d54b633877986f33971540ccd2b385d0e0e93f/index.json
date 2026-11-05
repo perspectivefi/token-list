@@ -1,0 +1,10 @@
+{
+    "chainId": 999,
+    "address": "0xD8d54B633877986F33971540cCD2B385d0e0e93f",
+    "symbol": "wpUSDT",
+    "name": "Peaches USDT",
+    "decimals": 6,
+    "extensions": {
+        "reported": true
+    }
+}

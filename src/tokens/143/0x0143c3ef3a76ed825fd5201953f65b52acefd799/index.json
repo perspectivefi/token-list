@@ -1,0 +1,11 @@
+{
+    "address": "0x0143c3ef3a76ed825fd5201953f65b52acefd799",
+    "chainId": 143,
+    "name": "K3 x Galaxy Lending",
+    "symbol": "gAUSD",
+    "decimals": 6,
+    "logoURI": "/images/tokens/143/0x0143c3ef3a76ed825fd5201953f65b52acefd799.svg",
+    "extensions": {
+        "underlying": "0x00000000eFE302BEAA2b3e6e1b18d08D69a9012a"
+    }
+}
